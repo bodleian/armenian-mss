@@ -1,0 +1,359 @@
+﻿<?oxygen RNGSchema="enrich-wamcp.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
+                <funder>JISC-??-</funder>
+                <principal>Gillian Evison</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+<addrLine>Department of Special Collections</addrLine>
+<addrLine>Bodleian Library</addrLine>
+<street>Broad Street</street>
+<settlement>Oxford</settlement>
+<postCode>OX1 3BG</postCode>
+<addrLine><ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library
+</ref></addrLine>
+<addrLine><email>oriental@bodleian.ox.ac.uk</email></addrLine>
+</address>
+                </pubPlace>
+                <idno>OCIMCO</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="OCIMCO" xml:lang="eng">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection type="main">Oriental Manuscripts <collection type="sub"/></collection>
+                        <idno>MS. Arm. f. 11</idno>
+                        <altIdentifier type="internal">
+                            <idno>B-C055</idno>
+                        </altIdentifier>
+                        <altIdentifier type="other">
+                            <idno>Catalogue p.115ff.</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Apocrypha of the O. and N.T. and Legends, A.D. 1651-1655.</summary>
+                        <msItem n="1" xml:id="a1">
+                            <locus>f. 1</locus>
+                            <title xml:lang="eng">Sections from N.T., esp. from Matthew.</title>
+                            <incipit></incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note></note>
+                        </msItem>
+                        <msItem n="2" xml:id="a2">
+                            <locus>f. 29</locus>
+                            <title xml:lang="eng">The 4th Book of Kings</title>
+                            <incipit></incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>By another hand.. The beginning lost as far as ch. i. 16, and the chapters iv.4-v.7, and xiii.36-xxiv.12.</note>
+                        </msItem>
+                        <msItem n="3" xml:id="a3">
+                            <locus>f. 86</locus>
+                            <title xml:lang="eng">Story of Rousianos the oeconomos</title>
+                            <incipit></incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note></note>
+                        </msItem>
+                        <msItem n="4" xml:id="a4">
+                            <locus>f. 89</locus>
+                            <title xml:lang="eng">History of John the Baptist, followed with the story of the transference f his head to Georgia, and hence in A.E. 700 (= 1252 A.D.) to the convent of Gandsasar, Albania.</title>
+                            <incipit></incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>In the margin is a picture of a head on a plate.</note>
+                        </msItem>
+                        <msItem n="5" xml:id="a5">
+                            <locus>f. 93</locus>
+                            <title xml:lang="eng">History of Melchisedek</title>
+                            <incipit>… լայր դառնապէս: Ասէ հայրն իմ ընդ մօրն իմոյ. ընդէ՞ր լաս …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>Lacks beginning. The writer notes at the end that his original was incomplete.</note>
+                        </msItem>
+                        <msItem n="6" xml:id="a6">
+                            <locus>f. 94</locus>
+                            <title xml:lang="eng">History of Joseph</title>
+                            <incipit>Իսկ Յակոբ ծնաւ ժ՟բ որդիս և յերտնածինն Յովսէփ էր …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>Cf. Brit. Mus. Harl. 5459, f. 20).</note>
+                        </msItem>
+                        <msItem n="7" xml:id="a7">
+                            <locus>f. 104(b)</locus>
+                            <title xml:lang="eng">History of the Captivity of Israel.</title>
+                            <incipit>Եւ  յետ Յովսեփայ բազմացան ազգն իսրայէլի …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>(Cf. Brit. Mus. Harl. 5459, f. 26.)</note>
+                        </msItem>
+                        <msItem n="8" xml:id="a8">
+                            <locus>f. 116(b)</locus>
+                            <title xml:lang="eng">History of the Ark of the Covenant.</title>
+                            <incipit>Յորժամ ժողովուրդն ասացին Մովսէսի …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>(Cf. Brit. Mus. Harl. 5459, f. 33)</note>
+                        </msItem>
+                        <msItem n="9" xml:id="a9">
+                            <locus>f. 122</locus>
+                            <title xml:lang="eng">The Birth of the Holy Virgin Mary</title>
+                            <incipit>Զի յորժամ ծնողքն ս՟բ Յովակին և Աննայն ծերացեալ էին …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>(Cf. Brit. Mus. Harl, 5459, f.38.)</note>
+                        </msItem>
+                        <msItem n="10" xml:id="a10">
+                            <locus>f. 127(b)</locus>
+                            <title xml:lang="eng">The Annunciation</title>
+                            <incipit>Եւ յետ վեց ամսոյ աւետեացն Զաքարիայի …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>(Cf. Brit. Mus. Harl 5459, f. 41.)</note>
+                        </msItem>
+                        <msItem n="11" xml:id="a11">
+                            <locus>f. 130(b)</locus>
+                            <title xml:lang="eng">The birth of John the Baptist</title>
+                            <incipit>Եւ ծնաւ Եղիսաբեթ զորդին իւր …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>(Cf. Brit. Mus. Harl. 5459, f. 45.)</note>
+                        </msItem>
+                        <msItem n="12" xml:id="a12">
+                            <locus>f. 131(b)</locus>
+                            <title xml:lang="eng">The birth and childhood of Jesus</title>
+                            <incipit>Իսկ յետ զ՟ ամսոյ աւետեացն Գաբրիէլի …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>(Cf. Brit. Mus. Harl. 5459, f. 46.)</note>
+                        </msItem>
+                        <msItem n="13" xml:id="a13">
+                            <locus>f. 148(b)</locus>
+                            <title xml:lang="eng">The advent of Christ in Herusalem, and Crucifixion</title>
+                            <incipit>Եւ ել ի Բեթանիայ դէպ ձԵրուսաղէմ …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>(Cf. Brit. Mus. Harl. 5459, f. 61(b).) After f. 150 there is a lacuna.</note>
+                        </msItem>
+                        <msItem n="14" xml:id="a14">
+                            <locus>f. 151(b)</locus>
+                            <title xml:lang="eng">Lament of Mary, in verse</title>
+                            <incipit>Ով սիրական իմ որդի, Սիրտս իմ այրեալ կըսկծի …</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note></note>
+                            <msItem n="15" xml:id="a15">
+                                <locus>f. 153</locus>
+                                <title xml:lang="eng">The incredulity of Thomas</title>
+                                <incipit>Սուրբ առաքեալն Թումայ, յորժամ որ զՔս ըմբռնեցին …</incipit>
+                                <textLang mainLang="hy">Armenian</textLang>
+                                <note>(Cf. Brit. Mus. Harl. 5459, f. 73.)</note>
+                            </msItem>
+                            <msItem n="16" xml:id="a16">
+                                <locus>f. 157(b)</locus>
+                                <title xml:lang="eng">The forty days after the Resurrection</title>
+                                <incipit>Իսկ յետ յարութեան զատկին մինչև ի խ՟ օր …</incipit>
+                                <textLang mainLang="hy">Armenian</textLang>
+                                <note></note>
+                                <msItem n="17" xml:id="a17">
+                                    <locus>f. 160</locus>
+                                    <title xml:lang="eng">Sermon on the departed, by Gregory of Tathev</title>
+                                    <incipit>Այսպէս ասէ երանելին Յոբ ի բերանոյ ննջեցելոց. Ողորմեցարուք …</incipit>
+                                    <textLang mainLang="hy">Armenian</textLang>
+                                    <note>Cf. MS. e. 14, and cp. Brit. Mus. Harl. 5459, f. 94(b).</note>
+                                </msItem>
+                                <msItem n="18" xml:id="a18">
+                                    <locus>f. 164</locus>
+                                    <title xml:lang="eng">Story of the merchants Markhas and Kosphar</title>
+                                    <incipit></incipit>
+                                    <textLang mainLang="hy">Armenian</textLang>
+                                    <note>Cf. MS. 30, §191; Brit. Mus. Harl. 5459, f. 97; W. Wright, 'Catal. of Syr. MSS.', p. 1128.</note>
+                                </msItem>
+                                <msItem n="19" xml:id="a19">
+                                    <locus>f. 168</locus>
+                                    <title xml:lang="eng">Story of the ascetic Kirakos and his sister Friday (Ուրբաթ)</title>
+                                    <incipit></incipit>
+                                    <textLang mainLang="hy">Armenian</textLang>
+                                    <note>Cf. MS. 30, §625; Lives of Fathers, MS> d. 17, ch. 4.</note>
+                                </msItem>
+                                <msItem n="20" xml:id="a20">
+                                    <locus>f. 172</locus>
+                                    <title xml:lang="eng">Story of Ter Stephanos, son of Ter Yousik</title>
+                                    <incipit></incipit>
+                                    <textLang mainLang="hy">Armenian</textLang>
+                                    <note>The end wanting. Cf. Brit. Mus.harl. 5459, f. 92.</note>
+                                </msItem>
+                                <msItem n="21" xml:id="a21">
+                                    <locus>f. 175</locus>
+                                    <title xml:lang="eng">Story of the forty youths of Sebaste</title>
+                                    <incipit>… հեշտ է մեզ քան զծածուկ հաւատ պահել …</incipit>
+                                    <textLang mainLang="hy">Armenian</textLang>
+                                    <note>The beginning and the end are lost. Cf. MS. 30, §156.</note>
+                                </msItem>
+                                <msItem n="22" xml:id="a22">
+                                    <locus>f. 179(b)</locus>
+                                    <title xml:lang="eng">Story of the three youts (of Daniel)</title>
+                                    <incipit>Ի ժամանակին որում գնաց Նաբուգոդոնոսոր արքայն յԵրուսաղէմ …</incipit>
+                                    <textLang mainLang="hy">Armenian</textLang>
+                                    <note>The end is wanting. By the first copyist.</note>
+                                </msItem>
+                                <msItem n="23" xml:id="a23">
+                                    <locus>f. 183</locus>
+                                    <title xml:lang="eng">The history andsayings of Khikar</title>
+                                    <incipit></incipit>
+                                    <textLang mainLang="hy">Armenian</textLang>
+                                    <note>Left incomplete at the 18th adage. Cf. MS. g. 9.</note>
+                                </msItem>
+                                <msItem n="24" xml:id="a24">
+                                    <locus>f. 188</locus>
+                                    <title xml:lang="eng">Christological Questions (seven in number) of unbelievers who say that Christ was merely a holy man, and Answers to them. An extract.</title>
+                                    <incipit>Յետ որոյ ս՟բ և ածաշունչ գրոց հաստատեցաք … Որք ասեն թէ միայն ս՟բ մարդ է Քրիստոս …</incipit>
+                                    <textLang mainLang="hy">Armenian</textLang>
+                                    <note></note>
+                                </msItem>
+                            </msItem>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="vellum">
+                                <extent>
+                                    <dimensions type="leaf" unit="in">
+                                        <height>5.25"</height>
+                                        <width>4"</width>
+                                        <depth>2"</depth>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1">
+                                    <locus/>
+                                    <dimensions type="line-height" unit="mm">
+                                        <height/>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="major" script="Bolorgir"></handNote>
+                        </handDesc>
+                        <additions></additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <date calendar="Gregorian">1651-1655</date>
+                            <date calendar="Armenian"></date>
+                        </origin>
+                        <provenance/>
+                        <acquisition></acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>Manuscript description based on: Baronian, Sukias, Rev.; 
+                                        Conybeare, F. C. (Frederick Cornwallis); 
+                                        Catalogue of the Armenian manuscripts in the Bodleain Library;  
+                                        Oxford, at the Clarendon Press 1918</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref
+                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                                        >Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="local_class">
+                    <category xml:id="commentary">
+                        <catDesc>Commentary</catDesc>
+                    </category>
+                    <category xml:id="supercommentary">
+                        <catDesc>Supercommentary</catDesc>
+                    </category>
+                    <category xml:id="indices">
+                        <catDesc>Indices</catDesc>
+                    </category>
+                    <category xml:id="translation">
+                        <catDesc>Translation</catDesc>
+                    </category>
+                    <category xml:id="multipleWorks">
+                        <catDesc>multipleWorks</catDesc>
+                    </category>
+                    <category xml:id="abridgement">
+                        <catDesc>Abridgement</catDesc>
+                    </category>
+                    <category xml:id="supplement">
+                        <catDesc>Supplement</catDesc>
+                    </category>
+                    <category xml:id="papers">
+                        <catDesc>Papers</catDesc>
+                    </category>
+                    <category xml:id="documents">
+                        <catDesc>Documents</catDesc>
+                    </category>
+                    <category xml:id="extract">
+                        <catDesc>Extract</catDesc>
+                    </category>
+                    <category xml:id="gloss">
+                        <catDesc>Gloss</catDesc>
+                    </category>
+                    <category xml:id="selection">
+                        <catDesc>Selection</catDesc>
+                    </category>
+                    <category xml:id="diagrams">
+                        <catDesc>Diagrams</catDesc>
+                    </category>
+                    <category xml:id="notes">
+                        <catDesc>Notes</catDesc>
+                    </category>
+                    <category xml:id="letters">
+                        <catDesc>Letters</catDesc>
+                    </category>
+                    <category xml:id="versification">
+                        <catDesc>Versification</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item><ref target="http://id.loc.gov/authorities/names/n81065639">Bible. O.T. Apocrypha</ref>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2012-04-23">
+                <persName>Robin Meyer</persName>
+            </change>
+            <!-- Your revisionDesc should include information concerning major changes to the electronic file.  Replace the above with something more suitable. -->
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <!-- facsimile information about the manuscript -->
+        <graphic url="cat_pdf/p115.pdf"/>
+        <graphic url="cat_pdf/p117.pdf"/>
+        <!-- Alternatively you could provide 'surface' elements with more than one image per surface, and optionally with 'zone' elements to give coordinates for any special areas of interest -->
+    </facsimile>
+    <text>
+        <body>
+            <!-- If you had a transcription of the manuscript you would put it here -->
+            <p/>
+        </body>
+    </text>
+</TEI>

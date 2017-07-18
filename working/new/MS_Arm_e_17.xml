@@ -1,0 +1,641 @@
+﻿<?oxygen RNGSchema="enrich-wamcp.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
+                <funder>JISC-??-</funder>
+                <principal>Gillian Evison</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+<addrLine>Department of Special Collections</addrLine>
+<addrLine>Bodleian Library</addrLine>
+<street>Broad Street</street>
+<settlement>Oxford</settlement>
+<postCode>OX1 3BG</postCode>
+<addrLine><ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library
+</ref></addrLine>
+<addrLine><email>oriental@bodleian.ox.ac.uk</email></addrLine>
+</address>
+                </pubPlace>
+                <idno>OCIMCO</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="OCIMCO" xml:lang="eng">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection type="main">Oriental Manuscripts <collection type="sub"/></collection>
+                        <idno>MS. Arm. e. 17</idno>
+                        <altIdentifier type="internal">
+                            <idno>B-C084</idno>
+                        </altIdentifier>
+                        <altIdentifier type="other">
+                            <idno>Catalogue p.184ff.</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Commentary on Liturgical Lessons, A.D. 1707.</summary>
+                        <msItem n="1" xml:id="a1">
+                            <locus>1</locus>
+                            <title xml:lang="en">Reason of feasting the Epiphany and the Birth of the Lord on 6th of January.</title>
+                            <title xml:lang="hy">Սուրբ վարդապետաց ասացեալ վասն յայտնութեան և ծննդեան Տն՟ … ընդդէմ երկաբնակաց …</title>
+                            <incipit>Յորժամ կամիցի շինուածս ոք հաստատել …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="2" xml:id="a2">
+                            <locus>3</locus>
+                            <title xml:lang="en">Reason of feasting the Epiphany and the Birth of the Lord on 6th of January; a quotation pertintent to the preceding article , from the Church History of Sarkavag Vardapet.</title>
+                            <title xml:lang="hy">Յեկեղեցական պատմութենէ, զոր երկրորդեալ է Սարկաւագ վարդապետո.</title>
+                            <incipit>Իյարութենէն Քի՟ ,ոմչև ցԲեկտոր Հռոմայեցւոց եպիսկոպոսն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="3" xml:id="a3">
+                            <locus>5</locus>
+                            <title xml:lang="en">Reason of feasting the Epiphany and the Birth of the Lord on 6th of January; taken from Samuel (of Kameradjatzor), Paulos (of Taron?) and other vardapets.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Արդ բազումք ի վարդապետաց եկեղեցւոյ վասն խնրոյս ասորիկ …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="4" xml:id="a4">
+                            <locus>6(b)</locus>
+                            <title xml:lang="en">On the meaning of the lighting of candles (Ճրագալոյց) on Chistmas Eve.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Հայրն ա՟ծաբանութեան Գրիգորիոս ասէ …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="5" xml:id="a5">
+                            <locus>7</locus>
+                            <title xml:lang="en">Explanation of the rubrics and lessons of Jan. 5</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="6" xml:id="a6">
+                            <locus>14(b)</locus>
+                            <title xml:lang="en">On seven days of Creation, referring to the 1st chapter of Genesis, being the first lesson of the Christmas Eve.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Յառաջին աւուր արարչութե՟ն ասաց ա՟ծ/ Եղիցի լոյս …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="7" xml:id="a7">
+                            <locus>33(b)</locus>
+                            <title xml:lang="en">On the feast of the Circumcision, being the 8th day of the Theophany.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Եւ զկնի եւթներորդոյն հանգիստ յերկնից արքայութիւնն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="8" xml:id="a8">
+                            <locus>37</locus>
+                            <title xml:lang="en">Why Theophany is followed  by the Church feasts in memory of Peter and Abisolom at Alexandria, the Great Anthony and the Emperor Theodosius (I).</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Այսպէս ուսաք յաւանդութենէ …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="9" xml:id="a9">
+                            <locus>38(b)</locus>
+                            <title xml:lang="en">On the feast of the Presentation in the Temple and its rubrics.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Պարտ է գիտել վասբ Սիմէովնի…</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="10" xml:id="a10">
+                            <locus>45(b)</locus>
+                            <title xml:lang="en">Reason of the Aradschavor fast.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Բազում պատճառք եբ յառաջաւոր պահոցն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="11" xml:id="a11">
+                            <locus>49(b)</locus>
+                            <title xml:lang="en">Reason of the Quadragesimal fast.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Մերձեալէ արքայութիւն ա՟յ</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="12" xml:id="a12">
+                            <locus>51</locus>
+                            <title xml:lang="en">Commentary on the Catechetical lessons, being the texts of the Catechetical sermons of St. Cyril of Jerusalem, and on the Lessons of the six weeks of Lent.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Ամենայաղթ ս՟բ նշանն փայլեաց …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="13" xml:id="a13">
+                            <locus>59</locus>
+                            <title xml:lang="en">Reason of the Wednesday and Friday Lections.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="14" xml:id="a14">
+                            <locus>146</locus>
+                            <title xml:lang="en">Homily of Chrysostom on the textL 'The hand of the Lord was upon me, and the Sprit of the Lord drove me forth'.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="15" xml:id="a15">
+                            <locus>132(b)</locus>
+                            <title xml:lang="en">On the raising of Lazarus (the eve of Palm Sunday), being a commenary of the chap. Xi. Of John, compiled from Chrysostom, Ephrem, Stephanos of Siunik, Mambre, Marcus.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="16" xml:id="a16">
+                            <locus>140(b)</locus>
+                            <title xml:lang="en">On Palm Sunday.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="17" xml:id="a17">
+                            <locus>156(b)</locus>
+                            <title xml:lang="en">On the mystery of each day of the Passion Week.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="18" xml:id="a18">
+                            <locus>214(b)</locus>
+                            <title xml:lang="en">On the Burial of the Lord, by Theophilus, disciple of John Chrysostom.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Նոր Երկինք այսօր յերկրի հաստատեցաւ …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="19" xml:id="a19">
+                            <locus>219</locus>
+                            <title xml:lang="en">On the mystery of the lighting of candles at Easter Eve.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Արդ զպատիւ աւուրս բազմայեղանակ բանիւք …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="20" xml:id="a20">
+                            <locus>219(b)</locus>
+                            <title xml:lang="en">Commentary on the twelve lessons of Easter Eve service.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="21" xml:id="a21">
+                            <locus>229</locus>
+                            <title xml:lang="en">On Easter Day.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Յակովբ յորժամ կամեցաւ զխաչինս զատելի նորոգումն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="22" xml:id="a22">
+                            <locus>233</locus>
+                            <title xml:lang="en">Low Sunday (Նոր կիրակի).</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Նաւակատիք ասի, այսինքն նորոգումն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="23" xml:id="a23">
+                            <locus>238</locus>
+                            <title xml:lang="en">The mystery of the Sabbath Day.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Յիշեսջիր դու, ասէ, զաւրն շաբաթ …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="24" xml:id="a24">
+                            <locus>241</locus>
+                            <title xml:lang="en">The meaning of the fifty days' fasting and mourning.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Յորժամ յա՟յ մոլորեցան մարդիկ …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="25" xml:id="a25">
+                            <locus>243</locus>
+                            <title xml:lang="en">The meaning of the fifty days' neither fasting nor kneeling.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>ցուցանէ ,եզ գարնանային ժամանակս …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="26" xml:id="a26">
+                            <locus>243(b)</locus>
+                            <title xml:lang="en">On the Ascension</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="27" xml:id="a27">
+                            <locus>253</locus>
+                            <title xml:lang="en">The Sunday after Ascension</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="28" xml:id="a28">
+                            <locus>255</locus>
+                            <title xml:lang="en">Pentecost Day</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="29" xml:id="a29">
+                            <locus>261(b)</locus>
+                            <title xml:lang="en">Rationale of the canonical hours, from the night office up to the Liturgy, by Stephanos of Siunik.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Որպէս նեղեալ ոք ի չար թշնամեաց …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="30" xml:id="a30">
+                            <locus>268</locus>
+                            <title xml:lang="en">The feast of the Commemoration of the Ark of the Covenant, under the same title.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="31" xml:id="a31">
+                            <locus>268(b)</locus>
+                            <title xml:lang="en">On the three forty day's fasts, with Dedication feasts (Նաւակատիքս).</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Նաւակատիքս բարձրագոյն խորհուրդ տեսանի …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="32" xml:id="a32">
+                            <locus>269</locus>
+                            <title xml:lang="en">On the feast of Transfiguration (Վարդավառ) and its lessons.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Վասն է՞ր Յակոբ մեծն, որ եղբայր տ՟ն կոչեցաւ, և ոչ կիւրեղ ե՟մի հայրապետն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="33" xml:id="a33">
+                            <locus>281(b)</locus>
+                            <title xml:lang="en">On the mystery of the Church.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Նաւ է եկեղեցի, նաւապետ Հայր …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="34" xml:id="a34">
+                            <locus>291</locus>
+                            <title xml:lang="en">Dedication of the author's work to the Patrician Vahan Kamsarakan.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>զհարկ բանիս զոր պահանջեցեր յինէն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="35" xml:id="a35">
+                            <locus>291(b)</locus>
+                            <title xml:lang="en">ա՟ - ժա՟. On the connection of the feasts of Theophany and Easter.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>ա՟. Բայց նախ զայս գիտասցես, քադ բանասիրաց …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="36" xml:id="a36">
+                            <locus>295</locus>
+                            <title xml:lang="en">Connection of Epiphany and Easter.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="37" xml:id="a37">
+                            <locus>299(b)</locus>
+                            <title xml:lang="en">Why lessons are excluded n the fast days of Aradschavorq.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>ժբ՟. Իսկ երկրորդ անգամ զնախահօրն փրկութիւն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="38" xml:id="a38">
+                            <locus>300</locus>
+                            <title xml:lang="en">Meaning of Quadragesimal fast.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>ժգ՟. Իսկ քառասիյբ յոլով ունի խորհուրդ յինքեան …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="39" xml:id="a39">
+                            <locus>301</locus>
+                            <title xml:lang="en">Upon Wednesdays and Fridays in the seven weeks of Lent</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="40" xml:id="a40">
+                            <locus>302</locus>
+                            <title xml:lang="en">On the lessons of the Wednesdays and Fridays in Lent.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>ժգ՟ - իէ՟. Պատշաճէր յայսմ վայրի նախ երախայիցն ի գիր անկելոց զընթերցուածն յիշատակել …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="41" xml:id="a41">
+                            <locus>318(b)</locus>
+                            <title xml:lang="en">On the lessons and rubrics of the Holy (Passion) Week</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="42" xml:id="a42">
+                            <locus>327(b)</locus>
+                            <title xml:lang="en">On the mystery of the lighting of candles (ճրագալոյց).</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>լբ՟. Իսկ շաբաթօր երիկունն ի սբ՟ զատկին, նախ հանեն զհանդերձ սգոյ …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="43" xml:id="a43">
+                            <locus>330</locus>
+                            <title xml:lang="en">On the dedication feast (Նաւակատիք) of Low Sunday.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>լգ՟. Եւ զորօրինակ ի սկզբանն պատմեցի թէ սիւթական աշխարհս …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="44" xml:id="a44">
+                            <locus>331</locus>
+                            <title xml:lang="en">To the patron of this book (Vahan the Patrician).</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>լդ՟. Եւ արդ վասն զի ուղևորեցաք առ տէր … լե՟. ո՛վ անձն մեծախորհուրդ և զարմանալիդ հանճարով …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="45" xml:id="a45">
+                            <locus>334</locus>
+                            <title xml:lang="en">Commentary on the Lessons of Lent.</title>
+                            <title xml:lang="hy">լզ՟. Նեկնութիւն,ընթերցուածոց.թէ յումմէ՝ եդաւ, …</title>
+                            <incipit>Արդ երանելի եղբայր տեառն Յակոբոս զառաջին շաբաթն ոչ պնդեաց …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="46" xml:id="a46">
+                            <locus>348</locus>
+                            <title xml:lang="en">On the raising of Lazarus.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>խդ՟. Ղազարու մեռելութիւնն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="47" xml:id="a47">
+                            <locus>349(b)</locus>
+                            <title xml:lang="en"> On the Coming of the Saviour into Jerusalem (Palm Sunday).</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>խե՟. Աւուրս տօնախմբութիւն զերկոցունց …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="48" xml:id="a48">
+                            <locus>350(b)</locus>
+                            <title xml:lang="en">On the Great (Աւագ)Monday, - the lesson of the fig-tree.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="49" xml:id="a49">
+                            <locus>351(b)</locus>
+                            <title xml:lang="en">On the Great Tuesday, - the lesson of Noah.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="50" xml:id="a50">
+                            <locus>353(b)</locus>
+                            <title xml:lang="en">On the Great Wednesday.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="51" xml:id="a51">
+                            <locus>355(b)</locus>
+                            <title xml:lang="en">On the Great Thursday, - the Pascha and washing of feet.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="52" xml:id="a52">
+                            <locus>358(b)</locus>
+                            <title xml:lang="en">Why we officiate the evening prayer on Chirstmas Eve, and not on Easter Eve.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="53" xml:id="a53">
+                            <locus>359</locus>
+                            <title xml:lang="en">Meaning of Easter (զատիկ).</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>ծա՟. Յակոբ յորժամ կամեցաւ խաշինսն զատել ի միմեանց …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="54" xml:id="a54">
+                            <locus>360</locus>
+                            <title xml:lang="en">Why the Low Sunday is called New Sunday (Նոր կիրակի) and Dedication Feast (Նաւակատիք).</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="55" xml:id="a55">
+                            <locus>360(b)</locus>
+                            <title xml:lang="en">On the Pentecost.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="56" xml:id="a56">
+                            <locus>361</locus>
+                            <title xml:lang="en">Meanind of fifty days of Pentecosttide.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="57" xml:id="a57">
+                            <locus>362(b)</locus>
+                            <title xml:lang="en">Meaning of the commemoration of the Ark of the Covenant.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="58" xml:id="a58">
+                            <locus>364(b)</locus>
+                            <title xml:lang="en">On the Transfiguration (Vardavar) and on its lessons.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="59" xml:id="a59">
+                            <locus>366(b)</locus>
+                            <title xml:lang="en">On the Assumption of Holy Virgin.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="60" xml:id="a60">
+                            <locus>367(b)</locus>
+                            <title xml:lang="en">Why the construction of Noah's Ark lasted one hundred years.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="61" xml:id="a61">
+                            <locus>367</locus>
+                            <title xml:lang="en">Meaning ot the Presentation of Lord in the Temple.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit></incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="62" xml:id="a62">
+                            <locus>368</locus>
+                            <title xml:lang="en">On the Quadragesimal fast.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>կ՟. Վասն բարձրագոյն և երկայնագոյն ասելոց և գրելոց …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="63" xml:id="a63">
+                            <locus>374(b)</locus>
+                            <title xml:lang="en">On the finding of the relics of St. Stephen.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Որպէս ի գործս առաքելոցն պատմի և ասի, ոմանք խնդրեցին յառաքելոցն զմարմին երանելոյն …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+<msItem n="64" xml:id="a64">
+                            <locus>376</locus>
+                            <title xml:lang="en">How these (the relics of St. Stephen) were transferred from Jerusalem to Constantinople.</title>
+                            <title xml:lang="hy"></title>
+                            <incipit>Արդ իբրեւ անցին ամք եօթն շինուացոյ տաճարին …</incipit>
+<textLang mainLang="hy">Armenian</textLang>
+</msItem>
+
+
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <extent>
+                                    <dimensions type="leaf" unit="in">
+                                        <height>8.75"</height>
+                                        <width>6.5"</width>
+                                        <depth>2.5</depth>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1">
+                                    <locus/>
+                                    <dimensions type="line-height" unit="mm">
+                                        <height/>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="major" script="Notrgir"></handNote>
+                        </handDesc>
+                        <additions></additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <date calendar="Gregorian">1707</date>
+                            <date calendar="Armenian"></date>
+                        </origin>
+                        <provenance/>
+                        <acquisition></acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>Manuscript description based on: Baronian, Sukias, Rev.; 
+                                        Conybeare, F. C. (Frederick Cornwallis); 
+                                        Catalogue of the Armenian manuscripts in the Bodleain Library;  
+                                        Oxford, at the Clarendon Press 1918</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref
+                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                                        >Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="local_class">
+                    <category xml:id="commentary">
+                        <catDesc>Commentary</catDesc>
+                    </category>
+                    <category xml:id="supercommentary">
+                        <catDesc>Supercommentary</catDesc>
+                    </category>
+                    <category xml:id="indices">
+                        <catDesc>Indices</catDesc>
+                    </category>
+                    <category xml:id="translation">
+                        <catDesc>Translation</catDesc>
+                    </category>
+                    <category xml:id="multipleWorks">
+                        <catDesc>multipleWorks</catDesc>
+                    </category>
+                    <category xml:id="abridgement">
+                        <catDesc>Abridgement</catDesc>
+                    </category>
+                    <category xml:id="supplement">
+                        <catDesc>Supplement</catDesc>
+                    </category>
+                    <category xml:id="papers">
+                        <catDesc>Papers</catDesc>
+                    </category>
+                    <category xml:id="documents">
+                        <catDesc>Documents</catDesc>
+                    </category>
+                    <category xml:id="extract">
+                        <catDesc>Extract</catDesc>
+                    </category>
+                    <category xml:id="gloss">
+                        <catDesc>Gloss</catDesc>
+                    </category>
+                    <category xml:id="selection">
+                        <catDesc>Selection</catDesc>
+                    </category>
+                    <category xml:id="diagrams">
+                        <catDesc>Diagrams</catDesc>
+                    </category>
+                    <category xml:id="notes">
+                        <catDesc>Notes</catDesc>
+                    </category>
+                    <category xml:id="letters">
+                        <catDesc>Letters</catDesc>
+                    </category>
+                    <category xml:id="versification">
+                        <catDesc>Versification</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item><ref target="http://id.loc.gov/authorities/sh2002011417#concept">Liturgy</ref></item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2012-09-24">
+                <persName>Robin Meyer</persName>
+            </change>
+            <!-- Your revisionDesc should include information concerning major changes to the electronic file.  Replace the above with something more suitable. -->
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <!-- facsimile information about the manuscript -->
+        <graphic url="cat_pdf/p183.pdf"/>
+        <graphic url="cat_pdf/p185.pdf"/>
+        <graphic url="cat_pdf/p187.pdf"/>
+        <!-- Alternatively you could provide 'surface' elements with more than one image per surface, and optionally with 'zone' elements to give coordinates for any special areas of interest -->
+    </facsimile>
+    <text>
+        <body>
+            <!-- If you had a transcription of the manuscript you would put it here -->
+            <p/>
+        </body>
+    </text>
+</TEI>

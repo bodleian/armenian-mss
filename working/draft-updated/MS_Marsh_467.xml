@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_114">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
+                <funder>JISC-??-</funder>
+                <principal>Gillian Evison</principal>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <publisher>Bodleian Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library
+</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+                </pubPlace>
+                <idno>OCIMCO</idno>
+            <idno type="msID">MS_Marsh_467</idno>
+            <idno type="catalogue">Armenian</idno>
+         </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="MS_Marsh_467" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection type="main">Oriental Manuscripts <collection type="sub"/>
+                  </collection>
+                        <idno>MS. Marsh 467</idno>
+                        <altIdentifier type="internal">
+                            <idno>B-C040</idno>
+                        </altIdentifier>
+                        <altIdentifier type="other">
+                            <idno>Catalogue p.81ff.</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Theological tracts, 17th cent.</summary>
+                        <msItem xml:id="MS_Marsh_467-item1" n="1">
+                            <locus>f. 1(b)</locus>
+                            <title xml:lang="en">Table of contentes from the 1st to the 7th article.</title>
+                            <title xml:lang="xcl-Latn-x-hmb"/>
+                            <incipit/>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item2" n="2">
+                            <locus>f. 4</locus>
+                            <author>
+                                Shnorhali,
+                                    Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                        1173</date>
+                                Šnorhali, Nersēs
+                            </author>
+                            <title xml:lang="xcl-Latn-x-lc">Encyclical letter of Nerses IV Shnorhali, catholics of the Armenians, 1166 A.D.</title>
+                            <title xml:lang="xcl-Latn-x-hmb">Թուղթ ընդհանրական</title>
+                            <incipit/>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item3" n="3">
+                            <locus>f. 76(b)</locus>
+                            <author>
+                                
+                            </author>
+                            <title xml:lang="xcl-Latn-x-lc">Chapters 7-9 of the Letter of Gregory III</title>
+                            <title xml:lang="xcl-Latn-x-hmb"/>
+                            <incipit/>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>See article No. 9 in this MS.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item4" n="4">
+                            <locus>f. 89(b)</locus>
+                            <author>
+                                Grigor II, Catholicos of Armenia, <date calendar="Gregorian" from="1066" to="1105">1066-1105</date>
+                            </author>
+                            <title xml:lang="en">Letter of the catholicos Gregory II, Vcayaser (Martyrophilus), t the Armenians, in which he exhorts them to hold fast their computation of Easter (in 1102).</title>
+                            <title xml:lang="hy">Սրբոյն Գրիգորի Հայոց վերադիտողի Վկայասիրի Բան յորդորական վասն մոլորման զատկին.</title>
+                            <incipit>Ի թուականութեան Հայոց շ՟լա՟ (շ՟ծա՟) ի սուրբ զատկէն մորոեցան ժ՟ ազգք հաւատացելոց, եւ Հայք եւ Ասորիք միայն մնացին...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>This is an extract from mattheos Ourhayetzi, c.175.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item5" n="5">
+                            <locus>f. 91(b)</locus>
+                            <title xml:lang="en">A defence of the Armenian church in its use of the unmixed chalice and unleavened bread.</title>
+                            <title xml:lang="xcl-Latn-x-hmb">Կարգաւորութիւն ս՟բ եւ ուղղափառ Հայաստանեայց եկէղէցւոյ որով յամութ առնէ զհերձուածողսն</title>
+                            <incipit>Սուրբն Լուսաւորիչ Գրիգորիոս Հայաստանեայց զոր ինչ եգիտ կարգ եւ կանովնադրութիւնս ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item6" n="6">
+                            <locus>f. 92</locus>
+                            <title xml:lang="en">A warning against eating unclean meat</title>
+                            <title xml:lang="hy">Պաճէն որով զորովայնամոլ արբեցաւղսն յամաւթ առնես</title>
+                            <incipit>Որք ծառայեն որովայնի եւ հակառակ են ա՟ծեղէմ գրոց ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item7" n="7">
+                            <locus>f. 93(b)</locus>
+                            <title xml:lang="en">Chapters 4-6 of the Letter of Gregory III</title>
+                            <incipit/>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>See the 9th article below.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item8" n="8">
+                            <locus>f. 98(b)</locus>
+                            <title xml:lang="en">Table of contents of the remaineder of this volume.</title>
+                            <incipit/>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item9" n="9">
+                            <locus>f. 100</locus>
+                            <author>Shnorhali,
+                                Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                    1173</date>
+                                Šnorhali, Nersēs</author>
+                            <title xml:lang="en">Chapters 1-3 of the Letter of Gregory III, catholicos, to the Armenian priests of Amayk in Upper Mesopotamia, composed for him by his brother Nerses Shnorhali.</title>
+                            <incipit>Որ թէպէտ եւ տէրունական հրամանն յորդորէ ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item10" n="10">
+                            <locus>f. 127(b)</locus>
+                            <author>
+                                Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198"> 1153-1198</date>
+                                
+                            </author>
+                            <title xml:lang="en">Letter from Nerses of Lambron, archibishop of Tasus, to Yousic (= Hesychios) the hermit in Antioch.</title>
+                            <title xml:lang="hy">Թուղթ Ներսեսի արքեպ՟ի Կիլիկէցւոյ Տարսոնի. Պատասխանի Յուսական արգելական ճգնաւորի ի մեծն Անտիոք, յորում լուծանէ զհարցումն կղերիկոսացն Անտիոքու. եւ վս՟ որ ի Հայք ա՟ծային շնորհի ճշմարտութե՟ ի վր՟քահանայական կարգի ...</title>
+                            <incipit>Գիր քոյոյ պատուականութեանդ ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>A defence of the validity of the orders of the Armenian church, which the clergy of Antioch had put in question.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item11" n="11">
+                            <locus>f. 139(b)</locus>
+                            <author>
+                                Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198"> 1153-1198</date>
+                                
+                            </author>
+                            <title xml:lang="en">Extract from the discourse of the same wiht the Emperir and the Greek oatruarch of Constantinople, to whom he was sent by Leion I, king of the Armenians, in 1197, as deputy, on some of the questions on which the Armenian church differed from the Greek.</title>
+                            <title xml:lang="hy">Տն՟ Ներսեսի արքէպ՟ի Տարսոնի Կիւղիկեցւոյշ յորժամ չոգաւ դեսպանուեամբ ի թգ՟էն Հայոց մեծաց Լեւոնէ ի Կոստանդնուպօլիս: Հարցումն պատրիարգին եւ պտ՟խի Ներսեսի.</title>
+                            <incipit/>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>Իբրեւ յառաջեաց ս՟բն Ներսէս առաջի թագաւորին Յունաց...</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item12" n="12">
+                            <locus>f. 145(b)</locus>
+                            <author>Shnorhali,
+                                Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                    1173</date>
+                                Šnorhali, Nersēs</author>
+                            <title xml:lang="en">Discourse of nerses Shonrhali, catholicos, at his consecration by his borther Gregory III, on Pam Sunday (in the year 1166)</title>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item13" n="13">
+                            <locus>f. 156</locus>
+                            <author>Shnorhali,
+                                Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                    1173</date>
+                                Šnorhali, Nersēs</author>
+                            <title xml:lang="en">Reply of the same to Michael, patriarch of Syria</title>
+                            <incipit>Զզուարթուն եւ զարիագոյն հովուապետ ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item14" n="14">
+                            <locus>f. 157(b)</locus>
+                            <author>Shnorhali,
+                                Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                    1173</date>
+                                Šnorhali, Nersēs</author>
+                            <title xml:lang="en">Letter from the same to Paul the priest, who had joined the Greek church and calumniated the Armenian church</title>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item15" n="15">
+                            <locus>f. 159(b)</locus>
+                            <author>Shnorhali,
+                                Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                    1173</date>
+                                Šnorhali, Nersēs</author>
+                            <title xml:lang="en">Encyclical from the same to the Armenian priests and vardapets giving notice on the subject of th impending general council for effecting an union with the Greek church</title>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item16" n="16">
+                            <locus>ff. 161-239(b)</locus>
+                            <author>
+                                Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198"> 1153-1198</date>
+                                </author>
+                            <title xml:lang="en">Acts and correspondence exchanged between the Greeks and Armenisn (1165-1180), on the subject of an unvion of the two churches.</title>
+                            <title xml:lang="hy">Պատճառ խնդրոյ միաբանութեան</title>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>This is a compliation with historical notes drawn up by Nerses Lambronatzi, as attested by the colophon of a Paris MS.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item17" n="17">
+                            <locus>f. 240(b)</locus>
+                            <author>Shnorhali,
+                                Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                    1173</date>
+                                Šnorhali, Nersēs</author>
+                            <title xml:lang="en">Reply of Nerses Shnorhali to Iacob, a Syrian vardapet of Melitene, in Lesser Armenia.</title>
+                            <incipit>Ի զգալի դիտաւորութիւն գրաւորական</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item18" n="18">
+                            <locus>f. 251</locus>
+                            <author>Shnorhali,
+                                Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                    1173</date>
+                                Šnorhali, Nersēs</author>
+                            <title xml:lang="en">Three letters from the same in reply to the letters of an anonymous 'impertinent'</title>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item19" n="19">
+                            <locus>f. 256</locus>
+                            <author>Shnorhali,
+                                Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                    1173</date>
+                                Šnorhali, Nersēs</author>
+                            <title xml:lang="en">Three letters from the same to George vardapet</title>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item20" n="20">
+                            <locus>f. 257(b)</locus>
+                            <author>Shnorhali,
+                                Nersēs, <date calendar="Gregorian" from="1102" to="1173">1102 -
+                                    1173</date>
+                                Šnorhali, Nersēs</author>
+                            <title xml:lang="en">Title and first few lines only of an Encyclical letter from the same to the inhabitants of Kars and the neighbourhood, on the election of their bishop Khatchadoor (not mentioned in the table of contents)</title>
+                            <incipit/>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item21" n="21">
+                            <locus>f. 258</locus>
+                            <author>
+                                Esayi vardabet
+                            </author>
+                            <title xml:lang="en">Letter of Esayi vardabet (the Netchetzi), being an answer to the Encyclical letter drawn up by the catholicos, Constantin II, and put in circulation later, on the decision of the general council of Sis in 1307, in which the Armenians were advised to suppress some of their rites and customs (in order to please Rome).</title>
+                            <title xml:lang="hy">Եսայայ վարդապետի վասն մոլորման զատկին</title>
+                            <incipit>Եւ արդ ս՟բ հաւրս այսոքիկ բանք եւ այսպիսի սպառնալիք ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item22" n="22">
+                            <locus>f. 271(b)</locus>
+                            <title xml:lang="en">On the council of Ephesis</title>
+                            <title xml:lang="hy">Վս՟ Եփեսոսի երկրորդ ժողովոյն</title>
+                            <incipit>Երկրորդ ժողովն Եփեսոսի վասն Փլաբիանոսի եւ վասն Եւտիքի եղեւ զի միմեանց հակառակ ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item23" n="23">
+                            <locus>f. 273</locus>
+                            <title xml:lang="en">On the council of Chalcedon</title>
+                            <title xml:lang="hy">Յաղագս Քաղկեդոնի ժողովոյն</title>
+                            <incipit>Ժողովն Քաղկեդոնի շինելով չարապէս ի վր՟ հիման Նէստորի ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item24" n="24">
+                            <locus>f. 275(b)</locus>
+                            <title xml:lang="en">On the two natures of Christ</title>
+                            <title xml:lang="hy">Այլուստ առ այս</title>
+                            <incipit>Հարցից ցքէզ որ երկու բնուփիւն սահմանես ի քս՟. երկու բնութի՟  երկրապագէլիս՞ թէ ոչ</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item25" n="25">
+                            <locus>f. 277</locus>
+                            <title xml:lang="en">On the unmixed chalice</title>
+                            <title xml:lang="hy">Ընդդէմ այնոցիկ որ ընդդէմ բաժակին մոլին</title>
+                            <incipit>Բաժակն օրհնոըթեան զոր օրհնէմք ասէ առաքեալ</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>An extract.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item26" n="26">
+                            <locus>f. 284(b)</locus>
+                            <title xml:lang="en">On the same subject, written in 1309 A.D.</title>
+                            <title xml:lang="hy">Ընդդիմաբանութիւն սակս ջրոյն խառնման ի ս՟բ խորհուրդն ի Թվիս հայոց ՉԸԾ</title>
+                            <incipit>Որդիք մարդկան մինչեւ յե՞րբ էք խստասիրտք ..., եւ ես զնոցայն առբերելով վերաձայնեցից ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>The contents have no connexion with the title. The treatise is a sever reproach to the Armenians for their disposition, arising out of mere levity of mind, to be alienated from their national church.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item27" n="27">
+                            <locus>f. 287</locus>
+                            <title xml:lang="en">On the unity, nature, person, and hypostasis of Christ.</title>
+                            <title xml:lang="hy">Յաղագս մաւորութե՟ եւ բնութե՟  եւ դիմի եւ անձնաւորութե՟</title>
+                            <incipit>Միաւորութիւն է ստոյց եւ ճշմարիտ ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>An extract.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item28" n="28">
+                            <locus>f. 293(b)</locus>
+                            <author>
+                                Stephanos Siunetsi
+                            </author>
+                            <title xml:lang="en">Letter from Stephanis Siunetsi, the philosopher, to Germanus I, patriarch of Constantinople, being a reply to his well-known Letter to the Armenians in defence of the council of Chalcedon.</title>
+                            <incipit>Յոգնապատիւ հռչակելի փառաւորութեամբ ... Զքս՟ի խաղաղութի՟ն առբերելով ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>The final interpolation, and invective against the Greeks, is not in this copy.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item29" n="29">
+                            <locus>f. 312</locus>
+                            <author>
+                                Moses Erzencatzi
+                            </author>
+                            <title xml:lang="en">Letter from Moses vardapet Erzenkatzi, being an answer to Gregory the priest at Trebizond, who was an adherent of the Greek church.</title>
+                            <title xml:lang="hy">Մովսեսի վարդապետի Եզնկացւոյ գրեալ պատասխանի ի Տրապիզոն առ հատուածեալ երէցն Գրիգոր</title>
+                            <incipit>Բնաւից բարեաց պարգեւատուն զճշմարտուլիւն միշտ աւետարանէ ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>The writer quotes a passage of some extent from the Commentary on the Breviary by Khosrov Antzevatsi, which the copyist treats a a separate article. The author justifies different usages of the Armenian church against the objections of the dissenter, and reproves some abuses.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item30" n="30">
+                            <locus>f. 331(b)</locus>
+                            <author>
+                                Vardan, Areweltsʻi, <date calendar="Gregorian" from="1198" to="1271">ca. 1198-1271</date>
+                                
+                            </author>
+                            <title xml:lang="en">Letter from Constantine I, catholicos, to King Hethoum I, being an answer to the Pope's letter brought by the legate Dimanche in the year 697 Arm. = 1248 A.D., composed by Vartan vartabed.</title>
+                            <incipit>Քս՟ապսակեալ ս՟բ թագաւորի ... Յառաքեալ գրոյդ քոյ զքոյին հրամանդ ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item31" n="31">
+                            <locus>f. 338</locus>
+                            <title xml:lang="en">A collection of quotation sfomr various authors, Armenian, Greek, Latin, in support of different peculiar usages of teh Armenian church.</title>
+                            <incipit/>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>The subjects of this interesting chapter are: 1. The combined celebration of the Nativity and Baptism of our Lord on January 6. - 2. The celebration of Annunciation on April 6. - 3. The breaking of the fast on Easter eve. - 4. That the Lord ate the lamb on the Thursday evening. - 5. The unleavened bread and unmixed chalice. - 6. The Exaltation of the Holy Cross a Sunday feast. - The addressing of the hymn Trisagion to Christ. - 8. The blessing of the crosses. - 9. The commencement of the liturgical day at sunset. - 10. The blessing of the matagh (the votive sacrifice) for the poor at Easter and other festivals.</note>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item32" n="32">
+                            <locus>f. 359</locus>
+                            <title xml:lang="en">On hell and its tortures.</title>
+                            <incipit>Չար է անուն դժոխոց ի լսելիս մարդկան ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item33" n="33">
+                            <locus>f. 360(b)</locus>
+                            <title xml:lang="en">List of Armenian kings (from Japhet, son of Noah, to Constantine II, 1298 A.D.), with some short historical notes, after Moses of Khorene and others.</title>
+                            <title xml:lang="hy">Մովսէս Խորենացի զշարս թագաւորացն Հայոց այսպէս կարգէ. Յաբեթ որդի Նոյի ...</title>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item34" n="34">
+                            <locus>f. 366</locus>
+                            <title xml:lang="en">A stanza of 24 lines, without title.</title>
+                            <incipit>Մարգարէից սա սերմանումն</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item35" n="35">
+                            <locus>f. 366</locus>
+                            <author>Vanacan Vardapet</author>
+                            <title xml:lang="en">On the independence of the Armenian Patriarchate, and on the possession sof the Armenians in the Holy Land, etc., by Vanacan vardapet.</title>
+                            <title xml:lang="hy">Վանական վարդապետի ասացեալ Բան հաւատալի.</title>
+                            <incipit>Կենսաբուղխ սուրբ աւետարանն ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item36" n="36">
+                            <locus/>
+                            <author>Vanacan Vardapet</author>
+                            <title xml:lang="en">Some ritualistic notices, by the same</title>
+                            <title xml:lang="hy">Այլ բան Վանական վարդապետի գրեալ.</title>
+                            <incipit>Զի՞նշ է ճրագալուցին լուծումն ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item37" n="37">
+                            <locus>f. 371</locus>
+                            <author>
+                                Anania Shirakatsʻi,<date calendar="Gregorian"> fl. 685</date>
+                                
+                            </author>
+                            <title xml:lang="en">The number of verses in both Testaments, by Anania Shiracatzi, the mathematicion (7th. cent.)</title>
+                            <title xml:lang="hy">Անանիայի Շիրակունւոյ համարոմի Թիւք որչափութեան տանց հին կտակ.</title>
+                            <incipit>Գիր Մովսիսի աւրէնսդրի. Ծննդոցն տունք են դ՟ռ՟յ՟է՟ ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item38" n="38">
+                            <locus>f. 372(b)</locus>
+                            <author>
+                                Anania Shirakatsʻi,<date calendar="Gregorian"> fl. 685</date>
+                                
+                            </author>
+                            <title xml:lang="en">The names and colours of precious stones [by the same]</title>
+                            <title xml:lang="hy">Անուանք ականց եւ գունաւորութիւնք նոցին.</title>
+                            <incipit>Զմրուխտ, կանաչ է եւ լուսաւոր: Սարդիոն, շիկագոյն արիւնատեսիլ ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item39" n="39">
+                            <locus>f. 374</locus>
+                            <author>
+                                Anania Shirakatsʻi,<date calendar="Gregorian"> fl. 685</date>
+                                
+                            </author>
+                            <title xml:lang="en">On weights and measures, by the same.</title>
+                            <title xml:lang="hy">Անանիայի Շիրակիունւոյ համարոշի Յաղագս կշռոց եւ կշռորդաց.</title>
+                            <incipit>Յաղագս ասարիոնի, լեբտոնի եւ դանկի ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item40" n="40">
+                            <locus>f. 377</locus>
+                            <author>
+                                Anania Shirakatsʻi,<date calendar="Gregorian"> fl. 685</date>
+                                
+                            </author>
+                            <title xml:lang="en">Arithmetical problems, by the same.</title>
+                            <title xml:lang="hy">Անանիայի Շիրակունւոյ Յաղագս կատարման համարողութեան եւ կերպից հարցման.</title>
+                            <incipit>Զամենայն ասացի մասունս թէպէտ եւ սակաւ ի բազմաց, եթէ ... Հարցումն ա՟. Այսպէս լուայ ի հաւրէ իմմէ, եթէ ի ժամանակի պատերազմացն Հայոց ընդ Պարոս, սաստիկ քաջութիւնք լինէին ի Կամսարականէն ...</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note/>
+                        </msItem>
+                        <msItem xml:id="MS_Marsh_467-item41" n="41">
+                            <locus>f. 382-4</locus>
+                            <title xml:lang="en">Notes on the eight oecumenical councils</title>
+                            <title xml:lang="hy">Յաղագս Ժողովոցն ս՟բ որ եղեն ի Նիկիա եւ յայլսն.</title>
+                            <incipit>Զկնի երեֆ հարիւր եւ ժ՟ե ամի յարութ՟ե տն՟ եղեւ ժողով ի Նիկիա</incipit>
+                            <textLang mainLang="hy">Armenian</textLang>
+                            <note>An extract from Gregory of Tathev's Book of Questions.</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <extent>
+                                    <dimensions type="leaf" unit="in">
+                                        <height>9"</height>
+                                        <width>5.75"</width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="2">
+                                    <locus/>
+                                    <dimensions type="line-height" unit="mm">
+                                        <height/>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="major" script="Notrgir"/>
+                        </handDesc>
+                        <additions/>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian">17th cent.</origDate>
+                            <origDate calendar="Armenian"/>
+                        </origin>
+                        <provenance/>
+                        <acquisition>This MS. was bequeathed in 1713 by Archbishop Marsh.</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>Manuscript description based on: Baronian, Sukias, Rev.; 
+                                        Conybeare, F. C. (Frederick Cornwallis); 
+                                        Catalogue of the Armenian manuscripts in the Bodleain Library;  
+                                        Oxford, at the Clarendon Press 1918</source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>oriental@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="local_class">
+                    <category xml:id="commentary">
+                        <catDesc>Commentary</catDesc>
+                    </category>
+                    <category xml:id="supercommentary">
+                        <catDesc>Supercommentary</catDesc>
+                    </category>
+                    <category xml:id="indices">
+                        <catDesc>Indices</catDesc>
+                    </category>
+                    <category xml:id="translation">
+                        <catDesc>Translation</catDesc>
+                    </category>
+                    <category xml:id="multipleWorks">
+                        <catDesc>multipleWorks</catDesc>
+                    </category>
+                    <category xml:id="abridgement">
+                        <catDesc>Abridgement</catDesc>
+                    </category>
+                    <category xml:id="supplement">
+                        <catDesc>Supplement</catDesc>
+                    </category>
+                    <category xml:id="papers">
+                        <catDesc>Papers</catDesc>
+                    </category>
+                    <category xml:id="documents">
+                        <catDesc>Documents</catDesc>
+                    </category>
+                    <category xml:id="extract">
+                        <catDesc>Extract</catDesc>
+                    </category>
+                    <category xml:id="gloss">
+                        <catDesc>Gloss</catDesc>
+                    </category>
+                    <category xml:id="selection">
+                        <catDesc>Selection</catDesc>
+                    </category>
+                    <category xml:id="diagrams">
+                        <catDesc>Diagrams</catDesc>
+                    </category>
+                    <category xml:id="notes">
+                        <catDesc>Notes</catDesc>
+                    </category>
+                    <category xml:id="letters">
+                        <catDesc>Letters</catDesc>
+                    </category>
+                    <category xml:id="versification">
+                        <catDesc>Versification</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                     <ref target="http://id.loc.gov/authorities/names/n85051709">Nersēs,
+                            Shnorhali, Saint, 1102-1173</ref>
+                  </item>
+                        <item>
+                     <ref target="http://id.loc.gov/authorities/names/n85105625">Nerses, of
+                            Lambron, Saint, 1153-1198</ref>
+                  </item>
+                        <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh93009683.html">Theology--Early works to 1800</ref>
+                  </item>
+                        <item>
+                     <ref target="http://id.loc.gov/authorities/names/n50065298">Marsh's Library</ref>
+                  </item>
+                        <item>
+                     <ref target="http://id.loc.gov/authorities/names/n85830405">Anania Shirakatsʻi, fl. 685</ref>
+                  </item>
+                        <item>
+                     <ref target="http://id.loc.gov/authorities/sh85033412#concept">Councils and synods, Ecumenical</ref>
+                  </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2017-07-18">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl">https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+         </change>
+            <change when="2012-02-13">
+                <persName>Robin Meyer</persName>
+            </change>
+            <!-- Your revisionDesc should include information concerning major changes to the electronic file.  Replace the above with something more suitable. -->
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <!-- facsimile information about the manuscript -->
+        <graphic url="cat_pdf/p81.pdf"/>
+        <graphic url="cat_pdf/p83.pdf"/>
+        <graphic url="cat_pdf/p85.pdf"/>
+        <graphic url="cat_pdf/p87.pdf"/>
+        <!-- Alternatively you could provide 'surface' elements with more than one image per surface, and optionally with 'zone' elements to give coordinates for any special areas of interest -->
+    </facsimile>
+    <text>
+        <body>
+            <!-- If you had a transcription of the manuscript you would put it here -->
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
