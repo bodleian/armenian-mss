@@ -6,7 +6,7 @@
   <!-- 
   Created by James Cummings james@blushingbunny.net 
   2017-07 or so
-  for up-conversion of existing TEI  Fihrist Catalogue
+  for up-conversion of existing TEI  Armenian Catalogue
   -->
 
   <!-- param for overall collection -->
@@ -346,7 +346,7 @@ msPart/altIdentifier needs to be changed to msIdentifier
 
 
   <!-- 
-  Replace publicationStmt more carefully in fihrist
+  Replace publicationStmt more carefully in armenian
   -->
   <xsl:template match="publicationStmt">
     <xsl:variable name="msID">
@@ -398,8 +398,8 @@ msPart/altIdentifier needs to be changed to msIdentifier
           <revisionDesc>
             <change when="{substring(string(current-date()), 0, 11)}">
               <persName>James Cummings</persName> Up-converted the markup using <ref
-                target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl"
-                >https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+                target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
+                >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
             </change>
           </revisionDesc>
         </xsl:otherwise>
@@ -412,8 +412,8 @@ msPart/altIdentifier needs to be changed to msIdentifier
     <xsl:copy>
       <change when="{substring(string(current-date()), 0, 11)}">
         <persName>James Cummings</persName> Up-converted the markup using <ref
-          target="https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl"
-          >https://github.com/bodleian/fihrist-mss/tree/master/processing/convertFihrist2Bodley.xsl</ref>
+          target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
+          >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
       </change>
       <xsl:apply-templates/>
     </xsl:copy>
