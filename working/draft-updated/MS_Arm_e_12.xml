@@ -10,9 +10,9 @@
                 <principal>Gillian Evison</principal>
             </titleStmt>
             <publicationStmt>
-                <date calendar="Gregorian">[Date when first made available]</date>
-                <publisher>Bodleian Library</publisher>
-                <pubPlace>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <pubPlace>
                     <address>
                   <addrLine>Department of Special Collections</addrLine>
                   <addrLine>Bodleian Library</addrLine>
@@ -28,7 +28,7 @@
                   </addrLine>
                </address>
                 </pubPlace>
-                <idno>OCIMCO</idno>
+            <idno>OCIMCO</idno>
             <idno type="msID">MS_Arm_e_12</idno>
             <idno type="catalogue">Armenian</idno>
          </publicationStmt>
@@ -40,8 +40,7 @@
                         <settlement>Oxford</settlement>
                         <institution>Oxford University</institution>
                         <repository>Bodleian Library</repository>
-                        <collection type="main">Oriental Manuscripts <collection type="sub"/>
-                  </collection>
+                        <collection type="main">Oriental Manuscripts </collection>
                         <idno>MS. Arm. e. 12</idno>
                         <altIdentifier type="internal">
                             <idno>B-C113</idno>
@@ -182,7 +181,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
-         <change when="2017-07-19">
+         <change when="2017-07-20">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
             <change when="2012-09-21">
@@ -201,9 +200,8 @@
         <!-- Alternatively you could provide 'surface' elements with more than one image per surface, and optionally with 'zone' elements to give coordinates for any special areas of interest -->
     </facsimile>
     <text>
-        <body>
-            <!-- If you had a transcription of the manuscript you would put it here -->
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>
