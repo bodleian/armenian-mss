@@ -2,266 +2,235 @@
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
-                <funder>JISC-??-</funder>
-                <principal>Gillian Evison</principal>
-            </titleStmt>
-            <publicationStmt>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
+            <funder>JISC-??-</funder>
+            <principal>Gillian Evison</principal>
+         </titleStmt>
+         <publicationStmt>
             <publisher>Bodleian Library</publisher>
             <date calendar="Gregorian">[Date when first made available]</date>
             <pubPlace>
-                    <address>
+               <address>
                   <addrLine>Department of Special Collections</addrLine>
                   <addrLine>Bodleian Library</addrLine>
                   <street>Broad Street</street>
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library
-</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>oriental@bodleian.ox.ac.uk</email>
                   </addrLine>
                </address>
-                </pubPlace>
+            </pubPlace>
             <idno>OCIMCO</idno>
             <idno type="msID">MS_Arm_b_2</idno>
             <idno type="catalogue">Armenian</idno>
          </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:id="MS_Arm_b_2" xml:lang="en">
-                    <msIdentifier>
-                        <country>United Kingdom</country>
-                        <region type="county">Oxfordshire</region>
-                        <settlement>Oxford</settlement>
-                        <institution>Oxford University</institution>
-                        <repository>Bodleian Library</repository>
-                        <collection type="main">Oriental Manuscripts </collection>
-                        <idno>MS. Arm. b. 2</idno>
-                        <altIdentifier type="internal">
-                            <idno>B-C049</idno>
-                        </altIdentifier>
-                        <altIdentifier type="other">
-                            <idno>Catalogue p.103ff.</idno>
-                        </altIdentifier>
-                    </msIdentifier>
-                    <msContents>
-                        <summary>Old Fly-leaves</summary>
-                        <msItem xml:id="MS_Arm_b_2-item1" n="1">
-                            <locus>f. 1</locus>
-                            <title xml:lang="en">The last lines of set of directioins indicating according to the old usage on which days the liturgy of St. Basil and of St. John Chrysostom are to be used.</title>
-                            <title xml:lang="hy"/>
-                            <incipit/>
-                            <textLang mainLang="hy">Armenian</textLang>
-                            <note>Vellum, a leaf with its margin cut away. Size 5.375" by 3". Text on recto of 13 lines, in regular Cicilian bolorgir of 13th cent. Full text in ff. 213(b) -214 of MS. Arm. VI of the Royal Library in Munich. On the verso is a partly decayed picture in Byzantine style, with gold background: it represents an officiating bishop (probably St. Basil) before an altar with a canopy, taking in his hand a (liturgical) book.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_b_2-item2" n="2">
-                            <locus>f. 2</locus>
-                            <title xml:lang="en">A fragment of a book of Sharakans</title>
-                            <title xml:lang="hy"/>
-                            <incipit/>
-                            <textLang mainLang="hy">Armenian</textLang>
-                            <note>Glazed cotton paper, brownish. Size, 5.25" by 3.25". Text, 4" by 2.75" of 23 lines. Written in bolorgir of the 14th cent., with musical notes, containing a portion of the fourth tone (դ՟ձ) of the Canon of Martyrs. Given by Dr. Baronian.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_b_2-item3" n="3">
-                            <locus>f. 3</locus>
-                            <title xml:lang="en">A fragment of a book of Sharakans</title>
-                            <title xml:lang="hy"/>
-                            <incipit/>
-                            <textLang mainLang="hy">Armenian</textLang>
-                            <note>Glzaed paper, brownish. Size, 5" by 3.375". Text, bordered with double red line on left and single on right, 3.25" by 2" of 21 and 19 lines. Written in bolorgir of the 14th or 15th cent., without musical notes, containing the latter half of the Canon of teh Eve of the Theophany. Given by Dr. Baronian.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_b_2-item4" n="4">
-                            <locus>f. 4</locus>
-                            <title xml:lang="en">Portions (of a few lines each) of the Burial of a Priest, of teh Canon of Marriage, the Benediction of a Monk, the Burial of a Monk.</title>
-                            <title xml:lang="hy"/>
-                            <incipit/>
-                            <textLang mainLang="hy">Armenian</textLang>
-                            <note>Thin vellum, discoloured. The upper part of six leaves of an old Ritual, closely resembling the oldest copy preserved in San Lazaro in Venice. Size, about 7" by 4". Text, originally about 7" by 5", in two columns of 21 lines each. Written in small Erkat'agir with smaller ones in rubrics. Given by Dr. Baronian.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_b_2-item5" n="6">
-                            <locus>f. 10</locus>
-                            <title xml:lang="en">Three fragmentary leaves of a chorister's lectionary - portions of: the Week of St. Ripsime and her Company; the Feast of Shołakath (a Saturday), and the last part of the preceding Thursday (?); lessons of the 6th and 7th days of the octave of Khatchveratz (Exaltation of the Holy Cross).</title>
-                            <title xml:lang="hy"/>
-                            <incipit/>
-                            <textLang mainLang="hy">Armenian</textLang>
-                            <note>Vellum. First top lines and the inner margins cut away. Size, 8.25" by 6.125". Text, originally 7.75" by 4.875", in two columns of about 25 lines each. Written in distinct bolorgir of the 14th cent., with rubrications. Given by Dr. Baronian.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_b_2-item6" n="9">
-                            <locus>f. 13</locus>
-                            <title xml:lang="en">Two pieces of a leaf of a Tonakan (martyrology): the end of an unknown martyrdom; the beginning of the Martyrdom of St. Varus.</title>
-                            <title xml:lang="hy"/>
-                            <incipit/>
-                            <textLang mainLang="hy">Armenian</textLang>
-                            <note>Thin vellum. Original size, including six missing lines, 14.5" by 7.25". Text, originally 12.25" by 4.5", in two columns of 32 lines each. Written in small square Erkat'agir of the 11th or 12th cent. The first article concludes with a colophon of the copyist in four lines, in which teh name 'George' as owner is contained. Given by Dr. Baronian.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_b_2-item7" n="10">
-                            <locus>f. 14</locus>
-                            <title xml:lang="en">Parts of: a 'Commentary of John Chrysostom; in Matt. XII.38; the 13th of the 'Catechetical Lectures' of Cyril of Jerusalem; 'a Commentary on Luke', V.1 </title>
-                            <title xml:lang="hy"/>
-                            <incipit/>
-                            <textLang mainLang="hy">Armenian</textLang>
-                            <note>Vellum, stained. Two leaves from one MS. Size, 11.5" by 7.875". Text, originally in two columns, the first leafe measures 10" by 5.75", in 22 lines, and the second 11" by 5.75", in 25 lines. Written in large square Erkat'agir of the 12th cent. Given by Dr. Baronian.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_b_2-item8" n="12">
-                            <locus>f. 16</locus>
-                            <title xml:lang="en">Epistle of Eusebius to Carpianus</title>
-                            <title xml:lang="hy"/>
-                            <incipit/>
-                            <textLang mainLang="hy">Armenian</textLang>
-                            <note>Vellum. A single folio cut in half horizontally, but rejoinedL lateral margins curtailed. Size, upper half 9.75" by 6.75", lower 9.75" by 6.125". Verso left blank. Text on recto of 30 lines of varying lenght as defined by surrounding ornamental design. The latter consists of the following: A horizontal stripe of conventional fruit and foliage work, in green and blue on gold background, extends across the bottom of the page, from which rise vertical stripes of loose rope-work in blue on gold background, met at the top and joined by a stripe of fruit and foliage work similar to that below, but not carried to the edges of the page. The rectilinear frame so formed is bordered within by a purple diaper pattern edged internally by a red stripe of elliptical form with ogival projections. Within the space defined by this stripe is written the text. The rectilinear frame carries above two peacocks in profile, thei beaks toward a central one which faces the reader with outspread tail: their colours blue, red, and gold. At each upper corner an arabesque of blue rope-work on gold; the side margins occupied by branchwork of blue, supporting green global fruits veined with gold. On the left a red snake raises himself erect to taste the fruit. Text in small Erkat'agir such as is used in rubrics and marginal notes of 10th and 11th cent. gospels. Printed by N. Karamiantz in his cataligue of the Armenian MSS. of Berlin. Given by Dr. Baronian.</note>
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc form="codex">
-                            <supportDesc material="mixed">
-                                <extent>
-                                    <dimensions type="leaf" unit="in">
-                                        <height>19.25"</height>
-                                        <width>15.75"</width>
-                                    </dimensions>
-                                </extent>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout columns="1">
-                                    <locus/>
-                                    <dimensions type="line-height" unit="mm">
-                                        <height/>
-                                    </dimensions>
-                                </layout>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <handNote scope="major" script="unknown"/>
-                        </handDesc>
-                        <additions/>
-                    </physDesc>
-                    <history>
-                        <origin>
-                            <origDate calendar="Gregorian"/>
-                            <origDate calendar="Armenian"/>
-                        </origin>
-                        <provenance/>
-                        <acquisition>This MS. given by Dr. Baronian.</acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>Manuscript description based on: Baronian, Sukias, Rev.; 
-                                        Conybeare, F. C. (Frederick Cornwallis); 
-                                        Catalogue of the Armenian manuscripts in the Bodleain Library;  
-                                        Oxford, at the Clarendon Press 1918</source>
-                            </recordHist>
-                            <availability status="restricted">
-                                <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>oriental@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript</p>
-                            </availability>
-                            <note/>
-                        </adminInfo>
-                    </additional>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <classDecl>
-                <taxonomy xml:id="LCSH">
-                    <bibl>
-                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
-                            Congress Subject Headings</ref>
-                    </bibl>
-                </taxonomy>
-                <taxonomy xml:id="local_class">
-                    <category xml:id="commentary">
-                        <catDesc>Commentary</catDesc>
-                    </category>
-                    <category xml:id="supercommentary">
-                        <catDesc>Supercommentary</catDesc>
-                    </category>
-                    <category xml:id="indices">
-                        <catDesc>Indices</catDesc>
-                    </category>
-                    <category xml:id="translation">
-                        <catDesc>Translation</catDesc>
-                    </category>
-                    <category xml:id="multipleWorks">
-                        <catDesc>multipleWorks</catDesc>
-                    </category>
-                    <category xml:id="abridgement">
-                        <catDesc>Abridgement</catDesc>
-                    </category>
-                    <category xml:id="supplement">
-                        <catDesc>Supplement</catDesc>
-                    </category>
-                    <category xml:id="papers">
-                        <catDesc>Papers</catDesc>
-                    </category>
-                    <category xml:id="documents">
-                        <catDesc>Documents</catDesc>
-                    </category>
-                    <category xml:id="extract">
-                        <catDesc>Extract</catDesc>
-                    </category>
-                    <category xml:id="gloss">
-                        <catDesc>Gloss</catDesc>
-                    </category>
-                    <category xml:id="selection">
-                        <catDesc>Selection</catDesc>
-                    </category>
-                    <category xml:id="diagrams">
-                        <catDesc>Diagrams</catDesc>
-                    </category>
-                    <category xml:id="notes">
-                        <catDesc>Notes</catDesc>
-                    </category>
-                    <category xml:id="letters">
-                        <catDesc>Letters</catDesc>
-                    </category>
-                    <category xml:id="versification">
-                        <catDesc>Versification</catDesc>
-                    </category>
-                </taxonomy>
-            </classDecl>
-        </encodingDesc>
-        <profileDesc>
-            <textClass>
-                <keywords scheme="#LCSH">
-                    <list>
-                        <item>
+         <sourceDesc>
+            <msDesc xml:id="MS_Arm_b_2" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection type="main">Oriental Manuscripts</collection>
+                  <idno>MS. Arm. b. 2</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Old Fly-leaves</summary>
+                  <msItem xml:id="MS_Arm_b_2-item1" n="1">
+                     <locus>f. 1</locus>
+                     <title xml:lang="en">The last lines of set of directioins indicating according to the old usage on which days the liturgy of St. Basil and of St. John Chrysostom are to be used.</title>
+                     <title xml:lang="hy"/>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Vellum, a leaf with its margin cut away. Size 5.375" by 3". Text on recto of 13 lines, in regular Cicilian bolorgir of 13th cent. Full text in ff. 213(b) -214 of MS. Arm. VI of the Royal Library in Munich. On the verso is a partly decayed picture in Byzantine style, with gold background: it represents an officiating bishop (probably St. Basil) before an altar with a canopy, taking in his hand a (liturgical) book.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_b_2-item2" n="2">
+                     <locus>f. 2</locus>
+                     <title xml:lang="en">A fragment of a book of Sharakans</title>
+                     <title xml:lang="hy"/>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Glazed cotton paper, brownish. Size, 5.25" by 3.25". Text, 4" by 2.75" of 23 lines. Written in bolorgir of the 14th cent., with musical notes, containing a portion of the fourth tone (դ՟ձ) of the Canon of Martyrs. Given by Dr. Baronian.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_b_2-item3" n="3">
+                     <locus>f. 3</locus>
+                     <title xml:lang="en">A fragment of a book of Sharakans</title>
+                     <title xml:lang="hy"/>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Glzaed paper, brownish. Size, 5" by 3.375". Text, bordered with double red line on left and single on right, 3.25" by 2" of 21 and 19 lines. Written in bolorgir of the 14th or 15th cent., without musical notes, containing the latter half of the Canon of teh Eve of the Theophany. Given by Dr. Baronian.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_b_2-item4" n="4">
+                     <locus>f. 4</locus>
+                     <title xml:lang="en">Portions (of a few lines each) of the Burial of a Priest, of teh Canon of Marriage, the Benediction of a Monk, the Burial of a Monk.</title>
+                     <title xml:lang="hy"/>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Thin vellum, discoloured. The upper part of six leaves of an old Ritual, closely resembling the oldest copy preserved in San Lazaro in Venice. Size, about 7" by 4". Text, originally about 7" by 5", in two columns of 21 lines each. Written in small Erkat'agir with smaller ones in rubrics. Given by Dr. Baronian.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_b_2-item5" n="6">
+                     <locus>f. 10</locus>
+                     <title xml:lang="en">Three fragmentary leaves of a chorister's lectionary - portions of: the Week of St. Ripsime and her Company; the Feast of Shołakath (a Saturday), and the last part of the preceding Thursday (?); lessons of the 6th and 7th days of the octave of Khatchveratz (Exaltation of the Holy Cross).</title>
+                     <title xml:lang="hy"/>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Vellum. First top lines and the inner margins cut away. Size, 8.25" by 6.125". Text, originally 7.75" by 4.875", in two columns of about 25 lines each. Written in distinct bolorgir of the 14th cent., with rubrications. Given by Dr. Baronian.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_b_2-item6" n="9">
+                     <locus>f. 13</locus>
+                     <title xml:lang="en">Two pieces of a leaf of a Tonakan (martyrology): the end of an unknown martyrdom; the beginning of the Martyrdom of St. Varus.</title>
+                     <title xml:lang="hy"/>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Thin vellum. Original size, including six missing lines, 14.5" by 7.25". Text, originally 12.25" by 4.5", in two columns of 32 lines each. Written in small square Erkat'agir of the 11th or 12th cent. The first article concludes with a colophon of the copyist in four lines, in which teh name 'George' as owner is contained. Given by Dr. Baronian.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_b_2-item7" n="10">
+                     <locus>f. 14</locus>
+                     <title xml:lang="en">Parts of: a 'Commentary of John Chrysostom; in Matt. XII.38; the 13th of the 'Catechetical Lectures' of Cyril of Jerusalem; 'a Commentary on Luke', V.1</title>
+                     <title xml:lang="hy"/>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Vellum, stained. Two leaves from one MS. Size, 11.5" by 7.875". Text, originally in two columns, the first leafe measures 10" by 5.75", in 22 lines, and the second 11" by 5.75", in 25 lines. Written in large square Erkat'agir of the 12th cent. Given by Dr. Baronian.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_b_2-item8" n="12">
+                     <locus>f. 16</locus>
+                     <title xml:lang="en">Epistle of Eusebius to Carpianus</title>
+                     <title xml:lang="hy"/>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Vellum. A single folio cut in half horizontally, but rejoinedL lateral margins curtailed. Size, upper half 9.75" by 6.75", lower 9.75" by 6.125". Verso left blank. Text on recto of 30 lines of varying lenght as defined by surrounding ornamental design. The latter consists of the following: A horizontal stripe of conventional fruit and foliage work, in green and blue on gold background, extends across the bottom of the page, from which rise vertical stripes of loose rope-work in blue on gold background, met at the top and joined by a stripe of fruit and foliage work similar to that below, but not carried to the edges of the page. The rectilinear frame so formed is bordered within by a purple diaper pattern edged internally by a red stripe of elliptical form with ogival projections. Within the space defined by this stripe is written the text. The rectilinear frame carries above two peacocks in profile, thei beaks toward a central one which faces the reader with outspread tail: their colours blue, red, and gold. At each upper corner an arabesque of blue rope-work on gold; the side margins occupied by branchwork of blue, supporting green global fruits veined with gold. On the left a red snake raises himself erect to taste the fruit. Text in small Erkat'agir such as is used in rubrics and marginal notes of 10th and 11th cent. gospels. Printed by N. Karamiantz in his cataligue of the Armenian MSS. of Berlin. Given by Dr. Baronian.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="mixed">
+                        <extent>
+                           <dimensions type="leaf" unit="in">
+                              <height>19.25"</height>
+                              <width>15.75"</width>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <dimensions type="line-height" unit="mm"/>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" script="unknown"/>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian">Gregorian</origDate>
+                     <origDate calendar="Armenian">Armenian</origDate>
+                  </origin>
+                  <acquisition>This MS. given by Dr. Baronian.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="local_class">
+               <category xml:id="commentary">
+                  <catDesc>Commentary</catDesc>
+               </category>
+               <category xml:id="supercommentary">
+                  <catDesc>Supercommentary</catDesc>
+               </category>
+               <category xml:id="indices">
+                  <catDesc>Indices</catDesc>
+               </category>
+               <category xml:id="translation">
+                  <catDesc>Translation</catDesc>
+               </category>
+               <category xml:id="multipleWorks">
+                  <catDesc>multipleWorks</catDesc>
+               </category>
+               <category xml:id="abridgement">
+                  <catDesc>Abridgement</catDesc>
+               </category>
+               <category xml:id="supplement">
+                  <catDesc>Supplement</catDesc>
+               </category>
+               <category xml:id="papers">
+                  <catDesc>Papers</catDesc>
+               </category>
+               <category xml:id="documents">
+                  <catDesc>Documents</catDesc>
+               </category>
+               <category xml:id="extract">
+                  <catDesc>Extract</catDesc>
+               </category>
+               <category xml:id="gloss">
+                  <catDesc>Gloss</catDesc>
+               </category>
+               <category xml:id="selection">
+                  <catDesc>Selection</catDesc>
+               </category>
+               <category xml:id="diagrams">
+                  <catDesc>Diagrams</catDesc>
+               </category>
+               <category xml:id="notes">
+                  <catDesc>Notes</catDesc>
+               </category>
+               <category xml:id="letters">
+                  <catDesc>Letters</catDesc>
+               </category>
+               <category xml:id="versification">
+                  <catDesc>Versification</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
                      <ref target="http://id.loc.gov/authorities/names/n80001460">John Chrysostom, Saint, d. 407</ref>
                   </item>
-                        <item>
+                  <item>
                      <ref target="http://id.loc.gov/authorities/names/n79045845">Catholic Church. Liturgy and ritual. Sharaknotsʻ</ref>
                   </item>
-                        <item>
+                  <item>
                      <ref target="http://id.loc.gov/authorities/sh85007281#concept">Armenian Church--Liturgy</ref>
                   </item>
-                    </list>
-                </keywords>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-         <change when="2017-07-20">
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
-            <change when="2012-04-04">
-                <persName>Robin Meyer</persName>
-            </change>
-            <!-- Your revisionDesc should include information concerning major changes to the electronic file.  Replace the above with something more suitable. -->
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <!-- facsimile information about the manuscript -->
-        <graphic url="pdf_cat/p103.pdf"/>
-        <graphic url="pdf_cat/p105.pdf"/>
-        <!-- Alternatively you could provide 'surface' elements with more than one image per surface, and optionally with 'zone' elements to give coordinates for any special areas of interest -->
-    </facsimile>
-    <text>
+         <change when="2012-04-04">
+            <persName>Robin Meyer</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="pdf_cat/p103.pdf"/>
+      <graphic url="pdf_cat/p105.pdf"/>
+   </facsimile>
+   <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>
