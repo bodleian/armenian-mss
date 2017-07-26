@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,7 +39,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. e. 18</idno>
                </msIdentifier>
                <msContents>
@@ -74,7 +74,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item6" n="6">
                      <locus>f. 5(b)</locus>
-                     <author>Grigor Narekatsʻi, Saint,<date calendar="Gregorian" from="0951" to="1003">951-1003</date>
+                     <author>Grigor Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
                      </author>
                      <title xml:lang="en">Աւետիս մեծ խորհրդոյ</title>
                      <note>The first three lines only.</note>
@@ -86,7 +86,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item8" n="8">
                      <locus>f. 7(b)</locus>
-                     <author>Grigor Narekatsʻi, Saint,<date calendar="Gregorian" from="0951" to="1003">951-1003</date>
+                     <author>Grigor Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
                      </author>
                      <title xml:lang="en">Cant. Երգը զարմանալի …</title>
                   </msItem>
@@ -119,7 +119,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item14" n="14">
                      <locus>f. 16</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Անմարմնոցն հրեղինաց …</title>
                      <note>Alphabetically.</note>
@@ -171,7 +171,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item24" n="24">
                      <locus>f. 37(b)</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Cant. Եկայք տածեալք …</title>
                   </msItem>
@@ -281,7 +281,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item45" n="45">
                      <locus>f. 69(b)</locus>
-                     <author>Mkhitʻar Gōsh,<date calendar="Gregorian" from="1130" to="1213">ca. 1130-1213</date>
+                     <author>Mkhitʻar Gōsh,<date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date>
                      </author>
                      <title xml:lang="en">The holy Translators, Sahak and Mesrob.</title>
                   </msItem>
@@ -337,7 +337,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item56" n="56">
                      <locus>f. 90(b)</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Canticle of Profession of Faith. Խոստաովանիմք ա՟ծ զհայր</title>
                   </msItem>
@@ -348,7 +348,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item58" n="58">
                      <locus>f. 95(b)</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Cant. Ճրագ Աշմարիտ …</title>
                   </msItem>
@@ -465,7 +465,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item80" n="80">
                      <locus>f. 125</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Անեղ որդին հաւր միածին …</title>
                      <note>The first strophe wanting.</note>
@@ -527,7 +527,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item91" n="91">
                      <locus>f. 136(b)</locus>
-                     <author>Grigor Narekatsʻi, Saint,<date calendar="Gregorian" from="0951" to="1003">951-1003</date>
+                     <author>Grigor Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
                      </author>
                      <title xml:lang="en">Cant. Հաւուն հարուն արթնացեալ …</title>
                   </msItem>
@@ -543,7 +543,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item94" n="94">
                      <locus>f. 139</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Նոր ճայն ճւետեաց …</title>
                   </msItem>
@@ -555,7 +555,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item96" n="96">
                      <locus>f. 141</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">The 6th Day of Easter. Cant. Դորձեալ յայտնի այլանըման …</title>
                      <note>Lacks the beginning.</note>
@@ -582,13 +582,13 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item101" n="101">
                      <locus>f. 147</locus>
-                     <author>John of Toulkouran,<date calendar="Gregorian" from="1489" to="1525">1489-1525</date>
+                     <author>John of Toulkouran,<date calendar="#Gregorian" from="1489" to="1525">1489-1525</date>
                      </author>
                      <title xml:lang="en">All Easter Sundays. (Գանձ Յարութեան հասարակաց.) հ՟ա. Յերկնից խոնարհեալ …</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item102" n="102">
                      <locus>f. 148</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Cant. Նոր իմն աւետեաց բարբառ …</title>
                   </msItem>
@@ -760,13 +760,13 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item135" n="135">
                      <locus>f. 192</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Cant. Առաւաւտ լուսոյ արևելեան ազանց …</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item136" n="136">
                      <locus>f. 193</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Երջանի հոգիահրաշ …</title>
                   </msItem>
@@ -824,7 +824,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item147" n="147">
                      <locus>f. 213(b)</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Cant. Նորահրաշ տաւնիւս …</title>
                   </msItem>
@@ -850,7 +850,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item152" n="152">
                      <locus>f. 218</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">խաւսէր բանիւ նա հայրական …</title>
                   </msItem>
@@ -866,7 +866,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item155" n="155">
                      <locus>f. 220(b)</locus>
-                     <author>Grigor Narekatsʻi, Saint,<date calendar="Gregorian" from="0951" to="1003">951-1003</date>
+                     <author>Grigor Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
                      </author>
                      <title xml:lang="en">Գօհար վարդն վառ առեալ …</title>
                   </msItem>
@@ -877,13 +877,13 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item157" n="157">
                      <locus>f. 224</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Cant. Այսաւր Գաբրիէլ …</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item158" n="158">
                      <locus>f. 225</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Անարատ տաճար …</title>
                   </msItem>
@@ -958,7 +958,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item172" n="172">
                      <locus>f. 240(b)</locus>
-                     <author>John of Toulkouran,<date calendar="Gregorian" from="1489" to="1525">1489-1525</date>
+                     <author>John of Toulkouran,<date calendar="#Gregorian" from="1489" to="1525">1489-1525</date>
                      </author>
                      <title xml:lang="en">The Raising of the holy Cross (խաչ վերաց). Յայն եդեմական դրախտին …</title>
                      <note>The first strophe only.</note>
@@ -1047,7 +1047,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_18-item188" n="188">
                      <locus>f. 253</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Cant. Արեգակն արդար ըզհուր սիրոյ …</title>
                      <note>Alphatbetically. Gands of Martyrs ensue.</note>
@@ -1155,8 +1155,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">1453</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">1453</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>

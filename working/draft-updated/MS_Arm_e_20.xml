@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,14 +39,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. e. 20</idno>
                </msIdentifier>
                <msContents>
                   <summary>Cyril of Alexandria, etc., A.D. 1394.</summary>
                   <msItem xml:id="MS_Arm_e_20-item1" n="1">
                      <locus>f. 3</locus>
-                     <author>Cyril, Saint, Patriarch of Alexandria,<date calendar="Gregorian" from="0370" to="0444"/>ca. 370-444</author>
+                     <author>Cyril, Saint, Patriarch of Alexandria,<date calendar="#Gregorian" from="0370" to="0444">Gregorian</date>ca. 370-444</author>
                      <editor role="translator">
                         <persName xml:lang="en" type="supplied">Stephanos of Siuniq</persName>
                      </editor>
@@ -80,8 +80,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">1394</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">1394</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>

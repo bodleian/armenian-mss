@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,7 +39,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Laud Or. 21</idno>
                </msIdentifier>
                <msContents>
@@ -145,8 +145,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">16th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">16th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                   <acquisition>This MS. was presented by Archbishop Laud in 1635, and was once referenced as Laud. A. 32.</acquisition>
                </history>

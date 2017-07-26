@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,14 +39,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. d. 16</idno>
                </msIdentifier>
                <msContents>
                   <summary>Nerses of Lambron and Vardan, 14th cent.(?).</summary>
                   <msItem xml:id="MS_Arm_d_16-item1" n="1">
                      <locus>f. 3</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198">1153-1198.</date>
+                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
                      </author>
                      <title xml:lang="en">Commentary on Proverbs</title>
                      <incipit>Հանդերձեալք ավ մի ի քննութիւն Առակաց Սողովմոնի նախ զայս իմանամք զի...</incipit>
@@ -54,7 +54,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_16-item2" n="2">
                      <locus>f. 129(b)</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198">1153-1198.</date>
+                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
                      </author>
                      <title xml:lang="en">Commentary on Ecclesiastes</title>
                      <title xml:lang="hy"/>
@@ -63,14 +63,14 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_16-item3" n="3">
                      <locus>f. 179(b)</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198">1153-1198.</date>
+                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
                      </author>
                      <title xml:lang="en">Commentary on the Wisdom of Solomon</title>
                      <incipit>Իվերնագրէ աստի ուսանիմք եւ զայս իմաստութիւն Սաղովմոնի[գոլ], որպէս եւ զնախակարգէալս սորին 'Առակս եւ զ ժողովողն եւ 'Երգերգոցն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_16-item4" n="4">
-                     <author>Vardan, Areweltsʻi,<date calendar="Gregorian" from="1198" to="1271">ca. 1198-1271.</date>
+                     <author>Vardan, Areweltsʻi,<date calendar="#Gregorian" from="1198" to="1271">ca. 1198-1271.</date>
                      </author>
                      <title xml:lang="en">Commentary on on Song of Songs</title>
                      <incipit>Նման է արքայութիւն երկնից գանձի ծածկէլոյ...</incipit>
@@ -100,8 +100,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">14th (?) cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">14th (?) cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>

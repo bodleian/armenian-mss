@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,13 +39,13 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Marsh 128</idno>
                </msIdentifier>
                <msContents>
                   <summary>Laws, etc., A.D. 1617.</summary>
                   <msItem xml:id="MS_Marsh_128-item1" n="1">
-                     <author>Mkhitʻar Gōsh,<date calendar="Gregorian" from="1130" to="1213">ca. 1130 - 1213</date>Mxit'ar Goš</author>
+                     <author>Mkhitʻar Gōsh,<date calendar="#Gregorian" from="1130" to="1213">ca. 1130 - 1213</date>Mxit'ar Goš</author>
                      <title xml:lang="en">Civil Code of Mkhitar Gosh</title>
                      <title xml:lang="xcl-Latn-x-lc">Girkʻ datastanacʻ Mkhitʻaray</title>
                      <title xml:lang="xcl-Latn-x-hmb">Girk' datastanac' Mxit'aray</title>
@@ -53,7 +53,7 @@
                      <note>Composed in 1184 A.D.</note>
                   </msItem>
                   <msItem xml:id="MS_Marsh_128-item2" n="2">
-                     <author>Mkhitʻar Gōsh,<date calendar="Gregorian" from="1130" to="1213">ca. 1130-1213</date>Mxit'ar Gōš</author>
+                     <author>Mkhitʻar Gōsh,<date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date>Mxit'ar Gōš</author>
                      <title xml:lang="en">A catena of commentary on the Armenian Liturgy, collected by Moses Vardapet Erzenkatzi.</title>
                      <title xml:lang="hy">Մովսէս վարդապետ Երզնկագի - Հաւաքումն համառաւտ Մեկնութեան սրբոյ Պատարագի, զոր յառաջագոյն արարեալ սրբոց լուսաւոր Հարց.</title>
                      <incipit>Ած՟ որ մեծն է ողորմութեամբ, անսկիզբն...</incipit>
@@ -82,8 +82,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">1617</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">1617</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                   <acquisition>This MS. was bequeathed in 1713 by Archbishop Marsh.</acquisition>
                </history>

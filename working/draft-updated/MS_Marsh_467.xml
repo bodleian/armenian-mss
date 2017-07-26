@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,7 +39,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Marsh 467</idno>
                </msIdentifier>
                <msContents>
@@ -52,7 +52,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item2" n="2">
                      <locus>f. 4</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="xcl-Latn-x-lc">Encyclical letter of Nerses IV Shnorhali, catholics of the Armenians, 1166 A.D.</title>
                      <title xml:lang="xcl-Latn-x-hmb">Թուղթ ընդհանրական</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -67,7 +67,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item4" n="4">
                      <locus>f. 89(b)</locus>
-                     <author>Grigor II, Catholicos of Armenia,<date calendar="Gregorian" from="1066" to="1105">1066-1105</date>
+                     <author>Grigor II, Catholicos of Armenia,<date calendar="#Gregorian" from="1066" to="1105">1066-1105</date>
                      </author>
                      <title xml:lang="en">Letter of the catholicos Gregory II, Vcayaser (Martyrophilus), t the Armenians, in which he exhorts them to hold fast their computation of Easter (in 1102).</title>
                      <title xml:lang="hy">Սրբոյն Գրիգորի Հայոց վերադիտողի Վկայասիրի Բան յորդորական վասն մոլորման զատկին.</title>
@@ -102,14 +102,14 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item9" n="9">
                      <locus>f. 100</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="en">Chapters 1-3 of the Letter of Gregory III, catholicos, to the Armenian priests of Amayk in Upper Mesopotamia, composed for him by his brother Nerses Shnorhali.</title>
                      <incipit>Որ թէպէտ եւ տէրունական հրամանն յորդորէ ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item10" n="10">
                      <locus>f. 127(b)</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198">1153-1198</date>
+                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">1153-1198</date>
                      </author>
                      <title xml:lang="en">Letter from Nerses of Lambron, archibishop of Tasus, to Yousic (= Hesychios) the hermit in Antioch.</title>
                      <title xml:lang="hy">Թուղթ Ներսեսի արքեպ՟ի Կիլիկէցւոյ Տարսոնի. Պատասխանի Յուսական արգելական ճգնաւորի ի մեծն Անտիոք, յորում լուծանէ զհարցումն կղերիկոսացն Անտիոքու. եւ վս՟ որ ի Հայք ա՟ծային շնորհի ճշմարտութե՟ ի վր՟քահանայական կարգի ...</title>
@@ -119,7 +119,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item11" n="11">
                      <locus>f. 139(b)</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198">1153-1198</date>
+                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">1153-1198</date>
                      </author>
                      <title xml:lang="en">Extract from the discourse of the same wiht the Emperir and the Greek oatruarch of Constantinople, to whom he was sent by Leion I, king of the Armenians, in 1197, as deputy, on some of the questions on which the Armenian church differed from the Greek.</title>
                      <title xml:lang="hy">Տն՟ Ներսեսի արքէպ՟ի Տարսոնի Կիւղիկեցւոյշ յորժամ չոգաւ դեսպանուեամբ ի թգ՟էն Հայոց մեծաց Լեւոնէ ի Կոստանդնուպօլիս: Հարցումն պատրիարգին եւ պտ՟խի Ներսեսի.</title>
@@ -128,32 +128,32 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item12" n="12">
                      <locus>f. 145(b)</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="en">Discourse of nerses Shonrhali, catholicos, at his consecration by his borther Gregory III, on Pam Sunday (in the year 1166)</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item13" n="13">
                      <locus>f. 156</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="en">Reply of the same to Michael, patriarch of Syria</title>
                      <incipit>Զզուարթուն եւ զարիագոյն հովուապետ ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item14" n="14">
                      <locus>f. 157(b)</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="en">Letter from the same to Paul the priest, who had joined the Greek church and calumniated the Armenian church</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item15" n="15">
                      <locus>f. 159(b)</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="en">Encyclical from the same to the Armenian priests and vardapets giving notice on the subject of th impending general council for effecting an union with the Greek church</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item16" n="16">
                      <locus>ff. 161-239(b)</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198">1153-1198</date>
+                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">1153-1198</date>
                      </author>
                      <title xml:lang="en">Acts and correspondence exchanged between the Greeks and Armenisn (1165-1180), on the subject of an unvion of the two churches.</title>
                      <title xml:lang="hy">Պատճառ խնդրոյ միաբանութեան</title>
@@ -162,26 +162,26 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item17" n="17">
                      <locus>f. 240(b)</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="en">Reply of Nerses Shnorhali to Iacob, a Syrian vardapet of Melitene, in Lesser Armenia.</title>
                      <incipit>Ի զգալի դիտաւորութիւն գրաւորական</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item18" n="18">
                      <locus>f. 251</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="en">Three letters from the same in reply to the letters of an anonymous 'impertinent'</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item19" n="19">
                      <locus>f. 256</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="en">Three letters from the same to George vardapet</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item20" n="20">
                      <locus>f. 257(b)</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Šnorhali, Nersēs</author>
                      <title xml:lang="en">Title and first few lines only of an Encyclical letter from the same to the inhabitants of Kars and the neighbourhood, on the election of their bishop Khatchadoor (not mentioned in the table of contents)</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
@@ -257,7 +257,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item30" n="30">
                      <locus>f. 331(b)</locus>
-                     <author>Vardan, Areweltsʻi,<date calendar="Gregorian" from="1198" to="1271">ca. 1198-1271</date>
+                     <author>Vardan, Areweltsʻi,<date calendar="#Gregorian" from="1198" to="1271">ca. 1198-1271</date>
                      </author>
                      <title xml:lang="en">Letter from Constantine I, catholicos, to King Hethoum I, being an answer to the Pope's letter brought by the legate Dimanche in the year 697 Arm. = 1248 A.D., composed by Vartan vartabed.</title>
                      <incipit>Քս՟ապսակեալ ս՟բ թագաւորի ... Յառաքեալ գրոյդ քոյ զքոյին հրամանդ ...</incipit>
@@ -304,7 +304,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item37" n="37">
                      <locus>f. 371</locus>
-                     <author>Anania Shirakatsʻi,<date calendar="Gregorian">fl. 685</date>
+                     <author>Anania Shirakatsʻi,<date calendar="#Gregorian">fl. 685</date>
                      </author>
                      <title xml:lang="en">The number of verses in both Testaments, by Anania Shiracatzi, the mathematicion (7th. cent.)</title>
                      <title xml:lang="hy">Անանիայի Շիրակունւոյ համարոմի Թիւք որչափութեան տանց հին կտակ.</title>
@@ -313,7 +313,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item38" n="38">
                      <locus>f. 372(b)</locus>
-                     <author>Anania Shirakatsʻi,<date calendar="Gregorian">fl. 685</date>
+                     <author>Anania Shirakatsʻi,<date calendar="#Gregorian">fl. 685</date>
                      </author>
                      <title xml:lang="en">The names and colours of precious stones [by the same]</title>
                      <title xml:lang="hy">Անուանք ականց եւ գունաւորութիւնք նոցին.</title>
@@ -322,7 +322,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item39" n="39">
                      <locus>f. 374</locus>
-                     <author>Anania Shirakatsʻi,<date calendar="Gregorian">fl. 685</date>
+                     <author>Anania Shirakatsʻi,<date calendar="#Gregorian">fl. 685</date>
                      </author>
                      <title xml:lang="en">On weights and measures, by the same.</title>
                      <title xml:lang="hy">Անանիայի Շիրակիունւոյ համարոշի Յաղագս կշռոց եւ կշռորդաց.</title>
@@ -331,7 +331,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item40" n="40">
                      <locus>f. 377</locus>
-                     <author>Anania Shirakatsʻi,<date calendar="Gregorian">fl. 685</date>
+                     <author>Anania Shirakatsʻi,<date calendar="#Gregorian">fl. 685</date>
                      </author>
                      <title xml:lang="en">Arithmetical problems, by the same.</title>
                      <title xml:lang="hy">Անանիայի Շիրակունւոյ Յաղագս կատարման համարողութեան եւ կերպից հարցման.</title>
@@ -369,8 +369,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">17th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">17th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                   <acquisition>This MS. was bequeathed in 1713 by Archbishop Marsh.</acquisition>
                </history>

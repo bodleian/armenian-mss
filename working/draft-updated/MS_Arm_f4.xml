@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,7 +39,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. f.4</idno>
                </msIdentifier>
                <msContents>
@@ -67,8 +67,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">17th (?) cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">17th (?) cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                   <acquisition>This MS. was sent from Smyrna on Nov. 28, 1889, by the Rev. Greville H. Chester, B.A.</acquisition>
                </history>

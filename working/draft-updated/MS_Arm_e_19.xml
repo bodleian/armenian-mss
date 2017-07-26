@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,13 +39,13 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. e. 19</idno>
                </msIdentifier>
                <msContents>
                   <summary>St. John Chrysostom's Homilies, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_e_19-item1" n="1">
-                     <author>John Chrysostom, Saint,<date calendar="Gregorian" to="0407">d. 407</date>
+                     <author>John Chrysostom, Saint,<date calendar="#Gregorian" to="0407">d. 407</date>
                      </author>
                      <title xml:lang="en" type="supplied">Homilies of the Statue</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -53,7 +53,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_19-item2" n="2">
                      <locus>f.156(b)</locus>
-                     <author>John Chrysostom, Saint,<date calendar="Gregorian" to="0407">d. 407</date>
+                     <author>John Chrysostom, Saint,<date calendar="#Gregorian" to="0407">d. 407</date>
                      </author>
                      <title xml:lang="en">Eulogy on St. Ignatius</title>
                      <incipit>Պատուասէր կոչնատեարքն ստէպ բազմախորտիկս ...</incipit>
@@ -61,7 +61,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_19-item3">
                      <locus>f.164</locus>
-                     <author>John Chrysostom, Saint,<date calendar="Gregorian" to="0407">d. 407</date>
+                     <author>John Chrysostom, Saint,<date calendar="#Gregorian" to="0407">d. 407</date>
                      </author>
                      <title xml:lang="en">On Almsgiving, Forgiveness, and other Virtues</title>
                      <incipit>Ի զանազան երանգս գունոց ծաղկանց ...</incipit>
@@ -91,8 +91,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">18th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">18th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>

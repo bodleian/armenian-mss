@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,14 +39,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. f. 19</idno>
                </msIdentifier>
                <msContents>
                   <summary>Homilies of St. Gregory of Armenia, etc., 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_19-item1" n="1">
                      <locus>f. 2</locus>
-                     <author>Gregory, the Illuminator, Saint,<date calendar="Gregorian" from="0240" to="0332">ca. 240-ca. 332</date>Grigor Lusavoric'Գրիգոր Լուսավորիչ</author>
+                     <author>Gregory, the Illuminator, Saint,<date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date>Grigor Lusavoric'Գրիգոր Լուսավորիչ</author>
                      <title xml:lang="en">Homilies of St. Gregory the Illuminator</title>
                      <title xml:lang="xcl-Latn-x-hmb">Yačaxapatum</title>
                      <title xml:lang="hy">Յաճախապատում</title>
@@ -88,8 +88,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">18th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">18th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>

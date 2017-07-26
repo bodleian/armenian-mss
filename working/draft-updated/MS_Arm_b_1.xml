@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,7 +39,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. b. 1</idno>
                </msIdentifier>
                <msContents>
@@ -146,7 +146,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_b_1-item15" n="17">
                      <locus>f.</locus>
-                     <author>Evagrius, Ponticus,<date calendar="Gregorian" from="0345" to="0399">345?-399</date>
+                     <author>Evagrius, Ponticus,<date calendar="#Gregorian" from="0345" to="0399">345?-399</date>
                      </author>
                      <title xml:lang="en">Contains 4 fragments of the works of Evagrius of Pontus.</title>
                      <title xml:lang="hy">a) Եւագրեայ Բան խրատու. Զերախայրին կալոյ իմոյ …; b) Եւագրեայ Առ մարտիրոսն.; c) Նորին Եւագրեայ .Եթէ ունիցիս ընդ քեւ եղբարս …; d) Հաւատք որ ի Նիկիայ</title>
@@ -198,7 +198,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_b_1-item22" n="29">
                      <locus>f. 30</locus>
-                     <author>John Chrysostom, Saint,<date calendar="Gregorian" from="0407">d. 407</date>
+                     <author>John Chrysostom, Saint,<date calendar="#Gregorian" from="0407">d. 407</date>
                      </author>
                      <title xml:lang="en">(Verso:) End of a homily; (Recto:) Beginning of the Homily of John Chrysostom on the Incomprehensible</title>
                      <incipit>Աշխատայսեր մշակք յորժամ տեսանեն ծառ անպտուղ …</incipit>
@@ -273,8 +273,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">Gregorian</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">Gregorian</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                   <acquisition>A number of the leaves contained within this MS. were taken from other MSS. in the Bodleain collection; others were given by Dr. Baronian.</acquisition>
                </history>

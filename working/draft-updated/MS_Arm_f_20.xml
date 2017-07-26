@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,13 +39,13 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. f. 20</idno>
                </msIdentifier>
                <msContents>
                   <summary>Bartholomew of Bologna, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_20-item1" n="1">
-                     <author>Bartholomew, of Bologna,<date calendar="Gregorian">13th cent.</date>
+                     <author>Bartholomew, of Bologna,<date calendar="#Gregorian">13th cent.</date>
                      </author>
                      <editor role="translator">
                         <persName xml:lang="en" type="supplied">Jacob of Qerni</persName>
@@ -78,8 +78,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">18th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">18th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>

@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,7 +39,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. e. 10</idno>
                </msIdentifier>
                <msContents>
@@ -132,7 +132,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_10-item13" n="13">
                      <locus>f. 67</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="gregorian" from="1153" to="1198"/>1153-1198</author>
+                     <author>Nerses, of Lambron, Saint,<date calendar="#gregorian" from="1153" to="1198">gregorian</date>1153-1198</author>
                      <title xml:lang="en">On the five patriarchates and their archbishops and bishops, written by Nilus the monk, surnamed Doxapatrius, at the request of Roger II, king of Sicily, and translated (from Greek) into Armenian by Archbishop Nerses, of Lambron, and the metropolitan Constantine (in 1179).</title>
                      <title xml:lang="hy">Գիր որ եղեւ առ ղինոսէ կրաւանաւորէ մակակոչեցելոյ դոքսապատիու … վս՟ ե՟. պատրիարգացն աթոռոց …</title>
                      <incipit>Ամենամեծատոհմ տէր իմ, վասն պատճառին զոր գրեցեր …</incipit>
@@ -167,8 +167,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">18th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">18th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                   <acquisition>This MS. seems to have been given, not later than 1697, by Robert Burscough, M.A., of Queen's College, afterwards archdeacon of Barnstaple. The 1697 catalogue calls the donor D. Ric. Bourscough, and a note on f. 3 of the MS. descrobes it as "ex dono Dris. R. Burchscough", but this may be through misunderstanding of D. = Dominus. It was at one time referenced as Arch. C. 32, and afterwards as MS.Bodl. Or. 254.</acquisition>
                </history>

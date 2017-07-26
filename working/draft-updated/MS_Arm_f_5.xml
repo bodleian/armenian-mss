@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,13 +39,13 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. f. 5</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gregory of Narek, 13th cent.</summary>
                   <msItem xml:id="MS_Arm_f_5-item1" n="1">
-                     <author>Grigor, Narekatsʻi, Saint,<date calendar="Gregorian" from="0951" to="1003">951-1003.</date>
+                     <author>Grigor, Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003.</date>
                      </author>
                      <title xml:lang="en">Book of Lamentations</title>
                      <title xml:lang="xcl-Latn-x-hmb">Matean Ołbergut'ean</title>
@@ -75,8 +75,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">13th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">13th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>

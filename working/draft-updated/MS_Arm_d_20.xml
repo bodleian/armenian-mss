@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,14 +39,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. d. 20</idno>
                </msIdentifier>
                <msContents>
                   <summary>Correspondence of Nerses Shnorhali, etc., 18th cent.</summary>
                   <msItem xml:id="MS_Arm_d_20-item1" n="1">
                      <locus>f. 4(b)</locus>
-                     <author>Grigor, Narekatsʻi, Saint,<date calendar="Gregorian" from="0951" to="1003">951 - 1003</date>
+                     <author>Grigor, Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951 - 1003</date>
                      </author>
                      <title xml:lang="en">On sound faith and pure life</title>
                      <incipit>Տէրունեան հաւանեալ խրատու որ ըստ պարգևաց էր …</incipit>
@@ -55,21 +55,21 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_20-item2" n="1">
                      <locus>f. 27(b)</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Encyclical Letter of nerses Shnorhali</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_20-item3" n="1">
                      <locus>f. 64</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Letter of Nerses Shnorhali to the people of Mamestia about the Sectaries called Arevordiq</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_20-item4" n="1">
                      <locus>f. 67</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Letter of Nerses Shnorhali to Michael, patriarch of the Syrians</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -83,13 +83,13 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_20-item6" n="1">
                      <locus>f. 73(b)</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198"/>1153-1198</author>
+                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">Gregorian</date>1153-1198</author>
                      <title xml:lang="en">Synodical Address of Nerses of Lambron</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_20-item7" n="1">
                      <locus>f. 94</locus>
-                     <author>Athanasius, Saint, Patriarch of Alexandria,<date calendar="Gregorian" to="0373">d. 373</date>
+                     <author>Athanasius, Saint, Patriarch of Alexandria,<date calendar="#Gregorian" to="0373">d. 373</date>
                      </author>
                      <title xml:lang="en">Eulogy of the Holy Cross</title>
                      <incipit>զխաչն մեր կենարար …</incipit>
@@ -97,7 +97,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_20-item8" n="1">
                      <locus>f. 97</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="Gregorian" from="1153" to="1198"/>1153-1198</author>
+                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">Gregorian</date>1153-1198</author>
                      <title xml:lang="en">Acts, correspondence, etc. of Nerses of Lambron</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Various letters to the Emperor Manuel and other material.</note>
@@ -110,7 +110,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_20-item10" n="1">
                      <locus>f. 149</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Various letters of Nerses Shnorhali</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -140,8 +140,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">18th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">18th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>

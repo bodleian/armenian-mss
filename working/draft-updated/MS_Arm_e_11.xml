@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,14 +39,14 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. e. 11</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gregory of Tathev, 15th cent.</summary>
                   <msItem xml:id="MS_Arm_e_11-item1" n="1">
                      <locus>f. 1</locus>
-                     <author>Grigor, Tatʻevatsʻi,<date calendar="Gregorian" from="1346" to="1409">1346-1409</date>
+                     <author>Grigor, Tatʻevatsʻi,<date calendar="#Gregorian" from="1346" to="1409">1346-1409</date>
                      </author>
                      <title xml:lang="en">The Book of Questions</title>
                      <title xml:lang="xcl-Latn-x-hmb">Girk' Harc'manc'</title>
@@ -54,7 +54,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_11-item2" n="2">
                      <locus>f. 400(b)</locus>
-                     <author>Grigor, Tatʻevatsʻi,<date calendar="Gregorian" from="1346" to="1409">1346-1409</date>
+                     <author>Grigor, Tatʻevatsʻi,<date calendar="#Gregorian" from="1346" to="1409">1346-1409</date>
                      </author>
                      <title xml:lang="en">Questions of John Vardapet, and Solutions of Gregory of Tathev</title>
                      <title xml:lang="xcl-Latn-x-hmb">P'ok'r Harc'munk'</title>
@@ -83,8 +83,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">15th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">15th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>

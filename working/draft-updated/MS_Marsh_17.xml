@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,39 +39,39 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Marsh 17</idno>
                </msIdentifier>
                <msContents>
                   <summary>Poems of Nerses IV, 17th cent.</summary>
                   <msItem xml:id="MS_Marsh_17-item1" n="1">
                      <locus>f. 1</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
                      <title xml:lang="en">The scriptural elegy</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The first leaf, containing vv. 1-17, is wanting.</note>
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item2" n="2">
                      <locus>f. 133</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
                      <title xml:lang="en">Profession of Faith</title>
                      <title xml:lang="hy">բան հաւատոյ</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item3" n="3">
                      <locus>f. 183</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
                      <title xml:lang="en">Moral precepts, in alphabetical order</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item4" n="4">
                      <locus>f. 192</locus>
-                     <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
+                     <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
                      <title xml:lang="en">On heaven and its order</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <msItem xml:id="MS_Marsh_17-item4-item1" n="5">
                         <locus>f. 205</locus>
-                        <author>Shnorhali, Nersēs,<date calendar="Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
+                        <author>Shnorhali, Nersēs,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>Ներսէս Շնորհալի</author>
                         <title xml:lang="en">Profession of fauth, alphabetically arranged</title>
                         <textLang mainLang="hy">Armenian</textLang>
                         <note>Only the last two verses and the author's versified subscription.</note>
@@ -100,8 +100,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">17th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">17th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                   <acquisition>This MS. was bequeathed in 1713 by Archbishop Marsh.</acquisition>
                </history>

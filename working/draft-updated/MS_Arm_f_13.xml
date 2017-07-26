@@ -11,7 +11,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
-            <date calendar="Gregorian">[Date when first made available]</date>
+            <date calendar="#Gregorian">[Date when first made available]</date>
             <pubPlace>
                <address>
                   <addrLine>Department of Special Collections</addrLine>
@@ -39,7 +39,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection type="main">Oriental Manuscripts</collection>
+                  <collection type="main">Oriental Manuscripts </collection>
                   <idno>MS. Arm. f. 13</idno>
                </msIdentifier>
                <msContents>
@@ -53,7 +53,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_13-item2" n="2">
                      <locus>f. 222</locus>
-                     <author>Grigor Pahlawuni, Magistros,<date calendar="Gregorian" from="0985" to="1085">985-1058</date>
+                     <author>Grigor Pahlawuni, Magistros,<date calendar="#Gregorian" from="0985" to="1085">985-1058</date>
                      </author>
                      <title xml:lang="en">Selection from Letters of Gregory Magistros</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -83,8 +83,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian">17th cent.</origDate>
-                     <origDate calendar="Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian">17th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
                   </origin>
                </history>
                <additional>
