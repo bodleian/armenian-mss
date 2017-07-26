@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_61">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
+            <funder>JISC-??-</funder>
+            <principal>Gillian Evison</principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>oriental@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>OCIMCO</idno>
+            <idno type="msID">MS_Arm_e_5</idno>
+            <idno type="catalogue">Armenian</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Arm_e_5" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection type="main">Oriental Manuscripts </collection>
+                  <idno>MS. Arm. e. 5</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Collects and Canticles, 15th cent.</summary>
+                  <msItem xml:id="MS_Arm_e_5-item1" n="1">
+                     <locus>f. 3</locus>
+                     <title xml:lang="en">The Theophany</title>
+                     <incipit>Մաքուր եւ ամբիծ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item2" n="2">
+                     <locus>f. 5</locus>
+                     <title xml:lang="en">The Annunciation</title>
+                     <incipit>Խնդութեէան ձայն...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item3" n="3">
+                     <locus>f. 11(b)</locus>
+                     <title xml:lang="en">The benediction of water on the day of the Theophany</title>
+                     <incipit>Յամենայն ժամ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item4" n="4">
+                     <locus>f. 14</locus>
+                     <title xml:lang="en">The Circumcision</title>
+                     <incipit>Գոչումն ըղձաքին...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item5" n="5">
+                     <locus>f. 17</locus>
+                     <title xml:lang="en">St. John the Precursor</title>
+                     <incipit>Մեծապայծառ փառաւք...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item6" n="6">
+                     <locus>f. 19(b)</locus>
+                     <title xml:lang="en">Candlemas-day</title>
+                     <incipit>Միասնական...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item7" n="7">
+                     <locus>f. 22(b)</locus>
+                     <title xml:lang="en">Candlemas-day</title>
+                     <incipit>Գովեալ եւ աւրհնեալ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item8" n="8">
+                     <locus>f. 25</locus>
+                     <title xml:lang="en">The Sunday of Aradchavork</title>
+                     <incipit>Գոյիդ կատարեալ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item9" n="9">
+                     <locus>f. 29(b)</locus>
+                     <title xml:lang="en">St. Sukias</title>
+                     <incipit>Գանձ սիրոյ քոյին...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item10" n="10">
+                     <locus>f. 34</locus>
+                     <title xml:lang="en">St. Theodore, surnames Tyro and Mercurius</title>
+                     <incipit>Գոհաբանեալ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item11" n="11">
+                     <locus>f. 37</locus>
+                     <title xml:lang="en">The 2nd Sunday in Lent</title>
+                     <incipit>Գթութեամբ իջեր...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item12" n="12">
+                     <locus>f. 41</locus>
+                     <title xml:lang="en">St. Cyril of Jerusalem</title>
+                     <incipit>Գթացեալ քոյին...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item13" n="13">
+                     <locus>f. 44</locus>
+                     <title xml:lang="en">The 3rd Sunday in Lent</title>
+                     <incipit>Մեծ եւ ահեղ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item14" n="14">
+                     <locus>f. 47</locus>
+                     <title xml:lang="en">St. Joh of Jerusalem and St. Ephraem</title>
+                     <incipit>Գթուփեամբ քոյին...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item15" n="15">
+                     <locus>f. 49</locus>
+                     <title xml:lang="en">The 4th Sunday in Lent</title>
+                     <incipit>Մեծ եւ ահեղ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item16" n="16">
+                     <locus>f. 53</locus>
+                     <title xml:lang="en">The 40 Martyrs of Sebaste</title>
+                     <incipit>Մեծ եւ հզաւր...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item17" n="17">
+                     <locus>f. 56</locus>
+                     <title xml:lang="en">The 5th Sunday in Lent</title>
+                     <incipit>Մեծ եւ ահեղ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item18" n="18">
+                     <locus>f. 58(b)</locus>
+                     <title xml:lang="en">St. Gregory the Illuminator</title>
+                     <incipit>Մեծ եւ հզաւր...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item19" n="19">
+                     <locus>f. 63</locus>
+                     <title xml:lang="en">The 6th Sunday in Lent</title>
+                     <incipit>Մեղայ տր՟ մերայ</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item20" n="20">
+                     <locus>f. 67(b)</locus>
+                     <title xml:lang="en">The Raising of Lazarus</title>
+                     <incipit>Գոչումն եղձական...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item21" n="21">
+                     <locus>f. 72</locus>
+                     <title xml:lang="en">Palm-Sunday</title>
+                     <incipit>Համագոյական...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item22" n="22">
+                     <locus>f. 75(b)</locus>
+                     <title xml:lang="en">The Great Wednesday</title>
+                     <incipit>Մեծ եւ ահեղ խորհուրդ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item23" n="23">
+                     <locus>f. 79</locus>
+                     <title xml:lang="en">The Great (or Maundy) Thursday</title>
+                     <incipit>Մեծապայծառ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item24" n="24">
+                     <locus>f. 82</locus>
+                     <title xml:lang="en">The Great (or Good) Friday</title>
+                     <incipit>Խորհուրդ սոսկալի...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item25" n="25">
+                     <locus>f. 86(b)</locus>
+                     <title xml:lang="en">The Great Saturday</title>
+                     <incipit>Խորհուրդ հանքստեան...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item26" n="26">
+                     <locus>f. 90(b)</locus>
+                     <title xml:lang="en">Easter-day</title>
+                     <incipit>Մարդասիրութե ամբ որդիդ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item27" n="27">
+                     <locus>f. 93(b)</locus>
+                     <title xml:lang="en">All Sundays</title>
+                     <incipit>Մեծ աւետեաց ուրախալի...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item28" n="28">
+                     <locus>f. 97(b)</locus>
+                     <title xml:lang="en">Low Sunday</title>
+                     <incipit>Գողանի խորհրդին...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item29" n="29">
+                     <locus>f. 101(b)</locus>
+                     <title xml:lang="en">All Sunday eves</title>
+                     <incipit>Գերամբարձ աստուած...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item30" n="30">
+                     <locus>f. 105</locus>
+                     <title xml:lang="en">Vigils</title>
+                     <title xml:lang="hy">Գիշերապաշտաւն</title>
+                     <incipit>Գերանճառ արփի...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item31" n="31">
+                     <locus>f. 108(b)</locus>
+                     <title xml:lang="en">The Ascension</title>
+                     <incipit>Միակդ ահաւոր...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item32" n="32">
+                     <locus>f. 112</locus>
+                     <title xml:lang="en">Sunday after Ascension</title>
+                     <incipit>Միակդ ահաւոր...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item33" n="33">
+                     <locus>f. 115</locus>
+                     <title xml:lang="en">Pentecost</title>
+                     <incipit>Մեծ եւ հզաւր...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item34" n="34">
+                     <locus>f. 120</locus>
+                     <title xml:lang="en">St. Riphsime</title>
+                     <incipit>Վայելչականաց...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item35" n="35">
+                     <locus>f. 123(b)</locus>
+                     <title xml:lang="en">The Transfiguration</title>
+                     <incipit>Մեծ եւ ահեղ խորհուրդ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item36" n="36">
+                     <locus>f. 126</locus>
+                     <title xml:lang="en">The Assumption</title>
+                     <incipit>Գովաբանեալ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item37" n="37">
+                     <locus>f. 130</locus>
+                     <title xml:lang="en">The Holy Cross</title>
+                     <incipit>Յայն եդեմական...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item38" n="38">
+                     <locus>f. 133</locus>
+                     <title xml:lang="en">The Martyrs</title>
+                     <incipit>Մեծապայծառ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item39" n="39">
+                     <locus>f. 136</locus>
+                     <title xml:lang="en">The Martyrs</title>
+                     <incipit>Խոնարհեալ բանին...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item40" n="40">
+                     <locus>f. 139</locus>
+                     <title xml:lang="en">SS. Ignatius and Polycarp</title>
+                     <incipit>Գոհաբանական...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item41" n="41">
+                     <locus>f. 143</locus>
+                     <title xml:lang="en">The Apostles and Disciples</title>
+                     <incipit>Գերագոյն գոյ է...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item42" n="42">
+                     <locus>f. 146</locus>
+                     <title xml:lang="en">The Angels</title>
+                     <incipit>Մեծ եւ ահեղ խորհուրդ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item43" n="43">
+                     <locus>f. 150</locus>
+                     <title xml:lang="en">St. James of Nisibis</title>
+                     <incipit>Մեծահամբաւ անուն...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item44" n="44">
+                     <locus>f. 153</locus>
+                     <title xml:lang="en">David the Prophet and St. James the Great</title>
+                     <incipit>Խորք անքնին...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item45" n="45">
+                     <locus>f. 157(b)</locus>
+                     <title xml:lang="en">St. Stephen the Protomartyr</title>
+                     <incipit>Մեծ եւ հզաւր...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item46" n="46">
+                     <locus>f. 161</locus>
+                     <title xml:lang="en">SS. Peter and Paul</title>
+                     <incipit>Սուրբ երրորդութիւն...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item47" n="47">
+                     <locus>f. 167(b)</locus>
+                     <title xml:lang="en">The Sons of Thunder</title>
+                     <incipit>Գեղապանձ լուսով...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item48" n="48">
+                     <locus>f. 173</locus>
+                     <title xml:lang="en">St. Basil</title>
+                     <incipit>Խաչաբարձ արփի...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item49" n="49">
+                     <locus>f. 177</locus>
+                     <title xml:lang="en">Eve of the Theophany</title>
+                     <incipit>Տարփումն ըղձական...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item50" n="50">
+                     <locus>f. 180(b)</locus>
+                     <title xml:lang="en">Assumbtion of the V. Mary</title>
+                     <incipit>Մեծապայծառ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item51" n="51">
+                     <locus>f. 186</locus>
+                     <title xml:lang="en">Canticles</title>
+                     <incipit>Այսաւր Գաբրիէլ... - Անարատ տաճար ... - Ածածին մայր լուսոյ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item52" n="52">
+                     <locus>f. 188(b)</locus>
+                     <title xml:lang="en">The Octave of the Holy Cross</title>
+                     <incipit>Մեծապայծառ ակն...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item53" n="53">
+                     <locus>f. 192(b)</locus>
+                     <title xml:lang="en">St. Cyriacus</title>
+                     <incipit>Գերապայծառ արփի...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item54" n="54">
+                     <locus>f. 196</locus>
+                     <title xml:lang="en">St. Leontius, St. Vardan, and their companions</title>
+                     <incipit>Խրամատեալ կանոն...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item55" n="55">
+                     <locus>f. 200</locus>
+                     <title xml:lang="en">Invention of the Holy Cross</title>
+                     <incipit>Խաչի քո քս՟</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item56" n="56">
+                     <locus>f. 204</locus>
+                     <title xml:lang="en">Canticle of the Baptism of Christ</title>
+                     <incipit>Ով զարմանալի...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item57" n="57">
+                     <locus>f. 205</locus>
+                     <title xml:lang="en">Canticle on St. John the Baptist</title>
+                     <incipit>Մկրտիչն քս՟ ի մեծ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item58" n="58">
+                     <locus>f. 206(b)</locus>
+                     <title xml:lang="en">Canticle on the Presentation of Christ in the Temple</title>
+                     <incipit>Այըաւր երուսաղէմ ցնծայ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item59" n="59">
+                     <locus>f. 208(b)</locus>
+                     <title xml:lang="en">The 3rd Sunday in Lent</title>
+                     <incipit>Առ հայրդ աղաղակէմ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item60" n="60">
+                     <locus>f. 209(b)</locus>
+                     <title xml:lang="en">Canticle on the 3rd Sunday in Lent</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item61" n="61">
+                     <locus>f. 210(b)</locus>
+                     <title xml:lang="en">The 5th Sunday in Lent</title>
+                     <incipit>Գանգատ ունիմ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item62" n="62">
+                     <locus>f. 212</locus>
+                     <title xml:lang="en">Canticles on the 5th Sunday in Lent</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item63" n="63">
+                     <locus>f. 212(b)</locus>
+                     <title xml:lang="en">The Resurrection</title>
+                     <incipit>Մայր մարմնացելոյ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item64" n="64">
+                     <locus>f. 214</locus>
+                     <title xml:lang="en">The Resurrection</title>
+                     <incipit>Մեծ հառաչանաւք...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item65" n="65">
+                     <locus>f. 214(b)</locus>
+                     <title xml:lang="en">Canticle on the Resurrection</title>
+                     <incipit>Դասքն հրէական...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item66" n="66">
+                     <locus>f. 216(b)</locus>
+                     <title xml:lang="en">SS. Sargis and Martyros</title>
+                     <incipit>Մեծապայձառ փառօք...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item67" n="67">
+                     <locus>f. 220(b)</locus>
+                     <title xml:lang="en">Canticles on SS. Sargis and Martyros, and other subjects</title>
+                     <incipit>Վկայից հանդիսից...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item68" n="68">
+                     <locus>f. 222(b)</locus>
+                     <title xml:lang="en">Canticles on the Resurrection</title>
+                     <incipit>Նստեալ կանայքն... - Կանայքն արտասուօք...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item69" n="69">
+                     <locus>f. 223</locus>
+                     <title xml:lang="en">St. Anachorets</title>
+                     <incipit>Ճգնաւորք ընտարեալ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item70" n="70">
+                     <locus>f. 227(b)</locus>
+                     <title xml:lang="en">The Holy Innocents</title>
+                     <incipit>Խանդաղակաթ սրտիւ...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item71" n="71">
+                     <locus>f. 230</locus>
+                     <title xml:lang="en">Canticles on the Holy Innocents</title>
+                     <incipit>Սարսեալ Հէրովդէս... - Արթունք 'ուարթունք...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item72" n="72">
+                     <locus>f. 232</locus>
+                     <title xml:lang="en">St. Nerses Catholicos, called the Parthian</title>
+                     <incipit>Գոյ մեզ ցնծալի...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_e_5-item73" n="73">
+                     <locus>f. 235(b)</locus>
+                     <title xml:lang="en">Sons and grandsons of St. Gregory the Illuminator</title>
+                     <incipit>Նոր թագ պետական...</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="cotton_paper">
+                        <extent>
+                           <dimensions type="leaf" unit="in">
+                              <height>7.25"</height>
+                              <width>5.375"</width>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <dimensions type="line-height" unit="mm"/>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" script="Bolorgir"/>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian">15th cent.</origDate>
+                     <origDate calendar="#Armenian">Armenian</origDate>
+                  </origin>
+                  <acquisition>This MS. was bought from Mr. Joseph Bayan on Nov. 13, 1882.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="local_class">
+               <category xml:id="commentary">
+                  <catDesc>Commentary</catDesc>
+               </category>
+               <category xml:id="supercommentary">
+                  <catDesc>Supercommentary</catDesc>
+               </category>
+               <category xml:id="indices">
+                  <catDesc>Indices</catDesc>
+               </category>
+               <category xml:id="translation">
+                  <catDesc>Translation</catDesc>
+               </category>
+               <category xml:id="multipleWorks">
+                  <catDesc>multipleWorks</catDesc>
+               </category>
+               <category xml:id="abridgement">
+                  <catDesc>Abridgement</catDesc>
+               </category>
+               <category xml:id="supplement">
+                  <catDesc>Supplement</catDesc>
+               </category>
+               <category xml:id="papers">
+                  <catDesc>Papers</catDesc>
+               </category>
+               <category xml:id="documents">
+                  <catDesc>Documents</catDesc>
+               </category>
+               <category xml:id="extract">
+                  <catDesc>Extract</catDesc>
+               </category>
+               <category xml:id="gloss">
+                  <catDesc>Gloss</catDesc>
+               </category>
+               <category xml:id="selection">
+                  <catDesc>Selection</catDesc>
+               </category>
+               <category xml:id="diagrams">
+                  <catDesc>Diagrams</catDesc>
+               </category>
+               <category xml:id="notes">
+                  <catDesc>Notes</catDesc>
+               </category>
+               <category xml:id="letters">
+                  <catDesc>Letters</catDesc>
+               </category>
+               <category xml:id="versification">
+                  <catDesc>Versification</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/names/n80120153">Catholic Church. Psalter Collects</ref>
+                  </item>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/sh85021126#concept">Catholic Church--Hymns</ref>
+                  </item>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/sh2002011417#concept">Liturgy</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2017-07-26">
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+         </change>
+         <change when="2012-01-23">
+            <persName>Robin Meyer</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cat_pdf/p21.pdf"/>
+      <graphic url="cat_pdf/p23.pdf"/>
+      <graphic url="cat_pdf/p25.pdf"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
