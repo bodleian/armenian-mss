@@ -45,13 +45,13 @@
                <msContents>
                   <summary>Gospels, A.D. 1497</summary>
                   <msItem xml:id="MS_Arm_e_1-item1" n="1">
-                     <author/>
+                     
                      <editor role="copyist">
                         <persName xml:lang="en" type="supplied">Grigor of Aghthamar</persName>
                         <persName xml:lang="hy">Գրիգորիս Աղթամարցի</persName>
                      </editor>
-                     <title xml:lang="xcl-Latn-x-lc"/>
-                     <title xml:lang="xcl-Latn-x-hmb"/>
+                     
+                     
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

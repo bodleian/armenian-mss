@@ -53,14 +53,14 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item2" n="2">
                      <locus>f. 7</locus>
-                     <author/>
+                     
                      <title xml:lang="en">On Abusive Language and Malefactors</title>
                      <incipit>Կարգեցին հայրապետքն ՟յժ՟ը որք էին ի Նիկիա ժողովեալ, վ՟ս անաւրէն և պիղծ իշուցատուացն և հերձուածողաց …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item3" n="3">
                      <locus>f. 16</locus>
-                     <author/>
+                     
                      <title xml:lang="en">History of Tiridtaes and St. Grefory the Illuminator</title>
                      <incipit>… Յոտն եկաց Լիկիանոս և պատմեաց առաջի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -68,7 +68,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item4" n="4">
                      <locus>f. 31(b)</locus>
-                     <author/>
+                     
                      <title xml:lang="en">Formula of Faith, 'from the traditions of the fathers'.</title>
                      <incipit>Խոստաովանիմք և հաւատամք զհայր ա՟ծ անեղ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -82,14 +82,14 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item6" n="7">
                      <locus>f. 99</locus>
-                     <author/>
+                     
                      <title xml:lang="en">A Sermon on Hell</title>
                      <incipit>Արդ եկայք այսօր դասք մեղաւորաց …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item7" n="8">
                      <locus>f. 112</locus>
-                     <author/>
+                     
                      <title xml:lang="en">Divination by Dreams ('Երազահան'), 'written by the Prophet Daniel'.</title>
                      <incipit>Ա՟ծ տեսանելն ի տան քում, տան նորոգութիւն …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -97,13 +97,13 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item8" n="9">
                      <locus>f. 113</locus>
-                     <author/>
+                     
                      <title xml:lang="en">History of Khikar the Philosopher</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item9" n="10">
                      <locus>f. 174</locus>
-                     <author/>
+                     
                      <title xml:lang="en">Divination by Chorea ('Մարմնախաղաց', 'παλμα(σ)τική') written by the philosopher king Alexander</title>
                      <incipit>Թէ սկաւառակն խարղայ, մեծութիւն է …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -111,13 +111,13 @@
                   <msItem xml:id="MS_Arm_f_10-item10" n="11">
                      <locus>f. 181</locus>
                      <author>Story of a Monk</author>
-                     <title xml:lang="en"/>
+                     
                      <incipit>Միայնակեաց իմն ճգնաւոր աղօթէր ի յանապատի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item11" n="12">
                      <locus>f. 183(b)</locus>
-                     <author/>
+                     
                      <title xml:lang="en">Four moral fables</title>
                      <incipit>Երիտասարդ մի ուխտ եդեալ էր…</incipit>
                      <textLang mainLang="xcl">Armenian</textLang>
@@ -131,7 +131,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item13" n="14">
                      <locus>f. 219</locus>
-                     <author/>
+                     
                      <title xml:lang="en">Extracts from Menologium (Յայսմաւուրք)</title>
                      <textLang mainLang="xcl">Armenian</textLang>
                   </msItem>

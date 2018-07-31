@@ -48,13 +48,13 @@
                      <locus>f. 1</locus>
                      <author>Hieronymus Vardapet of Lemberg</author>
                      <title xml:lang="en">A controversial letter 'Concerning the Holy Catholic Faith'</title>
-                     <title xml:lang="hy"/>
+                     
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Written 1688.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_12-item2" n="2">
                      <locus>f. 102(b)</locus>
-                     <author/>
+                     
                      <title xml:lang="en">Heresies and false doctrines gathered from other nations into the meeting-house of the worshippers of the Odznetzi</title>
                      <title xml:lang="hy">Աղանդք և հերետիկիսական մոլորութիւնք հաւաքեալ յայլոց ազգաց ի ժողովարան Օձնեցապաշտից</title>
                      <textLang mainLang="hy">Armenian</textLang>

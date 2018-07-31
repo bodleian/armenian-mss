@@ -47,7 +47,7 @@
                   <msItem xml:id="MS_Marsh_467-item1" n="1">
                      <locus>f. 1(b)</locus>
                      <title xml:lang="en">Table of contentes from the 1st to the 7th article.</title>
-                     <title xml:lang="xcl-Latn-x-hmb"/>
+                     
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item2" n="2">
@@ -59,9 +59,9 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item3" n="3">
                      <locus>f. 76(b)</locus>
-                     <author/>
+                     
                      <title xml:lang="xcl-Latn-x-lc">Chapters 7-9 of the Letter of Gregory III</title>
-                     <title xml:lang="xcl-Latn-x-hmb"/>
+                     
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>See article No. 9 in this MS.</note>
                   </msItem>

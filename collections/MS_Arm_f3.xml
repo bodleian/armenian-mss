@@ -70,7 +70,7 @@
                   <msItem xml:id="MS_Arm_f3-item4" n="4">
                      <locus>f. 153(b)</locus>
                      <title xml:lang="en">Some more hemerological formulae, six in number, and chronological notes.</title>
-                     <title xml:lang="hy"/>
+                     
                      <incipit>Րոպէ աւսպէս արա. Կալի նաւասարդի ամսէն միմչև ուր ես …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The end is wanting.</note>
@@ -78,14 +78,14 @@
                   <msItem xml:id="MS_Arm_f3-item5" n="5">
                      <locus>f. 155</locus>
                      <title xml:lang="en">Notes on weights and measures.</title>
-                     <title xml:lang="hy"/>
+                     
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The neginning and the end are missing.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item6" n="6">
                      <locus>f .156</locus>
                      <title xml:lang="en">Short notes on philosophical, rhetorical, theological, and other matters, in form of question and answer.</title>
-                     <title xml:lang="hy"/>
+                     
                      <incipit>… ա՟ծաբանէ: Հց. Զի՞նչ է իմաստասիրութիւն. Պտ. Արուեստ է արուեստից …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The beginning is wanting.</note>
@@ -102,7 +102,7 @@
                   <msItem xml:id="MS_Arm_f3-item8" n="8">
                      <locus>f. 164</locus>
                      <title xml:lang="en">Some hemerological notes, with tables.</title>
-                     <title xml:lang="hy"/>
+                     
                      <incipit>Գիր բանալեաց աւսպէս արա …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
