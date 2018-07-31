@@ -124,7 +124,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item12" n="13">
                      <locus>f. 190</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Riddles (Հանելուկք) of Nerses Shnorhali</title>
                      <textLang mainLang="xcl">Armenian</textLang>
@@ -169,7 +169,7 @@
                         <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

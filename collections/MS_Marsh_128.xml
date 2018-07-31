@@ -45,7 +45,7 @@
                <msContents>
                   <summary>Laws, etc., A.D. 1617.</summary>
                   <msItem xml:id="MS_Marsh_128-item1" n="1">
-                     <author>Mkhitʻar Gōsh,<date calendar="#Gregorian" from="1130" to="1213">ca. 1130 - 1213</date>Mxit'ar Goš</author>
+                     <author>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130 - 1213</date> Mxit'ar Goš</author>
                      <title xml:lang="en">Civil Code of Mkhitar Gosh</title>
                      <title xml:lang="xcl-Latn-x-lc">Girkʻ datastanacʻ Mkhitʻaray</title>
                      <title xml:lang="xcl-Latn-x-hmb">Girk' datastanac' Mxit'aray</title>
@@ -53,7 +53,7 @@
                      <note>Composed in 1184 A.D.</note>
                   </msItem>
                   <msItem xml:id="MS_Marsh_128-item2" n="2">
-                     <author>Mkhitʻar Gōsh,<date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date>Mxit'ar Gōš</author>
+                     <author>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date> Mxit'ar Gōš</author>
                      <title xml:lang="en">A catena of commentary on the Armenian Liturgy, collected by Moses Vardapet Erzenkatzi.</title>
                      <title xml:lang="hy">Մովսէս վարդապետ Երզնկագի - Հաւաքումն համառաւտ Մեկնութեան սրբոյ Պատարագի, զոր յառաջագոյն արարեալ սրբոց լուսաւոր Հարց.</title>
                      <incipit>Ած՟ որ մեծն է ողորմութեամբ, անսկիզբն...</incipit>
@@ -93,7 +93,7 @@
                         <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

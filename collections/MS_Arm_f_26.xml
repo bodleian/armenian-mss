@@ -59,14 +59,14 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item3" n="3">
                      <locus>f. 262</locus>
-                     <author>Grigor, Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
+                     <author>Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
                      </author>
                      <title xml:lang="en">The 33rd chapter of Grigor Narekac‘i.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item4" n="4">
                      <locus>f. 267</locus>
-                     <author>Mkhitʻar Gōsh,<date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date>
+                     <author>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date>
                      </author>
                      <title xml:lang="en">Prayers to be recited during Mass</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -113,14 +113,14 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item11" n="11">
                      <locus>f. 305(b)</locus>
-                     <author>Grigor, Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
+                     <author>Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
                      </author>
                      <title xml:lang="en">The 80th chapter of Grgor Narekac‘i</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item12" n="12">
                      <locus>f. 307(b)</locus>
-                     <author>Grigor, Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
+                     <author>Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
                      </author>
                      <title xml:lang="en">To the Angels, the 81st chapter of Grigor Narekac‘i</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -140,7 +140,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item15" n="15">
                      <locus>f. 330</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Prayer to the Angels, in verse</title>
                      <incipit>Այլ պաղատիմ առ հոգեղէնսդ …</incipit>
@@ -172,7 +172,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item20" n="20">
                      <locus>f. 340</locus>
-                     <author>Grigor, Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
+                     <author>Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003</date>
                      </author>
                      <title xml:lang="en">Selection from Gregory of Narek</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -180,7 +180,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item21" n="21">
                      <locus>f. 356(b)</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
                      </author>
                      <title xml:lang="en">Prayers of Nerses Shnorhali, preceded by admonitions how to pray</title>
                      <incipit>Հաւատով խոստովանիմ …</incipit>
@@ -217,7 +217,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item26" n="26">
                      <locus>f. 368(b)</locus>
-                     <author>Gregory, the Illuminator, Saint,<date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date>
+                     <author>Gregory, the Illuminator, Saint, <date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date>
                      </author>
                      <title xml:lang="en">Prayer of Gregory the Illuminator</title>
                      <incipit>Աւրհնեալէ մարդասիրութ՟ի քո …</incipit>
@@ -225,7 +225,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item27" n="27">
                      <locus>f. 370</locus>
-                     <author>Gregory, the Illuminator, Saint,<date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date>
+                     <author>Gregory, the Illuminator, Saint, <date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date>
                      </author>
                      <title xml:lang="en">Prayer of Gregory the Illuminator</title>
                      <incipit>Աղաչեմ զքեզ փրկիչ յասխարհի Ք՟ս …</incipit>
@@ -338,7 +338,7 @@
                         <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

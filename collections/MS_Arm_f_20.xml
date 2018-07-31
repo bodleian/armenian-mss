@@ -45,7 +45,7 @@
                <msContents>
                   <summary>Bartholomew of Bologna, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_20-item1" n="1">
-                     <author>Bartholomew, of Bologna,<date calendar="#Gregorian">13th cent.</date>
+                     <author>Bartholomew, of Bologna, <date calendar="#Gregorian">13th cent.</date>
                      </author>
                      <editor role="translator">
                         <persName xml:lang="en" type="supplied">Jacob of Qerni</persName>
@@ -88,7 +88,7 @@
                         <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

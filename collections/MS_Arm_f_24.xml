@@ -46,7 +46,7 @@
                   <summary>Poems of Nerses IV, etc., 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_24-item1" n="1">
                      <locus>f. 3</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">The Spiritual Elegy</title>
                      <title xml:lang="hy">Յիսուս որդի</title>
@@ -55,7 +55,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item2" n="1">
                      <locus>f. 103</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Profession of Faith</title>
                      <title xml:lang="hy">Բան հաւատոյ</title>
@@ -64,7 +64,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item3" n="1">
                      <locus>f. 133</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">On Heaven and its order</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -77,7 +77,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item5" n="1">
                      <locus>f. 151(b)</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Moral precepts, in alphabetical order</title>
                      <incipit>Այբն` Աստուծոյ զքեզ մերձակայ …</incipit>
@@ -85,7 +85,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item6" n="1">
                      <locus>f. 161</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">A prayer, alphabetically arranged.</title>
                      <incipit>Ա՟ծ անեղ անհասական …</incipit>
@@ -93,7 +93,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item7" n="1">
                      <locus>f. 163(b)</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Profession of faith, in alphabetical order.</title>
                      <title xml:lang="hy">Բան հաւատոյ</title>
@@ -102,21 +102,21 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item8" n="1">
                      <locus>f. 168(b)</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Moral precepts to schoolboys.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item9" n="1">
                      <locus>f. 173</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Metrical colophons of his copy of the Books of Solomon.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item10" n="1">
                      <locus>f. 181</locus>
-                     <author>Nersēs, Shnorhali, Saint,<date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date>
                      </author>
                      <title xml:lang="en">Metrical History of Armenia.</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -163,7 +163,7 @@
                         <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

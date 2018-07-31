@@ -46,7 +46,7 @@
                   <summary>Homilies of St. Gregory of Armenia, etc., 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_19-item1" n="1">
                      <locus>f. 2</locus>
-                     <author>Gregory, the Illuminator, Saint,<date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date>Grigor Lusavoric'Գրիգոր Լուսավորիչ</author>
+                     <author>Gregory, the Illuminator, Saint, <date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date> Grigor Lusavoric'Գրիգոր Լուսավորիչ</author>
                      <title xml:lang="en">Homilies of St. Gregory the Illuminator</title>
                      <title xml:lang="xcl-Latn-x-hmb">Yačaxapatum</title>
                      <title xml:lang="hy">Յաճախապատում</title>
@@ -98,7 +98,7 @@
                         <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>

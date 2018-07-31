@@ -46,7 +46,7 @@
                   <summary>Nerses of Lambron and Vardan, 14th cent.(?).</summary>
                   <msItem xml:id="MS_Arm_d_16-item1" n="1">
                      <locus>f. 3</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
+                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
                      </author>
                      <title xml:lang="en">Commentary on Proverbs</title>
                      <incipit>Հանդերձեալք ավ մի ի քննութիւն Առակաց Սողովմոնի նախ զայս իմանամք զի...</incipit>
@@ -54,7 +54,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_16-item2" n="2">
                      <locus>f. 129(b)</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
+                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
                      </author>
                      <title xml:lang="en">Commentary on Ecclesiastes</title>
                      <title xml:lang="hy"/>
@@ -63,14 +63,14 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_16-item3" n="3">
                      <locus>f. 179(b)</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
+                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
                      </author>
                      <title xml:lang="en">Commentary on the Wisdom of Solomon</title>
                      <incipit>Իվերնագրէ աստի ուսանիմք եւ զայս իմաստութիւն Սաղովմոնի[գոլ], որպէս եւ զնախակարգէալս սորին 'Առակս եւ զ ժողովողն եւ 'Երգերգոցն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_16-item4" n="4">
-                     <author>Vardan, Areweltsʻi,<date calendar="#Gregorian" from="1198" to="1271">ca. 1198-1271.</date>
+                     <author>Vardan, Areweltsʻi, <date calendar="#Gregorian" from="1198" to="1271">ca. 1198-1271.</date>
                      </author>
                      <title xml:lang="en">Commentary on on Song of Songs</title>
                      <incipit>Նման է արքայութիւն երկնից գանձի ծածկէլոյ...</incipit>
@@ -110,7 +110,7 @@
                         <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact<ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact<email>oriental@bodleian.ox.ac.uk</email>for further information on the availability of this manuscript</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>oriental@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript</p>
                      </availability>
                   </adminInfo>
                </additional>
