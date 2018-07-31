@@ -67,7 +67,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1657</origDate>
+                     <origDate calendar="#Gregorian" when="1657">1657</origDate>
                      <origDate calendar="#Armenian">1106</origDate>
                   </origin>
                   <acquisition>This MS. was bought from Mr. J. Bayan, jun., on Sept. 13, 1884.</acquisition>

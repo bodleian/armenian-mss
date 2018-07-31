@@ -82,8 +82,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">17th cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th cent.</origDate>
+                     
                   </origin>
                   <acquisition>This MS. was bought in 1693, in the collection of Edward Pococke, D.D., the Orientalist.</acquisition>
                </history>

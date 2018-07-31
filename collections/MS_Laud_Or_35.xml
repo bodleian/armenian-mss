@@ -67,7 +67,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1551</origDate>
+                     <origDate calendar="#Gregorian" when="1551">1551</origDate>
                      <origDate calendar="#Armenian">1000</origDate>
                   </origin>
                   <acquisition>This MS. was presented by Archbishop Laud in 1639, and was once referenced as Laud. A 15.</acquisition>

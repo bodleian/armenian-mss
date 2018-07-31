@@ -67,7 +67,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1610</origDate>
+                     <origDate calendar="#Gregorian" when="1610">1610</origDate>
                      <origDate calendar="#Armenian">1061</origDate>
                   </origin>
                </history>

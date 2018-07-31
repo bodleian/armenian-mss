@@ -129,8 +129,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1706</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" when="1706">1706</origDate>
+                     
                   </origin>
                   <acquisition>This MS. was bough from the Rev. S. Baronian in July, 1887.</acquisition>
                </history>

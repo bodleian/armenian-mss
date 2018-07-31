@@ -74,8 +74,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1752</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" when="1752">1752</origDate>
+                     
                   </origin>
                </history>
                <additional>

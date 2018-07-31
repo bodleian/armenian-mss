@@ -67,8 +67,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">18th cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1700" notAfter="1800">18th cent.</origDate>
+                     
                   </origin>
                   <acquisition>This MS. was bought from Hannan, Watson, and Co., Glasgow, on March 11, 1899, and is labelled 7.</acquisition>
                </history>

@@ -97,8 +97,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1712</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" when="1712">1712</origDate>
+                     
                   </origin>
                </history>
                <additional>

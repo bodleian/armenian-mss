@@ -64,8 +64,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">14th (?) cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1300" notAfter="1400">14th (?) cent.</origDate>
+                     
                   </origin>
                   <acquisition>The fragment was given to the Bodleain in Jan. 1884, by Mr. A. J. Butler, M.A., Fellow of Brasenose College, Oxford, who had just bought it from Egypt.</acquisition>
                </history>

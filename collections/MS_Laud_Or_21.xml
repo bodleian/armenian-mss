@@ -145,8 +145,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">16th cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1500" notAfter="1600">16th cent.</origDate>
+                     
                   </origin>
                   <acquisition>This MS. was presented by Archbishop Laud in 1635, and was once referenced as Laud. A. 32.</acquisition>
                </history>

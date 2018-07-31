@@ -67,8 +67,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">12th and 13th centt.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1100" notAfter="1300">12th and 13th centt.</origDate>
+                     
                   </origin>
                   <acquisition>Bought from Mr. Joseph Bayan on Sept. 12, 1883</acquisition>
                </history>

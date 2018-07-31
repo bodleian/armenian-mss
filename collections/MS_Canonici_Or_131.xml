@@ -98,8 +98,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1697</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" when="1697">1697</origDate>
+                     
                   </origin>
                   <acquisition>This MS. was bought in 1817 in the Canonici collection.</acquisition>
                </history>

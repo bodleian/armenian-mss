@@ -134,8 +134,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">17th cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th cent.</origDate>
+                     
                   </origin>
                </history>
                <additional>

@@ -67,8 +67,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">17th (?) cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th (?) cent.</origDate>
+                     
                   </origin>
                   <acquisition>This MS. was sent from Smyrna on Nov. 28, 1889, by the Rev. Greville H. Chester, B.A.</acquisition>
                </history>

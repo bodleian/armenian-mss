@@ -304,7 +304,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item37" n="37">
                      <locus>f. 371</locus>
-                     <author>Anania Shirakatsʻi, <date calendar="#Gregorian">fl. 685</date>
+                     <author>Anania Shirakatsʻi, <date calendar="#Gregorian" when="685">fl. 685</date>
                      </author>
                      <title xml:lang="en">The number of verses in both Testaments, by Anania Shiracatzi, the mathematicion (7th. cent.)</title>
                      <title xml:lang="hy">Անանիայի Շիրակունւոյ համարոմի Թիւք որչափութեան տանց հին կտակ.</title>
@@ -313,7 +313,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item38" n="38">
                      <locus>f. 372(b)</locus>
-                     <author>Anania Shirakatsʻi, <date calendar="#Gregorian">fl. 685</date>
+                     <author>Anania Shirakatsʻi, <date calendar="#Gregorian" when="685">fl. 685</date>
                      </author>
                      <title xml:lang="en">The names and colours of precious stones [by the same]</title>
                      <title xml:lang="hy">Անուանք ականց եւ գունաւորութիւնք նոցին.</title>
@@ -322,7 +322,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item39" n="39">
                      <locus>f. 374</locus>
-                     <author>Anania Shirakatsʻi, <date calendar="#Gregorian">fl. 685</date>
+                     <author>Anania Shirakatsʻi, <date calendar="#Gregorian" when="685">fl. 685</date>
                      </author>
                      <title xml:lang="en">On weights and measures, by the same.</title>
                      <title xml:lang="hy">Անանիայի Շիրակիունւոյ համարոշի Յաղագս կշռոց եւ կշռորդաց.</title>
@@ -331,7 +331,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_467-item40" n="40">
                      <locus>f. 377</locus>
-                     <author>Anania Shirakatsʻi, <date calendar="#Gregorian">fl. 685</date>
+                     <author>Anania Shirakatsʻi, <date calendar="#Gregorian" when="685">fl. 685</date>
                      </author>
                      <title xml:lang="en">Arithmetical problems, by the same.</title>
                      <title xml:lang="hy">Անանիայի Շիրակունւոյ Յաղագս կատարման համարողութեան եւ կերպից հարցման.</title>
@@ -369,8 +369,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">17th cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th cent.</origDate>
+                     
                   </origin>
                   <acquisition>This MS. was bequeathed in 1713 by Archbishop Marsh.</acquisition>
                </history>

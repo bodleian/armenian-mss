@@ -167,8 +167,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">18th cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1700" notAfter="1800">18th cent.</origDate>
+                     
                   </origin>
                   <acquisition>This MS. seems to have been given, not later than 1697, by Robert Burscough, M.A., of Queen's College, afterwards archdeacon of Barnstaple. The 1697 catalogue calls the donor D. Ric. Bourscough, and a note on f. 3 of the MS. descrobes it as "ex dono Dris. R. Burchscough", but this may be through misunderstanding of D. = Dominus. It was at one time referenced as Arch. C. 32, and afterwards as MS.Bodl. Or. 254.</acquisition>
                </history>

@@ -45,7 +45,7 @@
                <msContents>
                   <summary>Bartholomew of Bologna, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_20-item1" n="1">
-                     <author>Bartholomew, of Bologna, <date calendar="#Gregorian">13th cent.</date>
+                     <author>Bartholomew, of Bologna, <date calendar="#Gregorian" notBefore="1200" notAfter="1300">13th cent.</date>
                      </author>
                      <editor role="translator">
                         <persName xml:lang="en" type="supplied">Jacob of Qerni</persName>
@@ -78,8 +78,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">18th cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1700" notAfter="1800">18th cent.</origDate>
+                     
                   </origin>
                </history>
                <additional>

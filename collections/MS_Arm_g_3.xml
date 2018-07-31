@@ -67,8 +67,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">14th cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1300" notAfter="1400">14th cent.</origDate>
+                     
                   </origin>
                   <acquisition>This MS. at different times since its entrance into the Bodleain has borne the following other pressmarks, (i) A. 161, (ii) Arch. B. 19, (iii) 3008 (in the 1697 Catalogue), (iv) MS. Bodl. Or. 196.</acquisition>
                </history>

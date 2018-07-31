@@ -67,8 +67,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">14th (?) cent.</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" notBefore="1300" notAfter="1400">14th (?) cent.</origDate>
+                     
                   </origin>
                   <acquisition>This. MS. was bequeathed in 1713 by Archbishop Marsh, whose autograph, with the date 1969, is on f. vii(b). It is evidently the MS. numbered 851 in vol. II, pt. ii (p.49) of Bernard's 'Catalogi librorum manuscriptorum Angliae et Hiberniae', and there catalogued as part of the library of Dudley Loftus the Orientalist, whose MSS., after his death in 1605, were bough by Marsh (ib. p. 65 note). On. f. iii(a) is the signature, in an hand of the early 16th cent., of 'Hery Monch literat' and lower down the no. '26'.</acquisition>
                </history>

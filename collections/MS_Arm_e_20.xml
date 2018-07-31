@@ -80,8 +80,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1394</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" when="1394">1394</origDate>
+                     
                   </origin>
                </history>
                <additional>

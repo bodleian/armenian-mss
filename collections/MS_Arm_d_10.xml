@@ -122,8 +122,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1675</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" when="1675">1675</origDate>
+                     
                   </origin>
                   <acquisition>This MS. was formerly referenced as Bodl. Or. 529, and at an earlier period as Arch. C. 47. It was in the Bodlean at least as far back as 1701.</acquisition>
                </history>

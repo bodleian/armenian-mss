@@ -67,7 +67,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1488</origDate>
+                     <origDate calendar="#Gregorian" when="1488">1488</origDate>
                      <origDate calendar="#Armenian">937</origDate>
                   </origin>
                   <acquisition>This MS. was presented by Archbishop Laud in 1636, and was once referenced as Laud. A 16.</acquisition>

@@ -119,7 +119,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1701</origDate>
+                     <origDate calendar="#Gregorian" when="1701">1701</origDate>
                      <origDate calendar="#Armenian">1150</origDate>
                   </origin>
                </history>

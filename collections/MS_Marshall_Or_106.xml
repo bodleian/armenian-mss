@@ -67,8 +67,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1675</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" when="1675">1675</origDate>
+                     
                   </origin>
                   <acquisition>This MS. was bequeathed in 1685 by Thomas Marshall, D.D. Its reference was at one time altered to MS. Bodl. Or. 357.</acquisition>
                </history>

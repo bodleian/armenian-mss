@@ -68,8 +68,8 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian">1833</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" when="1833">1833</origDate>
+                     
                   </origin>
                   <acquisition>This volume was advertised in the Catalogue of Bernard Quaritch, no. 34,058, and bought by the Rev. S. Baronian on April 10, 1886.</acquisition>
                </history>
