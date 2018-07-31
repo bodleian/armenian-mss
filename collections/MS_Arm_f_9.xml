@@ -46,7 +46,7 @@
                   <summary>St. Nilus of Sinai, etc., 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_9-item1" n="1">
                      <locus>f. 1</locus>
-                     <author>Grigor, Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">Gregorian</date>951-1003</author>
+                     <author>Grigor, Narekatsʻi, Saint,<date calendar="#Gregorian" from="0951" to="1003">951-1003</date></author>
                      <title xml:lang="en">A large selection made, without regard to order, from the Book of Elegies of Gregory of Narek.</title>
                      <title xml:lang="hy">Մատեան Ողբերգութեան</title>
                      <textLang mainLang="hy">Armenian</textLang>

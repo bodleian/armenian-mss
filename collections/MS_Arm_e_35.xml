@@ -46,7 +46,7 @@
                   <summary>Cyril of Alexandria, Ephrem, Vardan, A.D. 1382.</summary>
                   <msItem xml:id="MS_Arm_e_35-item1" n="1">
                      <locus>f. 2</locus>
-                     <author>Cyril, Saint, Patriarch of Alexandria,<date calendar="#Gregorian" from="0370" to="0444">ca. 370 - 444.</date>
+                     <author>Cyril, Saint, Patriarch of Alexandria, <date calendar="#Gregorian" from="0370" to="0444">ca. 370 - 444.</date>
                      </author>
                      <title xml:lang="en" type="supplied">Commentary on Ezekiel</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -54,7 +54,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_35-item2" n="2">
                      <locus>f. 27b</locus>
-                     <author>Ephraem, Syrus, Saint,<date calendar="#Gregorian" from="0303" to="0373">303-373.</date>
+                     <author>Ephraem, Syrus, Saint, <date calendar="#Gregorian" from="0303" to="0373">303-373.</date>
                      </author>
                      <title xml:lang="en" type="supplied">Commentary on parts of Ezekiel</title>
                      <incipit>Վասն շինութէան տաճարին, մեկնութիւն Եփրեմի...</incipit>
@@ -63,7 +63,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_35-item3" n="3">
                      <locus>f. 122</locus>
-                     <author>Vardan, Areweltsʻi,<date calendar="#Gregorian" from="1198" to="1271">ca. 1198-1271.</date>
+                     <author>Vardan, Areweltsʻi, <date calendar="#Gregorian" from="1198" to="1271">ca. 1198-1271.</date>
                      </author>
                      <title xml:lang="en" type="supplied">Commentary on Daniel</title>
                      <incipit>Հոգեւոր սբ եղբարք մէր եւ որդեակք յօժարեցին...</incipit>

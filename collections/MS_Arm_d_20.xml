@@ -83,7 +83,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_20-item6" n="1">
                      <locus>f. 73(b)</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">Gregorian</date>1153-1198</author>
+                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198</date></author>
                      <title xml:lang="en">Synodical Address of Nerses of Lambron</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
@@ -97,7 +97,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_20-item8" n="1">
                      <locus>f. 97</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="#Gregorian" from="1153" to="1198">Gregorian</date>1153-1198</author>
+                      <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198</date></author>
                      <title xml:lang="en">Acts, correspondence, etc. of Nerses of Lambron</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Various letters to the Emperor Manuel and other material.</note>

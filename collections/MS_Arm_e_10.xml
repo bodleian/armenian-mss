@@ -132,7 +132,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_10-item13" n="13">
                      <locus>f. 67</locus>
-                     <author>Nerses, of Lambron, Saint,<date calendar="#gregorian" from="1153" to="1198">gregorian</date>1153-1198</author>
+                     <author>Nerses, of Lambron, Saint, <date calendar="#gregorian" from="1153" to="1198">1153-1198</date></author>
                      <title xml:lang="en">On the five patriarchates and their archbishops and bishops, written by Nilus the monk, surnamed Doxapatrius, at the request of Roger II, king of Sicily, and translated (from Greek) into Armenian by Archbishop Nerses, of Lambron, and the metropolitan Constantine (in 1179).</title>
                      <title xml:lang="hy">Գիր որ եղեւ առ ղինոսէ կրաւանաւորէ մակակոչեցելոյ դոքսապատիու … վս՟ ե՟. պատրիարգացն աթոռոց …</title>
                      <incipit>Ամենամեծատոհմ տէր իմ, վասն պատճառին զոր գրեցեր …</incipit>

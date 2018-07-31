@@ -46,7 +46,7 @@
                   <summary>Cyril of Alexandria, etc., A.D. 1394.</summary>
                   <msItem xml:id="MS_Arm_e_20-item1" n="1">
                      <locus>f. 3</locus>
-                     <author>Cyril, Saint, Patriarch of Alexandria,<date calendar="#Gregorian" from="0370" to="0444">Gregorian</date>ca. 370-444</author>
+                     <author>Cyril, Saint, Patriarch of Alexandria, <date calendar="#Gregorian" from="0370" to="0444">ca. 370-444</date></author>
                      <editor role="translator">
                         <persName xml:lang="en" type="supplied">Stephanos of Siuniq</persName>
                      </editor>
