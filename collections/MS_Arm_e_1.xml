@@ -77,8 +77,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Grgorian">1497</origDate>
-                     <origDate calendar="#Armenian">Armenian</origDate>
+                     <origDate calendar="#Gregorian" when="1497">1497</origDate>
                   </origin>
                   <acquisition>This MS. was bought from Mr. Joseph Bayan on Aug. 28, 1883.</acquisition>
                </history>
