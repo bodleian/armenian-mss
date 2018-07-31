@@ -110,7 +110,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item10" n="11">
                      <locus>f. 181</locus>
-                     <author>Story of a Monk</author>
+                     <title>Story of a Monk</title>
                      
                      <incipit>Միայնակեաց իմն ճգնաւոր աղօթէր ի յանապատի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -124,8 +124,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item12" n="13">
                      <locus>f. 190</locus>
-                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date>
-                     </author>
+                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date></author>
                      <title xml:lang="en">Riddles (Հանելուկք) of Nerses Shnorhali</title>
                      <textLang mainLang="xcl">Armenian</textLang>
                   </msItem>

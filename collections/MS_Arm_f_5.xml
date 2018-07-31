@@ -45,8 +45,7 @@
                <msContents>
                   <summary>Gregory of Narek, 13th cent.</summary>
                   <msItem xml:id="MS_Arm_f_5-item1" n="1">
-                     <author>Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003.</date>
-                     </author>
+                     <author>Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003.</date></author>
                      <title xml:lang="en">Book of Lamentations</title>
                      <title xml:lang="xcl-Latn-x-hmb">Matean Ołbergut'ean</title>
                      <title xml:lang="hy">Մատեան ողբերգութեան</title>

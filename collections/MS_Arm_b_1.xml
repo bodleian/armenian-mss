@@ -146,8 +146,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_b_1-item15" n="17">
                      <locus>f.</locus>
-                     <author>Evagrius, Ponticus, <date calendar="#Gregorian" from="0345" to="0399">345?-399</date>
-                     </author>
+                     <author>Evagrius, Ponticus, <date calendar="#Gregorian" from="0345" to="0399">345?-399</date></author>
                      <title xml:lang="en">Contains 4 fragments of the works of Evagrius of Pontus.</title>
                      <title xml:lang="hy">a) Եւագրեայ Բան խրատու. Զերախայրին կալոյ իմոյ …; b) Եւագրեայ Առ մարտիրոսն.; c) Նորին Եւագրեայ .Եթէ ունիցիս ընդ քեւ եղբարս …; d) Հաւատք որ ի Նիկիայ</title>
                      <incipit>a) … գաւազանք հեզոց բղխեսցեն ընկոյզ …; b) … ք՟ս տուր ինձ համարձակութիւն ընդ սուրբսն քո … Վասն Յարութեան. Յարութեանն ք՟ի երկրպագեսցուք …; c) … սցի ի խուողէ անտի, կամ ի սպանողէ անտի … Ես Պաւղին այսպէս փառաւորեալ որպէս ընկալայ ի հարցն, հաւատամ …; d) … սուրբ կատարեալ. պբարեխաւս առանց առնելոյ …</incipit>
@@ -198,8 +197,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_b_1-item22" n="29">
                      <locus>f. 30</locus>
-                     <author>John Chrysostom, Saint, <date calendar="#Gregorian" from="0407">d. 407</date>
-                     </author>
+                     <author>John Chrysostom, Saint, <date calendar="#Gregorian" from="0407">d. 407</date></author>
                      <title xml:lang="en">(Verso:) End of a homily; (Recto:) Beginning of the Homily of John Chrysostom on the Incomprehensible</title>
                      <incipit>Աշխատայսեր մշակք յորժամ տեսանեն ծառ անպտուղ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>

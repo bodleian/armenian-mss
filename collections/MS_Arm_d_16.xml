@@ -46,16 +46,14 @@
                   <summary>Nerses of Lambron and Vardan, 14th cent.(?).</summary>
                   <msItem xml:id="MS_Arm_d_16-item1" n="1">
                      <locus>f. 3</locus>
-                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
-                     </author>
+                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date></author>
                      <title xml:lang="en">Commentary on Proverbs</title>
                      <incipit>Հանդերձեալք ավ մի ի քննութիւն Առակաց Սողովմոնի նախ զայս իմանամք զի...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_16-item2" n="2">
                      <locus>f. 129(b)</locus>
-                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
-                     </author>
+                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date></author>
                      <title xml:lang="en">Commentary on Ecclesiastes</title>
                      
                      <incipit>Առակացն գիրք խրատէ մարդկան յանհարթ եւ յանհաւասար կենցաղոյս ընթագքն...</incipit>
@@ -63,15 +61,13 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_16-item3" n="3">
                      <locus>f. 179(b)</locus>
-                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date>
-                     </author>
+                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198.</date></author>
                      <title xml:lang="en">Commentary on the Wisdom of Solomon</title>
                      <incipit>Իվերնագրէ աստի ուսանիմք եւ զայս իմաստութիւն Սաղովմոնի[գոլ], որպէս եւ զնախակարգէալս սորին 'Առակս եւ զ ժողովողն եւ 'Երգերգոցն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_16-item4" n="4">
-                     <author>Vardan, Areweltsʻi, <date calendar="#Gregorian" from="1198" to="1271">ca. 1198-1271.</date>
-                     </author>
+                     <author>Vardan, Areweltsʻi, <date calendar="#Gregorian" from="1198" to="1271">ca. 1198-1271.</date></author>
                      <title xml:lang="en">Commentary on on Song of Songs</title>
                      <incipit>Նման է արքայութիւն երկնից գանձի ծածկէլոյ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
