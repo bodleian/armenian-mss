@@ -45,7 +45,10 @@
                <msContents>
                   <summary>Theological, and Commentary, 19th cent.</summary>
                   <msItem xml:id="MS_Arm_d_18-item1" n="1">
-                     <author>Yovhannes VardapetJohannes Vardapet of Julfa</author>
+                     <author>
+                        <persName>Yovhannes Vardapet</persName>
+                        <persName>Johannes Vardapet of Julfa</persName>
+                     </author>
                      <title xml:lang="en">Treatise in defence of one nature in Christ</title>
                      <title xml:lang="xcl-Latn-x-hmb">Girk' or kočʿi Srbaznagorcut'iwn, žołoveal i groc' astwacaynoc' ew i lusawor banic' surb vardapetac'. Ašxatasirut'eamb Nor ǰułayu surb Amenap'rkčʿi gerahṙčʿak vanic' miaban Yovhannu mncimast k'aǰ hṙetori ew banibun astwacaban vardapeti</title>
                      <textLang mainLang="hy">Armenian</textLang>
