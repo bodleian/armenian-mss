@@ -261,10 +261,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/names/n85284125">Catholic Church. Antiphonary</ref>
+                     <term target="http://id.loc.gov/authorities/names/n85284125">Catholic Church. Antiphonary</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh2002011417#concept">Liturgy</ref>
+                     <term target="http://id.loc.gov/authorities/sh2002011417#concept">Liturgy</term>
                   </item>
                </list>
             </keywords>

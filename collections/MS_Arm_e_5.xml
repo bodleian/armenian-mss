@@ -586,13 +586,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/names/n80120153">Catholic Church. Psalter Collects</ref>
+                     <term target="http://id.loc.gov/authorities/names/n80120153">Catholic Church. Psalter Collects</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh85021126#concept">Catholic Church--Hymns</ref>
+                     <term target="http://id.loc.gov/authorities/sh85021126#concept">Catholic Church--Hymns</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh2002011417#concept">Liturgy</ref>
+                     <term target="http://id.loc.gov/authorities/sh2002011417#concept">Liturgy</term>
                   </item>
                </list>
             </keywords>

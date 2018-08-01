@@ -353,16 +353,16 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh85098523#concept">Passion Narratives (Gospels)</ref>
+                     <term target="http://id.loc.gov/authorities/sh85098523#concept">Passion Narratives (Gospels)</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh85007281#concept">Armenian Church -- Liturgy</ref>
+                     <term target="http://id.loc.gov/authorities/sh85007281#concept">Armenian Church -- Liturgy</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh92000686#concept">Lectionary preaching</ref>
+                     <term target="http://id.loc.gov/authorities/sh92000686#concept">Lectionary preaching</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/names/n80001460">John Chrysostom, Saint, d. 407</ref>
+                     <term target="http://id.loc.gov/authorities/names/n80001460">John Chrysostom, Saint, d. 407</term>
                   </item>
                </list>
             </keywords>

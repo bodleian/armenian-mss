@@ -169,10 +169,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/names/n80001460">John Chrysostom, Saint, d. 407</ref>
+                     <term target="http://id.loc.gov/authorities/names/n80001460">John Chrysostom, Saint, d. 407</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/names/nr2006002581">John Chrysostom, Saint, d. 407. Homilies</ref>
+                     <term target="http://id.loc.gov/authorities/names/nr2006002581">John Chrysostom, Saint, d. 407. Homilies</term>
                   </item>
                </list>
             </keywords>

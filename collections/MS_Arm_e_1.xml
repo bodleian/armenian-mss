@@ -158,10 +158,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh85098523#concept">Passion narratives (Gospels)</ref>
+                     <term target="http://id.loc.gov/authorities/sh85098523#concept">Passion narratives (Gospels)</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh2011002491#concept">Akdamar Island (Turkey)</ref>
+                     <term target="http://id.loc.gov/authorities/sh2011002491#concept">Akdamar Island (Turkey)</term>
                   </item>
                </list>
             </keywords>

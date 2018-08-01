@@ -149,10 +149,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh2002011417#concept ">Liturgy</ref>
+                     <term target="http://id.loc.gov/authorities/sh2002011417#concept ">Liturgy</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh2010112711#concept ">Service books (Music) - - Catholic Church</ref>
+                     <term target="http://id.loc.gov/authorities/sh2010112711#concept ">Service books (Music) - - Catholic Church</term>
                   </item>
                </list>
             </keywords>

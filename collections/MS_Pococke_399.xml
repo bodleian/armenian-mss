@@ -149,13 +149,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh92000686#concept ">Lectionary Preaching</ref>
+                     <term target="http://id.loc.gov/authorities/sh92000686#concept ">Lectionary Preaching</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh2002011417#concept ">Liturgy</ref>
+                     <term target="http://id.loc.gov/authorities/sh2002011417#concept ">Liturgy</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/names/n84233617">Pococke, Edward, 1604-1691</ref>
+                     <term target="http://id.loc.gov/authorities/names/n84233617">Pococke, Edward, 1604-1691</term>
                   </item>
                </list>
             </keywords>

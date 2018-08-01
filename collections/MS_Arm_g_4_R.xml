@@ -211,10 +211,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh85004685#concept">Amulets</ref>
+                     <term target="http://id.loc.gov/authorities/sh85004685#concept">Amulets</term>
                   </item>
                   <item>
-                     <ref target="http://id.loc.gov/authorities/sh2002011417#concept">Liturgy</ref>
+                     <term target="http://id.loc.gov/authorities/sh2002011417#concept">Liturgy</term>
                   </item>
                </list>
             </keywords>
