@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schamtypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schamtypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="authority-schematron.sch" type="application/xml" schamtypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list>
+
+            <item xml:id="subject_n2005045977">
+               <term type="display">Ahikar (Folktale). Armenian</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n2005045977.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_g_9.xml#manuscript_102 -->
+            </item>
+
+            <item xml:id="subject_sh2011002491">
+               <term type="display">Akdamar Island (Turkey)</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh2011002491.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_1.xml#manuscript_26 -->
+            </item>
+
+            <item xml:id="subject_no2004113112">
+               <term type="display">Albertus, Magnus, Saint, 1193?-1280. Summa theologiae</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/no2004113112.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_25.xml#manuscript_43 -->
+            </item>
+
+            <item xml:id="subject_sh85004685">
+               <term type="display">Amulets</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85004685.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_g_4_R.xml#manuscript_97 -->
+            </item>
+
+            <item xml:id="subject_n85830405">
+               <term type="display">Anania Shirakatsʻi, fl. 685</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n85830405.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marsh_467.xml#manuscript_114 -->
+            </item>
+
+            <item xml:id="subject_n79004182">
+               <term type="display">Aristotle</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n79004182.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_24.xml#manuscript_42 -->
+            </item>
+
+            <item xml:id="subject_sh85007281">
+               <term type="display">Armenian Church--Liturgy</term>
+               <term type="variant">Armenian Church -- Liturgy</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85007281.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_b_2.xml#manuscript_2 -->
+               <!-- ../collections/MS_Arm_b_1.xml#manuscript_1 -->
+            </item>
+
+            <item xml:id="subject_sh2009115579">
+               <term type="display">Armenian language -- Alphabet</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh2009115579.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marshall_Or_83.xml#manuscript_121 -->
+               <!-- ../collections/MS_Marshall_Or_137.xml#manuscript_119 -->
+            </item>
+
+            <item xml:id="subject_sh85007298">
+               <term type="display">Armenian poetry</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85007298.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marsh_17.xml#manuscript_111 -->
+               <!-- ../collections/MS_Marsh_85.xml#manuscript_117 -->
+            </item>
+
+            <item xml:id="subject_n79145591">
+               <term type="display">Athanasius, Saint, Patriarch of Alexandria, d. 373</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n79145591.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_d_20.xml#manuscript_19 -->
+            </item>
+
+            <item xml:id="subject_nb2008002115">
+               <term type="display">Bartholomaeus, of Bologna, Bishop of Marāghah, d. 1333</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/nb2008002115.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_20.xml#manuscript_81 -->
+            </item>
+
+            <item xml:id="subject_n86142547">
+               <term type="display">Bartholomew, Apostle, Saint</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n86142547.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_29.xml#manuscript_47 -->
+            </item>
+
+            <item xml:id="subject_n90617248">
+               <term type="display">Bathurst, Ralph, 1620-1704</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n90617248.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Thurston_etc_17.xml#manuscript_124 -->
+            </item>
+
+            <item xml:id="subject_n2006040103">
+               <term type="display">Bible. N.T. Gospels. Armenian</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n2006040103.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_d_13.xml#manuscript_11 -->
+               <!-- ../collections/MS_Arm_e_40.xml#manuscript_60 -->
+            </item>
+
+            <item xml:id="subject_sh96011927">
+               <term type="display">Bible. O.T.</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh96011927.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_d_14.xml#manuscript_12 -->
+            </item>
+
+            <item xml:id="subject_n81065639">
+               <term type="display">Bible. O.T. Apocrypha</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n81065639.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_30.xml#manuscript_49 -->
+               <!-- ../collections/MS_Arm_f_11.xml#manuscript_71 -->
+            </item>
+
+            <item xml:id="subject_n80002952">
+               <term type="display">Bible. O.T. Isaiah</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n80002952.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_8.xml#manuscript_91 -->
+            </item>
+
+            <item xml:id="subject_n79056804">
+               <term type="display">Bible. O.T. Psalms</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n79056804.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_c_2.xml#manuscript_4 -->
+            </item>
+
+            <item xml:id="subject_sh85016762">
+               <term type="display">Breviaries</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85016762.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marsh_8.xml#manuscript_116 -->
+               <!-- ../collections/MS_Arm_g_2.xml#manuscript_95 -->
+               <!-- ../collections/MS_Arm_g_5.xml#manuscript_98 -->
+               <!-- ../collections/MS_Arm_g_6.xml#manuscript_99 -->
+               <!-- ../collections/MS_Arm_g_8.xml#manuscript_101 -->
+            </item>
+
+            <item xml:id="subject_sh85018849">
+               <term type="display">Calendar Reform</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85018849.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f3.xml#manuscript_67 -->
+            </item>
+
+            <item xml:id="subject_sh85020981">
+               <term type="display">Catechisms</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85020981.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_15.xml#manuscript_75 -->
+               <!-- ../collections/MS_Arm_f_14.xml#manuscript_74 -->
+            </item>
+
+            <item xml:id="subject_sh85021051">
+               <term type="display">Catholic Church -- Armenian rite</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85021051.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_10.xml#manuscript_27 -->
+            </item>
+
+            <item xml:id="subject_sh85021126">
+               <term type="display">Catholic Church--Hymns"</term>
+               <term type="variant">Catholic Church--Hymns</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85021126.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_1.xml#manuscript_69 -->
+               <!-- ../collections/MS_Arm_e_5.xml#manuscript_61 -->
+               <!-- ../collections/MS_Arm_f_2.xml#manuscript_80 -->
+            </item>
+
+            <item xml:id="subject_n85284125">
+               <term type="display">Catholic Church. Antiphonary</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n85284125.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_g_3.xml#manuscript_96 -->
+               <!-- ../collections/MS_Arm_f_23.xml#manuscript_84 -->
+               <!-- ../collections/MS_Arm_f_22.xml#manuscript_83 -->
+               <!-- ../collections/MS_Arm_g_1.xml#manuscript_93 -->
+            </item>
+
+            <item xml:id="subject_n79045845">
+               <term type="display">Catholic Church. Liturgy and ritual. Sharaknots`</term>
+               <term type="variant">Catholic Church. Liturgy and ritual. Sharaknotsʻ</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n79045845.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_1.xml#manuscript_69 -->
+               <!-- ../collections/MS_Marsh_8.xml#manuscript_116 -->
+               <!-- ../collections/MS_Arm_b_2.xml#manuscript_2 -->
+               <!-- ../collections/MS_Arm_f_2.xml#manuscript_80 -->
+            </item>
+
+            <item xml:id="subject_n80120153">
+               <term type="display">Catholic Church. Psalter Collects</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n80120153.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_5.xml#manuscript_61 -->
+            </item>
+
+            <item xml:id="subject_sh85025142">
+               <term type="display">Christian poetry, Armenian</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85025142.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marsh_17.xml#manuscript_111 -->
+               <!-- ../collections/MS_Marsh_85.xml#manuscript_117 -->
+            </item>
+
+            <item xml:id="subject_sh85033412">
+               <term type="display">Councils and synods, Ecumenical</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85033412.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marsh_467.xml#manuscript_114 -->
+            </item>
+
+            <item xml:id="subject_n86094657">
+               <term type="display">Cydones, Prochoros, ca. 1330-ca.1369</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n86094657.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_2.xml#manuscript_37 -->
+            </item>
+
+            <item xml:id="subject_n82148014">
+               <term type="display">Cyril, Saint, Patriarch of Alexandria, ca. 370-444</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n82148014.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_36.xml#manuscript_55 -->
+               <!-- ../collections/MS_Arm_e_35.xml#manuscript_54 -->
+               <!-- ../collections/MS_Arm_e_20.xml#manuscript_38 -->
+            </item>
+
+            <item xml:id="subject_sh93000030">
+               <term type="display">Desert Fathers</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh93000030.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_d_17.xml#manuscript_15 -->
+            </item>
+
+            <item xml:id="subject_sh85020910">
+               <term type="display">Dicionary catalogs</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85020910.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marshall_Or_30.xml#manuscript_120 -->
+            </item>
+
+            <item xml:id="subject_n50082928">
+               <term type="display">Ephraem, Syrus, Saint, 303-373</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n50082928.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_35.xml#manuscript_54 -->
+            </item>
+
+            <item xml:id="subject_sh87007112">
+               <term type="display">Fables, Armenian</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh87007112.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Canonici_Or_131.xml#manuscript_104 -->
+            </item>
+
+            <item xml:id="subject_n83064267">
+               <term type="display">Frik, b. ca. 1236</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n83064267.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_21.xml#manuscript_82 -->
+               <!-- ../collections/MS_Arm_f_16.xml#manuscript_76 -->
+            </item>
+
+            <item xml:id="subject_n50081659">
+               <term type="display">Gregory, the Illuminator, Saint, ca. 240-ca. 332</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n50081659.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_29.xml#manuscript_47 -->
+               <!-- ../collections/MS_Arm_f_17.xml#manuscript_77 -->
+               <!-- ../collections/MS_Arm_f_19.xml#manuscript_79 -->
+            </item>
+
+            <item xml:id="subject_n88021533">
+               <term type="display">Grigor Pahlawuni, Magistros, 985-1058</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n88021533.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_13.xml#manuscript_73 -->
+            </item>
+
+            <item xml:id="subject_n81027872">
+               <term type="display">Grigor, Narekatsʻi, Saint, 951-1003</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n81027872.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_5.xml#manuscript_88 -->
+               <!-- ../collections/MS_Arm_d_20.xml#manuscript_19 -->
+               <!-- ../collections/MS_Arm_f_26.xml#manuscript_87 -->
+               <!-- ../collections/MS_Arm_f_9.xml#manuscript_92 -->
+               <!-- ../collections/MS_Arm_e_18.xml#manuscript_35 -->
+            </item>
+
+            <item xml:id="subject_n81027871">
+               <term type="display">Grigor, Narekatsʻi, Saint, 951-1003. Matean oghbergutʻean</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n81027871.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_5.xml#manuscript_88 -->
+               <!-- ../collections/MS_Arm_f_9.xml#manuscript_92 -->
+            </item>
+
+            <item xml:id="subject_n87861752">
+               <term type="display">Grigor, Tatʻevatsʻi, 1346-1409</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n87861752.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_11.xml#manuscript_28 -->
+            </item>
+
+            <item xml:id="subject_sh89002722">
+               <term type="display">Hymns, Armenian</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh89002722.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_18.xml#manuscript_35 -->
+            </item>
+
+            <item xml:id="subject_n80001460">
+               <term type="display">John Chrysostom, Saint, d. 407</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n80001460.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_b_2.xml#manuscript_2 -->
+               <!-- ../collections/MS_Arm_b_1.xml#manuscript_1 -->
+               <!-- ../collections/MS_Arm_d_11.xml#manuscript_9 -->
+               <!-- ../collections/MS_Arm_e_19.xml#manuscript_36 -->
+            </item>
+
+            <item xml:id="subject_nr2006002581">
+               <term type="display">John Chrysostom, Saint, d. 407. Homilies</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/nr2006002581.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_19.xml#manuscript_36 -->
+            </item>
+
+            <item xml:id="subject_sh85072953">
+               <term type="display">Koran</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85072953.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_31.xml#manuscript_50 -->
+            </item>
+
+            <item xml:id="subject_n50039777">
+               <term type="display">Laud, William, 1573-1645</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n50039777.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Laud_Or_21.xml#manuscript_107 -->
+            </item>
+
+            <item xml:id="subject_sh92000686">
+               <term type="display">Lectionary Preaching</term>
+               <term type="variant">Lectionary preaching</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh92000686.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Pococke_399.xml#manuscript_122 -->
+               <!-- ../collections/MS_Arm_d_2.xml#manuscript_18 -->
+               <!-- ../collections/MS_Arm_b_1.xml#manuscript_1 -->
+               <!-- ../collections/MS_Arm_c_1.xml#manuscript_3 -->
+            </item>
+
+            <item xml:id="subject_sh2002011417">
+               <term type="display">Liturgy</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh2002011417.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_g_3.xml#manuscript_96 -->
+               <!-- ../collections/MS_Arm_f_1.xml#manuscript_69 -->
+               <!-- ../collections/MS_Arm_e_5.xml#manuscript_61 -->
+               <!-- ../collections/MS_Marsh_8.xml#manuscript_116 -->
+               <!-- ../collections/MS_Pococke_399.xml#manuscript_122 -->
+               <!-- ../collections/MS_Arm_e_8.xml#manuscript_64 -->
+               <!-- ../collections/MS_Arm_f_23.xml#manuscript_84 -->
+               <!-- ../collections/MS_Arm_d_15.xml#manuscript_13 -->
+               <!-- ../collections/MS_Arm_g_4_R.xml#manuscript_97 -->
+               <!-- ../collections/MS_Arm_e_17.xml#manuscript_34 -->
+               <!-- ../collections/MS_Arm_d_2.xml#manuscript_18 -->
+               <!-- ../collections/MS_Arm_f_2.xml#manuscript_80 -->
+               <!-- ../collections/MS_Arm_e_91.xml#manuscript_66 -->
+               <!-- ../collections/MS_Arm_g_2.xml#manuscript_95 -->
+               <!-- ../collections/MS_Arm_f4.xml#manuscript_68 -->
+               <!-- ../collections/MS_Arm_e_7.xml#manuscript_63 -->
+               <!-- ../collections/MS_Arm_g_5.xml#manuscript_98 -->
+               <!-- ../collections/MS_Arm_d_10.xml#manuscript_8 -->
+               <!-- ../collections/MS_Arm_g_6.xml#manuscript_99 -->
+               <!-- ../collections/MS_Marsh_128.xml#manuscript_110 -->
+               <!-- ../collections/MS_Arm_c_1.xml#manuscript_3 -->
+               <!-- ../collections/MS_Laud_Or_34.xml#manuscript_108 -->
+               <!-- ../collections/MS_Laud_Or_35.xml#manuscript_109 -->
+               <!-- ../collections/MS_Arm_f_22.xml#manuscript_83 -->
+               <!-- ../collections/MS_Arm_g_8.xml#manuscript_101 -->
+               <!-- ../collections/MS_Marshall_Or_106.xml#manuscript_118 -->
+               <!-- ../collections/MS_Arm_g_1.xml#manuscript_93 -->
+            </item>
+
+            <item xml:id="subject_n50065298">
+               <term type="display">Marsh's Library</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n50065298.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marsh_8.xml#manuscript_116 -->
+               <!-- ../collections/MS_Marsh_17.xml#manuscript_111 -->
+               <!-- ../collections/MS_Marsh_85.xml#manuscript_117 -->
+               <!-- ../collections/MS_Marsh_128.xml#manuscript_110 -->
+               <!-- ../collections/MS_Marsh_438_I%2DIII.xml#manuscript_113 -->
+               <!-- ../collections/MS_Marsh_467.xml#manuscript_114 -->
+            </item>
+
+            <item xml:id="subject_n85055892">
+               <term type="display">Marshall, Thomas</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n85055892.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marshall_Or_106.xml#manuscript_118 -->
+            </item>
+
+            <item xml:id="subject_sh85081850">
+               <term type="display">Mass--Prayers and devotions</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85081850.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marshall_Or_106.xml#manuscript_118 -->
+            </item>
+
+            <item xml:id="subject_n87143430">
+               <term type="display">Matthew, of Edessa, 12th cent.</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n87143430.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_32.xml#manuscript_51 -->
+            </item>
+
+            <item xml:id="subject_nr92039196">
+               <term type="display">Matthew, of Edessa, 12th cent. Patmutʻiwn</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/nr92039196.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_32.xml#manuscript_51 -->
+            </item>
+
+            <item xml:id="subject_n87844777">
+               <term type="display">Mkhitʻar Gōsh, ca. 1130-1213</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n87844777.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_28.xml#manuscript_46 -->
+               <!-- ../collections/MS_Arm_f_26.xml#manuscript_87 -->
+               <!-- ../collections/MS_Arm_e_18.xml#manuscript_35 -->
+            </item>
+
+            <item xml:id="subject_n2001058247">
+               <term type="display">Mkhitʻar Gōsh, ca. 1130-1213. Datastanagirkʻ Hayotsʻ</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n2001058247.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marsh_128.xml#manuscript_110 -->
+            </item>
+
+            <item xml:id="subject_no96040203">
+               <term type="display">Movsēs, Erznkatsʻi, Vardapet, d. 1323</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/no96040203.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Marsh_128.xml#manuscript_110 -->
+            </item>
+
+            <item xml:id="subject_n85105625">
+               <term type="display">Nerses, of Lambron, Saint, 1153-1198</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n85105625.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_10.xml#manuscript_27 -->
+               <!-- ../collections/MS_Arm_e_21.xml#manuscript_39 -->
+               <!-- ../collections/MS_Marsh_85.xml#manuscript_117 -->
+               <!-- ../collections/MS_Arm_d_20.xml#manuscript_19 -->
+               <!-- ../collections/MS_Arm_d_16.xml#manuscript_14 -->
+               <!-- ../collections/MS_Marsh_467.xml#manuscript_114 -->
+            </item>
+
+            <item xml:id="subject_n85051709">
+               <term type="display">Nersēs, Shnorhali, Saint, 1102-1173</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n85051709.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_15.xml#manuscript_32 -->
+               <!-- ../collections/MS_Marsh_17.xml#manuscript_111 -->
+               <!-- ../collections/MS_Marsh_85.xml#manuscript_117 -->
+               <!-- ../collections/MS_Arm_d_20.xml#manuscript_19 -->
+               <!-- ../collections/MS_Arm_f_10.xml#manuscript_70 -->
+               <!-- ../collections/MS_Arm_f_26.xml#manuscript_87 -->
+               <!-- ../collections/MS_Arm_f_24.xml#manuscript_85 -->
+               <!-- ../collections/MS_Marsh_467.xml#manuscript_114 -->
+               <!-- ../collections/MS_Arm_e_18.xml#manuscript_35 -->
+            </item>
+
+            <item xml:id="subject_n88263705">
+               <term type="display">Nersēs, Shnorhali, Saint, 1102-1173. Hisus, Ordi</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n88263705.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_24.xml#manuscript_85 -->
+            </item>
+
+            <item xml:id="subject_n84114935">
+               <term type="display">Nilus, of Ancyra, Saint, d. ca. 430</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n84114935.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_f_9.xml#manuscript_92 -->
+            </item>
+
+            <item xml:id="subject_sh85098523">
+               <term type="display">Passion narratives (Gospels)</term>
+               <term type="variant">Passion Narratives (Gospels)</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85098523.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_d_6.xml#manuscript_23 -->
+               <!-- ../collections/MS_Arm_d_4.xml#manuscript_21 -->
+               <!-- ../collections/MS_Marsh_646.xml#manuscript_115 -->
+               <!-- ../collections/MS_Arm_e_9.xml#manuscript_65 -->
+               <!-- ../collections/MS_Copt_c_2.xml#manuscript_105 -->
+               <!-- ../collections/MS_Arm_d_5.xml#manuscript_22 -->
+               <!-- ../collections/MS_Arm_e_4.xml#manuscript_59 -->
+               <!-- ../collections/MS_Arm_b_1.xml#manuscript_1 -->
+               <!-- ../collections/MS_Arm_d_8.xml#manuscript_25 -->
+               <!-- ../collections/MS_Arm_e_3.xml#manuscript_48 -->
+               <!-- ../collections/MS_Arm_e_6.xml#manuscript_62 -->
+               <!-- ../collections/MS_Arm_d_7.xml#manuscript_24 -->
+               <!-- ../collections/MS_Arm_d_1.xml#manuscript_7 -->
+               <!-- ../collections/MS_Arm_d_3.xml#manuscript_20 -->
+               <!-- ../collections/MS_Arm_e_1.xml#manuscript_26 -->
+            </item>
+
+            <item xml:id="subject_sh87005655">
+               <term type="display">Patriotic poetry, Armenian</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh87005655.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Thurston_etc_17.xml#manuscript_124 -->
+            </item>
+
+            <item xml:id="subject_sh85018842">
+               <term type="display">Perpetual calendars</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85018842.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_g_10.xml#manuscript_94 -->
+            </item>
+
+            <item xml:id="subject_n84233617">
+               <term type="display">Pococke, Edward, 1604-1691</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n84233617.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Pococke_399.xml#manuscript_122 -->
+            </item>
+
+            <item xml:id="subject_n81124456">
+               <term type="display">Porphyry, ca. 234-ca. 305</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n81124456.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_24.xml#manuscript_42 -->
+            </item>
+
+            <item xml:id="subject_sh85106129">
+               <term type="display">Prayer books</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85106129.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Laud_Or_21.xml#manuscript_107 -->
+               <!-- ../collections/MS_Arm_f_26.xml#manuscript_87 -->
+            </item>
+
+            <item xml:id="subject_sh89006518">
+               <term type="display">Psalter collects</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh89006518.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_d_15.xml#manuscript_13 -->
+               <!-- ../collections/MS_Arm_e_91.xml#manuscript_66 -->
+               <!-- ../collections/MS_Arm_f4.xml#manuscript_68 -->
+               <!-- ../collections/MS_Laud_Or_34.xml#manuscript_108 -->
+               <!-- ../collections/MS_Laud_Or_35.xml#manuscript_109 -->
+            </item>
+
+            <item xml:id="subject_n50028822">
+               <term type="display">Pseudo-Dionysius, the Areopagite</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n50028822.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_37.xml#manuscript_56 -->
+            </item>
+
+            <item xml:id="subject_sh85116629">
+               <term type="display">Saints</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85116629.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_c_3.xml#manuscript_5 -->
+               <!-- ../collections/MS_Marsh_438_I%2DIII.xml#manuscript_113 -->
+            </item>
+
+            <item xml:id="subject_sh85116631">
+               <term type="display">Saints -- Calendar</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85116631.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_c_3.xml#manuscript_5 -->
+               <!-- ../collections/MS_Marsh_438_I%2DIII.xml#manuscript_113 -->
+            </item>
+
+            <item xml:id="subject_sh85116634">
+               <term type="display">Saints -- Legends</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85116634.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_c_3.xml#manuscript_5 -->
+               <!-- ../collections/MS_Marsh_438_I%2DIII.xml#manuscript_113 -->
+            </item>
+
+            <item xml:id="subject_sh85120261">
+               <term type="display">Sermons</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh85120261.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_38.xml#manuscript_57 -->
+               <!-- ../collections/MS_Arm_e_28.xml#manuscript_46 -->
+               <!-- ../collections/MS_Arm_e_24.xml#manuscript_42 -->
+            </item>
+
+            <item xml:id="subject_sh2010112711">
+               <term type="display">Service books (Music) - - Catholic Church</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh2010112711.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_8.xml#manuscript_64 -->
+               <!-- ../collections/MS_Arm_e_7.xml#manuscript_63 -->
+            </item>
+
+            <item xml:id="subject_sh93009683">
+               <term type="display">Theology -- Early works to 1800</term>
+               <term type="variant">Theology--Early works to 1800</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/subjects/sh93009683.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_10.xml#manuscript_27 -->
+               <!-- ../collections/MS_Marsh_467.xml#manuscript_114 -->
+            </item>
+
+            <item xml:id="subject_n80070711">
+               <term type="display">Urfa (commune)</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n80070711.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_d_6.xml#manuscript_23 -->
+               <!-- ../collections/MS_Arm_e_9.xml#manuscript_65 -->
+               <!-- ../collections/MS_Arm_d_5.xml#manuscript_22 -->
+               <!-- ../collections/MS_Arm_d_8.xml#manuscript_25 -->
+            </item>
+
+            <item xml:id="subject_n90689693">
+               <term type="display">Vardan, Areweltsʻi, ca. 1198-1271</term>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://id.loc.gov/authorities/names/n90689693.html">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <!-- ../collections/MS_Arm_e_35.xml#manuscript_54 -->
+               <!-- ../collections/MS_Arm_d_16.xml#manuscript_14 -->
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>
