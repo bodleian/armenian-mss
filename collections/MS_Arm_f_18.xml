@@ -46,21 +46,21 @@
                   <summary>Moral Treatises, and Sermons, about 15th cent.</summary>
                   <msItem xml:id="MS_Arm_f_18-item1" n="1">
                      <locus>f. 6</locus>
-                     <title xml:lang="en">On Faith, in eight chapters</title>
+                     <title xml:lang="en" key="work_119">On Faith, in eight chapters</title>
                      <incipit>Արդ ով սիրելիք, պիտոյ են մեզ հաւատք ճշմարիտ յամենայն բարի գործս …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Part of the 'Book of Virtues', a collection of sermons on different subjects. Resembles the work of Peter of Aragon, but is much shorter.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_18-item2" n="2">
                      <locus>f. 264(b)</locus>
-                     <title xml:lang="en">On Speculative Philosophy</title>
-                     <title xml:lang="hy">Յաղագս տեսական իմաստութեան, որ է իմացական միտքն, փոքր ինչ տեսութիւն.</title>
+                     <title xml:lang="en" key="work_120">On Speculative Philosophy</title>
+                     <title xml:lang="hy" key="work_120">Յաղագս տեսական իմաստութեան, որ է իմացական միտքն, փոքր ինչ տեսութիւն.</title>
                      <incipit>Հարցանելի է և զայս թէ միտքս մեր ո՞րպէս վերանայ առ ճշմարտութիւն … Այսմ պատասխանեն վարդապետք. և դնեն դ՟ պատճառ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_18-item3" n="3">
                      <locus>f. 291(b)</locus>
-                     <title xml:lang="en">A collection of philosophical and biblical commentaries.</title>
+                     <title xml:lang="en" key="work_122">A collection of philosophical and biblical commentaries.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Includes the following titles: On the Nativity of Our Lord (I John 1); On the Adoration of Magi; Explanation of the 'Gloria in excelsis'; On Death; On Joel 2.1; Three homilies on Repentance (Matt. 3.2); On Confession (Jas. 5.16); etc.</note>
                   </msItem>

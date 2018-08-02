@@ -46,19 +46,19 @@
                   <summary>Phylactery, A.D. 1706-7.</summary>
                   <msItem xml:id="MS_Arm_g_4_R-item1" n="1">
                      <author key="person_33">Nerses Clayetsi</author>
-                     <title xml:lang="en">The prayer for the use of every believer</title>
-                     <title xml:lang="hy">Հաւատով խոստավանիմ</title>
+                     <title xml:lang="en" key="work_274">The prayer for the use of every believer</title>
+                     <title xml:lang="hy" key="work_274">Հաւատով խոստավանիմ</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Full-length portrait of Nerses at head, surmounted by a picture of a vase of flowers. The course of the prayer is also broken by two pictures, one a half-length figure of Jesus Christ, and the other representing the Crucifixion - the latter having more connexion with the following article.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item2" n="2">
-                     <title xml:lang="en">Prayer to Jesus Christ crucified</title>
+                     <title xml:lang="en" key="work_276">Prayer to Jesus Christ crucified</title>
                      <incipit>Թագաւոր հզօր ապաւէն ծարաւելոց...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The prayer is followed nu a piece of 4 verses, beginning with Չար Իշխանքըն խաւարին...</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item3" n="3">
-                     <title xml:lang="en">5 short devotional or incantatory sentences</title>
+                     <title xml:lang="en" key="work_277">5 short devotional or incantatory sentences</title>
                      <incipit>Բարեխօսութբ՟ ս՟բ ա՟ծածնին...</incipit>
                      <incipit>Տուր տր՟ թագաւորաց հաշտութի՟...</incipit>
                      <incipit>Սբ՟ Փոկաս եպիսկոպոս...</incipit>
@@ -67,42 +67,42 @@
                      <note>All prayers are executed as medallions, and each is preceded by a special picture.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item4" n="4">
-                     <title xml:lang="en">Prayer to the patriarch Abraham</title>
+                     <title xml:lang="en" key="work_278">Prayer to the patriarch Abraham</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>A paragraph referring to Gen. xxii. Եւ էառ Աբրահամ զորդին իւր զ Իսահակ...</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item5" n="5">
-                     <title xml:lang="en">The Genealogy of our Lord</title>
+                     <title xml:lang="en" key="work_279">The Genealogy of our Lord</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>From Matt.i.1-17.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item6" n="6">
-                     <title xml:lang="en">Prayer to our Lord in commemoration of his wounded side</title>
+                     <title xml:lang="en" key="work_280">Prayer to our Lord in commemoration of his wounded side</title>
                      <incipit>Հոգի Այ՟ սրբեա զիս...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>This is surmounted by a picture of the sacred chalice, in which stands a figure of our Lord holding a wager and bestowing the benediction, while seraphs serve as supporters to the chalice.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item7" n="7">
-                     <title xml:lang="en">Prayer to the archangels St. Gabriel and St. Michael, and to all the celestial host.</title>
+                     <title xml:lang="en" key="work_281">Prayer to the archangels St. Gabriel and St. Michael, and to all the celestial host.</title>
                      <incipit>Անսկիզբն Ած՟ Հայր սբ՟...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>In this orayer are addresses to 28 angels, under their names, and with the addition of the special titles approprate to their protection functions. The prayer is preceded by a figure of an angel bearing a two-belted globe surmounted by a cross.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item8" n="8">
-                     <title xml:lang="en">Prayer to St. Sargis the general, and his son Martyros</title>
+                     <title xml:lang="en" key="work_282">Prayer to St. Sargis the general, and his son Martyros</title>
                      <incipit>Երջանիկ մեծ զաւրական քի՟...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>At the head is a picture representing St. Sargis on horseback holding a club, and St. Martyros, who is depicted as a child, riding behind him.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item9" n="9">
                      <author key="person_84">Grigor, Narekatsʻi, Saint, 951-1003</author>
-                     <title xml:lang="en">The evening prayer</title>
+                     <title xml:lang="en" key="work_283">The evening prayer</title>
                      <incipit>Որդի Այ՟ կենդանւոյ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Preceded by a picture of the Saint.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item10" n="10">
-                     <title xml:lang="en">Another prayer on the same subject</title>
+                     <title xml:lang="en" key="work_283">Another prayer on the same subject</title>
                      <incipit>Ած՟ յաւիտէնական որ իջեր ի ստորին կողմն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

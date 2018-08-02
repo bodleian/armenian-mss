@@ -47,75 +47,75 @@
                   <msItem xml:id="MS_Arm_f_24-item1" n="1">
                      <locus>f. 3</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
-                     <title xml:lang="en">The Spiritual Elegy</title>
-                     <title xml:lang="hy">Յիսուս որդի</title>
+                     <title xml:lang="en" key="work_510">The Spiritual Elegy</title>
+                     <title xml:lang="hy" key="work_510">Յիսուս որդի</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>This lacks the last 48 lines and the Memorial.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item2" n="1">
                      <locus>f. 103</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
-                     <title xml:lang="en">Profession of Faith</title>
-                     <title xml:lang="hy">Բան հաւատոյ</title>
+                     <title xml:lang="en" key="work_269">Profession of Faith</title>
+                     <title xml:lang="hy" key="work_269">Բան հաւատոյ</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>This lacks the first 285 lines.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item3" n="1">
                      <locus>f. 133</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
-                     <title xml:lang="en">On Heaven and its order</title>
+                     <title xml:lang="en" key="work_512">On Heaven and its order</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item4" n="1">
                      <locus>f. 144</locus>
                      <author key="person_64">Karapet Vardapet</author>
-                     <title xml:lang="en">Moral precepts to schoolboys</title>
+                     <title xml:lang="en" key="work_513">Moral precepts to schoolboys</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item5" n="1">
                      <locus>f. 151(b)</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
-                     <title xml:lang="en">Moral precepts, in alphabetical order</title>
+                     <title xml:lang="en" key="work_271">Moral precepts, in alphabetical order</title>
                      <incipit>Այբն` Աստուծոյ զքեզ մերձակայ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item6" n="1">
                      <locus>f. 161</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
-                     <title xml:lang="en">A prayer, alphabetically arranged.</title>
+                     <title xml:lang="en" key="work_514">A prayer, alphabetically arranged.</title>
                      <incipit>Ա՟ծ անեղ անհասական …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item7" n="1">
                      <locus>f. 163(b)</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
-                     <title xml:lang="en">Profession of faith, in alphabetical order.</title>
-                     <title xml:lang="hy">Բան հաւատոյ</title>
+                     <title xml:lang="en" key="work_269">Profession of faith, in alphabetical order.</title>
+                     <title xml:lang="hy" key="work_269">Բան հաւատոյ</title>
                      <incipit>Այբն` Անսկիզբն ասէ զԱ՟ծ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item8" n="1">
                      <locus>f. 168(b)</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
-                     <title xml:lang="en">Moral precepts to schoolboys.</title>
+                     <title xml:lang="en" key="work_513">Moral precepts to schoolboys.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item9" n="1">
                      <locus>f. 173</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
-                     <title xml:lang="en">Metrical colophons of his copy of the Books of Solomon.</title>
+                     <title xml:lang="en" key="work_517">Metrical colophons of his copy of the Books of Solomon.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item10" n="1">
                      <locus>f. 181</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
-                     <title xml:lang="en">Metrical History of Armenia.</title>
+                     <title xml:lang="en" key="work_518">Metrical History of Armenia.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_24-item11" n="1">
                      <locus>f. 232</locus>
                      <author key="person_65">Araqel Vardapet</author>
-                     <title xml:lang="en">Moral precepts to schoolboys, in alphabetical order.</title>
+                     <title xml:lang="en" key="work_513">Moral precepts to schoolboys, in alphabetical order.</title>
                      <incipit>Այբն Աստուծոյ է օրինակ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Deficient after the letter Ն.</note>

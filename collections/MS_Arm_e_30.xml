@@ -46,33 +46,33 @@
                   <summary>Apocrypha of the O.T., 13th cent.</summary>
                   <msItem xml:id="MS_Arm_e_30-item1" n="1">
                      <locus>f. 80</locus>
-                     <title xml:lang="en">History of Joseph</title>
+                     <title xml:lang="en" key="work_123">History of Joseph</title>
                      <incipit>Եւ այս են ծնունդք Յակոբայ. Յովսէփ եաւթնուտասնամեայ էր …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>A free compilation of the Bible, with some insertions. The history as it proceeds falls into two subdivisions (ff. 88 and 92(b)), both having the same strange title of Եւթն վահանգի (?). The first three folios (ff. 80-83) are in a later hand.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_30-item2" n="2">
                      <locus>f. 111</locus>
-                     <title xml:lang="en">History of Asaneth</title>
+                     <title xml:lang="en" key="work_124">History of Asaneth</title>
                      <incipit>Եւ եղեւ յամին առաջնումն յևթն ամանց լրութեանցն յամսեանն առաջնումն …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>cf. Lord Curzon's Arm. MSS., no 1 (Bible), ff. 37(b)-44, published at Venice from a text somewhat different from our MS. French trans by A. Carrière, in the 'Nouv. Mél. orient.' (Paris, 1886), pp. 471-511. Eng. trans. by J. Issaverdenz in the 'Uncanonical Writings of the O.T., etc.' (Venice, 1901), pp. 92-162.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_30-item3" n="3">
                      <locus>f. 169</locus>
-                     <title xml:lang="en">The Testaments of XII Patriarchs</title>
+                     <title xml:lang="en" key="work_125">The Testaments of XII Patriarchs</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Defective at end, our copy contains only the Testaments of Simeon, Levi, Joseph, Benjamin, and Juda. The last three leaves are supplied by a later hand in bad notrgir. (Cf. Lord Curzon's Arm. MSS., no. 1, ff. 24-37. - Issaverdenz, l.c., pp. 351-479.).</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_30-item4" n="4">
                      <locus>f. 2</locus>
-                     <title xml:lang="en">Vardan Vardapet's Abridgement of the Lives of the Fathers of the Desert, for the easy use of monks.</title>
+                     <title xml:lang="en" key="work_126">Vardan Vardapet's Abridgement of the Lives of the Fathers of the Desert, for the easy use of monks.</title>
                      <incipit>Որ էրն ի սկզբանէ ա՟ծ բանն վասն բարւոյն գոյացոյց …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_30-item5" n="5">
                      <locus>f. 216</locus>
-                     <title xml:lang="en">Questions of the Queen (of Saba) and Salomon's answers.</title>
+                     <title xml:lang="en" key="work_127">Questions of the Queen (of Saba) and Salomon's answers.</title>
                      <incipit>Դշխոյն. ասէ. Զի՞նչ է ա՟ծն քո և ու՞մ նման է …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

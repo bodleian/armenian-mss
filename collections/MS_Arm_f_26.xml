@@ -46,65 +46,65 @@
                   <summary>Prayer-book, A.D. 1611.</summary>
                   <msItem xml:id="MS_Arm_f_26-item1" n="1">
                      <locus>f. 237</locus>
-                     <title xml:lang="en">A psalter</title>
+                     <title xml:lang="en" key="work_467">A psalter</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Having the usual divisions into eight canons, with their liturgical prayers and final hymns. The first quire being lost, it begins with Ps. ix. 13, and ends after the half of the prayer of Manasseh.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item2" n="2">
                      <locus>f. 244</locus>
                      <author key="person_55">John Gaṙnec‘i</author>
-                     <title xml:lang="en">A treatise on prayers</title>
+                     <title xml:lang="en" key="work_468">A treatise on prayers</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing three precepts and six prayers.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item3" n="3">
                      <locus>f. 262</locus>
                      <author key="person_84">Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003</date></author>
-                     <title xml:lang="en">The 33rd chapter of Grigor Narekac‘i.</title>
+                     <title xml:lang="en" key="work_469">The 33rd chapter of Grigor Narekac‘i.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item4" n="4">
                      <locus>f. 267</locus>
                      <author key="person_52">Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date></author>
-                     <title xml:lang="en">Prayers to be recited during Mass</title>
+                     <title xml:lang="en" key="work_470">Prayers to be recited during Mass</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing five prayers.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item5" n="5">
                      <locus>f. 277</locus>
-                     <title xml:lang="en">Pryaer for Communion</title>
+                     <title xml:lang="en" key="work_471">Pryaer for Communion</title>
                      <incipit>Ս՟բ ս՟բ հայր ամենակարող …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item6" n="6">
                      <locus>f. 278(b)</locus>
-                     <title xml:lang="en">Prayers extracted from the Liturgy.</title>
+                     <title xml:lang="en" key="work_472">Prayers extracted from the Liturgy.</title>
                      <incipit>Հայր ս՟բ որ անուանեցեր …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item7" n="7">
                      <locus>f. 287</locus>
-                     <title xml:lang="en">Prayers of St. Ephrem</title>
+                     <title xml:lang="en" key="work_473">Prayers of St. Ephrem</title>
                      <incipit>Տես տ՟ր զտառապանս իմ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item8" n="8">
                      <locus>f. 298</locus>
-                     <title xml:lang="en">Prayer to the holy Virgin.</title>
+                     <title xml:lang="en" key="work_475">Prayer to the holy Virgin.</title>
                      <incipit>Ով Մարիամ մայր բանին ա՟յ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item9" n="9">
                      <locus>f. 299(b)</locus>
                      <author key="person_56">Mesrob Vardapet</author>
-                     <title xml:lang="en">Prayer to the holy Virgin</title>
+                     <title xml:lang="en" key="work_475">Prayer to the holy Virgin</title>
                      <incipit>Մարիամ ա՟ծածին մայր լուսոյ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item10" n="10">
                      <locus>f. 300(b)</locus>
                      <author key="person_57">John Sarkavag Vardapet</author>
-                     <title xml:lang="en">Prayer to the holy Virgin</title>
+                     <title xml:lang="en" key="work_475">Prayer to the holy Virgin</title>
                      <incipit>Ծնունդ երկնածնին …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Read երկրածնին.</note>
@@ -112,77 +112,77 @@
                   <msItem xml:id="MS_Arm_f_26-item11" n="11">
                      <locus>f. 305(b)</locus>
                      <author key="person_84">Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003</date></author>
-                     <title xml:lang="en">The 80th chapter of Grgor Narekac‘i</title>
+                     <title xml:lang="en" key="work_476">The 80th chapter of Grgor Narekac‘i</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item12" n="12">
                      <locus>f. 307(b)</locus>
                      <author key="person_84">Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003</date></author>
-                     <title xml:lang="en">To the Angels, the 81st chapter of Grigor Narekac‘i</title>
+                     <title xml:lang="en" key="work_477">To the Angels, the 81st chapter of Grigor Narekac‘i</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item13" n="13">
                      <locus>f. 309</locus>
-                     <title xml:lang="en">Prayers for Holy Places in Palestine</title>
-                     <title xml:lang="hy">Ի խորհուրդ նազարէթի. զքո վայրիջմանգ վայր վերառեալ (sic)</title>
+                     <title xml:lang="en" key="work_478">Prayers for Holy Places in Palestine</title>
+                     <title xml:lang="hy" key="work_478">Ի խորհուրդ նազարէթի. զքո վայրիջմանգ վայր վերառեալ (sic)</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item14" n="14">
                      <locus>f. 314</locus>
                      <author key="person_58">Sarkavag Vardapet</author>
-                     <title xml:lang="en">Selection of prayers of Sarkavag Vardapet</title>
+                     <title xml:lang="en" key="work_480">Selection of prayers of Sarkavag Vardapet</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Being the 11th, 7th, 2nd, 10th, and 20th of Sopherq.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item15" n="15">
                      <locus>f. 330</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date></author>
-                     <title xml:lang="en">Prayer to the Angels, in verse</title>
+                     <title xml:lang="en" key="work_482">Prayer to the Angels, in verse</title>
                      <incipit>Այլ պաղատիմ առ հոգեղէնսդ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item16" n="16">
                      <locus>f. 333(b)</locus>
-                     <title xml:lang="en">Prayer to the Angels</title>
+                     <title xml:lang="en" key="work_482">Prayer to the Angels</title>
                      <incipit>Անկանիմ առաջի ա՟մ դասակցութե՟ց …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item17" n="17">
                      <locus>f. 335</locus>
-                     <title xml:lang="en">To the twelve Guardian Angels, woth their respective names and powers (magical prayer).</title>
+                     <title xml:lang="en" key="work_483">To the twelve Guardian Angels, woth their respective names and powers (magical prayer).</title>
                      <incipit>Յիշեա զՍարագիէլ հրեշտակն և ապրիս յ մ նեղութ՟է: յիշեա զՍարսիէլ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item18" n="18">
                      <locus>f. 335(b)</locus>
-                     <title xml:lang="en">To all saints.</title>
+                     <title xml:lang="en" key="work_484">To all saints.</title>
                      <incipit>Վասն ս՟բ և փրկական չարչարանաց ղոց …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item19" n="19">
                      <locus>f. 337(b)</locus>
-                     <title xml:lang="en">Prayer for all the world.</title>
+                     <title xml:lang="en" key="work_485">Prayer for all the world.</title>
                      <incipit>Աւրհնեալ հայր ս՟բ ա՟ծ ճշմարիտ սրբեա զմեզ յա՟մ սղալանաց մերոց …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item20" n="20">
                      <locus>f. 340</locus>
                      <author key="person_84">Grigor, Narekatsʻi, Saint, <date calendar="#Gregorian" from="0951" to="1003">951-1003</date></author>
-                     <title xml:lang="en">Selection from Gregory of Narek</title>
+                     <title xml:lang="en" key="work_486">Selection from Gregory of Narek</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Being chapters 41,42, 84, 85, 12, 91, 94, 95, 77, and 78.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item21" n="21">
                      <locus>f. 356(b)</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date></author>
-                     <title xml:lang="en">Prayers of Nerses Shnorhali, preceded by admonitions how to pray</title>
+                     <title xml:lang="en" key="work_35">Prayers of Nerses Shnorhali, preceded by admonitions how to pray</title>
                      <incipit>Հաւատով խոստովանիմ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item22" n="22">
                      <locus>f. 361(b)</locus>
                      <author key="person_59">Saint Basil</author>
-                     <title xml:lang="en">Prayer of St. Basil.</title>
+                     <title xml:lang="en" key="work_488">Prayer of St. Basil.</title>
                      <incipit>Աւրհնեմք զքեզ տէր երկայնամիտ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Two leaves are missing.</note>
@@ -190,109 +190,109 @@
                   <msItem xml:id="MS_Arm_f_26-item23" n="23">
                      <locus>f. 364(b)</locus>
                      <author key="person_60">Moses the Grammarian</author>
-                     <title xml:lang="en">Prayer of Moses the Grammarian (քերթող)</title>
+                     <title xml:lang="en" key="work_489">Prayer of Moses the Grammarian (քերթող)</title>
                      <incipit>Աղաչեմք զքեզ տ՟ր, թող ինձ զմեղս իմ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item24" n="24">
                      <locus>f. 365(b)</locus>
                      <author key="person_61">Benik Vardapet</author>
-                     <title xml:lang="en">Prayer of Benik Vardapet.</title>
+                     <title xml:lang="en" key="work_490">Prayer of Benik Vardapet.</title>
                      <incipit>Տէր ա՟ծ անսկիզբն հզօր …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item25" n="25">
                      <locus>f. 367</locus>
                      <author key="person_56">Mesrob Vardapet</author>
-                     <title xml:lang="en">Prayer of Mesrob Vardapet</title>
+                     <title xml:lang="en" key="work_491">Prayer of Mesrob Vardapet</title>
                      <incipit>Որ անեղդ ես և անսրեղծ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item26" n="26">
                      <locus>f. 368(b)</locus>
                      <author key="person_51">Gregory, the Illuminator, Saint, <date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date></author>
-                     <title xml:lang="en">Prayer of Gregory the Illuminator</title>
+                     <title xml:lang="en" key="work_492">Prayer of Gregory the Illuminator</title>
                      <incipit>Աւրհնեալէ մարդասիրութ՟ի քո …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item27" n="27">
                      <locus>f. 370</locus>
                      <author key="person_51">Gregory, the Illuminator, Saint, <date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date></author>
-                     <title xml:lang="en">Prayer of Gregory the Illuminator</title>
+                     <title xml:lang="en" key="work_492">Prayer of Gregory the Illuminator</title>
                      <incipit>Աղաչեմ զքեզ փրկիչ յասխարհի Ք՟ս …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item28" n="28">
                      <locus>f. 371</locus>
                      <author key="person_62">Saint Phocas</author>
-                     <title xml:lang="en">Prayer of St. Phocas, bishop</title>
+                     <title xml:lang="en" key="work_493">Prayer of St. Phocas, bishop</title>
                      <incipit>Ց՟ս Ք՟ս միածին որդի ա՟յ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item29" n="29">
                      <locus>f. 372</locus>
-                     <title xml:lang="en">Prayer of (Stephanos called) the son of Yousik.</title>
+                     <title xml:lang="en" key="work_494">Prayer of (Stephanos called) the son of Yousik.</title>
                      <incipit>Յ՟ս միածին ա՟ծ բոլորից …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item30" n="30">
                      <locus>f. 373</locus>
-                     <title xml:lang="en">Three other prayers of anonymous authors.</title>
+                     <title xml:lang="en" key="work_495">Three other prayers of anonymous authors.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item31" n="31">
                      <locus>f. 375(b)</locus>
-                     <title xml:lang="en">Prayer of the Penitent Thief.</title>
+                     <title xml:lang="en" key="work_496">Prayer of the Penitent Thief.</title>
                      <incipit>Բաց ինձ զդուռն ողորմութ՟ե …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item32" n="32">
                      <locus>f. 379</locus>
-                     <title xml:lang="en">Prayer of Anastasius priest.</title>
+                     <title xml:lang="en" key="work_497">Prayer of Anastasius priest.</title>
                      <incipit>Գիտեմ տ՟ր զի աններելի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item33" n="33">
                      <locus>f. 385(b)</locus>
-                     <title xml:lang="en">Prayer of Anastasius, priest.</title>
+                     <title xml:lang="en" key="work_497">Prayer of Anastasius, priest.</title>
                      <incipit>Դու ամենակալ տ՟ր, կենդանաստեղծեր զիս …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item34" n="34">
                      <locus>f. 394</locus>
-                     <title xml:lang="en">Prayer of King Manasseh</title>
+                     <title xml:lang="en" key="work_499">Prayer of King Manasseh</title>
                      <incipit>Տ՟ր ամենակալ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item35" n="35">
                      <locus>f. 398</locus>
-                     <title xml:lang="en">A moral or sapiential tract.</title>
+                     <title xml:lang="en" key="work_500">A moral or sapiential tract.</title>
                      <incipit>Մարդոյն գանձն և մեծութիւն …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Beginning and end are lost.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item36" n="36">
                      <locus>f. 400(b)</locus>
-                     <title xml:lang="en">A list of aphorisms</title>
+                     <title xml:lang="en" key="work_501">A list of aphorisms</title>
                      <incipit>Որ հօսաբէ (?) յարտաքին խաւարէն` աստ ընդ խաւար մեղաց մի՛ շեջեսցի: որ երկնչի 'ի լալոյ աչաց` և 'ի կրճել ատամանցն` աստ մի՛ ցամաքեցուցէ աշաց իւրոց զվտա՛կս արրասուաց:</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Incomplete at the beginning and the end.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item37" n="37">
                      <locus>f. 405</locus>
-                     <title xml:lang="en">Tables of Epacts (վերադիր), dominical letters (եօթներեակ), etc., and their explanations.</title>
+                     <title xml:lang="en" key="work_502">Tables of Epacts (վերադիր), dominical letters (եօթներեակ), etc., and their explanations.</title>
                      <incipit>Բանալիք աղիւսակիս այսպէս արա. Կալ զմեծ թիւն պ՟ը …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item38" n="38">
                      <locus>f. 421</locus>
-                     <title xml:lang="en">Armenian Calendar of Feasts for entire year, in Polish with Armenian characters.</title>
+                     <title xml:lang="en" key="work_503">Armenian Calendar of Feasts for entire year, in Polish with Armenian characters.</title>
                      <incipit>Յունվար. լ՟ա. գուն ա՟. Օխդապա ս՟վկօ շչեքանա …</incipit>
                      <textLang mainLang="pl">Polish</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_26-item39" n="39">
                      <locus>f. 433</locus>
-                     <title xml:lang="en">List of the Easter Days from the year 1584 to 1702, in Armenian and Christian eras</title>
+                     <title xml:lang="en" key="work_504">List of the Easter Days from the year 1584 to 1702, in Armenian and Christian eras</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

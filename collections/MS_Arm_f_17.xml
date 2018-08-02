@@ -46,50 +46,50 @@
                   <summary>Miscellany of Legends, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_17-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">Dialogue of St. Gregory (the Illuminator) with the Angel, - on the state of souls after death.</title>
+                     <title xml:lang="en" key="work_128">Dialogue of St. Gregory (the Illuminator) with the Angel, - on the state of souls after death.</title>
                      <incipit>… [հաւ]ատս ունելով երկրպագեմք խաչին և աւետարանին …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The beginning is lost.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_17-item2" n="2">
                      <locus>f. 4(b)</locus>
-                     <title xml:lang="en">Dialogue of the risen Saviour with the Paralytic.</title>
+                     <title xml:lang="en" key="work_129">Dialogue of the risen Saviour with the Paralytic.</title>
                      <incipit>Կայր անդամալոյծ մի աչօք կոյր և կաղ և կոինդ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_17-item3" n="3">
                      <locus>f. 8</locus>
-                     <title xml:lang="en">Story of Marinos the Ascetic.</title>
+                     <title xml:lang="en" key="work_130">Story of Marinos the Ascetic.</title>
                      <incipit>Իսկ Մարինոս կոյս աղջիկ էր, մեռաւ մայրն, և հայրն կամէր գնալ յանապատ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_17-item4" n="4">
                      <locus>f. 11</locus>
-                     <title xml:lang="en">Story of the ascetic Alexis.</title>
+                     <title xml:lang="en" key="work_131">Story of the ascetic Alexis.</title>
                      <incipit>զՀայրն սորա որ յոյժ մեծատուն և իշխան քաղաքին …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_17-item5" n="5">
                      <locus>f. 18(b)</locus>
-                     <title xml:lang="en">Story of Rusinos the Economos.</title>
+                     <title xml:lang="en" key="work_132">Story of Rusinos the Economos.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_17-item6" n="6">
                      <locus>f. 20</locus>
-                     <title xml:lang="en">Story of the Crucifixion of Christ.</title>
+                     <title xml:lang="en" key="work_133">Story of the Crucifixion of Christ.</title>
                      <incipit>Եւ յորժամ ուսուցանէր Քս՟ աշակերտացն ի պարտիզին, մեկնեցաւ Յուդա …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>It ends with a Lament of Virgin Mary, f. 25.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_17-item7" n="7">
                      <locus>f. 30</locus>
-                     <title xml:lang="en">Story of one of the miracles of St. Minas</title>
+                     <title xml:lang="en" key="work_134">Story of one of the miracles of St. Minas</title>
                      <incipit>Այր ոմն վաճառական խորհէր վաճառելով երթալ երկիրպագանել գերեզմանացն սրբոյն Մինասայ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_17-item8" n="8">
                      <locus>f. 31</locus>
-                     <title xml:lang="en">Story of Job the Just.</title>
+                     <title xml:lang="en" key="work_135">Story of Job the Just.</title>
                      <incipit>Երանելին Յոբ ի զարմէ Աբրահամու և ի թոռանցն Եսաւայ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

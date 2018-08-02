@@ -46,114 +46,114 @@
                   <summary>Antiphonary, 14th cent.</summary>
                   <msItem xml:id="MS_Arm_f_23-item1" n="1">
                      <locus>f. 22</locus>
-                     <title xml:lang="hy">Գիշերային երգ</title>
+                     <title xml:lang="hy" key="work_244">Գիշերային երգ</title>
                      <incipit>… ցէք եիղլապետրս ջերմ արտասուաւք …</incipit>
                      <note>The Hymn of the Night Office.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item2" n="2">
                      <locus>f. 2(b)2(b)</locus>
-                     <title xml:lang="hy">Կարգ Կանովնագլխոյն միահամուռ</title>
+                     <title xml:lang="hy" key="work_245">Կարգ Կանովնագլխոյն միահամուռ</title>
                      <note>Order of the Heads of Canons in general.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item3" n="3">
                      <locus>f. 77</locus>
-                     <title xml:lang="hy">Թագաւորք Ապաշխարութեան</title>
+                     <title xml:lang="hy" key="work_246">Թագաւորք Ապաշխարութեան</title>
                      <note>Forms of the 'O King', for days of penance.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item4" n="4">
                      <locus>f. 12(b)12(b)</locus>
-                     <title xml:lang="hy">Թագաւորք Մարտիրոսաց</title>
+                     <title xml:lang="hy" key="work_247">Թագաւորք Մարտիրոսաց</title>
                      <note>Forms of the 'O King', for feasts of martyrs.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item5" n="5">
                      <locus>f. 1717</locus>
-                     <title xml:lang="hy">Կարգ գիշերութեան Ալէլուաց</title>
+                     <title xml:lang="hy" key="work_248">Կարգ գիշերութեան Ալէլուաց</title>
                      <note>According to the eight tones. Order of the Alleluiahs in the Night Office.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item6" n="6">
                      <locus>f. 28(b)28(b)</locus>
-                     <title xml:lang="hy">Առաւաւտեան Երգեր պահոց և այլոց տաւնից. Լոյս տուր տ՟ր աչաց իմոց …</title>
+                     <title xml:lang="hy" key="work_249">Առաւաւտեան Երգեր պահոց և այլոց տաւնից. Լոյս տուր տ՟ր աչաց իմոց …</title>
                      <note>Hymns at Dawn for fasts and feasts.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item7" n="7">
                      <locus>f. 3333</locus>
-                     <title xml:lang="hy">Հարացափառեր Ապաշխարութեան</title>
+                     <title xml:lang="hy" key="work_250">Հարացափառեր Ապաշխարութեան</title>
                      <note>accordin to the eight tones. Forms of the 'Blessed art thou, Lord God of our Fathers'.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item8" n="8">
                      <locus>f. 45(b)45(b)</locus>
-                     <title xml:lang="hy">Ճաշոյ Ժամամտեր միահամուռ</title>
+                     <title xml:lang="hy" key="work_251">Ճաշոյ Ժամամտեր միահամուռ</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item9" n="9">
                      <locus>f. 61(b)61(b)</locus>
-                     <title xml:lang="hy">Ճաշոյ Մեսեդիք Ապաշխարութեան</title>
+                     <title xml:lang="hy" key="work_252">Ճաշոյ Մեսեդիք Ապաշխարութեան</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item10" n="10">
                      <locus>f. 6363</locus>
-                     <title xml:lang="hy">Ճաշոյ Մեսեդիք Յարութեան տ՟ն</title>
+                     <title xml:lang="hy" key="work_253">Ճաշոյ Մեսեդիք Յարութեան տ՟ն</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item11" n="11">
                      <locus>f. 6565</locus>
-                     <title xml:lang="hy">Ճաշոյ Ատողոգիք Յինանցն. Երանեալէ այր …</title>
+                     <title xml:lang="hy" key="work_254">Ճաշոյ Ատողոգիք Յինանցն. Երանեալէ այր …</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item12" n="12">
                      <locus>f. 6666</locus>
-                     <title xml:lang="hy">Ճաշոյ Ալէլուք միահամուռ</title>
+                     <title xml:lang="hy" key="work_255">Ճաշոյ Ալէլուք միահամուռ</title>
                      <note>Accodring to the eight tones. Lacking the end.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item13" n="13">
                      <locus>f. 8585</locus>
-                     <title xml:lang="hy">(Արբասացուտիւնք)</title>
+                     <title xml:lang="hy" key="work_256">(Արբասացուտիւնք)</title>
                      <incipit>… իջեալ ի երկնից …</incipit>
                      <note>Lacking the beginning.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item14" n="14">
                      <locus>f. 86(b)86(b)</locus>
-                     <title xml:lang="hy">Ծննդի և Զատիկ Աւագ ս՟ք ա՟ծն.</title>
+                     <title xml:lang="hy" key="work_257">Ծննդի և Զատիկ Աւագ ս՟ք ա՟ծն.</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item15" n="15">
                      <locus>f. 86(b)86(b)</locus>
-                     <title xml:lang="hy">Զկնի սրբասացութեան յառաջ բերեալ. Մի ոք յերեխայից …</title>
+                     <title xml:lang="hy" key="work_258">Զկնի սրբասացութեան յառաջ բերեալ. Մի ոք յերեխայից …</title>
                      <note>Lacking the end.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item16" n="16">
                      <locus>f. 8787</locus>
-                     <title xml:lang="hy">(Երեկոյեան ժամուն. Խոնարհեցոյ և ապերեցոյ)</title>
+                     <title xml:lang="hy" key="work_259">(Երեկոյեան ժամուն. Խոնարհեցոյ և ապերեցոյ)</title>
                      <note>according to the eight tones. Lacking the beginning.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item17" n="17">
                      <locus>f. 9090</locus>
-                     <title xml:lang="hy">Աւագ Մեսեդի Աղուհացիցն. Դարձն զիս տ՟ր …</title>
+                     <title xml:lang="hy" key="work_260">Աւագ Մեսեդի Աղուհացիցն. Դարձն զիս տ՟ր …</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item18" n="18">
                      <locus>f. 92(b)92(b)</locus>
-                     <title xml:lang="hy">Ստողոգիք Աղուհացիցն. Ողորմեաց ինձ ա՟ծ …</title>
+                     <title xml:lang="hy" key="work_261">Ստողոգիք Աղուհացիցն. Ողորմեաց ինձ ա՟ծ …</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item19" n="19">
                      <locus>f. 9393</locus>
-                     <title xml:lang="hy">Աւագ Ուրբաթուն. Յարուցեալ վկայք չարե …</title>
+                     <title xml:lang="hy" key="work_262">Աւագ Ուրբաթուն. Յարուցեալ վկայք չարե …</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item20" n="20">
                      <locus>f. 93(b)93(b)</locus>
-                     <title xml:lang="hy">Խոնարհեցուք հասարակաց աւուրց</title>
+                     <title xml:lang="hy" key="work_263">Խոնարհեցուք հասարակաց աւուրց</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item21" n="21">
                      <locus>f. 94(b)94(b)</locus>
-                     <title xml:lang="hy">Երեկոյի փառեր. Սրբոց Մարտիրոսաց. Վասն սրբոց քոց մարտիրոսաց հաշտեա տր …</title>
+                     <title xml:lang="hy" key="work_264">Երեկոյի փառեր. Սրբոց Մարտիրոսաց. Վասն սրբոց քոց մարտիրոսաց հաշտեա տր …</title>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item22" n="22">
                      <locus>f. 103(b)103(b)</locus>
-                     <title xml:lang="hy">Մեսեդիք ծննդեան, - Յարութեան -, Մարֆիրոսաց, -Ամաշխարութեան</title>
+                     <title xml:lang="hy" key="work_265">Մեսեդիք ծննդեան, - Յարութեան -, Մարֆիրոսաց, -Ամաշխարութեան</title>
                      <note>Lacking the end.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item23" n="23">
                      <locus>f. 112112</locus>
-                     <title xml:lang="hy">[Ուղիղ եղիցիք]</title>
+                     <title xml:lang="hy" key="work_266">[Ուղիղ եղիցիք]</title>
                      <note>Lacking the beginning and the end.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_23-item24" n="24">
                      <locus>f. 120(b)120(b)</locus>
-                     <title xml:lang="hy">Կարգ Ուղդեցեաց միահամուռ. Ուղիղ եղիցին աղաւթք իմ որպէս</title>
+                     <title xml:lang="hy" key="work_267">Կարգ Ուղդեցեաց միահամուռ. Ուղիղ եղիցին աղաւթք իմ որպէս</title>
                      <note>Here ends the book.</note>
                   </msItem>
                </msContents>

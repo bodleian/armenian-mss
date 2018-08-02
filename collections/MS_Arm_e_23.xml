@@ -47,8 +47,8 @@
                   <msItem xml:id="MS_Arm_e_23-item1" n="1">
                      <locus>f. 1</locus>
                      <author key="person_63">Gabriel Avedikian</author>
-                     <title xml:lang="hy">'Հայելի ազգեցութեան', յորում ցուցանին թիւրութիւնք տետրակին կոչեցելոյ Գաւազան կրկնազօրմ առ ի զգաստութիւն և յուղղութիւն հեղինակի նորին Սրմաքէշ Մանուէլի, արարեալ յումեմնէ ճշմարտասիրէ … յամի Տ՟ն</title>
-                     <title xml:lang="en">'A Reflecting Mirror', showing the callacies of the pamphlet called 'Staff of Twofold Strength' of Sermaqesh Manuel, written by a lover of truth …</title>
+                     <title xml:lang="hy" key="work_509">'Հայելի ազգեցութեան', յորում ցուցանին թիւրութիւնք տետրակին կոչեցելոյ Գաւազան կրկնազօրմ առ ի զգաստութիւն և յուղղութիւն հեղինակի նորին Սրմաքէշ Մանուէլի, արարեալ յումեմնէ ճշմարտասիրէ … յամի Տ՟ն</title>
+                     <title xml:lang="en" key="work_509">'A Reflecting Mirror', showing the callacies of the pamphlet called 'Staff of Twofold Strength' of Sermaqesh Manuel, written by a lover of truth …</title>
                      <textLang mainLang="xcl">Armenian</textLang>
                   </msItem>
                </msContents>

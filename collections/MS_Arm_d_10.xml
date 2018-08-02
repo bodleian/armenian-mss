@@ -46,51 +46,51 @@
                   <summary>Liturgical, A.D. 1675-6.</summary>
                   <msItem xml:id="MS_Arm_d_10-item1" n="1">
                      <locus>f. 1(b)</locus>
-                     <title xml:lang="en">Formulas of the confession and absolution of a penitent</title>
+                     <title xml:lang="en" key="work_447">Formulas of the confession and absolution of a penitent</title>
                      <incipit>Մերայ ամենասուրբ երրորդութեան հօր...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_10-item2" n="2">
                      <locus>f. 2(b)</locus>
-                     <title xml:lang="en">A short note on St. Gregory the Illuminator</title>
+                     <title xml:lang="en" key="work_448">A short note on St. Gregory the Illuminator</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_10-item3" n="3">
                      <locus>f. 3</locus>
-                     <title xml:lang="en">Nicene Creed, in the translation of Armenian Roman Catholics</title>
+                     <title xml:lang="en" key="work_449">Nicene Creed, in the translation of Armenian Roman Catholics</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_10-item4" n="4">
                      <locus>f. 3</locus>
-                     <title xml:lang="en">Canticle for the Epiphany</title>
+                     <title xml:lang="en" key="work_450">Canticle for the Epiphany</title>
                      <incipit>Ողջոյն ընդ քեզ թագաւոր փառաց...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_10-item5" n="5">
                      <locus>f. 3</locus>
-                     <title xml:lang="en">Profession of faith for newly baptized persons</title>
+                     <title xml:lang="en" key="work_451">Profession of faith for newly baptized persons</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>It differs from the text of the Armenian ritual.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_10-item6" n="6">
                      <locus>f. 3(b)</locus>
-                     <title xml:lang="en">Litany of our Lord, after the Latin Church</title>
+                     <title xml:lang="en" key="work_452">Litany of our Lord, after the Latin Church</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_10-item7" n="7">
                      <locus>f. 5</locus>
-                     <title xml:lang="en">Litany of All Saints, after the Latin Church</title>
+                     <title xml:lang="en" key="work_453">Litany of All Saints, after the Latin Church</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_10-item8" n="8">
                      <locus>f. 8(b)</locus>
-                     <title xml:lang="en">Prayer of St. Thomas Aquinas</title>
+                     <title xml:lang="en" key="work_454">Prayer of St. Thomas Aquinas</title>
                      <incipit>Արարիչդ բոլորից, անհաս եւ անպատում...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_10-item9" n="9">
                      <locus>f. 9</locus>
-                     <title xml:lang="en">Prayer in verse on the Passion of our Lord</title>
+                     <title xml:lang="en" key="work_455">Prayer in verse on the Passion of our Lord</title>
                      <incipit>Ամենահրաշ տէր երկնային, Աստուած եւ տէր բանդ անմարմին...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

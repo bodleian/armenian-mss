@@ -46,7 +46,7 @@
                   <summary>Geomancy, etc., 17th cent.</summary>
                   <msItem xml:id="MS_Arm_e_12-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">Astronomical and astrological tracts</title>
+                     <title xml:lang="en" key="work_192">Astronomical and astrological tracts</title>
                      <textLang mainLang="xcl">Armenian</textLang>
                      <note>Containing: Astronomical tract in verse, by Araqel Vardapet of Bitlis; The way to find the position of planets in the Zodiac; The way to ascertain teh easternand western star; etc.</note>
                   </msItem>

@@ -46,19 +46,19 @@
                   <summary>Grammatical and Philosophical Tracts, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_e_34-item1" n="1">
                      <locus>f. 4</locus>
-                     <title xml:lang="en">Grammatical tracts</title>
+                     <title xml:lang="en" key="work_505">Grammatical tracts</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing: The Grammar of Dionysius of Thrace; Glossary of the Grammar of Dionyisus.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_34-item2" n="2">
                      <locus>f. 37</locus>
-                     <title xml:lang="en">The Art of Penmanship, etc.</title>
+                     <title xml:lang="en" key="work_506">The Art of Penmanship, etc.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing: tracts on penmanship; a fragmentary notice on prosody; discourse on wisdom, by Movses of Khorene.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_34-item3" n="3">
                      <locus>f. 99</locus>
-                     <title xml:lang="en">Philosophical tracts</title>
+                     <title xml:lang="en" key="work_507">Philosophical tracts</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing: The Definition of Philosophy, by David the Invincible; various smaller pieces.</note>
                   </msItem>

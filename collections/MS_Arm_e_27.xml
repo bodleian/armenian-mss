@@ -46,14 +46,14 @@
                   <summary>Glossary, 17th cent.</summary>
                   <msItem xml:id="MS_Arm_e_27-item1" n="1">
                      <locus>f. 4</locus>
-                     <title xml:lang="en">A Glossary of the Bible, by Jeremiah of Mełri</title>
+                     <title xml:lang="en" key="work_48">A Glossary of the Bible, by Jeremiah of Mełri</title>
                      <incipit>Անդունդք. թարքմանի ամբաւութիւնք …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Being a glossary of words selected from Holy Writ, in the order of the text beginning from Genesis up to the rest of John, the Acts of Apostles being omitted.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_27-item2" n="2">
                      <locus>f. 194</locus>
-                     <title xml:lang="en">Glossary of the Bibile in alphabetical order</title>
+                     <title xml:lang="en" key="work_49">Glossary of the Bibile in alphabetical order</title>
                      <incipit>Աբանայ. հօր օրհնութիւն: Աբարիմ. անցք կամ անցանօղք …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Including proper names as well as the words of the foregoing lexicon.</note>

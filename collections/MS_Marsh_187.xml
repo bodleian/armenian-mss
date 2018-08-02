@@ -46,7 +46,7 @@
                   <summary>Polyglot Glossary, 16th cent.</summary>
                   <msItem xml:id="MS_Marsh_187-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">A polyglott glossary of several languages</title>
+                     <title xml:lang="en" key="work_231">A polyglott glossary of several languages</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Those languages being Latin, Modern Greek, Turkish, Tatar, Armenian, Slavonic or Russian, Moldavic. Each language has a separate column, the Armenian the fifth.</note>
                   </msItem>

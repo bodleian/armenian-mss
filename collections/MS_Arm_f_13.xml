@@ -47,14 +47,14 @@
                   <msItem xml:id="MS_Arm_f_13-item1" n="1">
                      <locus>f. 5</locus>
                      
-                     <title xml:lang="en">A Collection of Philosophical Tracts</title>
+                     <title xml:lang="en" key="work_835">A Collection of Philosophical Tracts</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing: The Definitions of Philosophy by David the Invincible; Omnia mala; Isagoge of Porphyry; Aristotle about the Cosmos; The Aphorisms of the Greek Philosop on the Origin of the World.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_13-item2" n="2">
                      <locus>f. 222</locus>
                      <author key="person_101">Grigor Pahlawuni, Magistros, <date calendar="#Gregorian" from="0985" to="1085">985-1058</date></author>
-                     <title xml:lang="en">Selection from Letters of Gregory Magistros</title>
+                     <title xml:lang="en" key="work_836">Selection from Letters of Gregory Magistros</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Composed in an artificial dialect.</note>
                   </msItem>

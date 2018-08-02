@@ -46,29 +46,29 @@
                   <summary>Polyglot Vocabulary, 16th cent.</summary>
                   <msItem xml:id="MS_Laud_Or_202-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">A Turkish-French-Armenian vocabulary</title>
+                     <title xml:lang="en" key="work_184">A Turkish-French-Armenian vocabulary</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>In three columns, and in the alphabetical order of the Turkish alphabet. The latter is written in neskhi or Arabic letters. It contains about 1500 words.</note>
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_202-item2" n="2">
                      <locus>f. 61(b)</locus>
-                     <title xml:lang="en">Dialogues in the same three languages.</title>
+                     <title xml:lang="en" key="work_185">Dialogues in the same three languages.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>That is Turkish, French and Armenian.</note>
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_202-item3" n="3">
                      <locus>f. 66(b)</locus>
-                     <title xml:lang="en">Lord's Prayer in Armenian</title>
+                     <title xml:lang="en" key="work_186">Lord's Prayer in Armenian</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_202-item4" n="4">
                      <locus>f. 66</locus>
-                     <title xml:lang="en">Armenian Alphabet, with names of letters and phonetic values, both in eastern and western pronunciation, in French and Armenian</title>
+                     <title xml:lang="en" key="work_187">Armenian Alphabet, with names of letters and phonetic values, both in eastern and western pronunciation, in French and Armenian</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Laud_Or_202-item5" n="5">
                      <locus>f. 68</locus>
-                     <title xml:lang="en">Letter of Sultan Ahmed I, padisbah of Turkey, to Henry IV, king of France, in Turksih, written in Arabic characters.</title>
+                     <title xml:lang="en" key="work_188">Letter of Sultan Ahmed I, padisbah of Turkey, to Henry IV, king of France, in Turksih, written in Arabic characters.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

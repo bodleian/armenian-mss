@@ -46,19 +46,19 @@
                   <summary>Perpetual Calendar, 17th cent.</summary>
                   <msItem xml:id="MS_Arm_g_10-item1" n="1">
                      <locus>f. 18(b)</locus>
-                     <title xml:lang="en">Perpetual Calendar</title>
-                     <title xml:lang="hy">Պարզատումար</title>
+                     <title xml:lang="en" key="work_521">Perpetual Calendar</title>
+                     <title xml:lang="hy" key="work_521">Պարզատումար</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Պարզատումար, i.e. 'Simplified Calendar'. Consisting of a series of 35 and a half separate calendars, to be chosen according to the Easter-day of the year, which can fall, in its limit from the 22n March to the 25th April, and govern all the moveable feasts of the year. To each of these calendars is applied one of the 36 letters of the Armenian alphabet, called the year-letter (Տարեգիր), as it appears at the head of each calendar. This calendar, in tabular form, is published in the Arm. Psalters, and in French in the Dulaurier's Chronologie Armenienne (Paris, 1859), with a preliminary notice, pp. 401-405.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_10-item2" n="2">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">Gantzs and Hyns form the Night office.</title>
+                     <title xml:lang="en" key="work_523">Gantzs and Hyns form the Night office.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_10-item3" n="3">
                      <locus>f. 119(b)</locus>
-                     <title xml:lang="en">The Holy Places (Տնորինական տեղիք) in Palestine and Jerusalem.</title>
+                     <title xml:lang="en" key="work_524">The Holy Places (Տնորինական տեղիք) in Palestine and Jerusalem.</title>
                      <incipit>Նած և առաջին Նազարէթ աղբիւր …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

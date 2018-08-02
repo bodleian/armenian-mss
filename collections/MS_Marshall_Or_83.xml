@@ -46,33 +46,33 @@
                   <summary>Linguistic, 17th cent.</summary>
                   <msItem xml:id="MS_Marshall_Or_83-item1" n="1">
                      <locus>f. 4</locus>
-                     <title xml:lang="en">Samaritan alphabet, with those of Aethiopic, Arabic, Syriac, and Hebrew, and notes, in the handwritign of Thomas Marshall</title>
+                     <title xml:lang="en" key="work_376">Samaritan alphabet, with those of Aethiopic, Arabic, Syriac, and Hebrew, and notes, in the handwritign of Thomas Marshall</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marshall_Or_83-item2" n="2">
                      <locus>f. 5</locus>
-                     <title xml:lang="en">THe Aethiopic months, with their names in Hebrew and Coptic, and other notes, by the same.</title>
+                     <title xml:lang="en" key="work_377">THe Aethiopic months, with their names in Hebrew and Coptic, and other notes, by the same.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marshall_Or_83-item3" n="3">
                      <locus>f. 8</locus>
-                     <title xml:lang="en">The Armenian letters, with their names, in the Armenian and Latin alphabets.</title>
+                     <title xml:lang="en" key="work_378">The Armenian letters, with their names, in the Armenian and Latin alphabets.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marshall_Or_83-item4" n="4">
                      <locus>f. 8(b)</locus>
-                     <title xml:lang="en">Armenian capital letters, written in Notrgir by the Rev. Iacob Grigorentz.</title>
+                     <title xml:lang="en" key="work_379">Armenian capital letters, written in Notrgir by the Rev. Iacob Grigorentz.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marshall_Or_83-item5" n="5">
                      <locus>f. 9</locus>
-                     <title xml:lang="en">List of Armenian contractions, by the same.</title>
+                     <title xml:lang="en" key="work_380">List of Armenian contractions, by the same.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>A longer list by the same is to be found in MS. Sloane 1574, in the British Museum.</note>
                   </msItem>
                   <msItem xml:id="MS_Marshall_Or_83-item6" n="6">
                      <locus>f. 12</locus>
-                     <title xml:lang="en">One column in Persian and Latin, wuth heading "Lib. Persicus … Achlákủ 'Imủchsini. Goetheijt der natủren"</title>
+                     <title xml:lang="en" key="work_381">One column in Persian and Latin, wuth heading "Lib. Persicus … Achlákủ 'Imủchsini. Goetheijt der natủren"</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

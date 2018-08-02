@@ -46,32 +46,32 @@
                   <summary>Ethical legends and fables, A.D. 1697.</summary>
                   <msItem xml:id="MS_Canonici_Or_131-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">The history and sayings of Khicar the philosopher</title>
-                     <title xml:lang="hy">Պատմութիւն եւ Խօսք Խիկարայ իմաստասիրի</title>
+                     <title xml:lang="en" key="work_193">The history and sayings of Khicar the philosopher</title>
+                     <title xml:lang="hy" key="work_193">Պատմութիւն եւ Խօսք Խիկարայ իմաստասիրի</title>
                      <incipit>Յամին Սենաքարիմայ արքային Ասորեստանեաց եւ ի Սինուէ, ես Խիկար...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Published at Constantinople in an Armenian volume entitled 'History of the town of copper', 1720, pp. 70-106.</note>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_131-item2" n="2">
                      <locus>f. 37</locus>
-                     <title xml:lang="en">History of the seven sages</title>
-                     <title xml:lang="hy">Պատմութիւն եօթն իմաստասիրաց</title>
+                     <title xml:lang="en" key="work_195">History of the seven sages</title>
+                     <title xml:lang="hy" key="work_195">Պատմութիւն եօթն իմաստասիրաց</title>
                      <incipit>Այր ոմն փառաւոր որում անուն էր Փոնցիան...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Published at Leghorn, 1696, and at Constantinople, 1720 and 1740. On the history of this collection of stories, see 'The Book of Sindibad', by W.A.Clouston, 1884 - in which, however, no Armenian version seems to be mentioned.</note>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_131-item3" n="3">
                      <locus>f. 148</locus>
-                     <title xml:lang="en">Fables, called the Book of the Fox (by Vardan)</title>
-                     <title xml:lang="hy">Գիրք Առասպելաբանութեան, որ ասի Աղուեսագիրք</title>
+                     <title xml:lang="en" key="work_197">Fables, called the Book of the Fox (by Vardan)</title>
+                     <title xml:lang="hy" key="work_197">Գիրք Առասպելաբանութեան, որ ասի Աղուեսագիրք</title>
                      <incipit>Թագաւոր մի կազմեաց սեղան դեսպանաց...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>This collection contains 91 fables. The real Book of the Fox, in which the fox and other animals are actors, begins with the 33rd fable, commencing Ագռաւ մի պանիր ունէր ի բերանն ..., f. 172(b). Saint-Martin and Zohrab have published 45 of these fables under the title 'Choix de fables de Vartan, en Armenien et en Francais'. Paris, 1825, and in 1838. The text has been published at Amsterdam, 1668, Marselles, 1678, and Etchmiadzin, 1698.</note>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_131-item4" n="4">
                      <locus>f. 204</locus>
-                     <title xml:lang="en">History of Barlaam and Josaphat</title>
-                     <title xml:lang="hy">Տաղ Յովասափայ թաքաւորի, որդւոյ թաքաւորին հնդկաց Աբեներայ</title>
+                     <title xml:lang="en" key="work_199">History of Barlaam and Josaphat</title>
+                     <title xml:lang="hy" key="work_199">Տաղ Յովասափայ թաքաւորի, որդւոյ թաքաւորին հնդկաց Աբեներայ</title>
                      <incipit>Յորժամ հայրին երկնաւոր յերկիր հաճեցաւ ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

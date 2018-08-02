@@ -47,7 +47,7 @@
                   <msItem xml:id="MS_Thurston_etc_17-item1" n="1">
                      <locus>f. 1</locus>
                      <author key="person_35">Rev. Jacob Grigorentz</author>
-                     <title xml:lang="xcl-Latn-x-lc">Eulogy of Britain, in verse</title>
+                     <title xml:lang="xcl-Latn-x-lc" key="work_285">Eulogy of Britain, in verse</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

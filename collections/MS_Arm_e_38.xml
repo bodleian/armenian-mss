@@ -46,7 +46,7 @@
                   <summary>Ethical Tracts of Avetis the Notary, A.D. 1752.</summary>
                   <msItem xml:id="MS_Arm_e_38-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">A collection of autograph piece by a priest (Նօտար Աւետիս)</title>
+                     <title xml:lang="en" key="work_368">A collection of autograph piece by a priest (Նօտար Աւետիս)</title>
                      <textLang mainLang="xcl">Armenian</textLang>
                      <note>Contains: A rhythmical description of the state of Julfa; A series of fictitious headings of letters as models, addressed to members of differen ecclesiastical orders and of the gentry; collections of quotations; sermons.</note>
                   </msItem>

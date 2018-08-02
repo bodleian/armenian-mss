@@ -46,30 +46,30 @@
                   <summary>Chronological, 17th cent.</summary>
                   <msItem xml:id="MS_Arm_f3-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">The Armenian Calendar</title>
-                     <title xml:lang="hy">Պատճէն Հռոմայեցւոց (rather Հայոց) Տումարին. 'Կրկնակ ամսոց աւսպէս արա. Կալ զունվար ամիսն'</title>
+                     <title xml:lang="en" key="work_589">The Armenian Calendar</title>
+                     <title xml:lang="hy" key="work_589">Պատճէն Հռոմայեցւոց (rather Հայոց) Տումարին. 'Կրկնակ ամսոց աւսպէս արա. Կալ զունվար ամիսն'</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>This so-called Calendar (in Arm. Toumar, from the Greek Τομάριον), probably p;der than the 7th cent., consists simply of a collection of practical formulae for ascertaining some hemerological points and the days of moveable feasts according to the observance of the Armenian church. It forms the topic of the next article, and seems on that account to have been inserted by a later hand here at the beginning of the volume; although it differs somewhat in the order, and more in the contents of the formulae, from the text used by the commentator, which seems to be shorter.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item2" n="2">
                      <locus>f. 13</locus>
                      <author key="person_74">Iacob Vardapet of the Crimea</author>
-                     <title xml:lang="en">Commentaru on the Calendar</title>
-                     <title xml:lang="hy">Մեկնութիւն Տումարի զոր խնդրեալ Թովմայ վարդապետն Մեծոփայ վանաց: ա՟ծածնակ սուրբ ուխտին և սիրով զհայցուածս նորա կատարեալ Յակոբ վարդապետի Ղրիմեցւոյ.</title>
+                     <title xml:lang="en" key="work_591">Commentaru on the Calendar</title>
+                     <title xml:lang="hy" key="work_591">Մեկնութիւն Տումարի զոր խնդրեալ Թովմայ վարդապետն Մեծոփայ վանաց: ա՟ծածնակ սուրբ ուխտին և սիրով զհայցուածս նորա կատարեալ Յակոբ վարդապետի Ղրիմեցւոյ.</title>
                      <incipit>Զհայցուածս գերեջանիկ րաբունապետի երիցս երանելոյ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item3" n="3">
                      <locus>f. 146(b)</locus>
                      <author key="person_74">Iacob Vardapet of the Crimea</author>
-                     <title xml:lang="en">Historical treatose on the Calendar, includign a full explanagion of the reform made in it in the 6th cent., which resulted in the establishment of the Armenian era.</title>
-                     <title xml:lang="hy">Նորին Յակոբ վրդ՟պտի Ղրիմեցոյ յղ՟գս տումարական մակացութ՟ե թէ ի յորոց մ՟դկանէ արհեստաորեցաւ.</title>
+                     <title xml:lang="en" key="work_593">Historical treatose on the Calendar, includign a full explanagion of the reform made in it in the 6th cent., which resulted in the establishment of the Armenian era.</title>
+                     <title xml:lang="hy" key="work_593">Նորին Յակոբ վրդ՟պտի Ղրիմեցոյ յղ՟գս տումարական մակացութ՟ե թէ ի յորոց մ՟դկանէ արհեստաորեցաւ.</title>
                      <incipit>Գիտելի է զի նախ ի նախամարգարէէն օրինադրեցաւ. զի նա կարգեաց զլրմունս զատկաց հինն ի՟ղի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item4" n="4">
                      <locus>f. 153(b)</locus>
-                     <title xml:lang="en">Some more hemerological formulae, six in number, and chronological notes.</title>
+                     <title xml:lang="en" key="work_595">Some more hemerological formulae, six in number, and chronological notes.</title>
                      
                      <incipit>Րոպէ աւսպէս արա. Կալի նաւասարդի ամսէն միմչև ուր ես …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -77,14 +77,14 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item5" n="5">
                      <locus>f. 155</locus>
-                     <title xml:lang="en">Notes on weights and measures.</title>
+                     <title xml:lang="en" key="work_596">Notes on weights and measures.</title>
                      
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The neginning and the end are missing.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item6" n="6">
                      <locus>f .156</locus>
-                     <title xml:lang="en">Short notes on philosophical, rhetorical, theological, and other matters, in form of question and answer.</title>
+                     <title xml:lang="en" key="work_597">Short notes on philosophical, rhetorical, theological, and other matters, in form of question and answer.</title>
                      
                      <incipit>… ա՟ծաբանէ: Հց. Զի՞նչ է իմաստասիրութիւն. Պտ. Արուեստ է արուեստից …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -93,15 +93,15 @@
                   <msItem xml:id="MS_Arm_f3-item7" n="7">
                      <locus>f. 158(b)</locus>
                      <author key="person_75">Ter Araqel Bałishetzi</author>
-                     <title xml:lang="en">An astronomical and meteorological tract, in verse.</title>
-                     <title xml:lang="hy">(First Chapter:) Յաղագս երկոտասան կենդանակերպիցն</title>
+                     <title xml:lang="en" key="work_599">An astronomical and meteorological tract, in verse.</title>
+                     <title xml:lang="hy" key="work_599">(First Chapter:) Յաղագս երկոտասան կենդանակերպիցն</title>
                      <incipit>Աշխարհ ունի ըզձև մարմնոյ (lege մարդոյ) Երկոտասան անդամք մարմնոյ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Concerning the Twelve zodiacal signs. Begins: The univers has the shape of a body (read man), twelve limbs hat the body …. The lacuna after f. 163 can be supplied from the 14th article in no. 36 of this catalogue (MS .Marsh 85). The last chapter, entitles Աւուրք պահպանութեան, is omitted in the latter.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item8" n="8">
                      <locus>f. 164</locus>
-                     <title xml:lang="en">Some hemerological notes, with tables.</title>
+                     <title xml:lang="en" key="work_600">Some hemerological notes, with tables.</title>
                      
                      <incipit>Գիր բանալեաց աւսպէս արա …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>

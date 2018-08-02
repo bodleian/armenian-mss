@@ -47,21 +47,21 @@
                   <msItem xml:id="MS_Arm_f_16-item1" n="1">
                      <locus>f. 5</locus>
                      <author key="person_65">Araqel Vardapet</author>
-                     <title xml:lang="en">Metrical Works of Araqel Vardapet</title>
+                     <title xml:lang="en" key="work_629">Metrical Works of Araqel Vardapet</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing: History of Barlaam and Josaphat, in verse; History of St. Gregory the Illuminator; History of St. Nerses the Parthian.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_16-item2" n="2">
                      <locus>f. 68</locus>
                      <author key="person_82">Frik, <date calendar="#Gregorian" from="1236">b. ca. 1236</date></author>
-                     <title xml:lang="en">Poems of Frik.</title>
+                     <title xml:lang="en" key="work_630">Poems of Frik.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing 36 items.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_16-item3" n="3">
                      <locus>f. 175</locus>
                      <author key="person_65">Araqel Vardapet</author>
-                     <title xml:lang="en">More poems of Araqel Vardapet</title>
+                     <title xml:lang="en" key="work_631">More poems of Araqel Vardapet</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing: On the capture of Constantinople by the Turks; Praise of Edchmiadzin.</note>
                   </msItem>

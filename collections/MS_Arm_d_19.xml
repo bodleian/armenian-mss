@@ -46,8 +46,8 @@
                   <summary>A Romanizing Polemic, 19th cent.</summary>
                   <msItem xml:id="MS_Arm_d_19-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">A refutation of the book of Kardjik Manuel, entitled 'Radiant Gem' ...</title>
-                     <title xml:lang="hy">Հերքումն 'Ակն լուսատու' մատենին Կարճիկ Մարնուէլի ի Հռոմէականէ ումեմնէ ի ջատագովութիւն Հրոմէական եկեղեցւոյ</title>
+                     <title xml:lang="en" key="work_232">A refutation of the book of Kardjik Manuel, entitled 'Radiant Gem' ...</title>
+                     <title xml:lang="hy" key="work_232">Հերքումն 'Ակն լուսատու' մատենին Կարճիկ Մարնուէլի ի Հռոմէականէ ումեմնէ ի ջատագովութիւն Հրոմէական եկեղեցւոյ</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

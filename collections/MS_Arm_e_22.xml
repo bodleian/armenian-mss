@@ -47,20 +47,20 @@
                   <msItem xml:id="MS_Arm_e_22-item1" n="1">
                      <locus>f. 1(b)</locus>
                      <author key="person_4">Stephanos Basil Shir-Phalankian</author>
-                     <title xml:lang="en">Bellclapper of Truth</title>
-                     <title xml:lang="hy">Կոչնակ ճշմարտութեան</title>
+                     <title xml:lang="en" key="work_7">Bellclapper of Truth</title>
+                     <title xml:lang="hy" key="work_7">Կոչնակ ճշմարտութեան</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_22-item2" n="2">
                      <locus>f. 119(b)</locus>
                      <author key="person_4">Stephanos Basil Shir-Phalankian</author>
-                     <title xml:lang="en">An appeal to the illustrious vardapets and bishops of our nation …</title>
-                     <title xml:lang="hy">Հրաւիրական կոչումն</title>
+                     <title xml:lang="en" key="work_9">An appeal to the illustrious vardapets and bishops of our nation …</title>
+                     <title xml:lang="hy" key="work_9">Հրաւիրական կոչումն</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_22-item3" n="3">
                      <locus>f. 136</locus>
-                     <title xml:lang="en">A 'faithful' translation of the Tome of Leo, with explanations.</title>
+                     <title xml:lang="en" key="work_11">A 'faithful' translation of the Tome of Leo, with explanations.</title>
                      <incipit>Առ ի կատարելապէս ճանաչել զուղղափառութեան հաւատս բաւական էր …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

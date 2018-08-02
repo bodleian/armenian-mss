@@ -46,30 +46,30 @@
                   <summary>Class-books and Sundries, A.D. 1712.</summary>
                   <msItem xml:id="MS_Arm_f_15-item1" n="1">
                      <locus>f. 4</locus>
-                     <title xml:lang="en">Merchant's Handbook</title>
+                     <title xml:lang="en" key="work_141">Merchant's Handbook</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Being a commercial geography enumerating the prodcuts with their qualitites and giving the measures and monies of different countries in Asia and Europe.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_15-item2" n="2">
                      <locus>f. 25</locus>
-                     <title xml:lang="en">Commercial Arithmetic</title>
+                     <title xml:lang="en" key="work_142">Commercial Arithmetic</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Consisting of 144 problems with their solutions.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_15-item3" n="3">
                      <locus>f. 110(b)</locus>
-                     <title xml:lang="en">The Holy Places</title>
+                     <title xml:lang="en" key="work_143">The Holy Places</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_15-item4" n="4">
                      <locus>f. 110(b)</locus>
-                     <title xml:lang="en">A handbook for Pilgrims to the Holy Land</title>
+                     <title xml:lang="en" key="work_144">A handbook for Pilgrims to the Holy Land</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Consisting of 144 problems with their solutions.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_15-item5" n="5">
                      <locus>f. 120</locus>
-                     <title xml:lang="en">Hymn on the City of Jerusalem</title>
+                     <title xml:lang="en" key="work_145">Hymn on the City of Jerusalem</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>In 21 quatrains.</note>
                   </msItem>

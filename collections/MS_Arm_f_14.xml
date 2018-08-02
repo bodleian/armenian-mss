@@ -46,18 +46,18 @@
                   <summary>Class-books, A.D. 1687.</summary>
                   <msItem xml:id="MS_Arm_f_14-item1" n="1">
                      <locus>f. 10</locus>
-                     <title xml:lang="en">Catechism of the Christian Religion</title>
+                     <title xml:lang="en" key="work_426">Catechism of the Christian Religion</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_14-item2" n="2">
                      <locus>f. 34</locus>
-                     <title xml:lang="en">Merchant's Handbook</title>
+                     <title xml:lang="en" key="work_141">Merchant's Handbook</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Being a commercial geography enumerating the prodcuts with their qualitites and giving the measures and monies of different countries in Asia and Europe.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_14-item3" n="3">
                      <locus>f. 60</locus>
-                     <title xml:lang="en">Commercial Arithmetic</title>
+                     <title xml:lang="en" key="work_142">Commercial Arithmetic</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Consisting of 144 problems with their solutions.</note>
                   </msItem>

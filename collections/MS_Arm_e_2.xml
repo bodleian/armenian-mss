@@ -47,72 +47,72 @@
                   <msItem xml:id="MS_Arm_e_2-item1" n="1">
                      <locus>f. 1</locus>
                      <author key="person_20">Pseudo-Prochoros</author>
-                     <title xml:lang="en">Acta Ioannis</title>
+                     <title xml:lang="en" key="work_204">Acta Ioannis</title>
                      <incipit>...երեք ի ծով եւ լերին. եւ ապա եկեալ նաւ մի յեգիպատոսէ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item2" n="2">
                      <locus>f. 105(b)</locus>
-                     <title xml:lang="en">The Apocalypse</title>
-                     <title xml:lang="hy">Յայտնութիւն տն՟ Յոհաննու Աւետարանչի</title>
+                     <title xml:lang="en" key="work_205">The Apocalypse</title>
+                     <title xml:lang="hy" key="work_205">Յայտնութիւն տն՟ Յոհաննու Աւետարանչի</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item3" n="3">
                      <locus>f. 140(b)</locus>
-                     <title xml:lang="en">Life of John of the Well</title>
-                     <title xml:lang="xcl-Latn-x-hmb">Յովհաննէս Գբեցի</title>
+                     <title xml:lang="en" key="work_207">Life of John of the Well</title>
+                     <title xml:lang="xcl-Latn-x-hmb" key="work_207">Յովհաննէս Գբեցի</title>
                      <incipit>Կին ոմն քս՟ ասէր որում աբուբ էր Յուղիա ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item4" n="4">
                      <locus>f. 154</locus>
-                     <title xml:lang="en">Life of Jhn the Calybite</title>
+                     <title xml:lang="en" key="work_209">Life of Jhn the Calybite</title>
                      <incipit>Յամս ժամանակաց թագաւորութեանն Արկադէոսի...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item5" n="5">
                      <locus>f. 171</locus>
-                     <title xml:lang="en">Life of Alexius, the voluntarily poor</title>
+                     <title xml:lang="en" key="work_210">Life of Alexius, the voluntarily poor</title>
                      <incipit>Այր ոմն էր ի Հռոմայեցւոց քաղաքին մեծատուն յոյժ եւ անուն նորա Ոփիմիանոս ... եւ լուաւ ա՟ ծ աղօթից, եւ յղացաւ կին նորա...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item6" n="6">
                      <locus>f. 184</locus>
-                     <title xml:lang="en">Martyrdom of James, the brother of John the Evangelist</title>
+                     <title xml:lang="en" key="work_211">Martyrdom of James, the brother of John the Evangelist</title>
                      <incipit>Ճառագայթ արփիահրաշ եւ անպարագրելի...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item7" n="7">
                      <locus>f. 221</locus>
                      <author key="person_21">Ioannes Vardapet Ezenkatzi</author>
-                     <title xml:lang="en">Metrical discourse on the human nature, and praises to the Creator, composed in popular Armenian.</title>
-                     <title xml:lang="xcl-Latn-x-lc">Յովանիսի վարդապետի եզնկացւոյ ասացեալ բանք չափաւորականք ի խրատ մարդկային բնութե՟ս, եւ գովութ՟ ի արարողին ի մարդկայնոցն ներբողական ձայնիւ...</title>
+                     <title xml:lang="en" key="work_212">Metrical discourse on the human nature, and praises to the Creator, composed in popular Armenian.</title>
+                     <title xml:lang="xcl-Latn-x-lc" key="work_212">Յովանիսի վարդապետի եզնկացւոյ ասացեալ բանք չափաւորականք ի խրատ մարդկային բնութե՟ս, եւ գովութ՟ ի արարողին ի մարդկայնոցն ներբողական ձայնիւ...</title>
                      <incipit>Աւրհնեալ Այ՟ անունն ու միշտ կենդանւոյն, Որ երետ խելք ու միտք ու խաւսըք մարդոյն:</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item8" n="8">
                      <locus>f. 229(b)</locus>
                      <author key="person_22">The Catholicos Zakaria</author>
-                     <title xml:lang="en">Sermon on the Passion of our Lord, delivered on Good Friday.</title>
+                     <title xml:lang="en" key="work_214">Sermon on the Passion of our Lord, delivered on Good Friday.</title>
                      <incipit>երէկ զմեծի եւ զհրաշափառ հինգշաբաթուն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item9" n="9">
                      <locus>f. 262</locus>
                      <author key="person_22">The Catholicos Zakaria</author>
-                     <title xml:lang="en">Sermon on the Burial of our Lord, delivered on the Great Saturday.</title>
+                     <title xml:lang="en" key="work_215">Sermon on the Burial of our Lord, delivered on the Great Saturday.</title>
                      <incipit>Յերիկեան ի գնացելումն ժամու աւիւրն զվեցերորդ աւուր...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item10" n="10">
                      <locus>f. 287(b)</locus>
-                     <title xml:lang="en">Life of St. Nerses I, Catholicos, the grandson of St. Gergory the Illuminator (attributed to Mesrob Eretz of Vayotz-dzor, in the 10th cent.).</title>
+                     <title xml:lang="en" key="work_216">Life of St. Nerses I, Catholicos, the grandson of St. Gergory the Illuminator (attributed to Mesrob Eretz of Vayotz-dzor, in the 10th cent.).</title>
                      <incipit>Յութեւտասն ամի մեծին Տրդատայ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item11" n="11">
                      <locus>ff. 348-353</locus>
-                     <title xml:lang="en">Aristotle's letter to Alexander on Virtue.</title>
+                     <title xml:lang="en" key="work_217">Aristotle's letter to Alexander on Virtue.</title>
                      <incipit>Գովելի են գեղեցիկքն եւ պարսաւելի գարշելիքն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

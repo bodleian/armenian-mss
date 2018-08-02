@@ -47,21 +47,21 @@
                   <msItem xml:id="MS_Arm_f_10-item1" n="1">
                      <locus>f. 2</locus>
                      <author key="person_47">John of Erznka</author>
-                     <title xml:lang="en">On Abusive Language</title>
+                     <title xml:lang="en" key="work_434">On Abusive Language</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Being the tenth chapter of the Instructions of John of Erznka.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item2" n="2">
                      <locus>f. 7</locus>
                      
-                     <title xml:lang="en">On Abusive Language and Malefactors</title>
+                     <title xml:lang="en" key="work_435">On Abusive Language and Malefactors</title>
                      <incipit>Կարգեցին հայրապետքն ՟յժ՟ը որք էին ի Նիկիա ժողովեալ, վ՟ս անաւրէն և պիղծ իշուցատուացն և հերձուածողաց …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item3" n="3">
                      <locus>f. 16</locus>
                      
-                     <title xml:lang="en">History of Tiridtaes and St. Grefory the Illuminator</title>
+                     <title xml:lang="en" key="work_436">History of Tiridtaes and St. Grefory the Illuminator</title>
                      <incipit>… Յոտն եկաց Լիկիանոս և պատմեաց առաջի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The beginning is lost.</note>
@@ -69,28 +69,28 @@
                   <msItem xml:id="MS_Arm_f_10-item4" n="4">
                      <locus>f. 31(b)</locus>
                      
-                     <title xml:lang="en">Formula of Faith, 'from the traditions of the fathers'.</title>
+                     <title xml:lang="en" key="work_437">Formula of Faith, 'from the traditions of the fathers'.</title>
                      <incipit>Խոստաովանիմք և հաւատամք զհայր ա՟ծ անեղ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item5" n="5">
                      <locus>f. 35</locus>
                      <author key="person_48">John Vardapet of Erznka</author>
-                     <title xml:lang="en">Encyclical Insturctions</title>
+                     <title xml:lang="en" key="work_438">Encyclical Insturctions</title>
                      <incipit>Նախ պարտ է իմանալ թէ զինչ է քրիստոնէութ՟ի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item6" n="7">
                      <locus>f. 99</locus>
                      
-                     <title xml:lang="en">A Sermon on Hell</title>
+                     <title xml:lang="en" key="work_439">A Sermon on Hell</title>
                      <incipit>Արդ եկայք այսօր դասք մեղաւորաց …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item7" n="8">
                      <locus>f. 112</locus>
                      
-                     <title xml:lang="en">Divination by Dreams ('Երազահան'), 'written by the Prophet Daniel'.</title>
+                     <title xml:lang="en" key="work_440">Divination by Dreams ('Երազահան'), 'written by the Prophet Daniel'.</title>
                      <incipit>Ա՟ծ տեսանելն ի տան քում, տան նորոգութիւն …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Alphabetically arranged.</note>
@@ -98,19 +98,19 @@
                   <msItem xml:id="MS_Arm_f_10-item8" n="9">
                      <locus>f. 113</locus>
                      
-                     <title xml:lang="en">History of Khikar the Philosopher</title>
+                     <title xml:lang="en" key="work_441">History of Khikar the Philosopher</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item9" n="10">
                      <locus>f. 174</locus>
                      
-                     <title xml:lang="en">Divination by Chorea ('Մարմնախաղաց', 'παλμα(σ)τική') written by the philosopher king Alexander</title>
+                     <title xml:lang="en" key="work_442">Divination by Chorea ('Մարմնախաղաց', 'παλμα(σ)τική') written by the philosopher king Alexander</title>
                      <incipit>Թէ սկաւառակն խարղայ, մեծութիւն է …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item10" n="11">
                      <locus>f. 181</locus>
-                     <title>Story of a Monk</title>
+                     <title key="work_443">Story of a Monk</title>
                      
                      <incipit>Միայնակեաց իմն ճգնաւոր աղօթէր ի յանապատի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -118,20 +118,20 @@
                   <msItem xml:id="MS_Arm_f_10-item11" n="12">
                      <locus>f. 183(b)</locus>
                      
-                     <title xml:lang="en">Four moral fables</title>
+                     <title xml:lang="en" key="work_444">Four moral fables</title>
                      <incipit>Երիտասարդ մի ուխտ եդեալ էր…</incipit>
                      <textLang mainLang="xcl">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item12" n="13">
                      <locus>f. 190</locus>
                      <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date></author>
-                     <title xml:lang="en">Riddles (Հանելուկք) of Nerses Shnorhali</title>
+                     <title xml:lang="en" key="work_445">Riddles (Հանելուկք) of Nerses Shnorhali</title>
                      <textLang mainLang="xcl">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item13" n="14">
                      <locus>f. 219</locus>
                      
-                     <title xml:lang="en">Extracts from Menologium (Յայսմաւուրք)</title>
+                     <title xml:lang="en" key="work_446">Extracts from Menologium (Յայսմաւուրք)</title>
                      <textLang mainLang="xcl">Armenian</textLang>
                   </msItem>
                </msContents>

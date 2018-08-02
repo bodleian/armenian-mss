@@ -50,8 +50,8 @@
                      <editor role="translator" key="person_2">
                         <persName xml:lang="xcl-Latn-x-lc">Yovhannes Vardapet Yakobean</persName>
                      </editor>
-                     <title xml:lang="en">Summa Theologica</title>
-                     <title xml:lang="en" type="alt">Medulla Theologica</title>
+                     <title xml:lang="en" key="work_1">Summa Theologica</title>
+                     <title xml:lang="en" type="alt" key="work_1">Medulla Theologica</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

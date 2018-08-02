@@ -49,20 +49,20 @@
                      <author key="person_51">
                         <persName>Gregory, the Illuminator, Saint, <date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date></persName> (<persName>Grigor Lusavoric</persName>, <persName xml:lang="hy">'Գրիգոր Լուսավորիչ</persName>)
                      </author>
-                     <title xml:lang="en">Homilies of St. Gregory the Illuminator</title>
-                     <title xml:lang="xcl-Latn-x-hmb">Yačaxapatum</title>
-                     <title xml:lang="hy">Յաճախապատում</title>
+                     <title xml:lang="en" key="work_457">Homilies of St. Gregory the Illuminator</title>
+                     <title xml:lang="xcl-Latn-x-hmb" key="work_457">Yačaxapatum</title>
+                     <title xml:lang="hy" key="work_457">Յաճախապատում</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_19-item2" n="2">
                      <locus>f. 213(b)</locus>
-                     <title xml:lang="en">Some Gantzs</title>
+                     <title xml:lang="en" key="work_460">Some Gantzs</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains: On the Annunciation; On the Invention of the Armenian Alphabet; On the 1st Sunday in Lent.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_19-item3" n="3">
                      <locus>f. 227</locus>
-                     <title xml:lang="en">Some indices</title>
+                     <title xml:lang="en" key="work_461">Some indices</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains: Index of Names arranged alphabetically of an Armenian Menologium (Յայսմաւուրք); Index to the Book of Canons (Կանոնգիրք).</note>
                   </msItem>

@@ -48,9 +48,9 @@
                      <author key="person_52">
                         <persName>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130 - 1213</date></persName> (<persName>Mxit'ar Goš</persName>)
                      </author>
-                     <title xml:lang="en">Civil Code of Mkhitar Gosh</title>
-                     <title xml:lang="xcl-Latn-x-lc">Girkʻ datastanacʻ Mkhitʻaray</title>
-                     <title xml:lang="xcl-Latn-x-hmb">Girk' datastanac' Mxit'aray</title>
+                     <title xml:lang="en" key="work_462">Civil Code of Mkhitar Gosh</title>
+                     <title xml:lang="xcl-Latn-x-lc" key="work_462">Girkʻ datastanacʻ Mkhitʻaray</title>
+                     <title xml:lang="xcl-Latn-x-hmb" key="work_462">Girk' datastanac' Mxit'aray</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Composed in 1184 A.D.</note>
                   </msItem>
@@ -58,8 +58,8 @@
                      <author key="person_52">
                         <persName>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date></persName> (<persName>Mxit'ar Gōš</persName>)
                      </author>
-                     <title xml:lang="en">A catena of commentary on the Armenian Liturgy, collected by Moses Vardapet Erzenkatzi.</title>
-                     <title xml:lang="hy">Մովսէս վարդապետ Երզնկագի - Հաւաքումն համառաւտ Մեկնութեան սրբոյ Պատարագի, զոր յառաջագոյն արարեալ սրբոց լուսաւոր Հարց.</title>
+                     <title xml:lang="en" key="work_465">A catena of commentary on the Armenian Liturgy, collected by Moses Vardapet Erzenkatzi.</title>
+                     <title xml:lang="hy" key="work_465">Մովսէս վարդապետ Երզնկագի - Հաւաքումն համառաւտ Մեկնութեան սրբոյ Պատարագի, զոր յառաջագոյն արարեալ սրբոց լուսաւոր Հարց.</title>
                      <incipit>Ած՟ որ մեծն է ողորմութեամբ, անսկիզբն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

@@ -46,15 +46,15 @@
                   <summary>Doctrinal, 17th cent.</summary>
                   <msItem xml:id="MS_Pococke_415-item1" n="1">
                      <locus>f. 3</locus>
-                     <title xml:lang="en">Profession of faith</title>
-                     <title xml:lang="hy">Դաւանանք ուղղափառաց համառօտ որ զք՟ս ա՟ծ մի բնութ՟ի դաւանեն և զերրորդութի՟ն մի ա՟ծութ՟ի</title>
+                     <title xml:lang="en" key="work_269">Profession of faith</title>
+                     <title xml:lang="hy" key="work_269">Դաւանանք ուղղափառաց համառօտ որ զք՟ս ա՟ծ մի բնութ՟ի դաւանեն և զերրորդութի՟ն մի ա՟ծութ՟ի</title>
                      <incipit>Խոստովանիմք և հաւատամք ամենակատար սրտիւ զհայր ա՟ծ, անեղ, անծին և անսկիզբն …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>I.e. 'Confession of faith of orthodox, who confess one nature in the Divine Christ, and one Godhead in teh Trinity'. There is another title written by the same hand in the middle of f. 2(b): Դաւանութ՟ի յԵփեսոսի ս՟բ ժողովուն բ՟ճ՟ հայրպ՟տաց, i.e. 'Confession of Faith of the 200 fathers in the Council of Ephesus'. THis form of confession is recited in the evening ceremony introductory to the ordination of a priest.</note>
                   </msItem>
                   <msItem xml:id="MS_Pococke_415-item2" n="2">
                      <locus>f. 6</locus>
-                     <title xml:lang="en">A polemical discourse, being an answer by a monophysite to the objections of a deuterophysite.</title>
+                     <title xml:lang="en" key="work_191">A polemical discourse, being an answer by a monophysite to the objections of a deuterophysite.</title>
                      <incipit>Երկաբնակն ասէ, թէ ք՟ս բ՟ բնութ՟ի ունի, ա՟ծութ՟ի ուրիշ և մարդկութիւն ուրիշ … Պատասխանի. իսկ բնաւորական էութ՟ի մարդոյ անփոփոխելի մնայ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>A marginal note wrongly attributes this tract to St. Nerses Shnorhali.</note>

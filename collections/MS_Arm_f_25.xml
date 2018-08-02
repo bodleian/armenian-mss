@@ -46,22 +46,22 @@
                   <summary>A Romanizing Polemic, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_25-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">On the schism of the Armenian and Latin Churches, being an appeal to heal a breach due to mere misunderstanding on both sides.</title>
+                     <title xml:lang="en" key="work_137">On the schism of the Armenian and Latin Churches, being an appeal to heal a breach due to mere misunderstanding on both sides.</title>
                      
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The beginning is wanting. In the course of the text, the treatise is called Մեկնութւին, i.e. explanation. The author's name does not transpire.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_25-item2" n="2">
                      <locus>f. 87</locus>
-                     <title xml:lang="en">Answers to some objections raised by the brethren of Constantinople to the previous explanation.</title>
+                     <title xml:lang="en" key="work_138">Answers to some objections raised by the brethren of Constantinople to the previous explanation.</title>
                      
                      <incipit>Յուղարկեալ էի օրինակ մի այս վերոյգրեալ մեկնութեանս ի Կոստանդնուպօլիս, և քանի մի եղպարք ի համշիրակաց իմոց արարեալ են ի վերայ նորա զքանի մի հարցմունս, որոց արժան է այժ պատասխանել:</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_25-item3" n="3">
                      <locus>f. 168</locus>
-                     <title xml:lang="en">History of the Crimea</title>
-                     <title xml:lang="hy">Պատմութիւն Ղրիմայ երկրին, արարեալ ի Մարտիրոս վարդապետէ Ղրիմեցւոյ, ոտանաւոր, չափով</title>
+                     <title xml:lang="en" key="work_139">History of the Crimea</title>
+                     <title xml:lang="hy" key="work_139">Պատմութիւն Ղրիմայ երկրին, արարեալ ի Մարտիրոս վարդապետէ Ղրիմեցւոյ, ոտանաւոր, չափով</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>A piece composed by Martiros Vardapet of Crimea.</note>
                   </msItem>

@@ -49,7 +49,7 @@
                      <editor role="translator" key="person_6">
                         <persName xml:lang="en" type="supplied">Jacob of Qerni</persName>
                      </editor>
-                     <title xml:lang="en">Commentary of the Seven Days of Creation</title>
+                     <title xml:lang="en" key="work_12">Commentary of the Seven Days of Creation</title>
                      <incipit>Ի սկզբանէ ստեղծ ա՟ծ ... վարդապետք ասեն թէ ած ի սկիզբն լինէլութե՟ արարածոցս ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

@@ -47,18 +47,18 @@
                   <msItem xml:id="MS_Arm_e_28-item1" n="1">
                      <locus>f. 5(b)</locus>
                      <author key="person_52">Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date></author>
-                     <title xml:lang="en">The prolegomena of the civil code of Mkhitar Gosh</title>
+                     <title xml:lang="en" key="work_427">The prolegomena of the civil code of Mkhitar Gosh</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_28-item2" n="2">
                      <locus>f. f. 28</locus>
-                     <title xml:lang="en">Byzantine Laws in the years 1193 and 1196</title>
+                     <title xml:lang="en" key="work_428">Byzantine Laws in the years 1193 and 1196</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Collection of various laws, translated from Syriac and Greek.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_28-item3" n="3">
                      <locus>f. 128</locus>
-                     <title xml:lang="en">Collection of Canons, precepts and commentaries</title>
+                     <title xml:lang="en" key="work_429">Collection of Canons, precepts and commentaries</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

@@ -49,7 +49,7 @@
                      <author key="person_23">
                         <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
-                     <title xml:lang="en">The scriptural elegy</title>
+                     <title xml:lang="en" key="work_268">The scriptural elegy</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The first leaf, containing vv. 1-17, is wanting.</note>
                   </msItem>
@@ -58,8 +58,8 @@
                      <author key="person_23">
                         <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
-                     <title xml:lang="en">Profession of Faith</title>
-                     <title xml:lang="hy">բան հաւատոյ</title>
+                     <title xml:lang="en" key="work_269">Profession of Faith</title>
+                     <title xml:lang="hy" key="work_269">բան հաւատոյ</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item3" n="3">
@@ -67,7 +67,7 @@
                      <author key="person_23">
                         <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
-                     <title xml:lang="en">Moral precepts, in alphabetical order</title>
+                     <title xml:lang="en" key="work_271">Moral precepts, in alphabetical order</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item4" n="4">
@@ -75,7 +75,7 @@
                      <author key="person_23">
                         <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
-                     <title xml:lang="en">On heaven and its order</title>
+                     <title xml:lang="en" key="work_512">On heaven and its order</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item5" n="5">
@@ -83,7 +83,7 @@
                      <author key="person_23">
                         <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
-                     <title xml:lang="en">Profession of fauth, alphabetically arranged</title>
+                     <title xml:lang="en" key="work_269">Profession of fauth, alphabetically arranged</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Only the last two verses and the author's versified subscription.</note>
                   </msItem>

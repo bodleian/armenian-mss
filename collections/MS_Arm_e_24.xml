@@ -46,52 +46,52 @@
                   <summary>Ethical Miscellany of Simeon of Julfa, Sermons, A.D. 1701</summary>
                   <msItem xml:id="MS_Arm_e_24-item1" n="1">
                      <locus>f. 3</locus>
-                     <title xml:lang="en">A compilation made by Simeon Vardapet of Julfa</title>
+                     <title xml:lang="en" key="work_621">A compilation made by Simeon Vardapet of Julfa</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains various smaller pieces, amongst which: Sayings on moral subjects; Collection of texts from Holy Writ for use in sermons; Forms of exordium for sermons, etc.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_24-item2" n="2">
                      <locus>f. 197</locus>
-                     <title xml:lang="en">Collection of sermons</title>
+                     <title xml:lang="en" key="work_622">Collection of sermons</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains: On Soul and Body; On Prayer; On the Unjust Steward.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_24-item3" n="3">
                      <locus>f. 214</locus>
-                     <title xml:lang="en">Collection of sermons and anecdotes</title>
+                     <title xml:lang="en" key="work_623">Collection of sermons and anecdotes</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_24-item4" n="4">
                      <locus>f. 399(b)</locus>
-                     <title xml:lang="en">List of authors of philosophical works, commentators on the catholic epistles, books of Moses, Psalsms, the Bible in general</title>
+                     <title xml:lang="en" key="work_624">List of authors of philosophical works, commentators on the catholic epistles, books of Moses, Psalsms, the Bible in general</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_24-item5" n="5">
                      <locus>f. 402</locus>
-                     <title xml:lang="en">Collection of sermons for feasts</title>
+                     <title xml:lang="en" key="work_625">Collection of sermons for feasts</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_24-item6" n="6">
                      <locus>f. 449</locus>
-                     <title xml:lang="en">Two indices by Simeon of Julfa</title>
+                     <title xml:lang="en" key="work_626">Two indices by Simeon of Julfa</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains: Index of the chapters of the Life of Fathers; Index of the stories of the Menologium.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_24-item7" n="7">
                      <locus>f. 459</locus>
-                     <title xml:lang="en">Philosophical tracts</title>
+                     <title xml:lang="en" key="work_507">Philosophical tracts</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains: Isagoge of Porphyry; Categories of Aristotle; On the interpretation of Aristotle, with the commentary of David (the Invincible).</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_24-item8" n="8">
                      <locus>f. 518(b)</locus>
-                     <title xml:lang="en">The conversion of Dionysius the Areopagite, a personal narrative.</title>
+                     <title xml:lang="en" key="work_627">The conversion of Dionysius the Areopagite, a personal narrative.</title>
                      <incipit>և ինքն Դիոնեսիւս այսպէս գրեաց. Եղպարք, ես ի Բալբաք քաղաք …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_24-item9" n="9">
                      <locus>f. 519</locus>
-                     <title xml:lang="en">A new selection of sermons</title>
+                     <title xml:lang="en" key="work_628">A new selection of sermons</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains: On Reoentance and Confession, with reference to the Parable of the Prodigal Son; On Dead; On Peace; On the Great Saturday; On the Coming into Jerusalem (Palm Sunday)l On the Church.</note>
                   </msItem>

@@ -50,8 +50,8 @@
                      <editor role="translator" key="person_79">
                         <persName xml:lang="en" type="supplied">Stephanos of Siuniq</persName>
                      </editor>
-                     <title xml:lang="en">Scholia (Պարապմունք) and Correspondence of Cyril of Alexandria, concerning the Nestorian dispute</title>
-                     <title xml:lang="hy">Պարապմունք յաղագս մարդանալոյ Միածնին.</title>
+                     <title xml:lang="en" key="work_229">Scholia (Պարապմունք) and Correspondence of Cyril of Alexandria, concerning the Nestorian dispute</title>
+                     <title xml:lang="hy" key="work_229">Պարապմունք յաղագս մարդանալոյ Միածնին.</title>
                      <incipit>զք՟սի խաղաղութիւնն առբերելով մեզ և զըհաւատս ճշմարտութեան …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains various letters, scholia, a colophon by Steaphanos of Siuniq, the translator, etc.</note>

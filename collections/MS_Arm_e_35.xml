@@ -47,14 +47,14 @@
                   <msItem xml:id="MS_Arm_e_35-item1" n="1">
                      <locus>f. 2</locus>
                      <author key="person_13">Cyril, Saint, Patriarch of Alexandria, <date calendar="#Gregorian" from="0370" to="0444">ca. 370 - 444.</date></author>
-                     <title xml:lang="en" type="supplied">Commentary on Ezekiel</title>
+                     <title xml:lang="en" type="supplied" key="work_157">Commentary on Ezekiel</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>This commentary is mentioned neither by Zarbhanelian nor by Somalian, and unknown in Greek either, except for some short fragments reproduced in Migne, Ser. Gr. v. 70, coll. 1458-1459, and taken from Mai. The MS. gives excerpts from a longer commentary upon chap. 1, verses 1-4, on chaps. 4, 25, 29, 37, 38.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_35-item2" n="2">
                      <locus>f. 27b</locus>
                      <author key="person_14">Ephraem, Syrus, Saint, <date calendar="#Gregorian" from="0303" to="0373">303-373.</date></author>
-                     <title xml:lang="en" type="supplied">Commentary on parts of Ezekiel</title>
+                     <title xml:lang="en" type="supplied" key="work_157">Commentary on parts of Ezekiel</title>
                      <incipit>Վասն շինութէան տաճարին, մեկնութիւն Եփրեմի...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>This commentary is known to Zarbhanelian only by name.</note>
@@ -62,7 +62,7 @@
                   <msItem xml:id="MS_Arm_e_35-item3" n="3">
                      <locus>f. 122</locus>
                      <author key="person_71">Vardan, Areweltsʻi, <date calendar="#Gregorian" from="1198" to="1271">ca. 1198-1271.</date></author>
-                     <title xml:lang="en" type="supplied">Commentary on Daniel</title>
+                     <title xml:lang="en" type="supplied" key="work_159">Commentary on Daniel</title>
                      <incipit>Հոգեւոր սբ եղբարք մէր եւ որդեակք յօժարեցին...</incipit>
                      <note>This commentary was published in Constantinople, 1825, as Appendix to the Commentary of XII Prophets, by Nerses of Lambron, pp.242-248.</note>
                   </msItem>

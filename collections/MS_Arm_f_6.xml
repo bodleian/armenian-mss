@@ -49,8 +49,8 @@
                      <author key="person_16">
                          <persName>David, the Invincible</persName> (<persName>Davitʻ Anhaghtʻ</persName>, <persName>Davit' Anyałt</persName>)
                      </author>
-                     <title xml:lang="en">The Definitions of Philosophy, and other philosphical tracts</title>
-                     <title xml:lang="hy">Sahmank' imastasirut'ean</title>
+                     <title xml:lang="en" key="work_161">The Definitions of Philosophy, and other philosphical tracts</title>
+                     <title xml:lang="hy" key="work_161">Sahmank' imastasirut'ean</title>
                      <textLang mainLang="xcl">Armenian</textLang>
                      <note>This treatise (in 21 or 22) chapters is an introduction to the study of philosophy, and consists of a refutation of the four objections raused by Pyrrhonism against philosophy. Extracts of this work in Greek text are published by Brandis. Further pieces include: Omnia Mala; Isagoge of Porphyry; Letter of Aristotle to Kind Alexander about the Cosmos.</note>
                   </msItem>

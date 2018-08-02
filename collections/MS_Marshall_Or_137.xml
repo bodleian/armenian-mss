@@ -46,16 +46,16 @@
                   <summary>Linguistic, 17th cent.</summary>
                   <msItem xml:id="MS_Marshall_Or_137-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en">The first verse of the Psalter, in Armenian and Latin</title>
+                     <title xml:lang="en" key="work_382">The first verse of the Psalter, in Armenian and Latin</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marshall_Or_137-item2" n="2">
                      <locus>f. 2</locus>
-                     <title xml:lang="en">The Armenian letters, with their names in the Latin and Armenian alphabets, and their values in the former.</title>
+                     <title xml:lang="en" key="work_378">The Armenian letters, with their names in the Latin and Armenian alphabets, and their values in the former.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marshall_Or_137-item3" n="3">
-                     <title xml:lang="en">The beginning of Ps. i. 1 in Armenian and Latin.</title>
+                     <title xml:lang="en" key="work_384">The beginning of Ps. i. 1 in Armenian and Latin.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

@@ -45,7 +45,7 @@
                <msContents>
                   <summary>Miscellany, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_7-item1" n="1">
-                     <title xml:lang="en">Various smaller items: commentaries, philosophical treatieses, etc.</title>
+                     <title xml:lang="en" key="work_2">Various smaller items: commentaries, philosophical treatieses, etc.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>

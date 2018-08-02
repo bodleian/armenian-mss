@@ -47,8 +47,8 @@
                   <msItem xml:id="MS_Arm_e_32-item1" n="1">
                      <locus>f. 1</locus>
                      <author key="person_12">Matthew, of Edessa, <date calendar="#Gregorian" notBefore="1100" notAfter="1200">12th cent.</date></author>
-                     <title xml:lang="en">Chronicle of Matthew of Edessa</title>
-                     <title xml:lang="hy">Պատմութիւն</title>
+                     <title xml:lang="en" key="work_155">Chronicle of Matthew of Edessa</title>
+                     <title xml:lang="hy" key="work_155">Պատմութիւն</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>
