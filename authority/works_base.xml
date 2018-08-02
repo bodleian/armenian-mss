@@ -146,8 +146,8 @@
             </bibl>
 
             <bibl xml:id="work_601">
-               <title type="uniform">A large selection made, without regard to order, from the Book of Elegies of Gregory of Narek.</title>
-               <title type="variant">Book of Lamentations</title>
+               <title type="uniform">Book of Lamentations</title>
+               <title type="variant">A large selection made, without regard to order, from the Book of Elegies of Gregory of Narek.</title>
                <title type="variant">Matean Ołbergut'ean</title>
                <title type="variant">Մատեան Ողբերգութեան</title>
                <title type="variant">Մատեան ողբերգութեան</title>
@@ -225,12 +225,6 @@
             <bibl xml:id="work_439">
                <title type="uniform">A Sermon on Hell</title>
                <!-- ../collections/MS_Arm_f_10.xml#MS_Arm_f_10%2Ditem6 -->
-            </bibl>
-
-            <bibl xml:id="work_19">
-               <title type="uniform">A short answer on teh same subject [by the same].</title>
-               <title type="variant">Համառաւտ պատասխանի չորիցն բանից ի յեւթանցն զոր ասաց տ՟ր առանձնակի ցՊետրոս զորս կարծեն մեծութիւն գոլ նմա …</title>
-               <!-- ../collections/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem5 -->
             </bibl>
 
             <bibl xml:id="work_448">
@@ -327,12 +321,14 @@
             </bibl>
 
             <bibl xml:id="work_357">
-               <title type="uniform">Alphabetical subscription to the copy of the Proverbs of Solomon made by the same author</title>
+               <title type="uniform">Alphabetical subscription to the copy of the Proverbs of Solomon</title>
+               <title type="variant">Alphabetical subscription to the copy of the Proverbs of Solomon made by the same author</title>
                <!-- ../collections/MS_Marsh_85.xml#MS_Marsh_85%2Ditem6 -->
             </bibl>
 
             <bibl xml:id="work_367">
-               <title type="uniform">Alphabetical verses in praise of and addressed to the Virgin, by the same (?)</title>
+               <title type="uniform">Alphabetical verses in praise of and addressed to the Virgin</title>
+               <title type="variant">Alphabetical verses in praise of and addressed to the Virgin, by the same (?)</title>
                <!-- ../collections/MS_Marsh_85.xml#MS_Marsh_85%2Ditem16 -->
             </bibl>
 
@@ -363,11 +359,6 @@
                <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem201 -->
             </bibl>
 
-            <bibl xml:id="work_284">
-               <title type="uniform">Another prayer on the same subject</title>
-               <!-- ../collections/MS_Arm_g_4_R.xml#MS_Arm_g_4_R%2Ditem10 -->
-            </bibl>
-
             <bibl xml:id="work_138">
                <title type="uniform">Answers to some objections raised by the brethren of Constantinople to the previous explanation.</title>
                <!-- ../collections/MS_Arm_f_25.xml#MS_Arm_f_25%2Ditem2 -->
@@ -389,7 +380,8 @@
             </bibl>
 
             <bibl xml:id="work_585">
-               <title type="uniform">Arithmetical problems, by the same.</title>
+               <title type="uniform">Arithmetical problems</title>
+               <title type="variant">Arithmetical problems, by the same.</title>
                <title type="variant">Անանիայի Շիրակունւոյ Յաղագս կատարման համարողութեան եւ կերպից հարցման.</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem40 -->
             </bibl>
@@ -826,18 +818,13 @@
                <!-- ../collections/MS_Arm_f_14.xml#MS_Arm_f_14%2Ditem1 -->
             </bibl>
 
-            <bibl xml:id="work_537">
-               <title type="uniform">Chapters 1-3 of the Letter of Gregory III, catholicos, to the Armenian priests of Amayk in Upper Mesopotamia, composed for him by his brother Nerses Shnorhali.</title>
-               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem9 -->
-            </bibl>
-
-            <bibl xml:id="work_535">
-               <title type="uniform">Chapters 4-6 of the Letter of Gregory III</title>
-               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem7 -->
-            </bibl>
-
             <bibl xml:id="work_528">
-               <title type="uniform">Chapters 7-9 of the Letter of Gregory III</title>
+               <title type="uniform">The Letter of Gregory III, catholicos, to the Armenian priests of Amayk in Upper Mesopotamia</title>
+               <title type="variant">Chapters 1-3 of the Letter of Gregory III, catholicos, to the Armenian priests of Amayk in Upper Mesopotamia, composed for him by his brother Nerses Shnorhali.</title>
+               <title type="variant">Chapters 4-6 of the Letter of Gregory III</title>
+               <title type="variant">Chapters 7-9 of the Letter of Gregory III</title>
+               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem7 -->
+               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem9 -->
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem3 -->
             </bibl>
 
@@ -1032,8 +1019,12 @@
             </bibl>
 
             <bibl xml:id="work_17">
-               <title type="uniform">Controversy of the priest Mkhitar Scevratzi against the supremacy of the Pope of Rome, which tool place at Acre between the author and the papal legate, William II of Tyre.</title>
+               <title type="uniform">Controversy of the priest Mkhitar Scevratzi against the supremacy of the Pope of Rome, and short answer</title>
+               <title type="variant">Controversy of the priest Mkhitar Scevratzi against the supremacy of the Pope of Rome, which tool place at Acre between the author and the papal legate, William II of Tyre.</title>
                <title type="variant">Մխիթար քահանայի Սկևռացւոյ Պատասխանիք …</title>
+               <title type="variant">A short answer on teh same subject [by the same].</title>
+               <title type="variant">Համառաւտ պատասխանի չորիցն բանից ի յեւթանցն զոր ասաց տ՟ր առանձնակի ցՊետրոս զորս կարծեն մեծութիւն գոլ նմա …</title>
+               <!-- ../collections/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem5 -->
                <!-- ../collections/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem4 -->
             </bibl>
 
@@ -1085,7 +1076,8 @@
             </bibl>
 
             <bibl xml:id="work_185">
-               <title type="uniform">Dialogues in the same three languages.</title>
+               <title type="uniform">Dialogues in Turkish, French, and Armenian</title>
+               <title type="variant">Dialogues in the same three languages.</title>
                <!-- ../collections/MS_Laud_Or_202.xml#MS_Laud_Or_202%2Ditem2 -->
             </bibl>
 
@@ -1130,24 +1122,21 @@
                <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem26 -->
             </bibl>
 
-            <bibl xml:id="work_545">
-               <title type="uniform">Encyclical from the same to the Armenian priests and vardapets giving notice on the subject of th impending general council for effecting an union with the Greek church</title>
-               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem15 -->
-            </bibl>
-
             <bibl xml:id="work_438">
                <title type="uniform">Encyclical Insturctions</title>
                <!-- ../collections/MS_Arm_f_10.xml#MS_Arm_f_10%2Ditem5 -->
             </bibl>
 
-            <bibl xml:id="work_526">
-               <title type="uniform">Encyclical letter of Nerses IV Shnorhali, catholics of the Armenians, 1166 A.D.</title>
-               <title type="variant">Թուղթ ընդհանրական</title>
-               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem2 -->
-            </bibl>
-
             <bibl xml:id="work_418">
-               <title type="uniform">Encyclical Letter of nerses Shnorhali</title>
+               <title type="uniform">Encyclical letters of Nerses IV Shnorhali</title>
+               <title type="variant">Encyclical Letter of nerses Shnorhali</title>
+               <title type="variant">Encyclical letter of Nerses IV Shnorhali, catholics of the Armenians, 1166 A.D.</title>
+               <title type="variant">Թուղթ ընդհանրական</title>
+               <title type="variant">Encyclical from the same to the Armenian priests and vardapets giving notice on the subject of th impending general council for effecting an union with the Greek church</title>
+               <title type="variant">Title and first few lines only of an Encyclical letter from the same to the inhabitants of Kars and the neighbourhood, on the election of their bishop Khatchadoor (not mentioned in the table of contents)</title>
+               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem20 -->
+               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem15 -->
+               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem2 -->
                <!-- ../collections/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem2 -->
             </bibl>
 
@@ -1178,12 +1167,9 @@
 
             <bibl xml:id="work_97">
                <title type="uniform">Eve of the Theophany</title>
-               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem49 -->
-            </bibl>
-
-            <bibl xml:id="work_635">
-               <title type="uniform">Eve of the Theophany, called Ճրագալոյց.</title>
+               <title type="variant">Eve of the Theophany, called Ճրագալոյց.</title>
                <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem1 -->
+               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem49 -->
             </bibl>
 
             <bibl xml:id="work_219">
@@ -1203,7 +1189,8 @@
             </bibl>
 
             <bibl xml:id="work_540">
-               <title type="uniform">Extract from the discourse of the same wiht the Emperir and the Greek oatruarch of Constantinople, to whom he was sent by Leion I, king of the Armenians, in 1197, as deputy, on some of the questions on which the Armenian church differed from the Greek.</title>
+               <title type="uniform">Extract from the discourse of Nerses of Lambron with the Emperor and the Greek patriarch of Constantinople</title>
+               <title type="variant">Extract from the discourse of the same wiht the Emperir and the Greek oatruarch of Constantinople, to whom he was sent by Leion I, king of the Armenians, in 1197, as deputy, on some of the questions on which the Armenian church differed from the Greek.</title>
                <title type="variant">Տն՟ Ներսեսի արքէպ՟ի Տարսոնի Կիւղիկեցւոյշ յորժամ չոգաւ դեսպանուեամբ ի թգ՟էն Հայոց մեծաց Լեւոնէ ի Կոստանդնուպօլիս: Հարցումն պատրիարգին եւ պտ՟խի Ներսեսի.</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem11 -->
             </bibl>
@@ -1424,12 +1411,9 @@
 
             <bibl xml:id="work_151">
                <title type="uniform">Inquiry into the Sacraments</title>
-               <!-- ../collections/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem6 -->
-            </bibl>
-
-            <bibl xml:id="work_152">
-               <title type="uniform">Inquiry into the Sacraments, with testimonies from the Armenian Fathers.</title>
+               <title type="variant">Inquiry into the Sacraments, with testimonies from the Armenian Fathers.</title>
                <!-- ../collections/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem7 -->
+               <!-- ../collections/MS_Arm_e_21.xml#MS_Arm_e_21%2Ditem6 -->
             </bibl>
 
             <bibl xml:id="work_29">
@@ -1445,6 +1429,8 @@
 
             <bibl xml:id="work_103">
                <title type="uniform">Invention of the Holy Cross</title>
+               <title type="variant">The Invention of the holy Corss. Խաչի քո ք՟ս երկիրպագանեմք …</title>
+               <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem180 -->
                <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem55 -->
             </bibl>
 
@@ -1465,12 +1451,9 @@
 
             <bibl xml:id="work_28">
                <title type="uniform">Letter from Constantine I, catholicos, to Kind Hethoum I.</title>
-               <!-- ../collections/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem10 -->
-            </bibl>
-
-            <bibl xml:id="work_569">
-               <title type="uniform">Letter from Constantine I, catholicos, to King Hethoum I, being an answer to the Pope's letter brought by the legate Dimanche in the year 697 Arm. = 1248 A.D., composed by Vartan vartabed.</title>
+               <title type="variant">Letter from Constantine I, catholicos, to King Hethoum I, being an answer to the Pope's letter brought by the legate Dimanche in the year 697 Arm. = 1248 A.D., composed by Vartan vartabed.</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem30 -->
+               <!-- ../collections/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem10 -->
             </bibl>
 
             <bibl xml:id="work_567">
@@ -1491,7 +1474,8 @@
             </bibl>
 
             <bibl xml:id="work_544">
-               <title type="uniform">Letter from the same to Paul the priest, who had joined the Greek church and calumniated the Armenian church</title>
+               <title type="uniform">Letter from Nersēs Shnorhali to Paul the priest, who had joined the Greek church and calumniated the Armenian church</title>
+               <title type="variant">Letter from the same to Paul the priest, who had joined the Greek church and calumniated the Armenian church</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem14 -->
             </bibl>
 
@@ -1549,7 +1533,8 @@
             </bibl>
 
             <bibl xml:id="work_380">
-               <title type="uniform">List of Armenian contractions, by the same.</title>
+               <title type="uniform">List of Armenian contractions</title>
+               <title type="variant">List of Armenian contractions, by the same.</title>
                <!-- ../collections/MS_Marshall_Or_83.xml#MS_Marshall_Or_83%2Ditem5 -->
             </bibl>
 
@@ -1591,17 +1576,11 @@
 
             <bibl xml:id="work_76">
                <title type="uniform">Low Sunday</title>
-               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem28 -->
-            </bibl>
-
-            <bibl xml:id="work_309">
-               <title type="uniform">Low Sunday (Նոր կիրակի).</title>
-               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem22 -->
-            </bibl>
-
-            <bibl xml:id="work_732">
-               <title type="uniform">Low Sunday. (Նոր կիրակէ, or կրկնազատիկ)</title>
+               <title type="variant">Low Sunday (Նոր կիրակի).</title>
+               <title type="variant">Low Sunday. (Նոր կիրակէ, or կրկնազատիկ)</title>
                <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem98 -->
+               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem22 -->
+               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem28 -->
             </bibl>
 
             <bibl xml:id="work_414">
@@ -1694,22 +1673,17 @@
             <bibl xml:id="work_513">
                <title type="uniform">Moral precepts to schoolboys</title>
                <title type="variant">Moral precepts to schoolboys.</title>
+               <title type="variant">Moral precepts to schoolboys, in alphabetical order.</title>
+               <title type="variant">Moral precepts to schoolboys, in alphabetical quatrains</title>
+               <!-- ../collections/MS_Marsh_85.xml#MS_Marsh_85%2Ditem5 -->
+               <!-- ../collections/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem11 -->
                <!-- ../collections/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem4 -->
                <!-- ../collections/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem8 -->
             </bibl>
 
-            <bibl xml:id="work_519">
-               <title type="uniform">Moral precepts to schoolboys, in alphabetical order.</title>
-               <!-- ../collections/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem11 -->
-            </bibl>
-
-            <bibl xml:id="work_356">
-               <title type="uniform">Moral precepts to schoolboys, in alphabetical quatrains</title>
-               <!-- ../collections/MS_Marsh_85.xml#MS_Marsh_85%2Ditem5 -->
-            </bibl>
-
             <bibl xml:id="work_363">
-               <title type="uniform">Moral precepts to young monks, in alphabetical order, by the same</title>
+               <title type="uniform">Moral precepts to young monks</title>
+               <title type="variant">Moral precepts to young monks, in alphabetical order, by the same</title>
                <!-- ../collections/MS_Marsh_85.xml#MS_Marsh_85%2Ditem13 -->
             </bibl>
 
@@ -1727,11 +1701,6 @@
             <bibl xml:id="work_449">
                <title type="uniform">Nicene Creed, in the translation of Armenian Roman Catholics</title>
                <!-- ../collections/MS_Arm_d_10.xml#MS_Arm_d_10%2Ditem3 -->
-            </bibl>
-
-            <bibl xml:id="work_456">
-               <title type="uniform">Note of the writer of f. 9(b)</title>
-               <!-- ../collections/MS_Arm_d_10.xml#MS_Arm_d_10%2Ditem10 -->
             </bibl>
 
             <bibl xml:id="work_587">
@@ -1981,19 +1950,10 @@
             </bibl>
 
             <bibl xml:id="work_302">
-               <title type="uniform">On the raising of Lazarus (the eve of Palm Sunday), being a commenary of the chap. Xi. Of John, compiled from Chrysostom, Ephrem, Stephanos of Siunik, Mambre, Marcus.</title>
-               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem15 -->
-            </bibl>
-
-            <bibl xml:id="work_334">
                <title type="uniform">On the raising of Lazarus.</title>
+               <title type="variant">On the raising of Lazarus (the eve of Palm Sunday), being a commenary of the chap. Xi. Of John, compiled from Chrysostom, Ephrem, Stephanos of Siunik, Mambre, Marcus.</title>
                <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem46 -->
-            </bibl>
-
-            <bibl xml:id="work_562">
-               <title type="uniform">On the same subject, written in 1309 A.D.</title>
-               <title type="variant">Ընդդիմաբանութիւն սակս ջրոյն խառնման ի ս՟բ խորհուրդն ի Թվիս հայոց ՉԸԾ</title>
-               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem26 -->
+               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem15 -->
             </bibl>
 
             <bibl xml:id="work_137">
@@ -2026,11 +1986,15 @@
             <bibl xml:id="work_560">
                <title type="uniform">On the unmixed chalice</title>
                <title type="variant">Ընդդէմ այնոցիկ որ ընդդէմ բաժակին մոլին</title>
+               <title type="variant">On the same subject, written in 1309 A.D.</title>
+               <title type="variant">Ընդդիմաբանութիւն սակս ջրոյն խառնման ի ս՟բ խորհուրդն ի Թվիս հայոց ՉԸԾ</title>
+               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem26 -->
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem25 -->
             </bibl>
 
             <bibl xml:id="work_583">
-               <title type="uniform">On weights and measures, by the same.</title>
+               <title type="uniform">On weights and measures</title>
+               <title type="variant">On weights and measures, by the same.</title>
                <title type="variant">Անանիայի Շիրակիունւոյ համարոշի Յաղագս կշռոց եւ կշռորդաց.</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem39 -->
             </bibl>
@@ -2051,13 +2015,10 @@
                <!-- ../collections/MS_Arm_e_11.xml#MS_Arm_e_11%2Ditem2 -->
             </bibl>
 
-            <bibl xml:id="work_707">
-               <title type="uniform">Palm Sunday (Մեծի ծառզարդարին). Ծ՟բ.</title>
-               <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem73 -->
-            </bibl>
-
             <bibl xml:id="work_69">
                <title type="uniform">Palm-Sunday</title>
+               <title type="variant">Palm Sunday (Մեծի ծառզարդարին). Ծ՟բ.</title>
+               <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem73 -->
                <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem21 -->
             </bibl>
 
@@ -2073,17 +2034,11 @@
 
             <bibl xml:id="work_82">
                <title type="uniform">Pentecost</title>
-               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem33 -->
-            </bibl>
-
-            <bibl xml:id="work_315">
-               <title type="uniform">Pentecost Day</title>
-               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem28 -->
-            </bibl>
-
-            <bibl xml:id="work_761">
-               <title type="uniform">Pentecost. Յաւէտ իսակապէս … հ՟թ.</title>
+               <title type="variant">Pentecost Day</title>
+               <title type="variant">Pentecost. Յաւէտ իսակապէս … հ՟թ.</title>
                <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem127 -->
+               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem28 -->
+               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem33 -->
             </bibl>
 
             <bibl xml:id="work_521">
@@ -2168,6 +2123,8 @@
 
             <bibl xml:id="work_35">
                <title type="uniform">Prayer of Nerses Shnorhali</title>
+               <title type="variant">Prayers of Nerses Shnorhali, preceded by admonitions how to pray</title>
+               <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem21 -->
                <!-- ../collections/MS_Laud_Or_21.xml#MS_Laud_Or_21%2Ditem1 -->
             </bibl>
 
@@ -2208,12 +2165,9 @@
 
             <bibl xml:id="work_482">
                <title type="uniform">Prayer to the Angels</title>
-               <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem16 -->
-            </bibl>
-
-            <bibl xml:id="work_481">
-               <title type="uniform">Prayer to the Angels, in verse</title>
+               <title type="variant">Prayer to the Angels, in verse</title>
                <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem15 -->
+               <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem16 -->
             </bibl>
 
             <bibl xml:id="work_281">
@@ -2245,11 +2199,6 @@
                <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem13 -->
             </bibl>
 
-            <bibl xml:id="work_487">
-               <title type="uniform">Prayers of Nerses Shnorhali, preceded by admonitions how to pray</title>
-               <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem21 -->
-            </bibl>
-
             <bibl xml:id="work_473">
                <title type="uniform">Prayers of St. Ephrem</title>
                <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem7 -->
@@ -2277,6 +2226,10 @@
                <title type="variant">Բան հաւատոյ</title>
                <title type="variant">Դաւանանք ուղղափառաց համառօտ որ զք՟ս ա՟ծ մի բնութ՟ի դաւանեն և զերրորդութի՟ն մի ա՟ծութ՟ի</title>
                <title type="variant">բան հաւատոյ</title>
+               <title type="variant">Profession of faith, in alphabetical quatrains</title>
+               <title type="variant">Profession of fauth, alphabetically arranged</title>
+               <!-- ../collections/MS_Marsh_17.xml#MS_Marsh_17%2Ditem5 -->
+               <!-- ../collections/MS_Marsh_85.xml#MS_Marsh_85%2Ditem4 -->
                <!-- ../collections/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem2 -->
                <!-- ../collections/MS_Arm_f_24.xml#MS_Arm_f_24%2Ditem7 -->
                <!-- ../collections/MS_Marsh_17.xml#MS_Marsh_17%2Ditem2 -->
@@ -2287,16 +2240,6 @@
             <bibl xml:id="work_451">
                <title type="uniform">Profession of faith for newly baptized persons</title>
                <!-- ../collections/MS_Arm_d_10.xml#MS_Arm_d_10%2Ditem5 -->
-            </bibl>
-
-            <bibl xml:id="work_355">
-               <title type="uniform">Profession of faith, in alphabetical quatrains</title>
-               <!-- ../collections/MS_Marsh_85.xml#MS_Marsh_85%2Ditem4 -->
-            </bibl>
-
-            <bibl xml:id="work_273">
-               <title type="uniform">Profession of fauth, alphabetically arranged</title>
-               <!-- ../collections/MS_Marsh_17.xml#MS_Marsh_17%2Ditem5 -->
             </bibl>
 
             <bibl xml:id="work_471">
@@ -2310,7 +2253,8 @@
             </bibl>
 
             <bibl xml:id="work_21">
-               <title type="uniform">Quotations in favour of the parity of the twelve Apostles [by the same].</title>
+               <title type="uniform">Quotations in favour of the parity of the twelve Apostles</title>
+               <title type="variant">Quotations in favour of the parity of the twelve Apostles [by the same].</title>
                <title type="variant">Վկայութիւնք յաղագս անզանազանութե՟ն առ միմեանս բ՟ժ առաքելոցն …</title>
                <!-- ../collections/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem6 -->
             </bibl>
@@ -2323,18 +2267,12 @@
             <bibl xml:id="work_286">
                <title type="uniform">Reason of feasting the Epiphany and the Birth of the Lord on 6th of January.</title>
                <title type="variant">Սուրբ վարդապետաց ասացեալ վասն յայտնութեան և ծննդեան Տն՟ … ընդդէմ երկաբնակաց …</title>
-               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem1 -->
-            </bibl>
-
-            <bibl xml:id="work_288">
-               <title type="uniform">Reason of feasting the Epiphany and the Birth of the Lord on 6th of January; a quotation pertintent to the preceding article , from the Church History of Sarkavag Vardapet.</title>
+               <title type="variant">Reason of feasting the Epiphany and the Birth of the Lord on 6th of January; a quotation pertintent to the preceding article , from the Church History of Sarkavag Vardapet.</title>
                <title type="variant">Յեկեղեցական պատմութենէ, զոր երկրորդեալ է Սարկաւագ վարդապետո.</title>
-               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem2 -->
-            </bibl>
-
-            <bibl xml:id="work_290">
-               <title type="uniform">Reason of feasting the Epiphany and the Birth of the Lord on 6th of January; taken from Samuel (of Kameradjatzor), Paulos (of Taron?) and other vardapets.</title>
+               <title type="variant">Reason of feasting the Epiphany and the Birth of the Lord on 6th of January; taken from Samuel (of Kameradjatzor), Paulos (of Taron?) and other vardapets.</title>
                <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem3 -->
+               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem2 -->
+               <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem1 -->
             </bibl>
 
             <bibl xml:id="work_297">
@@ -2357,8 +2295,9 @@
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem17 -->
             </bibl>
 
-            <bibl xml:id="work_543">
-               <title type="uniform">Reply of the same to Michael, patriarch of Syria</title>
+            <bibl xml:id="work_543"> 
+               <title type="uniform">Reply of Nersēs Shnorhali to Michael, patriarch of Syria</title>
+               <title type="variant">Reply of the same to Michael, patriarch of Syria</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem13 -->
             </bibl>
 
@@ -2465,7 +2404,8 @@
             </bibl>
 
             <bibl xml:id="work_577">
-               <title type="uniform">Some ritualistic notices, by the same</title>
+               <title type="uniform">Ritualistic notices</title>
+               <title type="variant">Some ritualistic notices, by the same</title>
                <title type="variant">Այլ բան Վանական վարդապետի գրեալ.</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem36 -->
             </bibl>
@@ -2617,13 +2557,10 @@
                <!-- ../collections/MS_Arm_f_17.xml#MS_Arm_f_17%2Ditem7 -->
             </bibl>
 
-            <bibl xml:id="work_164">
-               <title type="uniform">Story of Rousianos the oeconomos</title>
-               <!-- ../collections/MS_Arm_f_11.xml#MS_Arm_f_11%2Ditem3 -->
-            </bibl>
-
             <bibl xml:id="work_132">
                <title type="uniform">Story of Rusinos the Economos.</title>
+               <title type="variant">Story of Rousianos the oeconomos</title>
+               <!-- ../collections/MS_Arm_f_11.xml#MS_Arm_f_11%2Ditem3 -->
                <!-- ../collections/MS_Arm_f_17.xml#MS_Arm_f_17%2Ditem5 -->
             </bibl>
 
@@ -2671,22 +2608,21 @@
             <bibl xml:id="work_81">
                <title type="uniform">Sunday after Ascension</title>
                <title type="variant">The Sunday after Ascension</title>
+               <title type="variant">Sunday after Ascension (երկրորդ ծաղակազարդ).</title>
+               <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem125 -->
                <!-- ../collections/MS_Arm_e_17.xml#MS_Arm_e_17%2Ditem27 -->
                <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem32 -->
             </bibl>
 
-            <bibl xml:id="work_759">
-               <title type="uniform">Sunday after Ascension (երկրորդ ծաղակազարդ).</title>
-               <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem125 -->
-            </bibl>
-
             <bibl xml:id="work_361">
-               <title type="uniform">Supplicatory morning hymn, alphabetically arranged, by the same</title>
+               <title type="uniform">Supplicatory morning hymn</title>
+               <title type="variant">Supplicatory morning hymn, alphabetically arranged, by the same</title>
                <!-- ../collections/MS_Marsh_85.xml#MS_Marsh_85%2Ditem11 -->
             </bibl>
 
             <bibl xml:id="work_362">
-               <title type="uniform">Supplicatory verses to the Holy Trinity, alphabetically arranged, by the same</title>
+               <title type="uniform">Supplicatory verses to the Holy Trinity</title>
+               <title type="variant">Supplicatory verses to the Holy Trinity, alphabetically arranged, by the same</title>
                <!-- ../collections/MS_Marsh_85.xml#MS_Marsh_85%2Ditem12 -->
             </bibl>
 
@@ -2695,19 +2631,14 @@
                <!-- ../collections/MS_Arm_d_20.xml#MS_Arm_d_20%2Ditem6 -->
             </bibl>
 
-            <bibl xml:id="work_525">
-               <title type="uniform">Table of contentes from the 1st to the 7th article.</title>
-               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem1 -->
-            </bibl>
-
             <bibl xml:id="work_16">
-               <title type="uniform">Table of contents (in the hand of the original copyist).</title>
-               <!-- ../collections/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem3 -->
-            </bibl>
-
-            <bibl xml:id="work_536">
-               <title type="uniform">Table of contents of the remaineder of this volume.</title>
+               <title type="uniform">Tables of contents</title>
+               <title type="variant">Table of contents (in the hand of the original copyist).</title>
+               <title type="variant">Table of contentes from the 1st to the 7th article.</title>
+               <title type="variant">Table of contents of the remaineder of this volume.</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem8 -->
+               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem1 -->
+               <!-- ../collections/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem3 -->
             </bibl>
 
             <bibl xml:id="work_502">
@@ -2721,7 +2652,8 @@
             </bibl>
 
             <bibl xml:id="work_23">
-               <title type="uniform">That the Armenian church is equal to the churches at Rome and Ephesus, because of the equality of its Apostles in honour with the other Apostles [by the same]</title>
+               <title type="uniform">That the Armenian church is equal to the churches at Rome and Ephesus</title>
+               <title type="variant">That the Armenian church is equal to the churches at Rome and Ephesus, because of the equality of its Apostles in honour with the other Apostles [by the same]</title>
                <title type="variant">Վասն Հայոց եկեղեցւոյն զի հաւասար է Հռոմայ եկեղեցւոյն և Եփեսոսի …</title>
                <!-- ../collections/MS_Arm_e_10.xml#MS_Arm_e_10%2Ditem7 -->
             </bibl>
@@ -2834,7 +2766,8 @@
             </bibl>
 
             <bibl xml:id="work_377">
-               <title type="uniform">THe Aethiopic months, with their names in Hebrew and Coptic, and other notes, by the same.</title>
+               <title type="uniform">The Aethiopic months, with their names in Hebrew and Coptic</title>
+               <title type="variant">THe Aethiopic months, with their names in Hebrew and Coptic, and other notes, by the same.</title>
                <!-- ../collections/MS_Marshall_Or_83.xml#MS_Marshall_Or_83%2Ditem2 -->
             </bibl>
 
@@ -2857,12 +2790,9 @@
 
             <bibl xml:id="work_89">
                <title type="uniform">The Apostles and Disciples</title>
-               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem41 -->
-            </bibl>
-
-            <bibl xml:id="work_812">
-               <title type="uniform">The Apostles and the Disciples. ղ՟զ. Գերագոյն գոյէ …</title>
+               <title type="variant">The Apostles and the Disciples. ղ՟զ. Գերագոյն գոյէ …</title>
                <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem178 -->
+               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem41 -->
             </bibl>
 
             <bibl xml:id="work_755">
@@ -2876,13 +2806,10 @@
                <!-- ../collections/MS_Arm_f3.xml#MS_Arm_f3%2Ditem1 -->
             </bibl>
 
-            <bibl xml:id="work_383">
-               <title type="uniform">The Armenian letters, with their names in the Latin and Armenian alphabets, and their values in the former.</title>
-               <!-- ../collections/MS_Marshall_Or_137.xml#MS_Marshall_Or_137%2Ditem2 -->
-            </bibl>
-
             <bibl xml:id="work_378">
                <title type="uniform">The Armenian letters, with their names, in the Armenian and Latin alphabets.</title>
+               <title type="variant">The Armenian letters, with their names in the Latin and Armenian alphabets, and their values in the former.</title>
+               <!-- ../collections/MS_Marshall_Or_137.xml#MS_Marshall_Or_137%2Ditem2 -->
                <!-- ../collections/MS_Marshall_Or_83.xml#MS_Marshall_Or_83%2Ditem3 -->
             </bibl>
 
@@ -2963,6 +2890,8 @@
 
             <bibl xml:id="work_283">
                <title type="uniform">The evening prayer</title>
+               <title type="variant">Another prayer on the same subject</title>
+               <!-- ../collections/MS_Arm_g_4_R.xml#MS_Arm_g_4_R%2Ditem10 -->
                <!-- ../collections/MS_Arm_g_4_R.xml#MS_Arm_g_4_R%2Ditem9 -->
             </bibl>
 
@@ -2987,7 +2916,10 @@
             </bibl>
 
             <bibl xml:id="work_392">
-               <title type="uniform">The fragments formed part of the same copy of the Gispels: they contain, of course with some deficiencies, the passages Luke IX. 1-12, with marginal Eusebian section-numbers, and 42-57.</title>
+               <title type="uniform">Fragments of Gospels</title>
+               <title type="variant">The fragments formed part of the same copy of the Gispels: they contain, of course with some deficiencies, the passages Luke IX. 1-12, with marginal Eusebian section-numbers, and 42-57.</title>
+               <title type="variant">Two fragments of different MSS. The first fragment contains Luke VIII. 51, 54-56; the second Luke XXI. 4, 6, 7, 9, 12, with marginal Eusebian section-numbers.</title>
+               <!-- ../collections/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem7 -->
                <!-- ../collections/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem8 -->
             </bibl>
 
@@ -3028,23 +2960,17 @@
 
             <bibl xml:id="work_70">
                <title type="uniform">The Great Wednesday</title>
-               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem22 -->
-            </bibl>
-
-            <bibl xml:id="work_711">
-               <title type="uniform">The Great Wednesday. Ծ՟զ.</title>
+               <title type="variant">The Great Wednesday. Ծ՟զ.</title>
                <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem77 -->
+               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem22 -->
             </bibl>
 
             <bibl xml:id="work_193">
                <title type="uniform">The history and sayings of Khicar the philosopher</title>
                <title type="variant">Պատմութիւն եւ Խօսք Խիկարայ իմաստասիրի</title>
-               <!-- ../collections/MS_Canonici_Or_131.xml#MS_Canonici_Or_131%2Ditem1 -->
-            </bibl>
-
-            <bibl xml:id="work_182">
-               <title type="uniform">The history andsayings of Khikar</title>
+               <title type="variant">The history andsayings of Khikar</title>
                <!-- ../collections/MS_Arm_f_11.xml#MS_Arm_f_11%2Ditem14%2Ditem2%2Ditem7 -->
+               <!-- ../collections/MS_Canonici_Or_131.xml#MS_Canonici_Or_131%2Ditem1 -->
             </bibl>
 
             <bibl xml:id="work_86">
@@ -3107,11 +3033,6 @@
                <!-- ../collections/MS_Arm_f_11.xml#MS_Arm_f_11%2Ditem14%2Ditem1 -->
             </bibl>
 
-            <bibl xml:id="work_814">
-               <title type="uniform">The Invention of the holy Corss. Խաչի քո ք՟ս երկիրպագանեմք …</title>
-               <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem180 -->
-            </bibl>
-
             <bibl xml:id="work_369">
                <title type="uniform">The last lines of set of directioins indicating according to the old usage on which days the liturgy of St. Basil and of St. John Chrysostom are to be used.</title>
                <!-- ../collections/MS_Arm_b_2.xml#MS_Arm_b_2%2Ditem1 -->
@@ -3149,7 +3070,8 @@
             </bibl>
 
             <bibl xml:id="work_581">
-               <title type="uniform">The names and colours of precious stones [by the same]</title>
+               <title type="uniform">The names and colours of precious stones</title>
+               <title type="variant">The names and colours of precious stones [by the same]</title>
                <title type="variant">Անուանք ականց եւ գունաւորութիւնք նոցին.</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem38 -->
             </bibl>
@@ -3160,7 +3082,11 @@
             </bibl>
 
             <bibl xml:id="work_618">
-               <title type="uniform">The new Translation of the works of Pseudo-Dionysius, the Areopagite</title>
+               <title type="uniform">Translations of the works of Pseudo-Dionysius, the Areopagite</title>
+               <title type="variant">The new Translation of the works of Pseudo-Dionysius, the Areopagite</title>
+               <title type="variant">The old Translation of the works of Pseudo-Dionysius, the Areopagite</title>
+               <title type="variant">Նախաբանութիւն վասն մեծին Դիոնեսիւսի Արիսոպագացւոյ, և վասն գրոցս այս գրելոյ ի նմանէ.</title>
+               <!-- ../collections/MS_Arm_e_37.xml#MS_Arm_e_37%2Ditem2 -->
                <!-- ../collections/MS_Arm_e_37.xml#MS_Arm_e_37%2Ditem1 -->
             </bibl>
 
@@ -3183,12 +3109,6 @@
             <bibl xml:id="work_100">
                <title type="uniform">The Octave of the Holy Cross</title>
                <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem52 -->
-            </bibl>
-
-            <bibl xml:id="work_619">
-               <title type="uniform">The old Translation of the works of Pseudo-Dionysius, the Areopagite</title>
-               <title type="variant">Նախաբանութիւն վասն մեծին Դիոնեսիւսի Արիսոպագացւոյ, և վասն գրոցս այս գրելոյ ի նմանէ.</title>
-               <!-- ../collections/MS_Arm_e_37.xml#MS_Arm_e_37%2Ditem2 -->
             </bibl>
 
             <bibl xml:id="work_274">
@@ -3289,12 +3209,9 @@
 
             <bibl xml:id="work_84">
                <title type="uniform">The Transfiguration</title>
-               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem35 -->
-            </bibl>
-
-            <bibl xml:id="work_784">
-               <title type="uniform">The Transfiguration. (Վարդավառ)</title>
+               <title type="variant">The Transfiguration. (Վարդավառ)</title>
                <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem150 -->
+               <!-- ../collections/MS_Arm_e_5.xml#MS_Arm_e_5%2Ditem35 -->
             </bibl>
 
             <bibl xml:id="work_693">
@@ -3308,23 +3225,20 @@
             </bibl>
 
             <bibl xml:id="work_549">
-               <title type="uniform">Three letters from the same in reply to the letters of an anonymous 'impertinent'</title>
+               <title type="uniform">Three letters from Nersēs Shnorhali in reply to the letters of an anonymous 'impertinent'</title>
+               <title type="variant">Three letters from the same in reply to the letters of an anonymous 'impertinent'</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem18 -->
             </bibl>
 
             <bibl xml:id="work_550">
-               <title type="uniform">Three letters from the same to George vardapet</title>
+               <title type="uniform">Three letters from Nersēs Shnorhali to George vardapet</title>
+               <title type="variant">Three letters from the same to George vardapet</title>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem19 -->
             </bibl>
 
             <bibl xml:id="work_495">
                <title type="uniform">Three other prayers of anonymous authors.</title>
                <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem30 -->
-            </bibl>
-
-            <bibl xml:id="work_551">
-               <title type="uniform">Title and first few lines only of an Encyclical letter from the same to the inhabitants of Kars and the neighbourhood, on the election of their bishop Khatchadoor (not mentioned in the table of contents)</title>
-               <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem20 -->
             </bibl>
 
             <bibl xml:id="work_484">
@@ -3345,11 +3259,6 @@
             <bibl xml:id="work_483">
                <title type="uniform">To the twelve Guardian Angels, woth their respective names and powers (magical prayer).</title>
                <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem17 -->
-            </bibl>
-
-            <bibl xml:id="work_391">
-               <title type="uniform">Two fragments of different MSS. The first fragment contains Luke VIII. 51, 54-56; the second Luke XXI. 4, 6, 7, 9, 12, with marginal Eusebian section-numbers.</title>
-               <!-- ../collections/MS_Arm_b_1.xml#MS_Arm_b_1%2Ditem7 -->
             </bibl>
 
             <bibl xml:id="work_626">
