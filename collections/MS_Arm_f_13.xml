@@ -53,7 +53,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_13-item2" n="2">
                      <locus>f. 222</locus>
-                     <author>Grigor Pahlawuni, Magistros, <date calendar="#Gregorian" from="0985" to="1085">985-1058</date></author>
+                     <author key="person_101">Grigor Pahlawuni, Magistros, <date calendar="#Gregorian" from="0985" to="1085">985-1058</date></author>
                      <title xml:lang="en">Selection from Letters of Gregory Magistros</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Composed in an artificial dialect.</note>

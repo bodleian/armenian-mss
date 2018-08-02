@@ -46,10 +46,8 @@
                   <summary>Homilies of St. Gregory of Armenia, etc., 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_19-item1" n="1">
                      <locus>f. 2</locus>
-                     <author>
-                        <persName>Gregory, the Illuminator, Saint, <date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date></persName>
-                        <persName>Grigor Lusavoric</persName>
-                        <persName xml:lang="hy">'Գրիգոր Լուսավորիչ</persName>
+                     <author key="person_51">
+                        <persName>Gregory, the Illuminator, Saint, <date calendar="#Gregorian" from="0240" to="0332">ca. 240-ca. 332</date></persName> (<persName>Grigor Lusavoric</persName>, <persName xml:lang="hy">'Գրիգոր Լուսավորիչ</persName>)
                      </author>
                      <title xml:lang="en">Homilies of St. Gregory the Illuminator</title>
                      <title xml:lang="xcl-Latn-x-hmb">Yačaxapatum</title>

@@ -66,7 +66,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_10-item4" n="4">
                      <locus>f. 16(b)</locus>
-                     <author>Mkhitar Scevratzi</author>
+                     <author key="person_7">Mkhitar Scevratzi</author>
                      <title xml:lang="en">Controversy of the priest Mkhitar Scevratzi against the supremacy of the Pope of Rome, which tool place at Acre between the author and the papal legate, William II of Tyre.</title>
                      <title xml:lang="hy">Մխիթար քահանայի Սկևռացւոյ Պատասխանիք …</title>
                      <incipit>Անհասանելի և անծանաւթ որդին որ է լոյս …</incipit>
@@ -132,7 +132,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_10-item13" n="13">
                      <locus>f. 67</locus>
-                     <author>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198</date></author>
+                     <author key="person_38">Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198</date></author>
                      <title xml:lang="en">On the five patriarchates and their archbishops and bishops, written by Nilus the monk, surnamed Doxapatrius, at the request of Roger II, king of Sicily, and translated (from Greek) into Armenian by Archbishop Nerses, of Lambron, and the metropolitan Constantine (in 1179).</title>
                      <title xml:lang="hy">Գիր որ եղեւ առ ղինոսէ կրաւանաւորէ մակակոչեցելոյ դոքսապատիու … վս՟ ե՟. պատրիարգացն աթոռոց …</title>
                      <incipit>Ամենամեծատոհմ տէր իմ, վասն պատճառին զոր գրեցեր …</incipit>

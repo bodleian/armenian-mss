@@ -46,10 +46,8 @@
                   <summary>David the Philosopher, A.D. 1334.</summary>
                   <msItem xml:id="MS_Arm_f_6-item1" n="1">
                      <locus>f. 2</locus>
-                     <author>
-                         <persName>David, the Invincible</persName>
-                         <persName>Davitʻ Anhaghtʻ</persName>
-                         <persName>Davit' Anyałt</persName>
+                     <author key="person_16">
+                         <persName>David, the Invincible</persName> (<persName>Davitʻ Anhaghtʻ</persName>, <persName>Davit' Anyałt</persName>)
                      </author>
                      <title xml:lang="en">The Definitions of Philosophy, and other philosphical tracts</title>
                      <title xml:lang="hy">Sahmank' imastasirut'ean</title>

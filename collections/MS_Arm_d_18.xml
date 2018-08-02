@@ -45,16 +45,15 @@
                <msContents>
                   <summary>Theological, and Commentary, 19th cent.</summary>
                   <msItem xml:id="MS_Arm_d_18-item1" n="1">
-                     <author>
-                        <persName>Yovhannes Vardapet</persName>
-                        <persName>Johannes Vardapet of Julfa</persName>
+                     <author key="person_28">
+                        <persName>Yovhannes Vardapet</persName> (<persName>Johannes Vardapet of Julfa</persName>)
                      </author>
                      <title xml:lang="en">Treatise in defence of one nature in Christ</title>
                      <title xml:lang="xcl-Latn-x-hmb">Girk' or kočʿi Srbaznagorcut'iwn, žołoveal i groc' astwacaynoc' ew i lusawor banic' surb vardapetac'. Ašxatasirut'eamb Nor ǰułayu surb Amenap'rkčʿi gerahṙčʿak vanic' miaban Yovhannu mncimast k'aǰ hṙetori ew banibun astwacaban vardapeti</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_18-item2" n="2">
-                     <author>Petrus Ałmalian</author>
+                     <author key="person_29">Petrus Ałmalian</author>
                      <title xml:lang="en">Commentary on the Gospel Parables, entitled 'Open Fountains'</title>
                      <title xml:lang="xcl-Latn-x-hmb">Meknut'iwn Aṙakawor banic' Tearn meroy Yiesusi K'ristosi or kočʿi Ałbiwr bac'eal</title>
                      <textLang mainLang="hy">Armenian</textLang>

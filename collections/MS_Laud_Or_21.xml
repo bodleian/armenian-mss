@@ -46,7 +46,7 @@
                   <summary>Prayerbook, 16th cent., etc.</summary>
                   <msItem xml:id="MS_Laud_Or_21-item1" n="1">
                      <locus>f. 42</locus>
-                     <author>Nersēs, Shnorhali, Saint, 1102-1173</author>
+                     <author key="person_23">Nersēs, Shnorhali, Saint, 1102-1173</author>
                      <title xml:lang="en">Prayer of Nerses Shnorhali</title>
                      <incipit>Հաւատով խոստովանին...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>

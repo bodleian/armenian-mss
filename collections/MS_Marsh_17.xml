@@ -46,9 +46,8 @@
                   <summary>Poems of Nerses IV, 17th cent.</summary>
                   <msItem xml:id="MS_Marsh_17-item1" n="1">
                      <locus>f. 1</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName xml:lang="hy">Ներսէս Շնորհալի</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
                      <title xml:lang="en">The scriptural elegy</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -56,9 +55,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item2" n="2">
                      <locus>f. 133</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName xml:lang="hy">Ներսէս Շնորհալի</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
                      <title xml:lang="en">Profession of Faith</title>
                      <title xml:lang="hy">բան հաւատոյ</title>
@@ -66,27 +64,24 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item3" n="3">
                      <locus>f. 183</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName xml:lang="hy">Ներսէս Շնորհալի</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
                      <title xml:lang="en">Moral precepts, in alphabetical order</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item4" n="4">
                      <locus>f. 192</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName xml:lang="hy">Ներսէս Շնորհալի</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
                      <title xml:lang="en">On heaven and its order</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Marsh_17-item5" n="5">
                      <locus>f. 205</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName xml:lang="hy">Ներսէս Շնորհալի</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName xml:lang="hy">Ներսէս Շնորհալի</persName>)
                      </author>
                      <title xml:lang="en">Profession of fauth, alphabetically arranged</title>
                      <textLang mainLang="hy">Armenian</textLang>

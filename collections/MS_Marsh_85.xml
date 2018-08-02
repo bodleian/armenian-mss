@@ -46,9 +46,8 @@
                   <summary>Poems of Nerses IV, etc., 17th cent.</summary>
                   <msItem xml:id="MS_Marsh_85-item1" n="1">
                      <locus>f. 9</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">The scriptural elegy</title>
                      <incipit>Յիսուս որդի հաւր միածին...</incipit>
@@ -56,9 +55,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item2" n="2">
                      <locus>f. 100(b)</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">Profession of faith</title>
                      <title xml:lang="hy">Բան հաւատոյ</title>
@@ -67,9 +65,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item3" n="3">
                      <locus>f. 138</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">Moral maxims, in alphabetical stanzas</title>
                      <incipit>Այբն Աստուծոյ զքէզ մերձակայ...</incipit>
@@ -77,9 +74,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item4" n="4">
                      <locus>f. 145(b)</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">Profession of faith, in alphabetical quatrains</title>
                      <incipit>Այբն անսկիզբն ասէ զԱ՟ծ...</incipit>
@@ -87,9 +83,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item5" n="5">
                      <locus>f. 149(b)</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">Moral precepts to schoolboys, in alphabetical quatrains</title>
                      <incipit>Այբն առաջին ըզքեզ տղայ...</incipit>
@@ -97,9 +92,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item6" n="6">
                      <locus>f. 153(b)</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">Alphabetical subscription to the copy of the Proverbs of Solomon made by the same author</title>
                      <incipit>Աստուածեղէն հոգւովն ի սմա...</incipit>
@@ -107,9 +101,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item7" n="7">
                      <locus>f. 157(b)</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">On Solomon</title>
                      <incipit>Սա մարքարէ աստուածաբան...</incipit>
@@ -117,9 +110,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item8" n="8">
                      <locus>f. 159</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">On heaven and its order</title>
                      <incipit>Իմ եղական գոլով բնութիւն եւ սկզբնական...</incipit>
@@ -127,9 +119,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item9" n="9">
                      <locus>f. 168</locus>
-                     <author>
-                        <persName>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153 - 1198</date></persName>
-                        <persName>Lambronac'i, Nersēs</persName>
+                     <author key="person_38">
+                        <persName>Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153 - 1198</date></persName> (<persName>Lambronac'i, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">A metrical panegyric on Nerses Clayetzi, by Nerses of Lambron</title>
                      <incipit>Շարժեալ ստիպէ հարկ տէրունի...</incipit>
@@ -137,9 +128,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item10" n="10">
                      <locus>f. 192</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">Penitential Hymn, alphabetically arranged, by nerses Clayetzi</title>
                      <incipit>Աշխարհ ամենայն...</incipit>
@@ -147,9 +137,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item11" n="11">
                      <locus>f. 193(b)</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">Supplicatory morning hymn, alphabetically arranged, by the same</title>
                      <incipit>Առաւօտ լուսոյ...</incipit>
@@ -157,9 +146,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item12" n="12">
                      <locus>f. 195(b)</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">Supplicatory verses to the Holy Trinity, alphabetically arranged, by the same</title>
                      <incipit>Աստուած անեղ անհասական Հայր գըթութեանց ինձ ողորմեա...</incipit>
@@ -167,9 +155,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item13" n="13">
                      <locus>f. 196(b)</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">Moral precepts to young monks, in alphabetical order, by the same</title>
                      <incipit>Ամենայինի սկիզբն ես եմ...</incipit>
@@ -178,9 +165,8 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item14" n="14">
                      <locus>f. 203</locus>
-                     <author>
-                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName>
-                        <persName>Šnorhali, Nersēs</persName>
+                     <author key="person_23">
+                        <persName>Shnorhali, Nersēs, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></persName> (<persName>Šnorhali, Nersēs</persName>)
                      </author>
                      <title xml:lang="en">an astronomical and meteorological treatise in verse</title>
                      <incipit>Ապոլիաւդ հողմն բարի Արեւ անձրեւ ի միասին...</incipit>
@@ -189,7 +175,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item15" n="15">
                      <locus>f. 207</locus>
-                     <author>Ter Arackel Sunetzi</author>
+                     <author key="person_39">Ter Arackel Sunetzi</author>
                      <title xml:lang="en">A poem on the loss of Paradise</title>
                      <title xml:lang="hy">Ադամգիրք</title>
                      <incipit>Էր փառք դրախտին անպատմելի Զըքնաղատես եւ սըխրալի...</incipit>
@@ -197,7 +183,7 @@
                   </msItem>
                   <msItem xml:id="MS_Marsh_85-item16" n="16">
                      <locus>f. 312(b)</locus>
-                     <author>Ter Arackel Sunetzi</author>
+                     <author key="person_39">Ter Arackel Sunetzi</author>
                      <title xml:lang="en">Alphabetical verses in praise of and addressed to the Virgin, by the same (?)</title>
                      <incipit>Այբէն մինչ ի Քէն գովիս դու յինէն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>

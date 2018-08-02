@@ -45,7 +45,7 @@
                <msContents>
                   <summary>Phylactery, A.D. 1706-7.</summary>
                   <msItem xml:id="MS_Arm_g_4_R-item1" n="1">
-                     <author>Nerses Clayetsi</author>
+                     <author key="person_33">Nerses Clayetsi</author>
                      <title xml:lang="en">The prayer for the use of every believer</title>
                      <title xml:lang="hy">Հաւատով խոստավանիմ</title>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -95,7 +95,7 @@
                      <note>At the head is a picture representing St. Sargis on horseback holding a club, and St. Martyros, who is depicted as a child, riding behind him.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_4_R-item9" n="9">
-                     <author>Grigor, Narekatsʻi, Saint, 951-1003</author>
+                     <author key="person_84">Grigor, Narekatsʻi, Saint, 951-1003</author>
                      <title xml:lang="en">The evening prayer</title>
                      <incipit>Որդի Այ՟ կենդանւոյ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>

@@ -46,7 +46,7 @@
                   <summary>Book about Virtues, 17th cent.</summary>
                   <msItem xml:id="MS_Arm_e_39-item1" n="1">
                      <locus>f. 4</locus>
-                     <author>Peter, of Argos, Saint</author>
+                     <author key="person_26">Peter, of Argos, Saint</author>
                      <title xml:lang="en">The Book of Virtues</title>
                      <title xml:lang="xcl-Latn-x-lc">Girk' yaghags Aṛak'inut'eants'</title>
                      <title xml:lang="xcl-Latn-x-hmb">Girk' yałags Aṙak'inut'eanc'</title>

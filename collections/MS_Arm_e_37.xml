@@ -46,8 +46,8 @@
                   <summary>Dionysius [Pseudo-] Areopagite, 17th. cent.</summary>
                   <msItem xml:id="MS_Arm_e_37-item1" n="1">
                      <locus>f. 4</locus>
-                     <author>Pseudo-Dionysius, the Areopagite</author>
-                     <editor role="translator">
+                     <author key="person_77">Pseudo-Dionysius, the Areopagite</author>
+                     <editor role="translator" key="person_78">
                         <persName>Stephanos of Lemberg</persName>
                      </editor>
                      <title xml:lang="en">The new Translation of the works of Pseudo-Dionysius, the Areopagite</title>
@@ -57,8 +57,8 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_37-item2" n="2">
                      <locus>f. 252</locus>
-                     <author>Pseudo-Dionysius, the Areopagite</author>
-                     <editor role="translator">
+                     <author key="person_77">Pseudo-Dionysius, the Areopagite</author>
+                     <editor role="translator" key="person_79">
                         <persName>Stephanos of Siunik</persName>
                      </editor>
                      <title xml:lang="en">The old Translation of the works of Pseudo-Dionysius, the Areopagite</title>

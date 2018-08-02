@@ -46,7 +46,7 @@
                   <summary>Ethical Miscellany, 17th cent.</summary>
                   <msItem xml:id="MS_Arm_e_28-item1" n="1">
                      <locus>f. 5(b)</locus>
-                     <author>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date></author>
+                     <author key="person_52">Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date></author>
                      <title xml:lang="en">The prolegomena of the civil code of Mkhitar Gosh</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>

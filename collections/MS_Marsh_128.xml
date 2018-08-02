@@ -45,9 +45,8 @@
                <msContents>
                   <summary>Laws, etc., A.D. 1617.</summary>
                   <msItem xml:id="MS_Marsh_128-item1" n="1">
-                     <author>
-                        <persName>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130 - 1213</date></persName>
-                        <persName>Mxit'ar Goš</persName>
+                     <author key="person_52">
+                        <persName>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130 - 1213</date></persName> (<persName>Mxit'ar Goš</persName>)
                      </author>
                      <title xml:lang="en">Civil Code of Mkhitar Gosh</title>
                      <title xml:lang="xcl-Latn-x-lc">Girkʻ datastanacʻ Mkhitʻaray</title>
@@ -56,9 +55,8 @@
                      <note>Composed in 1184 A.D.</note>
                   </msItem>
                   <msItem xml:id="MS_Marsh_128-item2" n="2">
-                     <author>
-                        <persName>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date></persName>
-                        <persName>Mxit'ar Gōš</persName>
+                     <author key="person_52">
+                        <persName>Mkhitʻar Gōsh, <date calendar="#Gregorian" from="1130" to="1213">ca. 1130-1213</date></persName> (<persName>Mxit'ar Gōš</persName>)
                      </author>
                      <title xml:lang="en">A catena of commentary on the Armenian Liturgy, collected by Moses Vardapet Erzenkatzi.</title>
                      <title xml:lang="hy">Մովսէս վարդապետ Երզնկագի - Հաւաքումն համառաւտ Մեկնութեան սրբոյ Պատարագի, զոր յառաջագոյն արարեալ սրբոց լուսաւոր Հարց.</title>

@@ -46,14 +46,14 @@
                   <summary>Gregory of Tathev, 15th cent.</summary>
                   <msItem xml:id="MS_Arm_e_11-item1" n="1">
                      <locus>f. 1</locus>
-                     <author>Grigor, Tatʻevatsʻi, <date calendar="#Gregorian" from="1346" to="1409">1346-1409</date></author>
+                     <author key="person_3">Grigor, Tatʻevatsʻi, <date calendar="#Gregorian" from="1346" to="1409">1346-1409</date></author>
                      <title xml:lang="en">The Book of Questions</title>
                      <title xml:lang="xcl-Latn-x-hmb">Girk' Harc'manc'</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_11-item2" n="2">
                      <locus>f. 400(b)</locus>
-                     <author>Grigor, Tatʻevatsʻi, <date calendar="#Gregorian" from="1346" to="1409">1346-1409</date></author>
+                     <author key="person_3">Grigor, Tatʻevatsʻi, <date calendar="#Gregorian" from="1346" to="1409">1346-1409</date></author>
                      <title xml:lang="en">Questions of John Vardapet, and Solutions of Gregory of Tathev</title>
                      <title xml:lang="xcl-Latn-x-hmb">P'ok'r Harc'munk'</title>
                      <textLang mainLang="hy">Armenian</textLang>

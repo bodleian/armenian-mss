@@ -46,14 +46,14 @@
                   <summary>A Romanizing Polemic, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_e_22-item1" n="1">
                      <locus>f. 1(b)</locus>
-                     <author>Stephanos Basil Shir-Phalankian</author>
+                     <author key="person_4">Stephanos Basil Shir-Phalankian</author>
                      <title xml:lang="en">Bellclapper of Truth</title>
                      <title xml:lang="hy">Կոչնակ ճշմարտութեան</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_22-item2" n="2">
                      <locus>f. 119(b)</locus>
-                     <author>Stephanos Basil Shir-Phalankian</author>
+                     <author key="person_4">Stephanos Basil Shir-Phalankian</author>
                      <title xml:lang="en">An appeal to the illustrious vardapets and bishops of our nation …</title>
                      <title xml:lang="hy">Հրաւիրական կոչումն</title>
                      <textLang mainLang="hy">Armenian</textLang>

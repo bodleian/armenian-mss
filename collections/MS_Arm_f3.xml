@@ -53,7 +53,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item2" n="2">
                      <locus>f. 13</locus>
-                     <author>Iacob Vardapet of the Crimea</author>
+                     <author key="person_74">Iacob Vardapet of the Crimea</author>
                      <title xml:lang="en">Commentaru on the Calendar</title>
                      <title xml:lang="hy">Մեկնութիւն Տումարի զոր խնդրեալ Թովմայ վարդապետն Մեծոփայ վանաց: ա՟ծածնակ սուրբ ուխտին և սիրով զհայցուածս նորա կատարեալ Յակոբ վարդապետի Ղրիմեցւոյ.</title>
                      <incipit>Զհայցուածս գերեջանիկ րաբունապետի երիցս երանելոյ …</incipit>
@@ -61,7 +61,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item3" n="3">
                      <locus>f. 146(b)</locus>
-                     <author>Iacob Vardapet of the Crimea</author>
+                     <author key="person_74">Iacob Vardapet of the Crimea</author>
                      <title xml:lang="en">Historical treatose on the Calendar, includign a full explanagion of the reform made in it in the 6th cent., which resulted in the establishment of the Armenian era.</title>
                      <title xml:lang="hy">Նորին Յակոբ վրդ՟պտի Ղրիմեցոյ յղ՟գս տումարական մակացութ՟ե թէ ի յորոց մ՟դկանէ արհեստաորեցաւ.</title>
                      <incipit>Գիտելի է զի նախ ի նախամարգարէէն օրինադրեցաւ. զի նա կարգեաց զլրմունս զատկաց հինն ի՟ղի …</incipit>
@@ -92,7 +92,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f3-item7" n="7">
                      <locus>f. 158(b)</locus>
-                     <author>Ter Araqel Bałishetzi</author>
+                     <author key="person_75">Ter Araqel Bałishetzi</author>
                      <title xml:lang="en">An astronomical and meteorological tract, in verse.</title>
                      <title xml:lang="hy">(First Chapter:) Յաղագս երկոտասան կենդանակերպիցն</title>
                      <incipit>Աշխարհ ունի ըզձև մարմնոյ (lege մարդոյ) Երկոտասան անդամք մարմնոյ …</incipit>

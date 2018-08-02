@@ -46,14 +46,14 @@
                   <summary>Nerses IV's Commentary on Matthew, etc., 17th cent.</summary>
                   <msItem xml:id="MS_Arm_e_15-item1" n="1">
                      <locus>f. 2</locus>
-                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
+                     <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
                      <title xml:lang="en">Sermon on the grade and the staff of Vardapets, on text Ps.CX.2.</title>
                      <incipit>Թէ վասն ե՛ր գաւազանն զարդարելոյն արտաքս բերէ: Պխ. վասն բազում պատճառաց. նախ զի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_15-item2" n="1">
                      <locus>f. 8</locus>
-                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
+                     <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
                      <title xml:lang="en">Explanation of the framework of the Eusebian Canons of Gospels.</title>
                      <title xml:lang="hy">Մեկնութիւն խորանաց աւետարանին.</title>
                      <incipit>Մատեանք ա՟ծագիծք և հոգէբուղխ վդ՟տութի՟ք իմաստից …</incipit>
@@ -61,14 +61,14 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_15-item3" n="1">
                      <locus>f. 13</locus>
-                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
+                     <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
                      <title xml:lang="en">'From the ecclesiastical history;, dealing with the question, Why the Gospels are written, and how?</title>
                      <incipit>Առաքեալք բ՟ժան և այլ աշակերտք հբ՟ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_15-item4" n="1">
                      <locus>f. 15</locus>
-                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
+                     <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
                      <title xml:lang="en">Commentary on Matthew, by Nerses Shnorhali, with the continuation by John of Erzenka.</title>
                      <incipit>Սրիոյ զաւրութիւն գերազանց է քան զբնութիւն, և այն քան մինչ զի մոռացումն առնել տկարութեան …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -76,21 +76,21 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_15-item5" n="1">
                      <locus>f. 214</locus>
-                     <author>Matthew Vardapet</author>
+                     <author key="person_24">Matthew Vardapet</author>
                      <title xml:lang="en">Commenrary on the six days of the Creation, by Matthew Vardapet</title>
                      <incipit>Սքանշելի են գործք ƒո և անձն իմ սիրեաց յոյժ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_15-item6" n="1">
                      <locus>f. 280</locus>
-                     <author>Matthew Vardapet</author>
+                     <author key="person_24">Matthew Vardapet</author>
                      <title xml:lang="en">On eight evil thoughts, by Matthew Vardapet, compuled from the Doctrine [Antirrheticus] of Evagrius Ponticus, 'who is called the Mind of the deser, and from his follower St. Nilus'.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains: On Gluttony; On Fornication; On Avarice; On Sadness; On Wrath; on Melancholy; On Vainglory; On Pride. It ends with a memorial of the author, telling that he has finished 'this compendium in the inner hermitage (անապատ) of Tantzapharakh' (Տանծափարախ) in Siunik, East Armenia, in 1393.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_15-item7" n="1">
                      <locus>f. 303</locus>
-                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
+                     <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
                      <title xml:lang="en">An epitome on Genesis</title>
                      <title xml:lang="hy">Յաղագս արարածոց համառօտ</title>
                      <incipit>Արար ա՟ծ զմարդն ի պատկեր իւր …</incipit>
@@ -99,7 +99,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_15-item8" n="1">
                      <locus>f. 310</locus>
-                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
+                     <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102 - 1173</date></author>
                      <title xml:lang="en">Extracts from the Book of Questions</title>
                      <title xml:lang="hy">Ի Հարցողաց գրոց</title>
                      <textLang mainLang="hy">Armenian</textLang>

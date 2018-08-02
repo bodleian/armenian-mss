@@ -45,8 +45,8 @@
                <msContents>
                   <summary>Bartholomew of Bologna, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_20-item1" n="1">
-                     <author>Bartholomew, of Bologna, <date calendar="#Gregorian" notBefore="1200" notAfter="1300">13th cent.</date></author>
-                     <editor role="translator">
+                     <author key="person_5">Bartholomew, of Bologna, <date calendar="#Gregorian" notBefore="1200" notAfter="1300">13th cent.</date></author>
+                     <editor role="translator" key="person_6">
                         <persName xml:lang="en" type="supplied">Jacob of Qerni</persName>
                      </editor>
                      <title xml:lang="en">Commentary of the Seven Days of Creation</title>

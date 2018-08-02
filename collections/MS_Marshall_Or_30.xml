@@ -46,7 +46,7 @@
                   <summary>Lexicon, 17th cent.</summary>
                   <msItem xml:id="MS_Marshall_Or_30-item1" n="1">
                      <locus>f. 1</locus>
-                     <author>Fr. Rivola</author>
+                     <author key="person_66">Fr. Rivola</author>
                      <title xml:lang="la">Dictionarium Armeni-Latinum</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>An inscription at the eginning of the volume by William Guise, the orientlaist, fellow of All Souls', states that it was given to him by Dr. Thomas Marshall. Either before or after Guise's death it passed back to Marshall's hands and was bequieathed by him to the Bodleain in 1685.</note>

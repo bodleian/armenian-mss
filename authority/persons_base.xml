@@ -20,15 +20,6 @@
       <body>
          <listPerson>
 
-            <person xml:id="person_51">
-               <persName type="display">Gregory, the Illuminator, Saint, ca. 240-ca. 332</persName>
-               <persName type="variant">'Գրիգոր Լուսավորիչ</persName>
-               <persName type="variant">Grigor Lusavoric</persName>
-               <!-- ../collections/MS_Arm_f_19.xml#MS_Arm_f_19%2Ditem1 -->
-               <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem26 -->
-               <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem27 -->
-            </person>
-
             <person xml:id="person_73">
                <persName type="display">Anania Shirakatsʻi, fl. 685</persName>
                <!-- ../collections/MS_Marsh_467.xml#MS_Marsh_467%2Ditem37 -->
@@ -110,6 +101,15 @@
                <!-- ../collections/MS_Arm_e_23.xml#MS_Arm_e_23%2Ditem1 -->
             </person>
 
+            <person xml:id="person_51">
+               <persName type="display">Gregory, the Illuminator, Saint, ca. 240-ca. 332</persName>
+               <persName type="variant">'Գրիգոր Լուսավորիչ</persName>
+               <persName type="variant">Grigor Lusavoric</persName>
+               <!-- ../collections/MS_Arm_f_19.xml#MS_Arm_f_19%2Ditem1 -->
+               <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem26 -->
+               <!-- ../collections/MS_Arm_f_26.xml#MS_Arm_f_26%2Ditem27 -->
+            </person>
+            
             <person xml:id="person_87">
                <persName type="display">Gregory Vardapet</persName>
                <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem31 -->

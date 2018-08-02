@@ -46,7 +46,7 @@
                   <summary>Ethical and Miscellaneous, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_f_10-item1" n="1">
                      <locus>f. 2</locus>
-                     <author>John of Erznka</author>
+                     <author key="person_47">John of Erznka</author>
                      <title xml:lang="en">On Abusive Language</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Being the tenth chapter of the Instructions of John of Erznka.</note>
@@ -75,7 +75,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item5" n="5">
                      <locus>f. 35</locus>
-                     <author>John Vardapet of Erznka</author>
+                     <author key="person_48">John Vardapet of Erznka</author>
                      <title xml:lang="en">Encyclical Insturctions</title>
                      <incipit>Նախ պարտ է իմանալ թէ զինչ է քրիստոնէութ՟ի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -124,7 +124,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_f_10-item12" n="13">
                      <locus>f. 190</locus>
-                     <author>Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date></author>
+                     <author key="person_23">Nersēs, Shnorhali, Saint, <date calendar="#Gregorian" from="1102" to="1173">1102-1173</date></author>
                      <title xml:lang="en">Riddles (Հանելուկք) of Nerses Shnorhali</title>
                      <textLang mainLang="xcl">Armenian</textLang>
                   </msItem>

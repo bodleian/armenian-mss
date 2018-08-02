@@ -46,7 +46,7 @@
                   <summary>Pseudo-Prochoros, etc., A.D. 1324.</summary>
                   <msItem xml:id="MS_Arm_e_2-item1" n="1">
                      <locus>f. 1</locus>
-                     <author>Pseudo-Prochoros</author>
+                     <author key="person_20">Pseudo-Prochoros</author>
                      <title xml:lang="en">Acta Ioannis</title>
                      <incipit>...երեք ի ծով եւ լերին. եւ ապա եկեալ նաւ մի յեգիպատոսէ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -84,7 +84,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item7" n="7">
                      <locus>f. 221</locus>
-                     <author>Ioannes Vardapet Ezenkatzi</author>
+                     <author key="person_21">Ioannes Vardapet Ezenkatzi</author>
                      <title xml:lang="en">Metrical discourse on the human nature, and praises to the Creator, composed in popular Armenian.</title>
                      <title xml:lang="xcl-Latn-x-lc">Յովանիսի վարդապետի եզնկացւոյ ասացեալ բանք չափաւորականք ի խրատ մարդկային բնութե՟ս, եւ գովութ՟ ի արարողին ի մարդկայնոցն ներբողական ձայնիւ...</title>
                      <incipit>Աւրհնեալ Այ՟ անունն ու միշտ կենդանւոյն, Որ երետ խելք ու միտք ու խաւսըք մարդոյն:</incipit>
@@ -92,14 +92,14 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item8" n="8">
                      <locus>f. 229(b)</locus>
-                     <author>The Catholicos Zakaria</author>
+                     <author key="person_22">The Catholicos Zakaria</author>
                      <title xml:lang="en">Sermon on the Passion of our Lord, delivered on Good Friday.</title>
                      <incipit>երէկ զմեծի եւ զհրաշափառ հինգշաբաթուն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_2-item9" n="9">
                      <locus>f. 262</locus>
-                     <author>The Catholicos Zakaria</author>
+                     <author key="person_22">The Catholicos Zakaria</author>
                      <title xml:lang="en">Sermon on the Burial of our Lord, delivered on the Great Saturday.</title>
                      <incipit>Յերիկեան ի գնացելումն ժամու աւիւրն զվեցերորդ աւուր...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>

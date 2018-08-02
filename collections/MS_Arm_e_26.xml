@@ -46,8 +46,8 @@
                   <summary>Abelli's Theology, A.D. 1850.</summary>
                   <msItem xml:id="MS_Arm_e_26-item1" n="1">
                      <locus>f. 1</locus>
-                     <author>Ludowig Abelli</author>
-                     <editor role="translator">
+                     <author key="person_1">Ludowig Abelli</author>
+                     <editor role="translator" key="person_2">
                         <persName xml:lang="xcl-Latn-x-lc">Yovhannes Vardapet Yakobean</persName>
                      </editor>
                      <title xml:lang="en">Summa Theologica</title>

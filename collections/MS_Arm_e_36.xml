@@ -46,13 +46,13 @@
                   <summary>Cyril of Alexandria, A.D. 1689.</summary>
                   <msItem xml:id="MS_Arm_e_36-item1" n="1">
                      <locus>f. 4</locus>
-                     <author>Cyril, Saint, Patriarch of Alexandria, <date calendar="#Gregorian" from="0370" to="0444">ca. 370-444</date></author>
+                     <author key="person_13">Cyril, Saint, Patriarch of Alexandria, <date calendar="#Gregorian" from="0370" to="0444">ca. 370-444</date></author>
                      <title xml:lang="en">Scholia and correspodence of St. Cyril of Alexandria</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_36-item2" n="2">
                      <locus>f. 4</locus>
-                     <author>Cyril, Saint, Patriarch of Alexandria, <date calendar="#Gregorian" from="0370" to="0444">ca. 370-444</date></author>
+                     <author key="person_13">Cyril, Saint, Patriarch of Alexandria, <date calendar="#Gregorian" from="0370" to="0444">ca. 370-444</date></author>
                      <title xml:lang="en">Explanation of the Nicene Creed</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
