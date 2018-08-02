@@ -225,10 +225,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85051709">Nersēs, Shnorhali, Saint, 1102-1173</term>
+                     <term target="http://id.loc.gov/authorities/names/n85051709" key="subject_n85051709">Nersēs, Shnorhali, Saint, 1102-1173</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n88263705">Nersēs, Shnorhali, Saint, 1102-1173. Hisus, Ordi</term>
+                     <term target="http://id.loc.gov/authorities/names/n88263705" key="subject_n88263705">Nersēs, Shnorhali, Saint, 1102-1173. Hisus, Ordi</term>
                   </item>
                </list>
             </keywords>

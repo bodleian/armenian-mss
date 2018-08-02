@@ -177,10 +177,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
+                     <term target="http://id.loc.gov/authorities/names/n85105625" key="subject_n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n90689693">Vardan, Areweltsʻi, ca. 1198-1271</term>
+                     <term target="http://id.loc.gov/authorities/names/n90689693" key="subject_n90689693">Vardan, Areweltsʻi, ca. 1198-1271</term>
                   </item>
                </list>
             </keywords>

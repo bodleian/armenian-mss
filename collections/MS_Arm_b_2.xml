@@ -205,13 +205,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n80001460">John Chrysostom, Saint, d. 407</term>
+                     <term target="http://id.loc.gov/authorities/names/n80001460" key="subject_n80001460">John Chrysostom, Saint, d. 407</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n79045845">Catholic Church. Liturgy and ritual. Sharaknotsʻ</term>
+                     <term target="http://id.loc.gov/authorities/names/n79045845" key="subject_n79045845">Catholic Church. Liturgy and ritual. Sharaknotsʻ</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85007281#concept">Armenian Church--Liturgy</term>
+                     <term target="http://id.loc.gov/authorities/sh85007281#concept" key="subject_sh85007281">Armenian Church--Liturgy</term>
                   </item>
                </list>
             </keywords>

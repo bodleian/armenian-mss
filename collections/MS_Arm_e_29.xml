@@ -149,10 +149,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n86142547">Bartholomew, Apostle, Saint</term>
+                     <term target="http://id.loc.gov/authorities/names/n86142547" key="subject_n86142547">Bartholomew, Apostle, Saint</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n50081659">Gregory, the Illuminator, Saint, ca. 240-ca. 332</term>
+                     <term target="http://id.loc.gov/authorities/names/n50081659" key="subject_n50081659">Gregory, the Illuminator, Saint, ca. 240-ca. 332</term>
                   </item>
                </list>
             </keywords>

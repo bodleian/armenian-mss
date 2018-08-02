@@ -178,7 +178,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/subjects/sh85020981">Catechisms</term>
+                     <term target="http://id.loc.gov/authorities/subjects/sh85020981" key="subject_sh85020981">Catechisms</term>
                   </item>
                </list>
             </keywords>

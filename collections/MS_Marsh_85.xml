@@ -307,19 +307,19 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85051709">Nersēs, Shnorhali, Saint, 1102-1173</term>
+                     <term target="http://id.loc.gov/authorities/names/n85051709" key="subject_n85051709">Nersēs, Shnorhali, Saint, 1102-1173</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
+                     <term target="http://id.loc.gov/authorities/names/n85105625" key="subject_n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85007298#concept">Armenian poetry</term>
+                     <term target="http://id.loc.gov/authorities/sh85007298#concept" key="subject_sh85007298">Armenian poetry</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85025142#concept">Christian poetry, Armenian</term>
+                     <term target="http://id.loc.gov/authorities/sh85025142#concept" key="subject_sh85025142">Christian poetry, Armenian</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n50065298">Marsh's Library</term>
+                     <term target="http://id.loc.gov/authorities/names/n50065298" key="subject_n50065298">Marsh's Library</term>
                   </item>
                </list>
             </keywords>

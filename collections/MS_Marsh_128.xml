@@ -170,16 +170,16 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n2001058247">Mkhitʻar Gōsh, ca. 1130-1213. Datastanagirkʻ Hayotsʻ</term>
+                     <term target="http://id.loc.gov/authorities/names/n2001058247" key="subject_n2001058247">Mkhitʻar Gōsh, ca. 1130-1213. Datastanagirkʻ Hayotsʻ</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/no96040203">Movsēs, Erznkatsʻi, Vardapet, d. 1323</term>
+                     <term target="http://id.loc.gov/authorities/names/no96040203" key="subject_no96040203">Movsēs, Erznkatsʻi, Vardapet, d. 1323</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh2002011417#concept">Liturgy</term>
+                     <term target="http://id.loc.gov/authorities/sh2002011417#concept" key="subject_sh2002011417">Liturgy</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n50065298">Marsh's Library</term>
+                     <term target="http://id.loc.gov/authorities/names/n50065298" key="subject_n50065298">Marsh's Library</term>
                   </item>
                </list>
             </keywords>

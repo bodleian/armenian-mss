@@ -180,7 +180,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh87007112#concept">Fables, Armenian</term>
+                     <term target="http://id.loc.gov/authorities/sh87007112#concept" key="subject_sh87007112">Fables, Armenian</term>
                   </item>
                </list>
             </keywords>

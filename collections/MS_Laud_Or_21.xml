@@ -227,10 +227,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85106129#concept">Prayer books</term>
+                     <term target="http://id.loc.gov/authorities/sh85106129#concept" key="subject_sh85106129">Prayer books</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n50039777 ">Laud, William, 1573-1645</term>
+                     <term target="http://id.loc.gov/authorities/names/n50039777 " key="subject_n50039777">Laud, William, 1573-1645</term>
                   </item>
                </list>
             </keywords>

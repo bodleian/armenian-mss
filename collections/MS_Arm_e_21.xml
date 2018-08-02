@@ -207,7 +207,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
+                     <term target="http://id.loc.gov/authorities/names/n85105625" key="subject_n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
                   </item>
                </list>
             </keywords>

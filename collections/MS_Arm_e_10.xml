@@ -249,13 +249,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85021051#concept">Catholic Church -- Armenian rite</term>
+                     <term target="http://id.loc.gov/authorities/sh85021051#concept" key="subject_sh85021051">Catholic Church -- Armenian rite</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh93009683#concept">Theology -- Early works to 1800</term>
+                     <term target="http://id.loc.gov/authorities/sh93009683#concept" key="subject_sh93009683">Theology -- Early works to 1800</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
+                     <term target="http://id.loc.gov/authorities/names/n85105625" key="subject_n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
                   </item>
                </list>
             </keywords>

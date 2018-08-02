@@ -215,16 +215,16 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n79145591">Athanasius, Saint, Patriarch of Alexandria, d. 373</term>
+                     <term target="http://id.loc.gov/authorities/names/n79145591" key="subject_n79145591">Athanasius, Saint, Patriarch of Alexandria, d. 373</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
+                     <term target="http://id.loc.gov/authorities/names/n85105625" key="subject_n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85051709">Nersēs, Shnorhali, Saint, 1102-1173</term>
+                     <term target="http://id.loc.gov/authorities/names/n85051709" key="subject_n85051709">Nersēs, Shnorhali, Saint, 1102-1173</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n81027872">Grigor, Narekatsʻi, Saint, 951-1003</term>
+                     <term target="http://id.loc.gov/authorities/names/n81027872" key="subject_n81027872">Grigor, Narekatsʻi, Saint, 951-1003</term>
                   </item>
                </list>
             </keywords>

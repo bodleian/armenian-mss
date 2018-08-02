@@ -155,7 +155,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85020910#concept">Dicionary catalogs</term>
+                     <term target="http://id.loc.gov/authorities/sh85020910#concept" key="subject_sh85020910">Dicionary catalogs</term>
                   </item>
                </list>
             </keywords>

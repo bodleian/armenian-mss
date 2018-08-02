@@ -149,7 +149,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85072953#concept">Koran</term>
+                     <term target="http://id.loc.gov/authorities/sh85072953#concept" key="subject_sh85072953">Koran</term>
                   </item>
                </list>
             </keywords>

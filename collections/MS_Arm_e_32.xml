@@ -156,10 +156,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/nr92039196">Matthew, of Edessa, 12th cent. Patmutʻiwn</term>
+                     <term target="http://id.loc.gov/authorities/names/nr92039196" key="subject_nr92039196">Matthew, of Edessa, 12th cent. Patmutʻiwn</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n87143430">Matthew, of Edessa, 12th cent.</term>
+                     <term target="http://id.loc.gov/authorities/names/n87143430" key="subject_n87143430">Matthew, of Edessa, 12th cent.</term>
                   </item>
                </list>
             </keywords>

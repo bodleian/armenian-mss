@@ -200,13 +200,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n81124456">Porphyry, ca. 234-ca. 305</term>
+                     <term target="http://id.loc.gov/authorities/names/n81124456" key="subject_n81124456">Porphyry, ca. 234-ca. 305</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n79004182">Aristotle</term>
+                     <term target="http://id.loc.gov/authorities/names/n79004182" key="subject_n79004182">Aristotle</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85120261#concept">Sermons</term>
+                     <term target="http://id.loc.gov/authorities/sh85120261#concept" key="subject_sh85120261">Sermons</term>
                   </item>
                </list>
             </keywords>

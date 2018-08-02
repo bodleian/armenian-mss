@@ -149,10 +149,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85098523#concept">Passion narratives (Gospels)</term>
+                     <term target="http://id.loc.gov/authorities/sh85098523#concept" key="subject_sh85098523">Passion narratives (Gospels)</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n80070711">Urfa (commune)</term>
+                     <term target="http://id.loc.gov/authorities/names/n80070711" key="subject_n80070711">Urfa (commune)</term>
                   </item>
                </list>
             </keywords>

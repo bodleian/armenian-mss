@@ -166,10 +166,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n87844777">Mkhitʻar Gōsh, ca. 1130-1213</term>
+                     <term target="http://id.loc.gov/authorities/names/n87844777" key="subject_n87844777">Mkhitʻar Gōsh, ca. 1130-1213</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85120261#concept">Sermons</term>
+                     <term target="http://id.loc.gov/authorities/sh85120261#concept" key="subject_sh85120261">Sermons</term>
                   </item>
                </list>
             </keywords>

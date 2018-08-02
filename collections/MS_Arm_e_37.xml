@@ -172,7 +172,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n50028822">Pseudo-Dionysius, the Areopagite</term>
+                     <term target="http://id.loc.gov/authorities/names/n50028822" key="subject_n50028822">Pseudo-Dionysius, the Areopagite</term>
                   </item>
                </list>
             </keywords>

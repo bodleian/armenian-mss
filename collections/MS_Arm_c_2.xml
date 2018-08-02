@@ -148,7 +148,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n79056804">Bible. O.T. Psalms</term>
+                     <term target="http://id.loc.gov/authorities/names/n79056804" key="subject_n79056804">Bible. O.T. Psalms</term>
                   </item>
                </list>
             </keywords>

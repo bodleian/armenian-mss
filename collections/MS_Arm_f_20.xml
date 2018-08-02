@@ -158,7 +158,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/nb2008002115">Bartholomaeus, of Bologna, Bishop of Marāghah, d. 1333</term>
+                     <term target="http://id.loc.gov/authorities/names/nb2008002115" key="subject_nb2008002115">Bartholomaeus, of Bologna, Bishop of Marāghah, d. 1333</term>
                   </item>
                </list>
             </keywords>

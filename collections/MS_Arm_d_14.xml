@@ -149,7 +149,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh96011927#concept">Bible. O.T.</term>
+                     <term target="http://id.loc.gov/authorities/sh96011927#concept" key="subject_sh96011927">Bible. O.T.</term>
                   </item>
                </list>
             </keywords>

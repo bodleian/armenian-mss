@@ -225,13 +225,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n84114935">Nilus, of Ancyra, Saint, d. ca. 430</term>
+                     <term target="http://id.loc.gov/authorities/names/n84114935" key="subject_n84114935">Nilus, of Ancyra, Saint, d. ca. 430</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n81027872">Grigor, Narekatsʻi, Saint, 951-1003</term>
+                     <term target="http://id.loc.gov/authorities/names/n81027872" key="subject_n81027872">Grigor, Narekatsʻi, Saint, 951-1003</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n81027871">Grigor, Narekatsʻi, Saint, 951-1003. Matean oghbergutʻean</term>
+                     <term target="http://id.loc.gov/authorities/names/n81027871" key="subject_n81027871">Grigor, Narekatsʻi, Saint, 951-1003. Matean oghbergutʻean</term>
                   </item>
                </list>
             </keywords>

@@ -400,16 +400,16 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85106129#concept">Prayer books</term>
+                     <term target="http://id.loc.gov/authorities/sh85106129#concept" key="subject_sh85106129">Prayer books</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n81027872">Grigor, Narekatsʻi, Saint, 951-1003</term>
+                     <term target="http://id.loc.gov/authorities/names/n81027872" key="subject_n81027872">Grigor, Narekatsʻi, Saint, 951-1003</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85051709">Nersēs, Shnorhali, Saint, 1102-1173</term>
+                     <term target="http://id.loc.gov/authorities/names/n85051709" key="subject_n85051709">Nersēs, Shnorhali, Saint, 1102-1173</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n87844777">Mkhitʻar Gōsh, ca. 1130-1213</term>
+                     <term target="http://id.loc.gov/authorities/names/n87844777" key="subject_n87844777">Mkhitʻar Gōsh, ca. 1130-1213</term>
                   </item>
                </list>
             </keywords>

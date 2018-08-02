@@ -167,7 +167,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85018842#concept">Perpetual calendars</term>
+                     <term target="http://id.loc.gov/authorities/sh85018842#concept" key="subject_sh85018842">Perpetual calendars</term>
                   </item>
                </list>
             </keywords>

@@ -150,16 +150,16 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85116629#concept">Saints</term>
+                     <term target="http://id.loc.gov/authorities/sh85116629#concept" key="subject_sh85116629">Saints</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85116631#concept">Saints -- Calendar</term>
+                     <term target="http://id.loc.gov/authorities/sh85116631#concept" key="subject_sh85116631">Saints -- Calendar</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85116634#concept">Saints -- Legends</term>
+                     <term target="http://id.loc.gov/authorities/sh85116634#concept" key="subject_sh85116634">Saints -- Legends</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n50065298">Marsh's Library</term>
+                     <term target="http://id.loc.gov/authorities/names/n50065298" key="subject_n50065298">Marsh's Library</term>
                   </item>
                </list>
             </keywords>

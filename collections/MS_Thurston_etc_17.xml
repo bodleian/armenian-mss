@@ -155,10 +155,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n90617248">Bathurst, Ralph, 1620-1704</term>
+                     <term target="http://id.loc.gov/authorities/names/n90617248" key="subject_n90617248">Bathurst, Ralph, 1620-1704</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh87005655#concept">Patriotic poetry, Armenian</term>
+                     <term target="http://id.loc.gov/authorities/sh87005655#concept" key="subject_sh87005655">Patriotic poetry, Armenian</term>
                   </item>
                </list>
             </keywords>
