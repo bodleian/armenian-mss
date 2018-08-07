@@ -15,7 +15,8 @@ declare option saxon:output "indent=yes";
         let $id := $subject/@xml:id/string()
         let $name := normalize-space($subject/tei:term[@type = 'display' or (@type = 'variant' and not(preceding-sibling::tei:term))]/string())
         let $isplace := boolean($id = $placekeys)
-        let $islcsh := exists($subject/tei:note/tei:list/tei:item/tei:ref/@target/contains(., 'loc.gov'))
+        let $islcsh := starts-with($id, 'subject_s')
+        let $islcn := starts-with($id, 'subject_n')
         let $variants := $subject/tei:term[@type="variant"]
         let $noteitems := $subject/tei:note[@type="links"]//tei:item
 
@@ -24,7 +25,8 @@ declare option saxon:output "indent=yes";
         let $types := distinct-values((
                                         $mss//(tei:term|tei:placeName|tei:name[@type='place'])[@key = $id]/@role/tokenize(normalize-space(.), ' '), 
                                         if ($isplace) then 'Place' else (),
-                                        if ($islcsh) then 'Library of Congress Subject Heading' else ()
+                                        if ($islcsh) then 'Library of Congress Subject Heading' else (),
+                                        if ($islcn) then 'Library of Congress Name Authority' else ()
                                      ))
 
         return if (count($mss) > 0) then
