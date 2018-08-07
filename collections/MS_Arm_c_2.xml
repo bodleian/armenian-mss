@@ -68,7 +68,7 @@
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1610">1610</origDate>
-                     <origDate calendar="#Armenian">1061</origDate>
+                     (<origDate calendar="#Armenian">1061</origDate> in the Armenian calendar)
                   </origin>
                </history>
                <additional>

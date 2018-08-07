@@ -120,7 +120,7 @@
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1701">1701</origDate>
-                     <origDate calendar="#Armenian">1150</origDate>
+                     (<origDate calendar="#Armenian">1150</origDate> in the Armenian calendar)
                   </origin>
                </history>
                <additional>

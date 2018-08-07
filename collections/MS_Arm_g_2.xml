@@ -69,7 +69,7 @@
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1637">1637</origDate>
-                     <origDate calendar="#Armenian">1086</origDate>
+                     (<origDate calendar="#Armenian">1086</origDate> in the Armenian calendar)
                   </origin>
                   <acquisition>This MS. was bought from Mr. Joseph Bayan on Nov. 13, 1882.</acquisition>
                </history>
