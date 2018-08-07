@@ -134,70 +134,70 @@
                      <title xml:lang="en" key="work_173">Lament of Mary, in verse</title>
                      <incipit>Ով սիրական իմ որդի, Սիրտս իմ այրեալ կըսկծի …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <msItem xml:id="MS_Arm_f_11-item14-item1" n="15">
-                        <locus>f. 153</locus>
-                        <title xml:lang="en" key="work_174">The incredulity of Thomas</title>
-                        <incipit>Սուրբ առաքեալն Թումայ, յորժամ որ զՔս ըմբռնեցին …</incipit>
-                        <textLang mainLang="hy">Armenian</textLang>
-                        <note>(Cf. Brit. Mus. Harl. 5459, f. 73.)</note>
-                     </msItem>
-                     <msItem xml:id="MS_Arm_f_11-item14-item2" n="16">
-                        <locus>f. 157(b)</locus>
-                        <title xml:lang="en" key="work_175">The forty days after the Resurrection</title>
-                        <incipit>Իսկ յետ յարութեան զատկին մինչև ի խ՟ օր …</incipit>
-                        <textLang mainLang="hy">Armenian</textLang>
-                        <msItem xml:id="MS_Arm_f_11-item14-item2-item1" n="17">
-                           <locus>f. 160</locus>
-                           <title xml:lang="en" key="work_176">Sermon on the departed, by Gregory of Tathev</title>
-                           <incipit>Այսպէս ասէ երանելին Յոբ ի բերանոյ ննջեցելոց. Ողորմեցարուք …</incipit>
-                           <textLang mainLang="hy">Armenian</textLang>
-                           <note>Cf. MS. e. 14, and cp. Brit. Mus. Harl. 5459, f. 94(b).</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_f_11-item14-item2-item2" n="18">
-                           <locus>f. 164</locus>
-                           <title xml:lang="en" key="work_177">Story of the merchants Markhas and Kosphar</title>
-                           <textLang mainLang="hy">Armenian</textLang>
-                           <note>Cf. MS. 30, §191; Brit. Mus. Harl. 5459, f. 97; W. Wright, 'Catal. of Syr. MSS.', p. 1128.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_f_11-item14-item2-item3" n="19">
-                           <locus>f. 168</locus>
-                           <title xml:lang="en" key="work_178">Story of the ascetic Kirakos and his sister Friday (Ուրբաթ)</title>
-                           <textLang mainLang="hy">Armenian</textLang>
-                           <note>Cf. MS. 30, §625; Lives of Fathers, MS&gt; d. 17, ch. 4.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_f_11-item14-item2-item4" n="20">
-                           <locus>f. 172</locus>
-                           <title xml:lang="en" key="work_179">Story of Ter Stephanos, son of Ter Yousik</title>
-                           <textLang mainLang="hy">Armenian</textLang>
-                           <note>The end wanting. Cf. Brit. Mus.harl. 5459, f. 92.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_f_11-item14-item2-item5" n="21">
-                           <locus>f. 175</locus>
-                           <title xml:lang="en" key="work_180">Story of the forty youths of Sebaste</title>
-                           <incipit>… հեշտ է մեզ քան զծածուկ հաւատ պահել …</incipit>
-                           <textLang mainLang="hy">Armenian</textLang>
-                           <note>The beginning and the end are lost. Cf. MS. 30, §156.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_f_11-item14-item2-item6" n="22">
-                           <locus>f. 179(b)</locus>
-                           <title xml:lang="en" key="work_181">Story of the three youts (of Daniel)</title>
-                           <incipit>Ի ժամանակին որում գնաց Նաբուգոդոնոսոր արքայն յԵրուսաղէմ …</incipit>
-                           <textLang mainLang="hy">Armenian</textLang>
-                           <note>The end is wanting. By the first copyist.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_f_11-item14-item2-item7" n="23">
-                           <locus>f. 183</locus>
-                           <title xml:lang="en" key="work_193">The history andsayings of Khikar</title>
-                           <textLang mainLang="hy">Armenian</textLang>
-                           <note>Left incomplete at the 18th adage. Cf. MS. g. 9.</note>
-                        </msItem>
-                        <msItem xml:id="MS_Arm_f_11-item14-item2-item8" n="24">
-                           <locus>f. 188</locus>
-                           <title xml:lang="en" key="work_183">Christological Questions (seven in number) of unbelievers who say that Christ was merely a holy man, and Answers to them. An extract.</title>
-                           <incipit>Յետ որոյ ս՟բ և ածաշունչ գրոց հաստատեցաք … Որք ասեն թէ միայն ս՟բ մարդ է Քրիստոս …</incipit>
-                           <textLang mainLang="hy">Armenian</textLang>
-                        </msItem>
-                     </msItem>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item1" n="15">
+                     <locus>f. 153</locus>
+                     <title xml:lang="en" key="work_174">The incredulity of Thomas</title>
+                     <incipit>Սուրբ առաքեալն Թումայ, յորժամ որ զՔս ըմբռնեցին …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>(Cf. Brit. Mus. Harl. 5459, f. 73.)</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item2" n="16">
+                     <locus>f. 157(b)</locus>
+                     <title xml:lang="en" key="work_175">The forty days after the Resurrection</title>
+                     <incipit>Իսկ յետ յարութեան զատկին մինչև ի խ՟ օր …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item2-item1" n="17">
+                     <locus>f. 160</locus>
+                     <title xml:lang="en" key="work_176">Sermon on the departed, by Gregory of Tathev</title>
+                     <incipit>Այսպէս ասէ երանելին Յոբ ի բերանոյ ննջեցելոց. Ողորմեցարուք …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Cf. MS. e. 14, and cp. Brit. Mus. Harl. 5459, f. 94(b).</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item2-item2" n="18">
+                     <locus>f. 164</locus>
+                     <title xml:lang="en" key="work_177">Story of the merchants Markhas and Kosphar</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Cf. MS. 30, §191; Brit. Mus. Harl. 5459, f. 97; W. Wright, 'Catal. of Syr. MSS.', p. 1128.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item2-item3" n="19">
+                     <locus>f. 168</locus>
+                     <title xml:lang="en" key="work_178">Story of the ascetic Kirakos and his sister Friday (Ուրբաթ)</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Cf. MS. 30, §625; Lives of Fathers, MS&gt; d. 17, ch. 4.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item2-item4" n="20">
+                     <locus>f. 172</locus>
+                     <title xml:lang="en" key="work_179">Story of Ter Stephanos, son of Ter Yousik</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The end wanting. Cf. Brit. Mus.harl. 5459, f. 92.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item2-item5" n="21">
+                     <locus>f. 175</locus>
+                     <title xml:lang="en" key="work_180">Story of the forty youths of Sebaste</title>
+                     <incipit>… հեշտ է մեզ քան զծածուկ հաւատ պահել …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The beginning and the end are lost. Cf. MS. 30, §156.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item2-item6" n="22">
+                     <locus>f. 179(b)</locus>
+                     <title xml:lang="en" key="work_181">Story of the three youts (of Daniel)</title>
+                     <incipit>Ի ժամանակին որում գնաց Նաբուգոդոնոսոր արքայն յԵրուսաղէմ …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The end is wanting. By the first copyist.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item2-item7" n="23">
+                     <locus>f. 183</locus>
+                     <title xml:lang="en" key="work_193">The history andsayings of Khikar</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Left incomplete at the 18th adage. Cf. MS. g. 9.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f_11-item14-item2-item8" n="24">
+                     <locus>f. 188</locus>
+                     <title xml:lang="en" key="work_183">Christological Questions (seven in number) of unbelievers who say that Christ was merely a holy man, and Answers to them. An extract.</title>
+                     <incipit>Յետ որոյ ս՟բ և ածաշունչ գրոց հաստատեցաք … Որք ասեն թէ միայն ս՟բ մարդ է Քրիստոս …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                </msContents>
                <physDesc>
