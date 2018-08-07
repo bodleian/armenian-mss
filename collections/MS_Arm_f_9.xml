@@ -72,14 +72,14 @@
                      <title xml:lang="hy" key="work_605">Սուրբ հօրն միղոսի ասացեալ ճառք. ա՟. առաքինութիւնք և ի հրաժարումն յաշխարհէս բարի ոք կարճահատ …</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The title meaning: 'Of our holy Father Nilus, Discourses. Upon Virtue and Retirement from the world, abridged …</note>
-                     <msItem xml:id="MS_Arm_f_9-item4-item1" n="5">
-                        <locus>f. 352</locus>
-                        <author key="person_76">Nilus, of Ancyra, Saint, <date calendar="#Gregorian" to="0430">d. ca. 430</date></author>
-                        <title xml:lang="en" key="work_607">Spiritual counsels, in 66 sections</title>
-                        <title xml:lang="hy" key="work_607">Խրատ հոգեշահ և վիճակք արդարութեան.</title>
-                        <incipit>ա՟ զերկեղն ա՟յ ունիջիր ի զղջումն քո …</incipit>
-                        <textLang mainLang="hy">Armenian</textLang>
-                     </msItem>
+                  </msItem>    
+                  <msItem xml:id="MS_Arm_f_9-item4-item1" n="5">
+                     <locus>f. 352</locus>
+                     <author key="person_76">Nilus, of Ancyra, Saint, <date calendar="#Gregorian" to="0430">d. ca. 430</date></author>
+                     <title xml:lang="en" key="work_607">Spiritual counsels, in 66 sections</title>
+                     <title xml:lang="hy" key="work_607">Խրատ հոգեշահ և վիճակք արդարութեան.</title>
+                     <incipit>ա՟ զերկեղն ա՟յ ունիջիր ի զղջումն քո …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_f_9-item5" n="6">
                      <locus>f. 358(b)</locus>
