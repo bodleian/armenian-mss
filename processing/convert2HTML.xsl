@@ -29,21 +29,43 @@
                 <xsl:copy-of select="bod:standardText('Title:')"/>
                 <xsl:text> </xsl:text>
             </span>
-            <span class="italic">
-                <xsl:apply-templates/>
-            </span>
+            <xsl:choose>
+                <xsl:when test="@key and not(@key='')">
+                    <a>
+                        <xsl:if test="not(@type = 'desc')">
+                            <xsl:attribute name="class" select="'italic'"/>
+                        </xsl:if>
+                        <xsl:attribute name="href">
+                            <xsl:value-of select="$website-url"/>
+                            <xsl:text>/catalog/</xsl:text>
+                            <xsl:value-of select="@key"/>
+                        </xsl:attribute>
+                        <xsl:copy-of select="bod:direction(.)"/>
+                        <xsl:apply-templates/>
+                    </a>
+                </xsl:when>
+                <xsl:otherwise>
+                    <span>
+                        <xsl:if test="not(@type = 'desc')">
+                            <xsl:attribute name="class" select="'italic'"/>
+                        </xsl:if>
+                        <xsl:copy-of select="bod:direction(.)"/>
+                        <xsl:apply-templates/>
+                    </span>
+                </xsl:otherwise>
+            </xsl:choose>
         </div>
     </xsl:template>
     
     <xsl:template match="msItem/author">
-        <div class="{name()}">
+        <div class="tei-author">
             <span class="tei-label">
                 <xsl:copy-of select="bod:standardText('Author:')"/>
                 <xsl:text> </xsl:text>
             </span>
             <xsl:choose>
-                <xsl:when test="@key">
-                    <a>
+                <xsl:when test="@key and not(@key='')">
+                    <a class="author">
                         <xsl:attribute name="href">
                             <xsl:value-of select="$website-url"/>
                             <xsl:text>/catalog/</xsl:text>
@@ -60,23 +82,14 @@
     </xsl:template>
     
     <xsl:template match="msItem/editor">
-        <xsl:variable name="rolelabel" select="(@role, 'editor')[1]"/>
-        <div class="tei-editor{ if ($rolelabel ne 'editor') then concat(' tei-', lower-case($rolelabel)) else ''}">
+        <xsl:variable name="rolelabel" as="xs:string" select="if(@role) then bod:personRoleLookup(@role) else 'Editor'"/>
+        <div class="tei-editor">
             <span class="tei-label">
-                <xsl:choose>
-                    <xsl:when test="$rolelabel ne 'editor'">
-                        <xsl:value-of select="upper-case(substring($rolelabel, 1, 1))"/>
-                        <xsl:copy-of select="lower-case(substring($rolelabel, 2))"/>
-                        <xsl:text>: </xsl:text>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:copy-of select="bod:standardText('Editor:')"/>
-                    </xsl:otherwise>
-                </xsl:choose>
-                <xsl:text> </xsl:text>
+                <xsl:value-of select="$rolelabel"/>
+                <xsl:text>: </xsl:text>
             </span>
             <xsl:choose>
-                <xsl:when test="@key">
+                <xsl:when test="@key and not(@key='')">
                     <a>
                         <xsl:attribute name="href">
                             <xsl:value-of select="$website-url"/>
