@@ -62,8 +62,8 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="Bolorgir">The original text is written in bolorgir of the 17th. cent. on thin vellum.</handNote>
-                     <handNote scope="minor" script="Notrgir">The part added after f. 208 is written in Notrgir and bolorgir, ny different wrtiers, of the 18th. cent., on paper</handNote>
+                     <handNote scope="major" script="Bolorgir">The original text is written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref> of the 17th. cent. on thin vellum.</handNote>
+                     <handNote scope="minor" script="Notrgir">The part added after f. 208 is written in <ref target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref> and Bolorgir, by different wrtiers, of the 18th. cent., on paper.</handNote>
                   </handDesc>
                </physDesc>
                <history>
