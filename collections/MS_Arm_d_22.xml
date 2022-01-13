@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_125">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
+            <funder>Carnegie Foundation</funder>
+            <principal>Gillian Evison</principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>OAMCO</idno>
+            <idno type="msID">MS_Arm_d_22</idno>
+            <idno type="catalogue">Armenian</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Arm_d_22" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection type="main">Oriental Manuscripts </collection>
+                  <idno>MS. Arm. d. 22</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Four Gospels, 16th century, illustrated with 14 full-page miniature
+                     paintings.</summary>
+                  <msItem xml:id="MS_Arm_d_22-item1" n="toc">
+                     <locus from="18r" to="87v">ff. 18r-87v</locus>
+                     <title xml:lang="en">The Gospel of St. Matthew</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item2" n="toc">
+                     <locus from="87v" to="87v">ff. 87v</locus>
+                     <title xml:lang="en" key="">Epilogue to the Gospel of St. Matthew</title>
+                     <title xml:lang="hy" key="">Աւետարան ըստ Մաթէոսի</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item3" n="toc">
+                     <locus from="87v" to="88r">ff. 87v-88r</locus>
+                     <title xml:lang="en" key="">Preface to the Gospel of St. Mark</title>
+                     <title xml:lang="hy" key="">Նախադրութիւն Մարկոսի Աւետարանին</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item4" n="toc">
+                     <locus from="89r" to="133v">ff. 89r-133v</locus>
+                     <title xml:lang="en">The Gospel of St. Mark</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The apocryphal verses 16:9-20 excluded.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item5" n="toc">
+                     <locus from="133v" to="133v">ff. 133v</locus>
+                     <title xml:lang="en" key="">Epilogue to the Gospel of St. Mark</title>
+                     <title xml:lang="hy" key="">Աւետարան ըստ Մարկոսի</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item6" n="toc">
+                     <locus from="134r" to="134r">ff. 134r</locus>
+                     <title xml:lang="en" key="">Preface to the Gospel of St. Luke</title>
+                     <title xml:lang="hy" key="">Նախադրութիւն Ղուկասու Աւետարանին</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item7" n="toc">
+                     <locus from="135r" to="209v">ff. 135r-209v</locus>
+                     <title xml:lang="en">The Gospel of St. Luke</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item8" n="toc">
+                     <locus from="210r" to="210r">ff. 210r</locus>
+                     <title xml:lang="en" key="">Epilogue to the Gospel of St. Luke</title>
+                     <title xml:lang="hy" key="">Աւետարան ըստ Ղուկասու</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item9" n="toc">
+                     <locus from="210r" to="210r">ff. 210r</locus>
+                     <title xml:lang="en" key="">Preface to the Gospel of St. John</title>
+                     <title xml:lang="hy" key="">Նախադրութիւն Յովհաննու Աւետարանին</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item10" n="toc">
+                     <locus from="211r" to="265v">ff. 211r-265v</locus>
+                     <title xml:lang="en">The Gospel of St. John</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The episode of the ‘Woman taken in adultery’ is excluded.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item11" n="toc">
+                     <locus from="265v" to="266v">ff. 265v-266v</locus>
+                     <colophon xml:lang="hy" defective="true">Փառք անսըկզբանն եւ զկիզբն ամենայնի ...
+                        incomplete</colophon>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl>Nersessian, Vrej. A Catalogue of the Armenian Manuscripts in the
+                           British Library Acquired since the Year 1913 and of Collections in Other
+                           Libraries in the United Kingdom. London: The British Library, 2012, no
+                           36, pp. 249-253.</bibl>
+                        <bibl>van Lint, Theo Maarten and Robin Meyer (eds.). Armenia: Masterpieces
+                           from an Enduring Culture. Oxford: Bodleian Library, 2015, no 9, p.
+                           88.</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="paper">
+                        <support>Main text on thick paper, with thick vellum flyleaves.</support>
+                        <extent>ff. ii + 266 + i <dimensions type="leaf" unit="mm">
+                              <height>270</height>
+                              <width>190</width>
+                           </dimensions>
+                        </extent>
+                        <collation>i (end signature 27b), ii28, iii40, iv52, v64, vi76, vii88,
+                           viii100, ix112, x124, xi136, xii148, xiii158, xiv170, xv181, xvi193,
+                           xvii205, xviii217, xix229, xx241, xxi253-264 and xxii265-266</collation>
+                        <condition>The MS is in fine condition. The portrait of St Matthew is
+                           missing and also missing are leaves from the end, which contained the end
+                           of the principal colophon.</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" ruledLines="23">Double columns of 23 lines per page.
+                           Margins in the middle and the outer borders marked by double lines using
+                           red ink. The synoptic numbers are placed in the lower margins.
+                              <dimensions type="written" unit="mm">
+                              <height>210</height>
+                              <width>120</width>
+                           </dimensions>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" script="bolorgir">Written in <ref
+                           target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">medium
+                           bolorgir</ref> script in black ink. Verse initials in red ink.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote/>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Dark brown leather over wooden boards. The top cover has a central cross
+                        surrounded by borders. The back cover is stamped with floral and geometric
+                        patterns. The binding has been restored. The front and back covers have been
+                        pasted down onto matching modern leather with a new spine, but preserving
+                        the original flap. The inside of the front cover is lined with red printed
+                        cloth, while the back has red and white doublures. The cloth inside the flap
+                        does not match that of the covers. </p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace/>
+                     <origDate calendar="#Gregorian" from="1588" to="1602">Dated to between 1588 and
+                        1602.</origDate>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>The main text of this description is from Nersessian 2012, N36, pp.
+                           249-253. Several additions and corrections to the text have been
+                           introduced by David Zakarian for the online catalogue.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>In order to preserve this rare and fragile artefact, access to it is
+                           restricted, and readers are asked to work from reproductions and
+                           published descriptions as far as possible. To apply to see the original,
+                           please send a message to
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>,
+                           outlining the subject of your research, the importance of this item to
+                           that research, and the resources you have already consulted. Entry to
+                           read in the Library is permitted only on presentation of a valid reader's
+                           card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="local_class">
+               <category xml:id="commentary">
+                  <catDesc>Commentary</catDesc>
+               </category>
+               <category xml:id="supercommentary">
+                  <catDesc>Supercommentary</catDesc>
+               </category>
+               <category xml:id="indices">
+                  <catDesc>Indices</catDesc>
+               </category>
+               <category xml:id="translation">
+                  <catDesc>Translation</catDesc>
+               </category>
+               <category xml:id="multipleWorks">
+                  <catDesc>multipleWorks</catDesc>
+               </category>
+               <category xml:id="abridgement">
+                  <catDesc>Abridgement</catDesc>
+               </category>
+               <category xml:id="supplement">
+                  <catDesc>Supplement</catDesc>
+               </category>
+               <category xml:id="papers">
+                  <catDesc>Papers</catDesc>
+               </category>
+               <category xml:id="documents">
+                  <catDesc>Documents</catDesc>
+               </category>
+               <category xml:id="extract">
+                  <catDesc>Extract</catDesc>
+               </category>
+               <category xml:id="gloss">
+                  <catDesc>Gloss</catDesc>
+               </category>
+               <category xml:id="selection">
+                  <catDesc>Selection</catDesc>
+               </category>
+               <category xml:id="diagrams">
+                  <catDesc>Diagrams</catDesc>
+               </category>
+               <category xml:id="notes">
+                  <catDesc>Notes</catDesc>
+               </category>
+               <category xml:id="letters">
+                  <catDesc>Letters</catDesc>
+               </category>
+               <category xml:id="versification">
+                  <catDesc>Versification</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_sh85013727">Bible--Translations</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-01-11"><persName>Alasdair Watson</persName> created this file.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cat_pdf/p79.pdf"/>
+      <graphic url="cat_pdf/p81.pdf"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
