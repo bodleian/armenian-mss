@@ -58,7 +58,6 @@ declare option saxon:output "indent=yes";
                     }
                     { bod:materials($x//tei:msDesc//tei:physDesc//tei:supportDesc[@material], 'ms_materials_sm', 'Not specified') }
                     { bod:physForm($x//tei:physDesc/tei:objectDesc, 'ms_physform_sm', 'Not specified') }
-                    { bod:many2many($x//tei:adminInfo/tei:availability, 'ms_availability_smni') }
                     { bod:languages($x//tei:sourceDesc//tei:textLang, 'lang_sm', 'Not specified') }
                     { bod:centuries($x//tei:origin//tei:origDate, 'ms_date_sm', 'Undated') }
                     { bod:digitized($x//tei:sourceDesc//tei:surrogates//tei:bibl, 'ms_digitized_s') }
