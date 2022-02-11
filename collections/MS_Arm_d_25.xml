@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_126">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
+            <funder>Carnegie Foundation</funder>
+            <principal>Gillian Evison</principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno>OAMCO</idno>
+            <idno type="msID">MS_Arm_d_25</idno>
+            <idno type="catalogue">Armenian</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="MS_Arm_d_25" xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection type="main">Oriental Manuscripts </collection>
+                  <idno>MS. Arm. d. 25</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>The Four Gospels, dated to 1597 CE. Illustrated with 9 full-page
+                     miniatures.</summary>
+                  <msItem xml:id="MS_Arm_d_25-item1" n="toc">
+                     <locus from="17r" to="96v">ff. 17r-96v</locus>
+                     <title xml:lang="en">The Gospel of St. Matthew</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_25-item2" n="toc">
+                     <locus from="100r" to="154r">ff. 100r-154r</locus>
+                     <title xml:lang="en">The Gospel of St. Mark</title>
+                     <colophon xml:lang="hy">Համբարձմանն կարդայ. Եւ զպարոնտէր Թումա եպիսկոպոսն
+                        աւրհնեա, եւ զգրաւղս յիշեա։ Ամէն: </colophon>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The apocryphal verses 16:9-20 are separated from the rest of the text
+                        with the heading ‘Gospel according to St Mark. Read on the Feast of
+                        Ascension’.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_25-item3" n="toc">
+                     <locus from="158r" to="248r">ff. 158r-248r</locus>
+                     <title xml:lang="en">The Gospel of St. Luke</title>
+                     <colophon xml:lang="hy">Ի բարերար եւ ի մարդասէր փրկիչն աշխարհի, որ հաշտեցոյց
+                        զանկեալ բնութիւնս ընդ Հաւր Աստուծոյ, նոյնպէս հաշտեսցի գթութեամբն եւ
+                        ողորմութեամբն կրկնակի գալըստեան իւրոյ, ընդ ձայնին երանական, որ ասէ եկայք
+                        աւրհնեալք Հաւր իմոյ, նոյն ձայնիւն կենդանացոյ ի մեռելութենէ մեղաց զպարոնտէր
+                        Թովմա եպիսկոպոսն եւ զամենայն արեան մերձաւորաւքն եւ խառնեա ի ջոկքն սուրբ
+                        հայրապետացն եւ քեզ փառք մատուցանէ յաւիտեան։ Անանիա փծուն տխմար գրաւղ
+                        վարդապետս յիշեցէք։ </colophon>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_25-item4" n="toc">
+                     <locus from="250r" to="318r">ff. 17r-96v</locus>
+                     <title xml:lang="en">The Gospel of St. John</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The narrative of the ‘Woman taken into adultery’ is separated from the
+                        rest of the text by the sub-heading ‘Gospel of St John: Book of the Woman
+                        taken into adultery’.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_22-item5" n="toc">
+                     <locus from="318v" to="266v">ff. 318v-323v</locus>
+                     <colophon xml:lang="hy">Փառք անսկզբանն եւ անսկիզբն ... [319v] Եւ արդ աղաչեմ
+                        ամենայաղթ զարութիւն աստուծոյ, որ ետ կարողութիւն տկար եւ ցաւալից վտիտ ոգոյս,
+                        որ աւարտ եղեւ սուրբ Աւետարանս ի դառն եւ ի վշտաշատ ժամանակիս, որ եղեւ ի վերայ
+                        ամենայն Հայկազան սեռիս. մանավանդ Երրորդութիւն մի բնութիւն դաւանողաց, բազում
+                        նուազութիւն եւ գերութիւն եւ սպանումն եւ աերք եղեւ ի վերայ ազգիս միամիտ
+                        հաւատիս, զի հանգիստ եւ դադարումն ոչ գոյ ի մերում ժամանակիս։ Այլ եւ վերին
+                        ազդեցութեամբն եւ ողորմութեամբն աստուծոյ, որ միշտ շարժէ մար[320r]դկային
+                        բնութիւնս, որպէս որ եղեւ ի վերայ պատուական եւ մաքուր, գովելի եւ ընտրեալ ի
+                        դասուց հայրապետաց, գովեալդ եւ պատուեալդ յամենայն եկեղեցայց ո՞վ տէրն քաղցր
+                        եղանակիչ պարոնտէր Թովմայ եպիսկոպոսն։ Արդ աղաչեմ զսրբասէր քահանայսդ զկատարաւղ
+                        մեղսաքաւիչ սուրբ պատարագի եւ զրնթերցաւղ սուրբ աւետարանիս յիշեցէք ի սուրբ
+                        յաղաւթս ձեր զպարոնտէր Թովմայ եպիսկոպոսն եւ զեղբաւրորդին իւր զսարկաւագ
+                        Խաչատուրն եւ զծնաղքն նորա, որ ամենայաւժար սրտիւ եւ սիրով գրել ետուր զսուրբ
+                        աւետարանս ի հալալ վաստակոց իւրոց. յիշատակ իւր եւ ծնաւղացն եւ ամենայն
+                        ազգականացն ամէն: Ի թուականութեանս հայկազեանս տումարի ՌԽԶ, տանուտէր տարոյս
+                        կշիռն, Հոռի ամսոյն, ի Ա վերադիր տարոյն ԺԲ [320v] գիր տարոյն յինն։ Ի
+                        hայրապետութեան Մելքեսեդ կաթուղիկոսին։ Գրեցաւ սուրբ աւետարանս ձեռամբ Անանիա
+                        վարդապետին Շամբեցւոյ ի դուն սուրբ Ստեփաննոս Նախավկային եւ ի տիրամայր սուրբ
+                        Աստուածածնին եւ ի սուրբ Գէորգ Զաւրավարին եւ ամենայն սրբոցս, որ աստ կան
+                        հաւաքեալ։ Նաեւ ի սոցին սպասաւորացս, որ կան ի դուռս սուրբ մենարանիս. զտէր
+                        Մարտիրոս քաջ եւ արի րաբունապետն եւ վերծանող խորոց բանալի վարդապետն, զտէր
+                        Սարգիս եպիսկոպոսն, զտէր Շմաւոն եպիսկոպոսն, զտէր Յովսէփ եպիսկոպոսն, զտէր
+                        Սամուէլ եպիսկոպոսն, զտէր Խաչատուր եպիսկոպոսն, զտէր Յակովբ եպիսկոպոսն, զտէր
+                        Հայրապետ եպիսկոպոսն, վանից հայր եկեղեցապան, իմ հորեղբայր տէր Բարդուղիմէոսն,
+                        տէր Անդրէասն, անաւթապահ զտէր Թումէն, զտէր Յեսսային, տէր Ներսէսն, մեծ տէր
+                        Պետրոսն, տէր Մարտիրոսն. տէր [321r] Իգնատիոսն, փոքրն տէր Պետրոսն, տէր
+                        Պաւղոսն, տէր Ստեփաննոսն, տէր Աստուածատուրն, տէր Ըռըստակէսն, տէր Գորգն, փոքր
+                        Մարտիրոսն, եւ այլ ամենայն եղէն միաբանքս յիշեցէք ի բարի. Աստուած զձեզ յիշէ
+                        ամէն: Դարձեալ երես անկեալ աղաչեմ զձեզ յիշեցէք ի մաքրափայլ յաղաւթս ձեր
+                        զրպարոն Տէր Թովմայ եպիսկոպոսն եւ զհանգուցեալ հայրն իւր պարոն Սատրադինն եւ
+                        զմայրն իւր Շահբեկին եւ զեղբարքն իւր աւրհնեալ ի տեառնէ: Պարոն Ղութլիջանն,
+                        պարոն Միրզէն, պարոն Աղավելին, պարոն Ստեփաննոսն եւ զեղբաւրորդիքն իւր
+                        Սաւլթանվէլին, սարկաւագ Խաչիկն, սարկաւագ Ալահվերանն եւ զքուեքն իւր զՇամիրամն
+                        եւ Խանիբեկին. եւ զհարսներն իւր Գուլին Փաշայ Ջանն, Անախաթունն, Շիրին. եւ
+                        զհաւրեղբարն իմ զՅակոբն եւ հանգուց[321v]եալ որդիքն իւր զրՀայրապետն, Ամիր
+                        Վէլին, Թաւխտին, հաւրեղբաւր կողակիցն Արուսխին։ [...] Դարձեալ յիշեցէք ի բարին
+                        Աստապատայ միաբանքն. զտէր Զաքարիա, քաջ եւ արի բանիբուն րաբունապետ անձանձիր
+                        ուսուցանող վարդապետն, զտէր պարոնտէր Թումա [322r] եպիսկոպոսն, զտէր Վարդան
+                        եպիսկոպոսն, զտէր Յեսսայի եպիսկոպոսն, զտէր Մարտիրոս եպիսկոպոսն, զտէր Ղազար
+                        եպիսկոպոսն, զտէր Մարգարէն, զտէր Աւետիսն, զտէր Մկրտիչն, զտէր Յակոբն, զտէր
+                        Սարգիսն, զտէր Յովաննէսն, զտէր Գրիգորն, զտէր Բարսեղ երեցն, զտէր Հայրապետ
+                        երեցն, փոքր ժամարար տէր Յովանէսն, տէր Խաչիկն. Եւ աւրհնեալ եւ փառաւոր
+                        դաւլուաթաւորքն գեղին. պարոն Պռաւշն, պարոն Աղափիրին, պարոն Փիրիգուլն, պարոն
+                        խաւջա Կարապետն, Ջանիբէկն, Միրիջանն, Աղաբեկին. Ով սուրբ քահանայք եւ եւ
+                        իմաստունք, յորժամ ընթեռնուք զսուրբ Աւետարանս, յիշեցէք զամենեսեանն ի սուրբ
+                        աղաւթս ձեր եւ դուք յիշեալ լիջիք ի Հաւրէն եւ ի փառացն նորա արժանի լինիք ամէն.
+                        Հայր մեր, որ: Fol. 322v. Արդ ես ծառայ ամենեցւոյն, աղաչեմ զձեզ եւ հայցեմ ի
+                        ձէնջ. Խնդրեցէք ամենասուրբ Աստուածածնէն եւ ներող թագաւորէն, որ չնորհէ
+                        թողութիւն յանցաւոր մեղուցեալ Անանիա տրուպ անուն վարդապետին եւ իմ հաւրեղբայր
+                        տէր Բարդուղիմեոսին եւ իմ քուրոջ որդի տէր Յովանիսին եւ իմ հանգուցեալ հաւրն
+                        Ղութլի Բեկին. եւ իմ մաւրն Մըրուաթին եւ իմ եղբաւրն Խաչատուրին. եւ իմ քւերցն
+                        Ասախաթունին, Գլգունին եւ իմ փոխեցեալ առ Քրիստոս հաւրեղբարքն իմ զպարոն Սարիկն
+                        եւ պարոն Գրիգորն եւ որդիքն նոցա Աւղուլն, Միրումն, Առագելն, Մարգարէն,
+                        Սարգիսն, մյուս Առագելն, Կիրակոսն, եւ հարսներն մեր Մամախաթունն, Մրուաթն,
+                        Սութանն, Խաթունմէլիքն, Թրուանդէն, եւ իմ եղբաւրորդիքն Գրիգորն, Բայրամն,
+                        Դիարբէկն, եւ ամենայն մերձաւորքն իմ յիշեցէք ի բա[323r]րին Աստուած, զձեզ յիշէ։
+                        Ամէն։ Յիշեցէք ի բարի մահդեսի Կիրակոսն, որ բազում աշխատեցաւ ի թուխթ կոկելն,
+                        ամենեքեանդ առ հասարակ ողորմի ասացէք եւ յիշեցէք ի նոյն ձայնիւն ժամահաւր
+                        Աղդիշէն եւ Սառա կոյսն, Աստուած զձեզ յիշէ ամէն։ Եղբարք, Մատթէոսէն մինչ ի «մի
+                        երկնչիր ի դուռն սուրբ Ստեփանոս Նախավկային», գրուաւ յայն տեղէն մինչ ի յաւարտն
+                        ի մայրաքաղաքն Ջուղայ, ի սուրբ Աստուածածնի դուռս, որ կոչի Վերին Կաթան, որ
+                        հանապազ զիւր ողորմութիւնն կաթեցուցանէ ամենայն վշտացելոց եւ տէր աստուածն
+                        ամենայնի արհնեսցէ զքահանայքն սուրբ եկեղեցոյս մեծ եւ փոքրն եւ դաւլուաթաւորքն
+                        ժամատանս զպարոն Խաչիկն եւ պարոն Նուրին եւ խոջա Արիջանն, որ բազում ճաշիւ եւ
+                        կերակրով ընդունեցին մեզ, փոխարէն անմահական սեղանոցն առցեն, ամէն։ </colophon>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl>Nersessian, Vrej. A Catalogue of the Armenian Manuscripts in the
+                           British Library Acquired since the Year 1913 and of Collections in Other
+                           Libraries in the United Kingdom. London: British Library, 2012; N32, pp.
+                           230-240.</bibl>
+                        <bibl>van Lint, Theo Maarten and Robin Meyer (eds.). Armenia: Masterpieces
+                           from an Enduring Culture. Oxford: Bodleian Library, 2015, no 3, p.
+                           76.</bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="paper">
+                        <support>Paper.</support>
+                        <extent>ff. 323 + ii <dimensions type="leaf" unit="mm">
+                              <height>270</height>
+                              <width>190</width>
+                           </dimensions>
+                        </extent>
+                        <collation>Made up of 26 signed gatherings each consisting of 12 leaves.
+                           Collation: i (end signature 27b), ii28, ii40, iv52, v64, vi76, vii88,
+                           viii 100, ix112, x124, xi136, xii148, xiii160, xiv172, xv184, xvi196,
+                           xvii208, xviii220, xix232, xx244, xxi255, xxii267, xxiii279, xxiv291,
+                           xxv303, xxvi315.</collation>
+                        <condition>The MS is in a good state of preservation.</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2" ruledLines="23">Text in double columns, 21 lines to the
+                              page.<dimensions type="written" unit="mm">
+                              <height>195</height>
+                              <width>120</width>
+                           </dimensions>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="major" script="bolorgir"><desc><label>Script: </label>Medium
+                           regular bolorgir in black ink. <label>Scribe: </label><persName
+                              role="scr"/>Anania vardapet Šambec‘i.</desc></handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>Bird capitals are used for chapter headings and large decorated
+                        uncials in red ink for initial verses.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>The MS has been rebound after acquisition by the Bodleian Library. The
+                        original covers are preserved with the flyleaves under pressmark MS Arm.
+                        D.25**. It has wooden covers covered with green velvet, slightly worn out
+                        and discoloured. The inside of the covers was also lined with green coloured
+                        cotton cloth. On the covers there are remains of metal crosses and nails.
+                        The top cover had five crosses and the lower cover one.</p>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>Church of St Step‘anos the Protomartyr, the Holy Mother of God and
+                        St George in the capital city of J̌ułay. </origPlace>
+                     <origDate calendar="#Gregorian" when="1597">The era of the Armenians 1046 (AD
+                        1597), “when the sign of the year was the Scales, on the first day of the
+                        month of Hori [10 September] during the Catholicate of
+                        Melk‘esed” = 1597 CE.</origDate>
+                  </origin>
+                  <provenance>On folio 5r there is this inscription in English: “Bought for my dear
+                     brother Jonas King professor in America as a remembrance and a token of love
+                     from his brother Joseph Wolff in the name of John Bayford Doctors Commons
+                     London.”</provenance>
+                  <acquisition>Purchased by the Bodleian Library in July 1972.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>The main text of this description is from Nersessian 2012, N32, pp.
+                           230-240. Several additions and corrections to the text have been
+                           introduced by David Zakarian for the online catalogue.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>In order to preserve this rare and fragile artefact, access to it is
+                           restricted, and readers are asked to work from reproductions and
+                           published descriptions as far as possible. To apply to see the original,
+                           please send a message to
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>,
+                           outlining the subject of your research, the importance of this item to
+                           that research, and the resources you have already consulted. Entry to
+                           read in the Library is permitted only on presentation of a valid reader's
+                           card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="local_class">
+               <category xml:id="commentary">
+                  <catDesc>Commentary</catDesc>
+               </category>
+               <category xml:id="supercommentary">
+                  <catDesc>Supercommentary</catDesc>
+               </category>
+               <category xml:id="indices">
+                  <catDesc>Indices</catDesc>
+               </category>
+               <category xml:id="translation">
+                  <catDesc>Translation</catDesc>
+               </category>
+               <category xml:id="multipleWorks">
+                  <catDesc>multipleWorks</catDesc>
+               </category>
+               <category xml:id="abridgement">
+                  <catDesc>Abridgement</catDesc>
+               </category>
+               <category xml:id="supplement">
+                  <catDesc>Supplement</catDesc>
+               </category>
+               <category xml:id="papers">
+                  <catDesc>Papers</catDesc>
+               </category>
+               <category xml:id="documents">
+                  <catDesc>Documents</catDesc>
+               </category>
+               <category xml:id="extract">
+                  <catDesc>Extract</catDesc>
+               </category>
+               <category xml:id="gloss">
+                  <catDesc>Gloss</catDesc>
+               </category>
+               <category xml:id="selection">
+                  <catDesc>Selection</catDesc>
+               </category>
+               <category xml:id="diagrams">
+                  <catDesc>Diagrams</catDesc>
+               </category>
+               <category xml:id="notes">
+                  <catDesc>Notes</catDesc>
+               </category>
+               <category xml:id="letters">
+                  <catDesc>Letters</catDesc>
+               </category>
+               <category xml:id="versification">
+                  <catDesc>Versification</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <term key="subject_sh85013727">Bible--Translations</term>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-01-11"><persName>Alasdair Watson</persName> created this file.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cat_pdf/p79.pdf"/>
+      <graphic url="cat_pdf/p81.pdf"/>
+   </facsimile>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
