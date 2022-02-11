@@ -61,6 +61,7 @@ declare option saxon:output "indent=yes";
                     { bod:languages($x//tei:sourceDesc//tei:textLang, 'lang_sm', 'Not specified') }
                     { bod:centuries($x//tei:origin//tei:origDate, 'ms_date_sm', 'Undated') }
                     { bod:digitized($x//tei:sourceDesc//tei:surrogates//tei:bibl, 'ms_digitized_s') }
+                    { bod:requesting($x/tei:TEI) }
                     { bod:indexHTML($htmldoc, 'ms_textcontent_tni') }
                     { bod:displayHTML($htmldoc, 'display') }
                 </doc>
