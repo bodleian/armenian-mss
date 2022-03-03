@@ -4082,6 +4082,55 @@
                     <!-- ../collections/MS_Arm_e_18.xml#MS_Arm_e_18%2Ditem89 -->
                 </bibl>
                 
+                <bibl xml:id="work_837">
+                    <title type="uniform">Commentary on Epistle to Ephesians</title>
+                </bibl>
+                
+                <bibl xml:id="work_838">
+                    <title type="uniform">Epilogue to the Gospel of St. Luke</title>
+                    <title type="variant">Աւետարան ըստ Ղուկասու</title>
+                </bibl>
+                
+                <bibl xml:id="work_839">
+                    <title type="uniform">Epilogue to the Gospel of St. Mark</title>
+                    <title type="variant">Աւետարան ըստ Մարկոսի</title>
+                </bibl>
+                
+                <bibl xml:id="work_840">
+                    <title type="uniform">Epilogue to the Gospel of St. Matthew</title>
+                    <title type="variant">Աւետարան ըստ Մաթէոսի</title>
+                </bibl>
+                
+                <bibl xml:id="work_841">
+                    <title type="uniform">Preface to the Gospel of St. John</title>
+                    <title type="variant">Նախադրութիւն Յովհաննու Աւետարանին</title>
+                </bibl>
+                
+                <bibl xml:id="work_842">
+                    <title type="uniform">Preface to the Gospel of St. Luke</title>
+                    <title type="variant">Նախադրութիւն Ղուկասու Աւետարանին</title>
+                </bibl>
+                
+                <bibl xml:id="work_843">
+                    <title type="uniform">Preface to the Gospel of St. Mark</title>
+                    <title type="variant">Նախադրութիւն Մարկոսի Աւետարանին</title>
+                </bibl>
+                
+                <bibl xml:id="work_844">
+                    <title type="uniform">The Gospel of St. John</title>
+                </bibl>
+                
+                <bibl xml:id="work_845">
+                    <title type="uniform">The Gospel of St. Luke</title>
+                </bibl>
+                
+                <bibl xml:id="work_846">
+                    <title type="uniform">The Gospel of St. Mark</title>
+                </bibl>
+                
+                <bibl xml:id="work_847">
+                    <title type="uniform">The Gospel of St. Matthew</title>
+                </bibl>
                 
                 
             </listBibl>

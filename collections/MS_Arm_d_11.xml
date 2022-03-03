@@ -67,9 +67,9 @@
                      see that the dislocation was produced by a transposition of folios of the
                      original copy, unnoticed by our copyist or his predecessor” (pp. 154-155). </summary>
                   <msItem xml:lang="en" xml:id="MS_Arm_d_11-item1">
-                     <author><persName xml:lang="en">John Chrysostom, Saint,
+                     <author key="person_41"><persName xml:lang="en">John Chrysostom, Saint,
                         -407</persName></author>
-                     <title xml:lang="en">Commentary on Epistle to Ephesians</title>
+                     <title xml:lang="en" key="work_837">Commentary on Epistle to Ephesians</title>
                      <incipit xml:lang="hy" defective="true">զհրեշտակական վարս ցուցցուք </incipit>
                      <explicit xml:lang="hy" defective="true">քանզի զպատերազմաց եւ զմարտից յուշ
                         արար, ցուցա </explicit>
@@ -138,7 +138,7 @@
                            end of lines, though he seems in general to try to close the line with a
                            vowel, and these vowels are charged generally with a dash on the top, as,
                            for instance, on f. 30, տարա | կուսութիւն, ապաշաւի | ցէ, փորձ ի | բաց.
-                              <label>Scribe: </label><persName role="scr"
+                              <label>Scribe: </label><persName role="scr" key="person_103"
                            >Step‘annos</persName>.</desc></handNote>
                   </handDesc>
                   <decoDesc>

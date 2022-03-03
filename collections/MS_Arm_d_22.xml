@@ -48,59 +48,59 @@
                      paintings.</summary>
                   <msItem xml:id="MS_Arm_d_22-item1" n="toc">
                      <locus from="18r" to="87v">ff. 18r-87v</locus>
-                     <title xml:lang="en">The Gospel of St. Matthew</title>
+                     <title xml:lang="en" key="work_847">The Gospel of St. Matthew</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item2" n="toc">
                      <locus from="87v" to="87v">ff. 87v</locus>
-                     <title xml:lang="en" key="">Epilogue to the Gospel of St. Matthew</title>
-                     <title xml:lang="hy" key="">Աւետարան ըստ Մաթէոսի</title>
+                     <title xml:lang="en" key="work_840">Epilogue to the Gospel of St. Matthew</title>
+                     <title xml:lang="hy" key="work_840">Աւետարան ըստ Մաթէոսի</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item3" n="toc">
                      <locus from="87v" to="88r">ff. 87v-88r</locus>
-                     <title xml:lang="en" key="">Preface to the Gospel of St. Mark</title>
-                     <title xml:lang="hy" key="">Նախադրութիւն Մարկոսի Աւետարանին</title>
+                     <title xml:lang="en" key="work_843">Preface to the Gospel of St. Mark</title>
+                     <title xml:lang="hy" key="work_843">Նախադրութիւն Մարկոսի Աւետարանին</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item4" n="toc">
                      <locus from="89r" to="133v">ff. 89r-133v</locus>
-                     <title xml:lang="en">The Gospel of St. Mark</title>
+                     <title xml:lang="en" key="work_846">The Gospel of St. Mark</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The apocryphal verses 16:9-20 excluded.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item5" n="toc">
                      <locus from="133v" to="133v">ff. 133v</locus>
-                     <title xml:lang="en" key="">Epilogue to the Gospel of St. Mark</title>
-                     <title xml:lang="hy" key="">Աւետարան ըստ Մարկոսի</title>
+                     <title xml:lang="en" key="work_839">Epilogue to the Gospel of St. Mark</title>
+                     <title xml:lang="hy" key="work_839">Աւետարան ըստ Մարկոսի</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item6" n="toc">
                      <locus from="134r" to="134r">ff. 134r</locus>
-                     <title xml:lang="en" key="">Preface to the Gospel of St. Luke</title>
-                     <title xml:lang="hy" key="">Նախադրութիւն Ղուկասու Աւետարանին</title>
+                     <title xml:lang="en" key="work_842">Preface to the Gospel of St. Luke</title>
+                     <title xml:lang="hy" key="work_842">Նախադրութիւն Ղուկասու Աւետարանին</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item7" n="toc">
                      <locus from="135r" to="209v">ff. 135r-209v</locus>
-                     <title xml:lang="en">The Gospel of St. Luke</title>
+                     <title xml:lang="en" key="work_845">The Gospel of St. Luke</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item8" n="toc">
                      <locus from="210r" to="210r">ff. 210r</locus>
-                     <title xml:lang="en" key="">Epilogue to the Gospel of St. Luke</title>
-                     <title xml:lang="hy" key="">Աւետարան ըստ Ղուկասու</title>
+                     <title xml:lang="en" key="work_838">Epilogue to the Gospel of St. Luke</title>
+                     <title xml:lang="hy" key="work_838">Աւետարան ըստ Ղուկասու</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item9" n="toc">
                      <locus from="210r" to="210r">ff. 210r</locus>
-                     <title xml:lang="en" key="">Preface to the Gospel of St. John</title>
-                     <title xml:lang="hy" key="">Նախադրութիւն Յովհաննու Աւետարանին</title>
+                     <title xml:lang="en" key="work_841">Preface to the Gospel of St. John</title>
+                     <title xml:lang="hy" key="work_841">Նախադրութիւն Յովհաննու Աւետարանին</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item10" n="toc">
                      <locus from="211r" to="265v">ff. 211r-265v</locus>
-                     <title xml:lang="en">The Gospel of St. John</title>
+                     <title xml:lang="en" key="work_844">The Gospel of St. John</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The episode of the ‘Woman taken in adultery’ is excluded.</note>
                   </msItem>

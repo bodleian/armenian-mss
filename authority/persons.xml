@@ -570,7 +570,13 @@
                     <!-- ../collections/MS_Arm_e_26.xml#MS_Arm_e_26%2Ditem1 -->
                 </person>
                 
+                <person xml:id="person_102">
+                    <persName type="display">Anania vardapet Šambec‘i</persName>
+                </person>
                 
+                <person xml:id="person_103">
+                    <persName type="display">Step‘annos</persName>
+                </person>
                 
             </listPerson>
         </body>
