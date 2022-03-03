@@ -195,7 +195,14 @@
                               Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
-                  <surrogates/>
+                  <surrogates>
+                     <bibl type="digital-facsimile" subtype="partial">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/d48e9ea1-48ad-499f-800b-b13406354a23/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note>(3 selected images only)</note>
+                     </bibl>
+                  </surrogates>
                </additional>
             </msDesc>
          </sourceDesc>
