@@ -578,6 +578,10 @@
                     <persName type="display">Step‘annos</persName>
                 </person>
                 
+                <person xml:id="person_104">
+                    <persName type="display">Karapet</persName>
+                </person>
+                
             </listPerson>
         </body>
     </text>
