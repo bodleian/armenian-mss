@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>OXFORD ARMENIAN MANUSCRIPTS CATALOGUE ONLINE</title>
-            <funder>JISC-??-</funder>
+            <funder>Carnegie Foundation</funder>
             <principal>Gillian Evison</principal>
          </titleStmt>
          <publicationStmt>
@@ -20,7 +20,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -44,45 +45,264 @@
                </msIdentifier>
                <msContents>
                   <summary>Gospels, A.D. 1304</summary>
+                  <msItem xml:id="MS_Arm_d_3-item1" n="toc">
+                     <locus from="7v" to="8v">ff. 7v-8v</locus>
+                     <title xml:lang="en" key="work_375">Letter of Eusebius to Carpianus</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_3-item2" n="toc">
+                     <locus from="9r" to="15r">ff. 9r, 10v, 11r, 12v, 13r, 14v, 15r</locus>
+                     <title xml:lang="en" key="work_848">Canon Table</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_3-item3" n="toc">
+                     <locus from="16r" to="92v">ff. 16r-92v</locus>
+                     <title xml:lang="en" key="work_847">The Gospel of St. Matthew</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_3-item4" n="toc">
+                     <locus from="93r" to="154r">ff. 93r-141v</locus>
+                     <title xml:lang="en" key="work_846">The Gospel of St. Mark</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_3-item5" n="toc">
+                     <locus from="142r" to="231v">ff. 142r-231v</locus>
+                     <title xml:lang="en" key="work_845">The Gospel of St. Luke</title>
+                     <colophon xml:lang="hy">Աւետարանս որ կատարեցաւ գլուխն է Ղուկասու` ձեռամբ
+                        մեղապարտ գծողի` Կարապետ, յետնեալ, անիմաստ եւ փցուն գըրագրի, որ եմ կարաւտ
+                        բարեացն Յիսուսի: Որ կարդայք զԱստուածատուփ գանձս Քրիստոսի յիշատակէք զիս ի
+                        բարի եւ զծնաւղսն իմ որ գնացեալք են առ Աստուածն ամենայնի: </colophon>
+                     <colophon xml:lang="en">This Gospel, which is Luke’s chapter, was completed by
+                        the hand of the sinful scribe Karapet, the last, senseless, and vile copier,
+                        who longs for the kindness of Jesus. Whoever reads this divinely framed
+                        treasure of Christ, remember in kindness me and my parents, who departed to
+                        God of all.</colophon>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_d_3-item6" n="toc">
+                     <locus from="232r" to="297v">ff. 232r-297v</locus>
+                     <title xml:lang="en" key="work_844">The Gospel of St. John</title>
+                     <colophon xml:lang="hy" defective="true">Փառք Ամենասուրբ Երրորդութեանն` Հաւր
+                        անեղի, Որդոյ Միածնի եւ Հոգոյն ճշմարտի, որ արժանաւորեաց զիս հասանել յաւարտ
+                        գծիս սուրբ Աւետարանիս: Շնորհաւք սկսայ եւ ողորմութեամբ Տեառն կատարեցի
+                        զլուսատու եւ զպատուական մարգարիտս զայս: Յաղքատ եւ ի դառնաբեր ժամանակս,
+                        բազում ջանիւ եւ խանդաղակաթ սիրով գծագրեցի եւ զարդարեցի զանազան ծաղկովք եւ
+                        գունակ գունակ դեղաւք: Ես` Կարապետ մեղաւոր եւ անարժանս ի քահանայս, ըստ
+                        փափաքման իմոյ սկսա, զի թէպէտ ոչ գոյին ինչք պատրաստականք ըստ մեծամեծ նիւթից,
+                        սակայն սէր Աստուածային բարեացն առատապէս շնորհեաց զծախսն սուրբ Աւետարանիս: Եւ
+                        ես` մեղուցեալ ծառայս Մարգարէս, յետնեալ ի քահանայս տուի գրել զսուրբ Աւետարանս
+                        եւ զսայ ունելով բարեխաւս եւ յիշատակ ինձ եւ ծնողաց իմոց եւ կենակցին իմոյ եւ
+                        զաւակաց իմոց եւ կենդանեաց եւ ննջեցելոց: Քանզի է սա անբարբառ բարեխաւս այգի
+                        վայելուչ, որթ վաղահասուկ, բուրաստան ծաղկալի, դրախտ Աստուածեղէն, ուստի բղխեալ
+                        գետս քառավտակ ոչ միայն ի դրախտէն Ադենա, այլ յանմահ բանէն Աստուծոյ: Ուստի
+                        արբին սուրբ առաքեալքն եւ արբուցին ամենայն հաւատացելոց: Մատթէոսեան գլուխն եւ
+                        Մարկոսեան, Ղուկասու եւ Յոհաննու: Սոքա չորեքին առաքեալք եւ աւետարանիչք
+                        տարածեալ սփռեցին ընդ ոլորտս տիեզերաց: Զծնունդն եւ զտնաւրէնութիւնն Տեառն
+                        մերոյ Յիսուսի Քրիստոսի: Զդեւս հալածելով, զբորոտս սրբելով եւ ամենայն
+                        վշտացելոց բժըշկութիւն առնելով այլաւքն հանդերձ։ Կատարեցաւ սուրբ Աւետարանս ի
+                        թուականութեան հայոց ՉԾԳ (753) ի յունիսի ամսոյ ի [...], ի կաթուղիկոսութեան
+                        Տեառն Գրիգորի եւ ի թագաւորութեան Հեթմոյ [...]</colophon>
+                     <colophon xml:lang="en" defective="true">Glory to the Holy Trinity, of the
+                        uncreated Father, of the Only Begotten Son, and of the true Spirit, who made
+                        me worthy of completing the text of this Holy Gospel. With grace I began and
+                        with God’s mercy I completed this light-emitting and venerable pearl, in
+                        miserable and bitter times, with hard labour and tender love, I wrote and
+                        adorned [it] with different flowers and colourful inks. I, Karapet, the
+                        sinful and unworthy one from amongst the priests, following my own longing
+                        began, even though most of the material was not yet available, but the love
+                        of divine kindness generously covered the cost of this Holy Gospel. And I,
+                        the sinful servant Margarē, the last one from amongst the priests, had this
+                        Holy Gospel copied, [in order] to have it as an intercessor and as a
+                        memorial for me and my parents and my spouse and the living and the dead
+                        [relatives]. For this is a speechless, interceding, graceful orchard, an
+                        early arriving vine, a flowery garden, a divine paradise, whence four rivers
+                        originated, not only from the paradise of Eden, but also from the immortal
+                        word of God; from which the holy apostles drank and gave the drink to all
+                        believers: the chapter of Matthew and of Mark, Luke, and John. The apostles
+                        and evangelists spread these four in the bounds of the universe, the birth
+                        and the mystery of the incarnation of our Lord Jesus Christ, by expelling
+                        the demons, by cleansing the leppers and curing all the sufferers alongside
+                        with others. This Holy Gospel was completed in the year 753 of the Armenian
+                        Era [= 1304 CE] on […] of June during the catholicosate of Lord Grigor
+                        [Grigor VII Anavarzec‘i, r. 1293-1307] and the reign of Het‘um [Hetum II,
+                        1266-1307] […] </colophon>
+                     <colophon xml:lang="hy">ԶՍամուէլն՝ զպատուական քահանան, յորս հանգցնէ զնայ
+                        Քրիստոս ի դասս հրըշտակացն, եւ զոքանչն իմ, որ սիրով ընդունէր զիս, յիշեսջիք ի
+                        սուրբ Աւետարանս, եւ զԱմիրխեր ոսկերիչս, որ զարդարեցի զԱւետարանս եւ մա[յ]րն
+                        իմ, որ երետ զարծաթն, որ զարդարեցաւ, յիշեսջիք ի սուրբ Աւետարանս։ Արդ, յիշեցի
+                        զբանն կենարար, որ ասէ. Երանի, որ ունիցի զաւակ ի Սիոն։ Արդ, աղաչեմ զձեզ,
+                        հոգեւոր հարք իմ եւ եղբարք եւ որդիք, յորժամ բանաք զԱւետարանսս, յիշեսջիք ի
+                        սուրբ յաղաւթս ձեր, եւ զձեզ յիշեսցէ Քրիստոս Աստուած մեր, յիշեսջիք եւ
+                        զՄամատիկին՝ եղբաւր դուստրն իմ, եւ քորքն իմ՝ զԱւտարտիկինն, եւ մին քորն իմ, որ
+                        գնացել են ի Քրիստոս՝ զՄամայխաթուն, զԱղբրացն, որ գթայ Տէր նոսա։ </colophon>
+                     <colophon xml:lang="en">Samuēl, the honourable priest, whom Christ gave repose
+                        in the ranks of the angels, and my mother-in-law, who treated me with love,
+                        may you remember in the Holy Gospel, alongside Amirex the goldsmith, who
+                        adorned this Gospel, and my mother who gave the silver for the decoration,
+                        may you remember in the Holy Gospel. Now, I remembered the vivifying word
+                        which says, “Blessed is he who has an offspring in Zion” [cf. Isa 31:9].
+                        Now, I beseech you, my spiritual fathers, brothers, and children, whenever
+                        you open this Gospel, remember [them] in your holy prayers, and you will be
+                        remembered by Christ our God; remember also Mamatikin, my brother’s
+                        daughter, and my sisters – Awtartikin, and one of my sisters, Mamayxat‘un,
+                        who departed to Christ, [and] Ałbrac‘, so that the Lord has mercy on
+                        them.</colophon>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                              target="https://archive.org/details/catalogueofarmen00bodl/page/n11/mode/2up?view=theater"
+                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                              Bodleian Library, no 2, pp. 2-4.</ref></bibl>
+                        <bibl>van Lint, Theo Maarten and Robin Meyer (eds.). Armenia: Masterpieces
+                           from an Enduring Culture. Oxford: Bodleian Library, 2015, no 5, pp.
+                           80-81.</bibl>
+                     </listBibl>
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="cotton_paper">
-                        <extent>
-                           <dimensions type="leaf" unit="in">
-                              <height>9.375"</height>
-                              <width>6.5"</width>
+                        <support>Glazed cotton paper.</support>
+                        <extent>ff. 298. <dimensions type="leaf" unit="mm">
+                              <height>238</height>
+                              <width>166</width>
                            </dimensions>
                         </extent>
+                        <condition>The manuscript is in a fine condition.</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="2">
-                           <dimensions type="line-height" unit="mm"/>
+                        <layout columns="2" ruledLines="23 20">Double columns, of 23 lines each to
+                           f. 111 and of 20 lines each from f. 112 <dimensions type="written"
+                              unit="mm">
+                              <height>187</height>
+                              <width>115</width>
+                           </dimensions>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="bolorgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref> script</handNote>
+                     <handNote scope="major" script="bolorgir">Written in <ref
+                           target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">bold
+                           Bolorgir</ref> script. <label>Scribe: </label><persName role="scr"
+                           key="person_104">Karapet</persName>.</handNote>
                   </handDesc>
+                  <decoDesc>
+                     <decoNote>There are several full-page pictures, most of which are placed at the
+                        beginning of the manuscript. One of them (f. 13v) contains a barely seen
+                        inscription left by the illuminator who calls himself Yohan nałaš (i.e.
+                        ‘illuminator’). Incomplete sketches: f. 2v The Virgin Mary and baby Jesus;
+                        to the left of the image: այս է գիրս (“this is the text” or “this is my
+                        writing”); at the bottom of the page under the image: յայս գիրս մարտիրոսն
+                        գրեր թվին Ռ Ճ Ձ ին յուլիսի Է ին (“In this text Martiros wrote in the year
+                        1108 [= 1659 CE] on July 7”). f. 3r A male figure; the folio contains the
+                        first four letter of the Armenian alphabet աբգդ (top right corner),
+                        abbreviation ԱԾ (God), name Եղիշշ, and scattered letters ձ, ճ, շ (4 times),
+                        etc. Complete images: f. 3v The Annunciation; the image is slightly damaged,
+                        with blue, red, and brown colours prevailing. f. 4r The Adoration of the
+                        Magi; the image is slightly damaged, with blue, red, and brown colours
+                        prevailing. f. 4v The Presentation in the Temple; the image is slightly
+                        damaged at the bottom, with blue, red, and brown colours prevailing. Marry
+                        is in dark purple cloak; the names of Simon (Սիմէոն) and Anna (Աննայ) are
+                        written above their figures. f. 5r The Baptism – Մկրտումն; the image is
+                        slightly damaged, with dark blue, purple, and red colours prevailing. On the
+                        left – John the Baptist (Յովաննէս մկըրտիչ); at the top – a white pigeon
+                        identified by the illuminator as the Holy Spirit (Սուրբ Հոգին); in the
+                        centre with red halo – Jesus Christ (Յիսուս Քրիստոս); to the right – two
+                        angels, one with red and one with yellow halos. f. 5v The Entry into
+                        Jerusalem; the image is slightly damaged, with dark blue, red, and brown
+                        colours prevailing. St Peter who follows Christ on the donkey is identified
+                        by his name written above his head. f. 6r The Crucifixion; the image is
+                        slightly damaged, with dark blue, red, and brown colours prevailing. f. 6v
+                        The Burial of our Lord – Թաղումն; the image is slightly damaged, with dark
+                        blue, red, and brown colours prevailing. Mary is in dark purple cloak
+                        standing behind Joseph, who is holding the head of Jesus Christ. Christ’s
+                        body is shrouded in white. John is holding Christ’s body trying to lay him
+                        down. f. 7r Resurrection – Յարութիւն; the image is slightly damaged, with
+                        dark blue, red, and brown colours prevailing. Jesus Christ, wearing a purple
+                        cloak, is in an almond shape blue enclosure with his left hand holding a
+                        large cross and his stretched right hand is holding a kneeling saint’s hand
+                        (Adam), who is next to another saintly figure identified as Eve (Եւայ).
+                        Behind Christ’s figure, in the left top corner are the portraits of Solomon
+                        (Սողոմոն) and David (Դաւիթ). (Baronian/Conybeare describe this image as “The
+                        Descent into Hades” (p. 3)). f. 9v The Vision of Joseph – Յուսեփայ տեսիլ;
+                        the image is almost intact with dark blue and red colours prevailing. f. 10r
+                        Jesus Christ. Christ is holding an open book in his left hand which contains
+                        a barely visible inscription from Matt. 25:34: Եկայք աւրհնեալք Հաւր իմոյ,
+                        ժառանկեցէք զպատրաստեալ ձեզ [արքայութիւնն իսկզբանէ աշխարհի։] “Come, you that
+                        are blessed by my Father, inherit [the kingdom] prepared for you [from the
+                        foundation of the world]”. On the right side of the image a vertically
+                        inserted inscription is barely visible: Քրիստոս Աստուած յիուր միւս անկամ
+                        գալուստ[եանն ...] տէր Ազտին ու Աւաքին. աւգնական եղան ի տնաւրինականքս (?).
+                        Conybeare provides the following translation: “Let Christ the God forgive on
+                        His second coming Ter Azat and Avak, who have helped [me] in these pictures”
+                        (p. 3). It is possible that the inscription was better visible to Conybeare
+                        when he was preparing the catalogue for publication, and he was able to read
+                        the original and provide a precise translation of the text. f. 11v The
+                        Repentant Malefactor Entering into Paradise – Աւազակն, Սէրոբէն; the image is
+                        slightly damaged, with dark blue, red, and brown colours prevailing. f. 12r
+                        The Annunciation to Zachariah – Զաքարիայի աւետումն; the image is relatively
+                        well-preserved, with dark blue, red, dark green, and purple colours
+                        prevailing. f. 13v The Sacrifice of Abraham; it contains a barely seen
+                        inscription: զյոհան նաղաշս աղաչեմ յիշել (I beseech you to remember me, Yohan
+                        the illuminator) f. 14r Jesus Christ. Christ is holding an open book in his
+                        left hand which contains an inscription from John 8:12: Ես եմ լոյս աշխարհի.
+                        որ գայ (“I am the light of the world. Whoever follows…”). However, the last
+                        two lines do not contain the more common գայ զկնի իմ (“follows me”), but
+                        words առ իս / մի մնաս are barely discernible. f. 15v Matthew – Մաթէոս; the
+                        image is relatively well-preserved, with red and dark blue colours
+                        prevailing. f. 92v Matthew – Մաթէոս; a small image inserted in the right
+                        column instead of the text; relatively well-preserved, with dark blue, red,
+                        and purple colours prevailing. f. 141v Luke – Ղուկաս; the image is
+                        well-preserved, with red and dark blue colours prevailing. f. 231v John –
+                        Յովհաննէս; a small image inserted in the right column instead of the text;
+                        relatively well-preserved, with dark blue, dark brown, and yellow colours
+                        prevailing. </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Dark brown leather binding with flap; silver ornaments, some of which are
+                        crosses with Armenian inscriptions, are attached to both sides of the cover
+                        with three stones attached (two on the front and one on the back side). The
+                        red stone in the centre of the front cover is a seal taken from a ring and
+                        contains an inscription in Persian: “At dawntime Murād Ibrāhīm beseeches the
+                        Merciful Lord for the clay of his seal” (van Lint and Meyer, p. 80). There
+                        are two studs and a trace of the third one on the front cover, and
+                        thirty-three eye-shaped silver pieces randomly nailed to the cover, which,
+                        according to van Lint, suggest that “[t]he manuscript may have been a ‘Saint
+                        of the Home’ (տան սուրբ, tan surb)” (van Lint and Meyer, p. 80). According
+                        to the colophon on f. 298r, it was bound by the goldsmith Amirex. The silver
+                        crosses on the cover contain the following inscriptions which are not always
+                        easily legible as most words are abbreviated and written in crude
+                        handwriting: ՌՃԽ Ֆ[?] ԱՆԱՅԻՆ ՅԻՇԷ ԽԱՉՍ ՏԷՐ ՅՍՎԱՆԷՍԻՆ ԻՒՐ ԿՈՂԱԿՑՈՆ (“1140 [=
+                        1691 CE] Ana (?) remember this cross of Lord Yovanēs his spouse”) Յիշատակ է
+                        խաչս Մոսեխին որ ետ ի դուռն Սուրբ Նշանին թվականին ՌՃԽԳ. Տէր Աստուած. Յիսուս
+                        Քրիստոս (“This cross is a memorial to Mosex who gave it to the door of the
+                        Holy Cross in the year 1143 [= 1694 CE]. Lord God. Jesus Christ”) Some
+                        crosses only contain one name: ՄԱՐԵԱՄ (“Maream”), ԱԽԱՆԷՍ (“Axanēs”), ՏԷՐ
+                        ՄԿՌՏԻՉ (?) (“Lord Mkṙtič‘”(?)). </p>
+                  </bindingDesc>
                </physDesc>
                <history>
-                  <origin>
+                  <origin><origPlace>Armenian Kingdom of Cilicia.</origPlace>
                      <origDate calendar="#Gregorian" when="1304">1304</origDate>
-                     
                   </origin>
-                  <acquisition>This MS. was bought from Mr. Joseph Bayan on Aug. 28, 1883.</acquisition>
+                  <acquisition>This MS. was bought from Mr. Joseph Bayan on Aug. 28,
+                     1883.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleain Library; Oxford, at the Clarendon Press 1918</source>
+                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare,
+                           F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in
+                           the Bodleian Library; Oxford, at the Clarendon Press 1918. Several
+                           additions and corrections to the text have been introduced by David
+                           Zakarian for the online catalogue.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>In order to preserve this rare and fragile artefact, access to it is
                            restricted, and readers are asked to work from reproductions and
                            published descriptions as far as possible. To apply to see the original,
                            please send a message to
-                           <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>,
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>,
                            outlining the subject of your research, the importance of this item to
                            that research, and the resources you have already consulted. Entry to
                            read in the Library is permitted only on presentation of a valid reader's
@@ -91,7 +311,11 @@
                               Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
-               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/2547c102-d7e2-43af-af5c-6f96488e126f"><title>Digital Bodleian</title></ref> <note>(2 selected images only)</note></bibl></surrogates></additional>
+                  <surrogates><bibl type="digital-facsimile" subtype="partial"><ref
+                           target="https://digital.bodleian.ox.ac.uk/inquire/p/2547c102-d7e2-43af-af5c-6f96488e126f"
+                              ><title>Digital Bodleian</title></ref>
+                        <note>(2 selected images only)</note></bibl></surrogates>
+               </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -99,7 +323,8 @@
          <classDecl>
             <taxonomy xml:id="LCSH">
                <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
                </bibl>
             </taxonomy>
             <taxonomy xml:id="local_class">
@@ -159,7 +384,8 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85098523#concept" key="subject_sh85098523">Passion narratives (Gospels)</term>
+                     <term target="http://id.loc.gov/authorities/sh85098523#concept"
+                        key="subject_sh85098523">Passion narratives (Gospels)</term>
                   </item>
                </list>
             </keywords>
@@ -167,7 +393,9 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref
+               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
+               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-01-16">
             <persName>Robin Meyer</persName>
