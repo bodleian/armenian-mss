@@ -1223,6 +1223,18 @@
                     <!-- ../collections/MS_Arm_d_16.xml -->
                 </item>
                 
+                <item xml:id="subject_sh85013727">
+                    <term type="display">Bible--Translations</term>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://id.loc.gov/authorities/subjects/sh85013727.html">
+                                    <title>LC</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </item>
                 
                 
             </list>

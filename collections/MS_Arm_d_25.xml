@@ -48,12 +48,12 @@
                      miniatures.</summary>
                   <msItem xml:id="MS_Arm_d_25-item1" n="toc">
                      <locus from="17r" to="96v">ff. 17r-96v</locus>
-                     <title xml:lang="en">The Gospel of St. Matthew</title>
+                     <title xml:lang="en" key="work_847">The Gospel of St. Matthew</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_d_25-item2" n="toc">
                      <locus from="100r" to="154r">ff. 100r-154r</locus>
-                     <title xml:lang="en">The Gospel of St. Mark</title>
+                     <title xml:lang="en" key="work_846">The Gospel of St. Mark</title>
                      <colophon xml:lang="hy">Համբարձմանն կարդայ. Եւ զպարոնտէր Թումա եպիսկոպոսն
                         աւրհնեա, եւ զգրաւղս յիշեա։ Ամէն: </colophon>
                      <textLang mainLang="hy">Armenian</textLang>
@@ -63,7 +63,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_25-item3" n="toc">
                      <locus from="158r" to="248r">ff. 158r-248r</locus>
-                     <title xml:lang="en">The Gospel of St. Luke</title>
+                     <title xml:lang="en" key="work_845">The Gospel of St. Luke</title>
                      <colophon xml:lang="hy">Ի բարերար եւ ի մարդասէր փրկիչն աշխարհի, որ հաշտեցոյց
                         զանկեալ բնութիւնս ընդ Հաւր Աստուծոյ, նոյնպէս հաշտեսցի գթութեամբն եւ
                         ողորմութեամբն կրկնակի գալըստեան իւրոյ, ընդ ձայնին երանական, որ ասէ եկայք
@@ -75,7 +75,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_25-item4" n="toc">
                      <locus from="250r" to="318r">ff. 17r-96v</locus>
-                     <title xml:lang="en">The Gospel of St. John</title>
+                     <title xml:lang="en" key="work_844">The Gospel of St. John</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The narrative of the ‘Woman taken into adultery’ is separated from the
                         rest of the text by the sub-heading ‘Gospel of St John: Book of the Woman
@@ -188,7 +188,7 @@
                   <handDesc>
                      <handNote scope="major" script="bolorgir"><desc><label>Script: </label>Medium
                            regular bolorgir in black ink. <label>Scribe: </label><persName
-                              role="scr"/>Anania vardapet Šambec‘i.</desc></handNote>
+                              role="scr" key="person_102">Anania vardapet Šambec‘i</persName>.</desc></handNote>
                   </handDesc>
                   <decoDesc>
                      <decoNote>Bird capitals are used for chapter headings and large decorated
@@ -239,7 +239,14 @@
                               Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
-                  <surrogates/>
+                  <surrogates>
+                     <bibl type="digital-facsimile" subtype="partial">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/9d4fab89-55fa-4093-80c5-71a4338fb09b/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note>(9 selected images only)</note>
+                     </bibl>
+                  </surrogates>
                </additional>
             </msDesc>
          </sourceDesc>
