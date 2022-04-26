@@ -53,7 +53,8 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_d_22-item2" n="toc">
                      <locus from="87v" to="87v">ff. 87v</locus>
-                     <title xml:lang="en" key="work_840">Epilogue to the Gospel of St. Matthew</title>
+                     <title xml:lang="en" key="work_840">Epilogue to the Gospel of St.
+                        Matthew</title>
                      <title xml:lang="hy" key="work_840">Աւետարան ըստ Մաթէոսի</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
@@ -182,22 +183,24 @@
                            introduced by David Zakarian for the online catalogue.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>In order to preserve this rare and fragile artefact, access to it is
+                        <p>In order to protect and preserve this artefact, access to it is
                            restricted, and readers are asked to work from reproductions and
-                           published descriptions as far as possible. To apply to see the original,
-                           please send a message to
-                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>,
-                           outlining the subject of your research, the importance of this item to
-                           that research, and the resources you have already consulted. Entry to
-                           read in the Library is permitted only on presentation of a valid reader's
-                           card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
-                              Admissions</ref>).</p>
+                           published descriptions as far as possible. If you require access to the
+                           original, please submit your request through the Bodleian Archives and
+                           Manuscript Request service. When your request is received, you will be
+                           asked to provide further information outlining the subject of your
+                           research, the importance of this item to that research, and the resources
+                           you have already consulted. Your application will then be considered by
+                           our curatorial staff. Entry to read in the Library is permitted only on
+                           presentation of a valid reader's card (for admissions procedures contact
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                              >Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl type="digital-facsimile" subtype="partial">
-                        <ref target="https://digital.bodleian.ox.ac.uk/objects/d48e9ea1-48ad-499f-800b-b13406354a23/">
+                        <ref
+                           target="https://digital.bodleian.ox.ac.uk/objects/d48e9ea1-48ad-499f-800b-b13406354a23/">
                            <title>Digital Bodleian</title>
                         </ref>
                         <note>(3 selected images only)</note>

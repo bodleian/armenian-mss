@@ -68,7 +68,7 @@
                      original copy, unnoticed by our copyist or his predecessor” (pp. 154-155). </summary>
                   <msItem xml:lang="en" xml:id="MS_Arm_d_11-item1">
                      <author key="person_41"><persName xml:lang="en">John Chrysostom, Saint,
-                        -407</persName></author>
+                           -407</persName></author>
                      <title xml:lang="en" key="work_837">Commentary on Epistle to Ephesians</title>
                      <incipit xml:lang="hy" defective="true">զհրեշտակական վարս ցուցցուք </incipit>
                      <explicit xml:lang="hy" defective="true">քանզի զպատերազմաց եւ զմարտից յուշ
@@ -139,7 +139,7 @@
                            vowel, and these vowels are charged generally with a dash on the top, as,
                            for instance, on f. 30, տարա | կուսութիւն, ապաշաւի | ցէ, փորձ ի | բաց.
                               <label>Scribe: </label><persName role="scr" key="person_103"
-                           >Step‘annos</persName>.</desc></handNote>
+                              >Step‘annos</persName>.</desc></handNote>
                   </handDesc>
                   <decoDesc>
                      <decoNote>The MS. is embellished with several marginal ornaments (ff. 1r, 4v,
@@ -217,17 +217,18 @@
                            introduced by David Zakarian for the online catalogue.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>In order to preserve this rare and fragile artefact, access to it is
+                        <p>In order to protect and preserve this artefact, access to it is
                            restricted, and readers are asked to work from reproductions and
-                           published descriptions as far as possible. To apply to see the original,
-                           please send a message to
-                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>,
-                           outlining the subject of your research, the importance of this item to
-                           that research, and the resources you have already consulted. Entry to
-                           read in the Library is permitted only on presentation of a valid reader's
-                           card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
-                              Admissions</ref>).</p>
+                           published descriptions as far as possible. If you require access to the
+                           original, please submit your request through the Bodleian Archives and
+                           Manuscript Request service. When your request is received, you will be
+                           asked to provide further information outlining the subject of your
+                           research, the importance of this item to that research, and the resources
+                           you have already consulted. Your application will then be considered by
+                           our curatorial staff. Entry to read in the Library is permitted only on
+                           presentation of a valid reader's card (for admissions procedures contact
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                              >Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates><bibl type="digital-facsimile" subtype="partial"><ref
