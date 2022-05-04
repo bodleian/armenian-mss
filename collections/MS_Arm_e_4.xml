@@ -44,6 +44,11 @@
                </msIdentifier>
                <msContents>
                   <summary>Gospels, A.D. 1469</summary>
+                  <textLang mainLang="hy">Armenian</textLang>
+                  <msItem><listBibl><bibl><ref
+                     target="https://archive.org/details/catalogueofarmen00bodl/page/n15/mode/2up?view=theater"
+                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     Bodleian Library, no. 7, pp. 7-9.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">

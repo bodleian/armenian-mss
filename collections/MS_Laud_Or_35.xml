@@ -44,6 +44,11 @@
                </msIdentifier>
                <msContents>
                   <summary>Psalter, A.D. 1551.</summary>
+                  <textLang mainLang="hy">Armenian</textLang>
+                  <msItem><listBibl><bibl><ref
+                     target="https://archive.org/details/catalogueofarmen00bodl/page/n19/mode/2up?view=theater"
+                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     Bodleian Library, no. 17, pp. 16-17.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
@@ -68,7 +73,7 @@
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1551">1551</origDate>
-                     (<origDate calendar="#Armenian">1000</origDate> in the Armenian calendar)
+                     (<origDate calendar="#Armenian" when="1551">1000</origDate> in the Armenian calendar)
                   </origin>
                   <acquisition>This MS. was presented by Archbishop Laud in 1639, and was once referenced as Laud. A 15.</acquisition>
                </history>

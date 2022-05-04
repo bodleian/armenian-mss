@@ -44,6 +44,11 @@
                </msIdentifier>
                <msContents>
                   <summary>Antiphonary, A.D. 1296.</summary>
+                  <textLang mainLang="hy">Armenian</textLang>
+                  <msItem><listBibl><bibl><ref
+                     target="https://archive.org/details/catalogueofarmen00bodl/page/n71/mode/2up?view=theater"
+                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     Bodleian Library, no. 60, pp. 121-123.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">

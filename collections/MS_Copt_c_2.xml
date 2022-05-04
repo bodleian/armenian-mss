@@ -44,6 +44,11 @@
                </msIdentifier>
                <msContents>
                   <summary>Fragment of the Gospel of Luke, 14th (?) cent. -- Polyglott fragement, in 5 cols., Aethioppic, Syriac, Coptic ('Memphitic' version), Arabic in Karshuni characters, and Armenian.</summary>
+                  <textLang mainLang="hy">Armenian</textLang>
+                  <msItem><listBibl><bibl><ref
+                     target="https://archive.org/details/catalogueofarmen00bodl/page/n13/mode/2up?view=theater"
+                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     Bodleian Library, no. 4, pp. 5-6.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="leaf">

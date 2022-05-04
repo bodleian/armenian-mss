@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_108">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_127">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -28,11 +28,11 @@
                </address>
             </pubPlace>
             <idno>OCIMCO</idno>
-            <idno type="msID">MS_Laud_Or_34</idno>
+            <idno type="msID">MS_Arm_d_9</idno>
             <idno type="catalogue">Armenian</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Laud_Or_34" xml:lang="en">
+            <msDesc xml:id="MS_Arm_d_9" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -40,28 +40,28 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Laud Or. 34</idno>
+                  <idno>MS. Arm. d. 9</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Psalter, A.D. 1488 etc.</summary>
+                  <summary>Gospels, A.D. 1564.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
                   <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n19/mode/2up?view=theater"
+                     target="https://archive.org/details/catalogueofarmen00bodl/page/n17/mode/2up?view=theater"
                      >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
-                     Bodleian Library, no. 15, pp. 15-16.</ref></bibl></listBibl></msItem>
+                     Bodleian Library, no. 12, p. 13.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="cotton_paper">
                         <extent>
                            <dimensions type="leaf" unit="in">
-                              <height>5.125"</height>
-                              <width>3.375"</width>
+                              <height>11"</height>
+                              <width>7.25"</width>
                            </dimensions>
                         </extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="1">
+                        <layout columns="2">
                            <dimensions type="line-height" unit="mm"/>
                         </layout>
                      </layoutDesc>
@@ -72,10 +72,10 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian" when="1488">1488</origDate>
-                     (<origDate calendar="#Armenian" when="1488">937</origDate> in the Armenian calendar)
+                     <origDate calendar="#Gregorian" when="1564">1564.</origDate>
+                     
                   </origin>
-                  <acquisition>This MS. was presented by Archbishop Laud in 1636, and was once referenced as Laud. A 16.</acquisition>
+                  <acquisition>This MS. was bought from Mr. J. Bayan jun. on Sept. 13, 1884.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -86,7 +86,7 @@
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
-               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/80b47ee1-67e2-4e1e-ac95-41fcf73b35ed"><title>Digital Bodleian</title></ref> <note>(single sample image)</note></bibl></surrogates></additional>
+               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/003f8672-a5c6-4ca2-963b-774b98cc0930"><title>Digital Bodleian</title></ref> <note>(single sample image)</note></bibl></surrogates></additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -154,10 +154,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh89006518#concept" key="subject_sh89006518">Psalter collects</term>
-                  </item>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/sh2002011417#concept" key="subject_sh2002011417">Liturgy</term>
+                     <term target="http://id.loc.gov/authorities/sh85098523#concept" key="subject_sh85098523">Passion narratives (Gospels)</term>
                   </item>
                </list>
             </keywords>
@@ -167,13 +164,14 @@
          <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
-         <change when="2012-01-23">
+         <change when="2012-01-16">
             <persName>Robin Meyer</persName>
          </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <graphic url="cat_pdf/p15.pdf"/>
+      <graphic url="cat_pdf/p11.pdf"/>
+      <graphic url="cat_pdf/p13.pdf"/>
    </facsimile>
    <text>
       <body>

@@ -49,7 +49,11 @@
                      <author key="person_66">Fr. Rivola</author>
                      <title xml:lang="la" key="work_520">Dictionarium Armeni-Latinum</title>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <note>An inscription at the eginning of the volume by William Guise, the orientlaist, fellow of All Souls', states that it was given to him by Dr. Thomas Marshall. Either before or after Guise's death it passed back to Marshall's hands and was bequieathed by him to the Bodleian in 1685.</note>
+                     <msItem><listBibl><bibl><ref
+                        target="https://archive.org/details/catalogueofarmen00bodl/page/n57/mode/2up?view=theater"
+                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        Bodleian Library, no. 42, pp. 91-92.</ref></bibl></listBibl></msItem>
+                     <note>An inscription at the beginning of the volume by William Guise, the orientlaist, fellow of All Souls', states that it was given to him by Dr. Thomas Marshall. Either before or after Guise's death it passed back to Marshall's hands and was bequieathed by him to the Bodleian in 1685.</note>
                   </msItem>
                </msContents>
                <physDesc>

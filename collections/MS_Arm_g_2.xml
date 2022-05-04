@@ -44,6 +44,11 @@
                </msIdentifier>
                <msContents>
                   <summary>Breviary, A.D. 1637 etc.</summary>
+                  <textLang mainLang="hy">Armenian</textLang>
+                  <msItem><listBibl><bibl><ref
+                     target="https://archive.org/details/catalogueofarmen00bodl/page/n19/mode/2up?view=theater"
+                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     Bodleian Library, no. 18, pp. 17-18.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
@@ -69,7 +74,7 @@
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1637">1637</origDate>
-                     (<origDate calendar="#Armenian">1086</origDate> in the Armenian calendar)
+                     (<origDate calendar="#Armenian" when="1637">1086</origDate> in the Armenian calendar)
                   </origin>
                   <acquisition>This MS. was bought from Mr. Joseph Bayan on Nov. 13, 1882.</acquisition>
                </history>

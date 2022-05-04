@@ -20,7 +20,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -49,18 +50,34 @@
                      <title xml:lang="en" key="work_521">Perpetual Calendar</title>
                      <title xml:lang="hy" key="work_521">Պարզատումար</title>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <note>Պարզատումար, i.e. 'Simplified Calendar'. Consisting of a series of 35 and a half separate calendars, to be chosen according to the Easter-day of the year, which can fall, in its limit from the 22n March to the 25th April, and govern all the moveable feasts of the year. To each of these calendars is applied one of the 36 letters of the Armenian alphabet, called the year-letter (Տարեգիր), as it appears at the head of each calendar. This calendar, in tabular form, is published in the Arm. Psalters, and in French in the Dulaurier's Chronologie Armenienne (Paris, 1859), with a preliminary notice, pp. 401-405.</note>
+                     <note>Պարզատումար, i.e. 'Simplified Calendar'. Consisting of a series of 35 and
+                        a half separate calendars, to be chosen according to the Easter-day of the
+                        year, which can fall, in its limit from the 22n March to the 25th April, and
+                        govern all the moveable feasts of the year. To each of these calendars is
+                        applied one of the 36 letters of the Armenian alphabet, called the
+                        year-letter (Տարեգիր), as it appears at the head of each calendar. This
+                        calendar, in tabular form, is published in the Arm. Psalters, and in French
+                        in the Dulaurier's Chronologie Armenienne (Paris, 1859), with a preliminary
+                        notice, pp. 401-405.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_10-item2" n="2">
                      <locus>f. 1</locus>
-                     <title xml:lang="en" key="work_523">Gantzs and Hyns form the Night office.</title>
+                     <title xml:lang="en" key="work_523">Gantzs and Hyns form the Night
+                        office.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                   </msItem>
                   <msItem xml:id="MS_Arm_g_10-item3" n="3">
                      <locus>f. 119(b)</locus>
-                     <title xml:lang="en" key="work_524">The Holy Places (Տնորինական տեղիք) in Palestine and Jerusalem.</title>
+                     <title xml:lang="en" key="work_524">The Holy Places (Տնորինական տեղիք) in
+                        Palestine and Jerusalem.</title>
                      <incipit>Նած և առաջին Նազարէթ աղբիւր …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                              target="https://archive.org/details/catalogueofarmen00bodl/page/n85/mode/2up?view=theater"
+                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                              Bodleian Library, no. 65, p. 149.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
@@ -81,22 +98,29 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="notrgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref> script</handNote>
+                     <handNote scope="major" script="notrgir">Written in <ref
+                           target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
+                        script</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th cent.</origDate>
-                     
+                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th
+                        cent.</origDate>
                   </origin>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
+                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare,
+                           F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in
+                           the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
                </additional>
@@ -107,7 +131,8 @@
          <classDecl>
             <taxonomy xml:id="LCSH">
                <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
                </bibl>
             </taxonomy>
             <taxonomy xml:id="local_class">
@@ -167,7 +192,8 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85018842#concept" key="subject_sh85018842">Perpetual calendars</term>
+                     <term target="http://id.loc.gov/authorities/sh85018842#concept"
+                        key="subject_sh85018842">Perpetual calendars</term>
                   </item>
                </list>
             </keywords>
@@ -175,7 +201,9 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref
+               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
+               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-05-21">
             <persName>Robin Meyer</persName>

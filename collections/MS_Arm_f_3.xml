@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_68">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_67">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -28,11 +28,11 @@
                </address>
             </pubPlace>
             <idno>OCIMCO</idno>
-            <idno type="msID">MS_Arm_f4</idno>
+            <idno type="msID">MS_Arm_f3</idno>
             <idno type="catalogue">Armenian</idno>
          </publicationStmt>
          <sourceDesc>
-            <msDesc xml:id="MS_Arm_f4" xml:lang="en">
+            <msDesc xml:id="MS_Arm_f3" xml:lang="en">
                <msIdentifier>
                   <country>United Kingdom</country>
                   <region type="county">Oxfordshire</region>
@@ -40,18 +40,84 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f.4</idno>
+                  <idno>MS. Arm. f.3</idno>
                </msIdentifier>
                <msContents>
-                  <summary>Psalter, 17th cent. (?)</summary>
+                  <summary>Chronological, 17th cent.</summary>
+                  <msItem xml:id="MS_Arm_f3-item1" n="1">
+                     <locus>f. 1</locus>
+                     <title xml:lang="en" key="work_589">The Armenian Calendar</title>
+                     <title xml:lang="hy" key="work_589">Պատճէն Հռոմայեցւոց (rather Հայոց) Տումարին. 'Կրկնակ ամսոց աւսպէս արա. Կալ զունվար ամիսն'</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>This so-called Calendar (in Arm. Toumar, from the Greek Τομάριον), probably p;der than the 7th cent., consists simply of a collection of practical formulae for ascertaining some hemerological points and the days of moveable feasts according to the observance of the Armenian church. It forms the topic of the next article, and seems on that account to have been inserted by a later hand here at the beginning of the volume; although it differs somewhat in the order, and more in the contents of the formulae, from the text used by the commentator, which seems to be shorter.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f3-item2" n="2">
+                     <locus>f. 13</locus>
+                     <author key="person_74">Iacob Vardapet of the Crimea</author>
+                     <title xml:lang="en" key="work_591">Commentaru on the Calendar</title>
+                     <title xml:lang="hy" key="work_591">Մեկնութիւն Տումարի զոր խնդրեալ Թովմայ վարդապետն Մեծոփայ վանաց: ա՟ծածնակ սուրբ ուխտին և սիրով զհայցուածս նորա կատարեալ Յակոբ վարդապետի Ղրիմեցւոյ.</title>
+                     <incipit>Զհայցուածս գերեջանիկ րաբունապետի երիցս երանելոյ …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f3-item3" n="3">
+                     <locus>f. 146(b)</locus>
+                     <author key="person_74">Iacob Vardapet of the Crimea</author>
+                     <title xml:lang="en" key="work_593">Historical treatose on the Calendar, includign a full explanagion of the reform made in it in the 6th cent., which resulted in the establishment of the Armenian era.</title>
+                     <title xml:lang="hy" key="work_593">Նորին Յակոբ վրդ՟պտի Ղրիմեցոյ յղ՟գս տումարական մակացութ՟ե թէ ի յորոց մ՟դկանէ արհեստաորեցաւ.</title>
+                     <incipit>Գիտելի է զի նախ ի նախամարգարէէն օրինադրեցաւ. զի նա կարգեաց զլրմունս զատկաց հինն ի՟ղի …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f3-item4" n="4">
+                     <locus>f. 153(b)</locus>
+                     <title xml:lang="en" key="work_595">Some more hemerological formulae, six in number, and chronological notes.</title>
+                     
+                     <incipit>Րոպէ աւսպէս արա. Կալի նաւասարդի ամսէն միմչև ուր ես …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The end is wanting.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f3-item5" n="5">
+                     <locus>f. 155</locus>
+                     <title xml:lang="en" key="work_596">Notes on weights and measures.</title>
+                     
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The neginning and the end are missing.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f3-item6" n="6">
+                     <locus>f .156</locus>
+                     <title xml:lang="en" key="work_597">Short notes on philosophical, rhetorical, theological, and other matters, in form of question and answer.</title>
+                     
+                     <incipit>… ա՟ծաբանէ: Հց. Զի՞նչ է իմաստասիրութիւն. Պտ. Արուեստ է արուեստից …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>The beginning is wanting.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f3-item7" n="7">
+                     <locus>f. 158(b)</locus>
+                     <author key="person_75">Ter Araqel Bałishetzi</author>
+                     <title xml:lang="en" key="work_599">An astronomical and meteorological tract, in verse.</title>
+                     <title xml:lang="hy" key="work_599">(First Chapter:) Յաղագս երկոտասան կենդանակերպիցն</title>
+                     <incipit>Աշխարհ ունի ըզձև մարմնոյ (lege մարդոյ) Երկոտասան անդամք մարմնոյ …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <note>Concerning the Twelve zodiacal signs. Begins: The univers has the shape of a body (read man), twelve limbs hat the body …. The lacuna after f. 163 can be supplied from the 14th article in no. 36 of this catalogue (MS .Marsh 85). The last chapter, entitles Աւուրք պահպանութեան, is omitted in the latter.</note>
+                  </msItem>
+                  <msItem xml:id="MS_Arm_f3-item8" n="8">
+                     <locus>f. 164</locus>
+                     <title xml:lang="en" key="work_600">Some hemerological notes, with tables.</title>
+                     
+                     <incipit>Գիր բանալեաց աւսպէս արա …</incipit>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <msItem><listBibl><bibl><ref
+                        target="https://archive.org/details/catalogueofarmen00bodl/page/n61/mode/2up?view=theater"
+                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        Bodleian Library, no. 46, pp. 100-101.</ref></bibl></listBibl></msItem>
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc material="paper">
+                     <supportDesc material="vellum">
                         <extent>
                            <dimensions type="leaf" unit="in">
-                              <height>3.75"</height>
-                              <width>4"</width>
+                              <height>5.25"</height>
+                              <width>3.75"</width>
                            </dimensions>
                         </extent>
                      </supportDesc>
@@ -67,10 +133,10 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th (?) cent.</origDate>
+                     
                      
                   </origin>
-                  <acquisition>This MS. was sent from Smyrna on Nov. 28, 1889, by the Rev. Greville H. Chester, B.A.</acquisition>
+                  <acquisition>This MS. was bought from the Rev. S. Baronian, on July 21, 1887.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -149,10 +215,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh89006518#concept" key="subject_sh89006518">Psalter collects</term>
-                  </item>
-                  <item>
-                     <term target="http://id.loc.gov/authorities/sh2002011417#concept" key="subject_sh2002011417">Liturgy</term>
+                     <term target="http://id.loc.gov/authorities/sh85018849#concept" key="subject_sh85018849">Calendar Reform</term>
                   </item>
                </list>
             </keywords>
@@ -162,12 +225,13 @@
          <change when="2017-07-26">
             <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
-         <change when="2012-04-04">
+         <change when="2011-05-12">
             <persName>Robin Meyer</persName>
          </change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
+      <graphic url="cat_pdf/p99.pdf"/>
       <graphic url="cat_pdf/p101.pdf"/>
    </facsimile>
    <text>

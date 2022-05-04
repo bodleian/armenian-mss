@@ -121,6 +121,10 @@
                      <locus>ff. 23-33</locus>
                      <title xml:lang="en" key="work_45">Prayers taken from the Psalms and teh Common Prayerbook (Ժամագիրք)</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <msItem><listBibl><bibl><ref
+                        target="https://archive.org/details/catalogueofarmen00bodl/page/n47/mode/2up?view=theater"
+                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        Bodleian Library, no. 32, pp. 71-72.</ref></bibl></listBibl></msItem>
                   </msItem>
                </msContents>
                <physDesc>
