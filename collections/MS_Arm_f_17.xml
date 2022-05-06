@@ -92,6 +92,12 @@
                      <title xml:lang="en" key="work_135">Story of Job the Just.</title>
                      <incipit>Երանելին Յոբ ի զարմէ Աբրահամու և ի թոռանցն Եսաւայ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
+                    <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n109/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 90, pp. 198-199.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

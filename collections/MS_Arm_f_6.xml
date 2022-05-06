@@ -20,7 +20,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -47,12 +48,23 @@
                   <msItem xml:id="MS_Arm_f_6-item1" n="1">
                      <locus>f. 2</locus>
                      <author key="person_16">
-                         <persName>David, the Invincible</persName> (<persName>Davitʻ Anhaghtʻ</persName>, <persName>Davit' Anyałt</persName>)
-                     </author>
-                     <title xml:lang="en" key="work_161">The Definitions of Philosophy, and other philosphical tracts</title>
+                        <persName>David, the Invincible</persName> (<persName>Davitʻ
+                           Anhaghtʻ</persName>, <persName>Davit' Anyałt</persName>) </author>
+                     <title xml:lang="en" key="work_161">The Definitions of Philosophy, and other
+                        philosphical tracts</title>
                      <title xml:lang="hy" key="work_161">Sahmank' imastasirut'ean</title>
                      <textLang mainLang="xcl">Armenian</textLang>
-                     <note>This treatise (in 21 or 22) chapters is an introduction to the study of philosophy, and consists of a refutation of the four objections raused by Pyrrhonism against philosophy. Extracts of this work in Greek text are published by Brandis. Further pieces include: Omnia Mala; Isagoge of Porphyry; Letter of Aristotle to Kind Alexander about the Cosmos.</note>
+                     <note>This treatise (in 21 or 22) chapters is an introduction to the study of
+                        philosophy, and consists of a refutation of the four objections raised by
+                        Pyrrhonism against philosophy. Extracts of this work in Greek text are
+                        published by Brandis. Further pieces include: Omnia Mala; Isagoge of
+                        Porphyry; Letter of Aristotle to King Alexander about the Cosmos.</note>
+                     <listBibl>
+                        <bibl><ref
+                              target="https://archive.org/details/catalogueofarmen00bodl/page/n125/mode/2up?view=theater"
+                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                              Bodleian Library, no. 110, pp. 228-230.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
@@ -73,22 +85,28 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="bolorgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref> script</handNote>
+                     <handNote scope="major" script="bolorgir">Written in <ref
+                           target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref>
+                        script</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1334">1334</origDate>
-                     
                   </origin>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
+                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare,
+                           F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in
+                           the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
                </additional>
@@ -99,7 +117,8 @@
          <classDecl>
             <taxonomy xml:id="LCSH">
                <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
                </bibl>
             </taxonomy>
             <taxonomy xml:id="local_class">
@@ -156,7 +175,9 @@
       </encodingDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref
+               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
+               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-09-21">
             <persName>Robin Meyer</persName>

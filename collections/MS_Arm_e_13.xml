@@ -44,6 +44,13 @@
                </msIdentifier>
                <msContents>
                   <summary>Ritual, A.D. 1664.</summary>
+                  <textLang mainLang="hy">Armenian</textLang>
+                  <msItem><listBibl>
+                     <bibl><ref
+                        target="https://archive.org/details/catalogueofarmen00bodl/page/n135/mode/2up?view=theater"
+                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        Bodleian Library, no. 122, pp. 250-253.</ref></bibl>
+                  </listBibl></msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">

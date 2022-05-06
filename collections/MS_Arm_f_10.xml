@@ -132,7 +132,13 @@
                      <locus>f. 219</locus>
                      
                      <title xml:lang="en" key="work_446">Extracts from Menologium (Յայսմաւուրք)</title>
-                     <textLang mainLang="xcl">Armenian</textLang>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n119/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 97, pp. 218-220.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

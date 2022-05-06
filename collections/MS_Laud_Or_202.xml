@@ -70,6 +70,12 @@
                      <locus>f. 68</locus>
                      <title xml:lang="en" key="work_188">Letter of Sultan Ahmed I, padisbah of Turkey, to Henry IV, king of France, in Turksih, written in Arabic characters.</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n133/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 117, pp. 243-244.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

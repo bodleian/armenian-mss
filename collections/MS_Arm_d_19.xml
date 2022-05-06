@@ -49,6 +49,12 @@
                      <title xml:lang="en" key="work_232">A refutation of the book of Kardjik Manuel, entitled 'Radiant Gem' ...</title>
                      <title xml:lang="hy" key="work_232">Հերքումն 'Ակն լուսատու' մատենին Կարճիկ Մարնուէլի ի Հռոմէականէ ումեմնէ ի ջատագովութիւն Հրոմէական եկեղեցւոյ</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 106, pp. 225-226.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

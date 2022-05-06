@@ -119,6 +119,12 @@
                      <title xml:lang="en" key="work_617">Precepts to young people</title>
                      <incipit>Պարտ է մանկանց ճգնեալ և կրթել զմարմինս …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n93/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 72, pp. 166-168.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

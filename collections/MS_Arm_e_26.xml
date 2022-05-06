@@ -53,6 +53,12 @@
                      <title xml:lang="en" key="work_1">Summa Theologica</title>
                      <title xml:lang="en" type="alt" key="work_1">Medulla Theologica</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n121/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 101, pp. 221-222.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

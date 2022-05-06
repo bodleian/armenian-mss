@@ -44,6 +44,13 @@
                </msIdentifier>
                <msContents>
                   <summary>Story of Seven Sages, 18th cent.</summary>
+                  <textLang mainLang="hy">Armenian</textLang>
+                  <msItem><listBibl>
+                     <bibl><ref
+                        target="https://archive.org/details/catalogueofarmen00bodl/page/n121/mode/2up?view=theater"
+                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        Bodleian Library, no. 99, pp. 220-221.</ref></bibl>
+                  </listBibl></msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">

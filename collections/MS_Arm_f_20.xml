@@ -52,6 +52,12 @@
                      <title xml:lang="en" key="work_12">Commentary of the Seven Days of Creation</title>
                      <incipit>Ի սկզբանէ ստեղծ ա՟ծ ... վարդապետք ասեն թէ ած ի սկիզբն լինէլութե՟ արարածոցս ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
+                   <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n97/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 75, p. 171.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

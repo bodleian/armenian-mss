@@ -53,10 +53,16 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_27-item2" n="2">
                      <locus>f. 194</locus>
-                     <title xml:lang="en" key="work_49">Glossary of the Bibile in alphabetical order</title>
+                     <title xml:lang="en" key="work_49">Glossary of the Bible in alphabetical order</title>
                      <incipit>Աբանայ. հօր օրհնութիւն: Աբարիմ. անցք կամ անցանօղք …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Including proper names as well as the words of the foregoing lexicon.</note>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n133/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 116, p. 243.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

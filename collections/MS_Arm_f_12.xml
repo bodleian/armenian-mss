@@ -58,6 +58,12 @@
                      <title xml:lang="en" key="work_242">Heresies and false doctrines gathered from other nations into the meeting-house of the worshippers of the Odznetzi</title>
                      <title xml:lang="hy" key="work_242">Աղանդք և հերետիկիսական մոլորութիւնք հաւաքեալ յայլոց ազգաց ի ժողովարան Օձնեցապաշտից</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 104, p. 224.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

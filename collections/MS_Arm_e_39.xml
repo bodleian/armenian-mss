@@ -52,6 +52,12 @@
                      <title xml:lang="xcl-Latn-x-hmb" key="work_235">Girk' yałags Aṙak'inut'eanc'</title>
                      <incipit>զորութիւն ելանէր ինմանէ եւ բշկէր զամենեսեան. բանզի ջանք իմաստնոցն պարտ է լինել...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n111/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 91, pp. 199-200.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

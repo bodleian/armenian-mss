@@ -64,6 +64,12 @@
                      <title xml:lang="hy" key="work_139">Պատմութիւն Ղրիմայ երկրին, արարեալ ի Մարտիրոս վարդապետէ Ղրիմեցւոյ, ոտանաւոր, չափով</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>A piece composed by Martiros Vardapet of Crimea.</note>
+                     <msItem><listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 107, pp. 226-227.</ref></bibl>
+                     </listBibl></msItem>
                   </msItem>
                </msContents>
                <physDesc>

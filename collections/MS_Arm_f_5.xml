@@ -50,6 +50,12 @@
                      <title xml:lang="xcl-Latn-x-hmb" key="work_601">Matean Ołbergut'ean</title>
                      <title xml:lang="hy" key="work_601">Մատեան ողբերգութեան</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n97/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 77, p. 173.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

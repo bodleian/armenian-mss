@@ -57,6 +57,12 @@
                      <title xml:lang="en" key="work_6">Questions of John Vardapet, and Solutions of Gregory of Tathev</title>
                      <title xml:lang="xcl-Latn-x-hmb" key="work_6">P'ok'r Harc'munk'</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n105/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 86, pp. 190-193.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

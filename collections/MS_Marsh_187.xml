@@ -20,7 +20,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -46,9 +47,18 @@
                   <summary>Polyglot Glossary, 16th cent.</summary>
                   <msItem xml:id="MS_Marsh_187-item1" n="1">
                      <locus>f. 1</locus>
-                     <title xml:lang="en" key="work_231">A polyglott glossary of several languages</title>
+                     <title xml:lang="en" key="work_231">A polyglott glossary of several
+                        languages</title>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <note>Those languages being Latin, Modern Greek, Turkish, Tatar, Armenian, Slavonic or Russian, Moldavic. Each language has a separate column, the Armenian the fifth.</note>
+                     <note>Those languages being Latin, Modern Greek, Turkish, Tatar, Armenian,
+                        Slavonic or Russian, Moldavic. Each language has a separate column, the
+                        Armenian the fifth.</note>
+                     <listBibl>
+                        <bibl><ref
+                              target="https://archive.org/details/catalogueofarmen00bodl/page/n133/mode/2up?view=theater"
+                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                              Bodleian Library, no. 118, p. 244.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
@@ -65,22 +75,29 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="notrgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref> script</handNote>
+                     <handNote scope="major" script="notrgir">Written in <ref
+                           target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
+                        script</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th cent.</origDate>
-                     
+                     <origDate calendar="#Gregorian" notBefore="1600" notAfter="1700">17th
+                        cent.</origDate>
                   </origin>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare, F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
+                        <source>Manuscript description based on: Baronian, Sukias, Rev.; Conybeare,
+                           F. C. (Frederick Cornwallis); Catalogue of the Armenian manuscripts in
+                           the Bodleian Library; Oxford, at the Clarendon Press 1918</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
                </additional>
@@ -91,7 +108,8 @@
          <classDecl>
             <taxonomy xml:id="LCSH">
                <bibl>
-                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
                </bibl>
             </taxonomy>
             <taxonomy xml:id="local_class">
@@ -148,7 +166,9 @@
       </encodingDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref
+               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
+               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-09-22">
             <persName>Robin Meyer</persName>

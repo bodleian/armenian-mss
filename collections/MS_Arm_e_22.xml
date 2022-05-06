@@ -63,6 +63,12 @@
                      <title xml:lang="en" key="work_11">A 'faithful' translation of the Tome of Leo, with explanations.</title>
                      <incipit>Առ ի կատարելապէս ճանաչել զուղղափառութեան հաւատս բաւական էր …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 103, pp. 223-224.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

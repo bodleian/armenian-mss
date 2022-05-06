@@ -72,7 +72,7 @@
                      <title xml:lang="en" key="work_222">Commentary on Matthew, by Nerses Shnorhali, with the continuation by John of Erzenka.</title>
                      <incipit>Սրիոյ զաւրութիւն գերազանց է քան զբնութիւն, և այն քան մինչ զի մոռացումն առնել տկարութեան …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <note>This commentary, being mostly an abridged compilation of John Chrysosto, is divided like its original in the Armenian translation, into four books, and curiously the titles of theses division in this MS bear the name, not of John of Erzenka, but of St. John Chrysostom.</note>
+                     <note>This commentary, being mostly an abridged compilation of John Chrysostom, is divided like its original in the Armenian translation, into four books, and curiously the titles of theses division in this MS bear the name, not of John of Erzenka, but of St. John Chrysostom.</note>
                   </msItem>
                   <msItem xml:id="MS_Arm_e_15-item5" n="1">
                      <locus>f. 214</locus>
@@ -104,6 +104,12 @@
                      <title xml:lang="hy" key="work_227">Ի Հարցողաց գրոց</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>I.e. the Monastic Rules of St. Basil.</note>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n99/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 80, pp. 178-180.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

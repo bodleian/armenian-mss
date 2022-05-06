@@ -294,6 +294,12 @@
                      <locus>f. 433</locus>
                      <title xml:lang="en" key="work_504">List of the Easter Days from the year 1584 to 1702, in Armenian and Christian eras</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                    <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n85/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 66, pp. 149-153.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

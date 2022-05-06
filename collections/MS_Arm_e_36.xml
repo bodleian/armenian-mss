@@ -55,6 +55,12 @@
                      <author key="person_13">Cyril, Saint, Patriarch of Alexandria, <date calendar="#Gregorian" from="0370" to="0444">ca. 370-444</date></author>
                      <title xml:lang="en" key="work_47">Explanation of the Nicene Creed</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n91/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 70, pp. 162-164.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

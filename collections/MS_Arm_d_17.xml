@@ -44,6 +44,13 @@
                </msIdentifier>
                <msContents>
                   <summary>Lives of Fathers, 17th cent.</summary>
+                  <textLang mainLang="hy">Armenian</textLang>
+                  <msItem><listBibl>
+                     <bibl><ref
+                        target="https://archive.org/details/catalogueofarmen00bodl/page/n107/mode/2up?view=theater"
+                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        Bodleian Library, no. 88, pp. 194-197.</ref></bibl>
+                  </listBibl></msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">

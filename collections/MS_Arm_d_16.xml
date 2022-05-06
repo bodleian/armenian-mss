@@ -71,6 +71,12 @@
                      <title xml:lang="en" key="work_433">Commentary on on Song of Songs</title>
                      <incipit>Նման է արքայութիւն երկնից գանձի ծածկէլոյ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n101/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 82, pp. 182-183.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

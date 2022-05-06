@@ -119,6 +119,12 @@
                      <incipit>Այբն Աստուծոյ է օրինակ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Deficient after the letter Ն.</note>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n99/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 79, pp. 177-178.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

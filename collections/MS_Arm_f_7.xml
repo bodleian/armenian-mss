@@ -47,6 +47,12 @@
                   <msItem xml:id="MS_Arm_f_7-item1" n="1">
                      <title xml:lang="en" key="work_2">Various smaller items: commentaries, philosophical treatieses, etc.</title>
                      <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n133/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 121, pp. 246-250.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

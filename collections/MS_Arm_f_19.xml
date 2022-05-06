@@ -65,6 +65,12 @@
                      <title xml:lang="en" key="work_461">Some indices</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains: Index of Names arranged alphabetically of an Armenian Menologium (Յայսմաւուրք); Index to the Book of Canons (Կանոնգիրք).</note>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n97/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 76, p. 172.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

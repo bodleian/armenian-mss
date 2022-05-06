@@ -48,8 +48,14 @@
                      <locus>f. 1</locus>
                      <author key="person_63">Gabriel Avedikian</author>
                      <title xml:lang="hy" key="work_509">'Հայելի ազգեցութեան', յորում ցուցանին թիւրութիւնք տետրակին կոչեցելոյ Գաւազան կրկնազօրմ առ ի զգաստութիւն և յուղղութիւն հեղինակի նորին Սրմաքէշ Մանուէլի, արարեալ յումեմնէ ճշմարտասիրէ … յամի Տ՟ն</title>
-                     <title xml:lang="en" key="work_509">'A Reflecting Mirror', showing the callacies of the pamphlet called 'Staff of Twofold Strength' of Sermaqesh Manuel, written by a lover of truth …</title>
-                     <textLang mainLang="xcl">Armenian</textLang>
+                     <title xml:lang="en" key="work_509">'A Reflecting Mirror', showing the fallacies of the pamphlet called 'Staff of Twofold Strength' of Sermaqesh Manuel, written by a lover of truth …</title>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 105, p. 225.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

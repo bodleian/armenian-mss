@@ -63,6 +63,12 @@
                      <title xml:lang="en" key="work_122">A collection of philosophical and biblical commentaries.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Includes the following titles: On the Nativity of Our Lord (I John 1); On the Adoration of Magi; Explanation of the 'Gloria in excelsis'; On Death; On Joel 2.1; Three homilies on Repentance (Matt. 3.2); On Confession (Jas. 5.16); etc.</note>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n111/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 92, pp. 200-201.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>

@@ -65,6 +65,13 @@
                      <title xml:lang="en" type="supplied" key="work_159">Commentary on Daniel</title>
                      <incipit>Հոգեւոր սբ եղբարք մէր եւ որդեակք յօժարեցին...</incipit>
                      <note>This commentary was published in Constantinople, 1825, as Appendix to the Commentary of XII Prophets, by Nerses of Lambron, pp.242-248.</note>
+                     <textLang mainLang="hy">Armenian</textLang>
+                     <listBibl>
+                        <bibl><ref
+                           target="https://archive.org/details/catalogueofarmen00bodl/page/n93/mode/2up?view=theater"
+                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                           Bodleian Library, no. 71, pp. 164-166.</ref></bibl>
+                     </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
