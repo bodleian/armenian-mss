@@ -231,10 +231,16 @@
                               >Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
-                  <surrogates><bibl type="digital-facsimile" subtype="partial"><ref
-                           target="https://digital.bodleian.ox.ac.uk/inquire/p/12233893-cbda-45b9-82f7-c98f0b208082"
-                              ><title>Digital Bodleian</title></ref>
-                        <note>(7 selected images only)</note></bibl></surrogates>
+                  <surrogates>
+                     <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/9482027b-03d2-42b6-a741-7b7a96fb928d/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
+                     <bibl type="digital-facsimile" subtype="partial">
+                        <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/12233893-cbda-45b9-82f7-c98f0b208082">
+                           <title>Digital Bodleian</title></ref> <note>(7 selected images only)</note>
+                     </bibl>
+                  </surrogates>
                </additional>
             </msDesc>
          </sourceDesc>
