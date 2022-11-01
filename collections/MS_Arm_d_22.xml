@@ -198,12 +198,13 @@
                      </availability>
                   </adminInfo>
                   <surrogates>
+                     <bibl type="digital-facsimile" subtype="full">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/6c9253f3-4db2-48b6-9404-418ba9e24b5d/">
+                           <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                     </bibl>
                      <bibl type="digital-facsimile" subtype="partial">
-                        <ref
-                           target="https://digital.bodleian.ox.ac.uk/objects/d48e9ea1-48ad-499f-800b-b13406354a23/">
-                           <title>Digital Bodleian</title>
-                        </ref>
-                        <note>(3 selected images only)</note>
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/d48e9ea1-48ad-499f-800b-b13406354a23/">
+                           <title>Digital Bodleian</title></ref> <note>(3 selected images only)</note>
                      </bibl>
                   </surrogates>
                </additional>
