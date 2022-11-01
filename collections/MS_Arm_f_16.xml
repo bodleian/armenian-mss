@@ -108,7 +108,25 @@
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
-               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/e88bbfbe-a16b-423d-b5b2-9d29af3ad8d4"><title>Digital Bodleian</title></ref> <note>(single sample image)</note></bibl><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/f8052828-488b-4bdc-9bfa-f3c9573e0a64"><title>Digital Bodleian</title></ref> <note>(single sample image)</note></bibl><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/550b0d3b-6f0d-43d4-bdc9-4818c5952f40"><title>Digital Bodleian</title></ref> <note>(single sample image)</note></bibl></surrogates></additional>
+               <surrogates>
+                  <bibl type="digital-facsimile" subtype="full">
+                     <ref target="https://digital.bodleian.ox.ac.uk/objects/67a9ed64-9989-473b-a6b8-5ddbc4bed30f/">
+                        <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                  </bibl>
+                  <bibl type="digital-facsimile" subtype="partial">
+                     <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/e88bbfbe-a16b-423d-b5b2-9d29af3ad8d4">
+                        <title>Digital Bodleian</title></ref> <note>(single sample image)</note>
+                  </bibl>
+                  <bibl type="digital-facsimile" subtype="partial">
+                     <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/f8052828-488b-4bdc-9bfa-f3c9573e0a64">
+                        <title>Digital Bodleian</title></ref> <note>(single sample image)</note>
+                  </bibl>
+                  <bibl type="digital-facsimile" subtype="partial">
+                     <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/550b0d3b-6f0d-43d4-bdc9-4818c5952f40">
+                        <title>Digital Bodleian</title></ref> <note>(single sample image)</note>
+                  </bibl>
+               </surrogates>
+               </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
