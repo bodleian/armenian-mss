@@ -263,11 +263,11 @@
                            <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
                      </bibl>
                      <bibl type="digital-facsimile" subtype="partial">
-                        <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/ed00e41d-83e4-410a-943b-d4cfa28ea2ba">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/ed00e41d-83e4-410a-943b-d4cfa28ea2ba/">
                            <title>Digital Bodleian</title></ref> <note>(5 selected images only)</note>
                      </bibl>
                      <bibl type="digital-facsimile" subtype="partial">
-                        <ref target="https://digital.bodleian.ox.ac.uk/inquire/p/08366980-1c9c-4258-af18-f7daade3d8fe">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/08366980-1c9c-4258-af18-f7daade3d8fe/">
                            <title>Digital Bodleian</title></ref> <note>(single sample image)</note>
                      </bibl>
                   </surrogates>

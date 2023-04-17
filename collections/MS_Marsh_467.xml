@@ -531,11 +531,11 @@
                      </availability>
                   </adminInfo>
                   <surrogates><bibl type="digital-facsimile" subtype="partial"><ref
-                           target="https://digital.bodleian.ox.ac.uk/inquire/p/6cb6b0c8-8a9f-472b-a783-00587c80a220"
+                           target="https://digital.bodleian.ox.ac.uk/objects/6cb6b0c8-8a9f-472b-a783-00587c80a220/"
                               ><title>Digital Bodleian</title></ref>
                         <note>(single sample image)</note></bibl><bibl type="digital-facsimile"
                         subtype="partial"><ref
-                           target="https://digital.bodleian.ox.ac.uk/inquire/p/8267ab12-dc0a-45ed-83a4-9f364f228143"
+                           target="https://digital.bodleian.ox.ac.uk/objects/8267ab12-dc0a-45ed-83a4-9f364f228143/"
                               ><title>Digital Bodleian</title></ref>
                         <note>(single sample image)</note></bibl></surrogates>
                </additional>

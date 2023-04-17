@@ -85,7 +85,7 @@
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
-               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/inquire/p/f23b95fd-c6a3-45fc-9763-042f360775fd"><title>Digital Bodleian</title></ref> <note>(2 selected images only)</note></bibl></surrogates></additional>
+               <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/objects/f23b95fd-c6a3-45fc-9763-042f360775fd/"><title>Digital Bodleian</title></ref> <note>(2 selected images only)</note></bibl></surrogates></additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
