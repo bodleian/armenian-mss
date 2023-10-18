@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f.3</idno>
+                  <idno>MS. Arm. f.3</idno><idno type="ieArk">ark:29072/x0zw12z4560g</idno><idno type="crArk">ark:29072/x0zs25x772p8</idno>
                </msIdentifier>
                <msContents>
                   <summary>Chronological, 17th cent.</summary>
@@ -105,9 +105,7 @@
                      
                      <incipit>Գիր բանալեաց աւսպէս արա …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <msItem><listBibl><bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n61/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n61/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 46, pp. 100-101.</ref></bibl></listBibl></msItem>
                   </msItem>
                </msContents>

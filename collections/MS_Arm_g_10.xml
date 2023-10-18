@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. g. 10</idno>
+                  <idno>MS. Arm. g. 10</idno><idno type="ieArk">ark:29072/x01g05fc7926</idno><idno type="crArk">ark:29072/x01c18dg95r0</idno>
                </msIdentifier>
                <msContents>
                   <summary>Perpetual Calendar, 17th cent.</summary>
@@ -73,9 +73,7 @@
                      <incipit>Նած և առաջին Նազարէթ աղբիւր …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n85/mode/2up?view=theater"
-                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n85/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                               Bodleian Library, no. 65, p. 149.</ref></bibl>
                      </listBibl>
                   </msItem>
@@ -98,8 +96,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="notrgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
+                     <handNote scope="major" script="notrgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
                         script</handNote>
                   </handDesc>
                </physDesc>
@@ -118,8 +115,7 @@
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
@@ -192,8 +188,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85018842#concept"
-                        key="subject_sh85018842">Perpetual calendars</term>
+                     <term target="http://id.loc.gov/authorities/sh85018842#concept" key="subject_sh85018842">Perpetual calendars</term>
                   </item>
                </list>
             </keywords>
@@ -201,9 +196,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-05-21">
             <persName>Robin Meyer</persName>

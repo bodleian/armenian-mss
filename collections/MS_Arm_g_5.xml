@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. g. 5</idno>
+                  <idno>MS. Arm. g. 5</idno><idno type="ieArk">ark:29072/x02801ph45jf</idno><idno type="crArk">ark:29072/x02514nm627k</idno>
                </msIdentifier>
                <msContents>
                   <summary>Breviary, A.D. 1657.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n71/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n71/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 57, pp. 119-120.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

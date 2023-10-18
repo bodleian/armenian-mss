@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 30</idno>
+                  <idno>MS. Arm. e. 30</idno><idno type="ieArk">ark:29072/x0qj72p6911x</idno><idno type="crArk">ark:29072/x0qf85nb07q1</idno>
                </msIdentifier>
                <msContents>
                   <summary>Apocrypha of the O.T., 13th cent.</summary>
@@ -75,9 +75,7 @@
                      <title xml:lang="en" key="work_127">Questions of the Queen (of Saba) and Salomon's answers.</title>
                      <incipit>Դշխոյն. ասէ. Զի՞նչ է ա՟ծն քո և ու՞մ նման է …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <msItem><listBibl><bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n67/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n67/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 54, pp. 113-115.</ref></bibl></listBibl></msItem>
                   </msItem>
                </msContents>

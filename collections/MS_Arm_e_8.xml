@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 8</idno>
+                  <idno>MS. Arm. e. 8</idno><idno type="ieArk">ark:29072/x0th83kx90bm</idno><idno type="crArk">ark:29072/x0td96k20719</idno>
                </msIdentifier>
                <msContents>
                   <summary>Liturgical, 16th cent.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n25/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n25/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 29, pp. 30-32.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

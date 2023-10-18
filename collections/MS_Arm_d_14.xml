@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 14</idno>
+                  <idno>MS. Arm. d. 14</idno><idno type="ieArk">ark:29072/x0fn106z2666</idno><idno type="crArk">ark:29072/x0fj236242w7</idno>
                </msIdentifier>
                <msContents>
                   <summary>Old Testament, 18th cent.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n63/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n63/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 50, pp. 105-106.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

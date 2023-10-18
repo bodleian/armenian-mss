@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 26</idno>
+                  <idno>MS. Arm. f. 26</idno><idno type="ieArk">ark:29072/x0zp38wb89cj</idno><idno type="crArk">ark:29072/x0zk51vg062z</idno>
                </msIdentifier>
                <msContents>
                   <summary>Prayer-book, A.D. 1611.</summary>
@@ -295,9 +295,7 @@
                      <title xml:lang="en" key="work_504">List of the Easter Days from the year 1584 to 1702, in Armenian and Christian eras</title>
                      <textLang mainLang="hy">Armenian</textLang>
                     <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n85/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n85/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 66, pp. 149-153.</ref></bibl>
                      </listBibl>
                   </msItem>

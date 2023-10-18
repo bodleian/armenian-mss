@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Marshall (Or.) 83</idno>
+                  <idno>MS. Marshall (Or.) 83</idno><idno type="ieArk">ark:29072/x04m90dw450d</idno><idno type="crArk">ark:29072/x04j03d061pv</idno>
                </msIdentifier>
                <msContents>
                   <summary>Linguistic, 17th cent.</summary>
@@ -85,9 +85,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <msItem>
                         <listBibl>
-                           <bibl><ref
-                                 target="https://archive.org/details/catalogueofarmen00bodl/page/n57/mode/2up?view=theater"
-                                 >Baronian and Conybeare, Catalogue of the Armenian manuscripts in
+                           <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n57/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in
                                  the Bodleian Library, no. 43, p. 92.</ref></bibl>
                         </listBibl>
                      </msItem>
@@ -110,8 +108,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="notrgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
+                     <handNote scope="major" script="notrgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
                         script</handNote>
                   </handDesc>
                </physDesc>
@@ -132,8 +129,7 @@
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
@@ -206,8 +202,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh2009115579#concept"
-                        key="subject_sh2009115579">Armenian language -- Alphabet</term>
+                     <term target="http://id.loc.gov/authorities/sh2009115579#concept" key="subject_sh2009115579">Armenian language -- Alphabet</term>
                   </item>
                </list>
             </keywords>
@@ -215,9 +210,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-03-09">
             <persName>Robin Meyer</persName>

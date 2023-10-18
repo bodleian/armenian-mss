@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 26</idno>
+                  <idno>MS. Arm. e. 26</idno><idno type="ieArk">ark:29072/x0pk02c957x3</idno><idno type="crArk">ark:29072/x0pg15bd74m7</idno>
                </msIdentifier>
                <msContents>
                   <summary>Abelli's Theology, A.D. 1850.</summary>
@@ -54,9 +54,7 @@
                      <title xml:lang="en" type="alt" key="work_1">Medulla Theologica</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n121/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n121/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 101, pp. 221-222.</ref></bibl>
                      </listBibl>
                   </msItem>

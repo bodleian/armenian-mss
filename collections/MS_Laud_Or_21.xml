@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Laud Or. 21</idno>
+                  <idno>MS. Laud Or. 21</idno><idno type="ieArk">ark:29072/x06m311p899h</idno><idno type="crArk">ark:29072/x03n204011wp</idno>
                </msIdentifier>
                <msContents>
                   <summary>Prayerbook, 16th cent., etc.</summary>
@@ -121,9 +121,7 @@
                      <locus>ff. 23-33</locus>
                      <title xml:lang="en" key="work_45">Prayers taken from the Psalms and teh Common Prayerbook (Ժամագիրք)</title>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <msItem><listBibl><bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n47/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n47/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 32, pp. 71-72.</ref></bibl></listBibl></msItem>
                   </msItem>
                </msContents>

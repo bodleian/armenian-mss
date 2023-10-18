@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 37</idno>
+                  <idno>MS. Arm. e. 37</idno><idno type="ieArk">ark:29072/x0rx913p57c2</idno><idno type="crArk">ark:29072/x0rv042s742m</idno>
                </msIdentifier>
                <msContents>
                   <summary>Dionysius [Pseudo-] Areopagite, 17th. cent.</summary>
@@ -67,9 +67,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Includes: Prologue; On the celestial hierarchy; On the ecclesiastical hierarchy; On the divine names; On the mystic theology; The ten letters (the last but one, addressed to Titus, is entitled: On the Dormition of Holy Deipara and ever Virgin Mary); From the theological treatises of St. Hierotheus; The colophon of the translator. Here we read that this Book of Dionysius the Areopagite was translated in Constantinople from 'accurate exemplars, by David the Consul (ὕπατοϲ) and Coenarius (Կենառ) of the royal table, and by Stephanos the priest and grammarian, pupil of Moses, bishop of Siunik, in the year 6220 of the creation, and in the 14th Indiction of the Greek era, in the second year of the reign of Philippus' (read Philippicus). If we assume the last clause to be the more accurate of the three, the date would correspond to A.D. 713.</note>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n95/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n95/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 73, pp. 168-170.</ref></bibl>
                      </listBibl>
                   </msItem>

@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 5</idno>
+                  <idno>MS. Arm. f. 5</idno><idno type="ieArk">ark:29072/x008612p79bb</idno><idno type="crArk">ark:29072/x005741s961g</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gregory of Narek, 13th cent.</summary>
@@ -51,9 +51,7 @@
                      <title xml:lang="hy" key="work_601">Մատեան ողբերգութեան</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n97/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n97/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 77, p. 173.</ref></bibl>
                      </listBibl>
                   </msItem>

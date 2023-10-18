@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 19</idno>
+                  <idno>MS. Arm. d. 19</idno><idno type="ieArk">ark:29072/x0gm80hv599t</idno><idno type="crArk">ark:29072/x0gh93gz760z</idno>
                </msIdentifier>
                <msContents>
                   <summary>A Romanizing Polemic, 19th cent.</summary>
@@ -50,9 +50,7 @@
                      <title xml:lang="hy" key="work_232">Հերքումն 'Ակն լուսատու' մատենին Կարճիկ Մարնուէլի ի Հռոմէականէ ումեմնէ ի ջատագովութիւն Հրոմէական եկեղեցւոյ</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 106, pp. 225-226.</ref></bibl>
                      </listBibl>
                   </msItem>

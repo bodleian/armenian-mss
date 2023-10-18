@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Marshall (Or.) 137</idno>
+                  <idno>MS. Marshall (Or.) 137</idno><idno type="ieArk">ark:29072/x047429b11rb</idno><idno type="crArk">ark:29072/x044558f28fm</idno>
                </msIdentifier>
                <msContents>
                   <summary>Linguistic, 17th cent.</summary>
@@ -57,9 +57,7 @@
                   <msItem xml:id="MS_Marshall_Or_137-item3" n="3">
                      <title xml:lang="en" key="work_384">The beginning of Ps. i. 1 in Armenian and Latin.</title>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <msItem><listBibl><bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n57/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n57/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 44, pp. 92-93.</ref></bibl></listBibl></msItem>
                   </msItem>
                </msContents>

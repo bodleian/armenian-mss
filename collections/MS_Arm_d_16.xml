@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 16</idno>
+                  <idno>MS. Arm. d. 16</idno><idno type="ieArk">ark:29072/x0g158bh59f5</idno><idno type="crArk">ark:29072/x0fx719m7649</idno>
                </msIdentifier>
                <msContents>
                   <summary>Nerses of Lambron and Vardan, 14th cent.(?).</summary>
@@ -72,9 +72,7 @@
                      <incipit>Նման է արքայութիւն երկնից գանձի ծածկէլոյ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n101/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n101/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 82, pp. 182-183.</ref></bibl>
                      </listBibl>
                   </msItem>

@@ -41,21 +41,18 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 32</idno>
+                  <idno>MS. Arm. e. 32</idno><idno type="ieArk">ark:29072/x0qz20ss2487</idno><idno type="crArk">ark:29072/x0qv33rw40z1</idno>
                </msIdentifier>
                <msContents>
                   <summary>Matthew of Edessa, 18th cent.</summary>
                   <msItem xml:id="MS_Arm_e_32-item1" n="1">
                      <locus>f. 1</locus>
-                     <author key="person_12">Matthew, of Edessa, <date calendar="#Gregorian"
-                           notBefore="1100" notAfter="1200">12th cent.</date></author>
+                     <author key="person_12">Matthew, of Edessa, <date calendar="#Gregorian" notBefore="1100" notAfter="1200">12th cent.</date></author>
                      <title xml:lang="en" key="work_155">Chronicle of Matthew of Edessa</title>
                      <title xml:lang="hy" key="work_155">Պատմութիւն</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n107/mode/2up?view=theater"
-                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n107/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                               Bodleian Library, no. 87, pp. 193-194.</ref></bibl>
                      </listBibl>
                   </msItem>
@@ -78,8 +75,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="notrgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
+                     <handNote scope="major" script="notrgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
                         script</handNote>
                   </handDesc>
                </physDesc>
@@ -98,8 +94,7 @@
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
@@ -172,12 +167,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/nr92039196"
-                        key="subject_nr92039196">Matthew, of Edessa, 12th cent. Patmutʻiwn</term>
+                     <term target="http://id.loc.gov/authorities/names/nr92039196" key="subject_nr92039196">Matthew, of Edessa, 12th cent. Patmutʻiwn</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n87143430"
-                        key="subject_n87143430">Matthew, of Edessa, 12th cent.</term>
+                     <term target="http://id.loc.gov/authorities/names/n87143430" key="subject_n87143430">Matthew, of Edessa, 12th cent.</term>
                   </item>
                </list>
             </keywords>
@@ -185,9 +178,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-09-21">
             <persName>Robin Meyer</persName>

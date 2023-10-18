@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Thurston, etc., 17</idno>
+                  <idno>MS. Thurston, etc., 17</idno><idno type="ieArk">ark:29072/x06t053g77t5</idno><idno type="crArk">ark:29072/x06q182k94h9</idno>
                </msIdentifier>
                <msContents>
                   <summary>Eulogy of Britain, 1674-5.</summary>
@@ -49,9 +49,7 @@
                      <author key="person_35">Rev. Jacob Grigorentz</author>
                      <title xml:lang="xcl-Latn-x-lc" key="work_285">Eulogy of Britain, in verse</title>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <msItem><listBibl><bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n51/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n51/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 39, pp. 80-81.</ref></bibl></listBibl></msItem>
                   </msItem>
                </msContents>

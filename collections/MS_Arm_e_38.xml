@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 38</idno>
+                  <idno>MS. Arm. e. 38</idno><idno type="ieArk">ark:29072/x0s4655g2400</idno><idno type="crArk">ark:29072/x0s1784k40ps</idno>
                </msIdentifier>
                <msContents>
                   <summary>Ethical Tracts of Avetis the Notary, A.D. 1752.</summary>
@@ -55,9 +55,7 @@
                         ecclesiastical orders and of the gentry; collections of quotations;
                         sermons.</note>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n115/mode/2up?view=theater"
-                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n115/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                               Bodleian Library, no. 94, pp. 207-209.</ref></bibl>
                      </listBibl>
                   </msItem>
@@ -80,8 +78,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="notrgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
+                     <handNote scope="major" script="notrgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
                         script</handNote>
                   </handDesc>
                </physDesc>
@@ -99,14 +96,11 @@
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
-                  <surrogates><bibl type="digital-facsimile" subtype="partial"><ref
-                           target="https://digital.bodleian.ox.ac.uk/objects/3c8241a3-bd2c-4d13-a728-e5a22bcb4415/"
-                              ><title>Digital Bodleian</title></ref>
+                  <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/objects/3c8241a3-bd2c-4d13-a728-e5a22bcb4415/"><title>Digital Bodleian</title></ref>
                         <note>(single sample image)</note></bibl></surrogates>
                </additional>
             </msDesc>
@@ -177,8 +171,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85120261#concept"
-                        key="subject_sh85120261">Sermons</term>
+                     <term target="http://id.loc.gov/authorities/sh85120261#concept" key="subject_sh85120261">Sermons</term>
                   </item>
                </list>
             </keywords>
@@ -186,9 +179,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-09-21">
             <persName>Robin Meyer</persName>

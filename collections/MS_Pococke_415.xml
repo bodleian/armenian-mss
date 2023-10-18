@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Pococke 415</idno>
+                  <idno>MS. Pococke 415</idno><idno type="ieArk">ark:29072/x06m311q116q</idno><idno type="crArk">ark:29072/x06h440t27wn</idno>
                </msIdentifier>
                <msContents>
                   <summary>Doctrinal, 17th cent.</summary>
@@ -58,9 +58,7 @@
                      <incipit>Երկաբնակն ասէ, թէ ք՟ս բ՟ բնութ՟ի ունի, ա՟ծութ՟ի ուրիշ և մարդկութիւն ուրիշ … Պատասխանի. իսկ բնաւորական էութ՟ի մարդոյ անփոփոխելի մնայ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>A marginal note wrongly attributes this tract to St. Nerses Shnorhali.</note>
-                     <msItem><listBibl><bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n61/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n61/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 48, p. 102.</ref></bibl></listBibl></msItem>
                   </msItem>
                </msContents>

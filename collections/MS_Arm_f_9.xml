@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 9</idno>
+                  <idno>MS. Arm. f. 9</idno><idno type="ieArk">ark:29072/x012579t45tg</idno><idno type="crArk">ark:29072/x00z708x62hm</idno>
                </msIdentifier>
                <msContents>
                   <summary>St. Nilus of Sinai, etc., 18th cent.</summary>
@@ -120,9 +120,7 @@
                      <incipit>Պարտ է մանկանց ճգնեալ և կրթել զմարմինս …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n93/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n93/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 72, pp. 166-168.</ref></bibl>
                      </listBibl>
                   </msItem>

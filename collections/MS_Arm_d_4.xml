@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 4</idno>
+                  <idno>MS. Arm. d. 4</idno><idno type="ieArk">ark:29072/x0ht24wj591p</idno><idno type="crArk">ark:29072/x0hq37vn75qg</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gospels, A.D. 1335</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n13/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n13/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 3, pp. 4-5.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

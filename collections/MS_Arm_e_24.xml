@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 24</idno>
+                  <idno>MS. Arm. e. 24</idno><idno type="ieArk">ark:29072/x0p5547r24pq</idno><idno type="crArk">ark:29072/x0p2676v41cv</idno>
                </msIdentifier>
                <msContents>
                   <summary>Ethical Miscellany of Simeon of Julfa, Sermons, A.D. 1701</summary>
@@ -95,9 +95,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains: On Repentance and Confession, with reference to the Parable of the Prodigal Son; On Dead; On Peace; On the Great Saturday; On the Coming into Jerusalem (Palm Sunday)l On the Church.</note>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n111/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n111/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 93, pp. 201-207.</ref></bibl>
                      </listBibl>
                   </msItem>

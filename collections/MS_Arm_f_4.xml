@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 4</idno>
+                  <idno>MS. Arm. f. 4</idno><idno type="ieArk">ark:29072/x002870x12qf</idno><idno type="crArk">ark:29072/x000000129dg</idno>
                </msIdentifier>
                <msContents>
                   <summary>Psalter, 17th cent. (?)</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n61/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n61/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 47, pp. 101-102.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

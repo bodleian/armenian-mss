@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 23</idno>
+                  <idno>MS. Arm. e. 23</idno><idno type="ieArk">ark:29072/x0nz805z5824</idno><idno type="crArk">ark:29072/x0nv935274r5</idno>
                </msIdentifier>
                <msContents>
                   <summary>A Romanizing Polemic, 19th cent.</summary>
@@ -51,9 +51,7 @@
                      <title xml:lang="en" key="work_509">'A Reflecting Mirror', showing the fallacies of the pamphlet called 'Staff of Twofold Strength' of Sermaqesh Manuel, written by a lover of truth …</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 105, p. 225.</ref></bibl>
                      </listBibl>
                   </msItem>

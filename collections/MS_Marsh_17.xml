@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Marsh 17</idno>
+                  <idno>MS. Marsh 17</idno><idno type="ieArk">ark:29072/x05138jf787s</idno><idno type="crArk">ark:29072/x04x51hj94xk</idno>
                </msIdentifier>
                <msContents>
                   <summary>Poems of Nerses IV, 17th cent.</summary>
@@ -85,9 +85,7 @@
                      </author>
                      <title xml:lang="en" key="work_269">Profession of fauth, alphabetically arranged</title>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <msItem><listBibl><bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n49/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n49/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 37, pp. 78-79.</ref></bibl></listBibl></msItem>
                      <note>Only the last two verses and the author's versified subscription.</note>
                   </msItem>

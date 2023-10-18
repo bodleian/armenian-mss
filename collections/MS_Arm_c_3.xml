@@ -41,13 +41,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. c. 3</idno>
+                  <idno>MS. Arm. c. 3</idno><idno type="ieArk">ark:29072/x0d791sg59vf</idno><idno type="crArk">ark:29072/x0d504rk76j0</idno>
                </msIdentifier>
                <msContents>
                   <summary>Menologium, 16th cent. A menologion or yaysmawurk‘ (յայսմաւուրք), which
                      follows the redaction of Gregory of Xlat‘ (1349-1425). The manuscript largely
-                     follows the <ref
-                        target="https://armenian.bodleian.ox.ac.uk/catalog/manuscript_113">Bodleian
+                     follows the <ref target="https://armenian.bodleian.ox.ac.uk/catalog/manuscript_113">Bodleian
                         MS. Marsh 438 (I-III)</ref> copied in 1482, but also contains several
                      additional pieces, and an occasional difference of order. These deviations are
                      pointed out by Baronian and Conybeare (pp. 141-146).</summary>
@@ -3046,9 +3045,7 @@
                   <msItem>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n81/mode/2up?view=theater"
-                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n81/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                               Bodleian Library, no. 64, pp. 141-149.</ref></bibl>
                         <bibl>van Lint, Theo Maarten and Robin Meyer (eds.). Armenia: Masterpieces
                            from an Enduring Culture. Oxford: Bodleian Library, 2015, no 16, pp.
@@ -3071,8 +3068,7 @@
                            but repaired.</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="2">Double columns, of 36 lines <dimensions
-                              type="line-height" unit="mm">
+                        <layout columns="2">Double columns, of 36 lines <dimensions type="line-height" unit="mm">
                               <height>297</height>
                               <width>201</width>
                            </dimensions>
@@ -3126,8 +3122,7 @@
                            you have already consulted. Your application will then be considered by
                            our curatorial staff. Entry to read in the Library is permitted only on
                            presentation of a valid reader's card (for admissions procedures contact
-                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                              >Bodleian Admissions</ref>).</p>
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -3205,16 +3200,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85116629#concept"
-                        key="subject_sh85116629">Saints</term>
+                     <term target="http://id.loc.gov/authorities/sh85116629#concept" key="subject_sh85116629">Saints</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85116631#concept"
-                        key="subject_sh85116631">Saints -- Calendar</term>
+                     <term target="http://id.loc.gov/authorities/sh85116631#concept" key="subject_sh85116631">Saints -- Calendar</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85116634#concept"
-                        key="subject_sh85116634">Saints -- Legends</term>
+                     <term target="http://id.loc.gov/authorities/sh85116634#concept" key="subject_sh85116634">Saints -- Legends</term>
                   </item>
                </list>
             </keywords>
@@ -3222,9 +3214,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-05-21">
             <persName>Robin Meyer</persName>

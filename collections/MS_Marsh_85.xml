@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Marsh 85</idno>
+                  <idno>MS. Marsh 85</idno><idno type="ieArk">ark:29072/x06682x477z0</idno><idno type="crArk">ark:29072/x06395w794n4</idno>
                </msIdentifier>
                <msContents>
                   <summary>Poems of Nerses IV, etc., 17th cent.</summary>
@@ -187,9 +187,7 @@
                      <title xml:lang="en" key="work_367">Alphabetical verses in praise of and addressed to the Virgin, by the same (?)</title>
                      <incipit>Այբէն մինչ ի Քէն գովիս դու յինէն...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
-                     <msItem><listBibl><bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n49/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n49/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 36, pp. 76-78.</ref></bibl></listBibl></msItem>
                   </msItem>
                </msContents>

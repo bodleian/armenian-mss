@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 17</idno>
+                  <idno>MS. Arm. e. 17</idno><idno type="ieArk">ark:29072/x0mk61rg91qn</idno><idno type="crArk">ark:29072/x0mg74qm08d3</idno>
                </msIdentifier>
                <msContents>
                   <summary>Commentary on Liturgical Lessons, A.D. 1707.</summary>
@@ -461,9 +461,7 @@
                      <incipit>Արդ իբրեւ անցին ամք եօթն շինուացոյ տաճարին …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n103/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n103/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 84, pp. 184-188.</ref></bibl>
                      </listBibl>
                   </msItem>

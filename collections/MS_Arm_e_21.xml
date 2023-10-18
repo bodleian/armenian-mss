@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 21</idno>
+                  <idno>MS. Arm. e. 21</idno><idno type="ieArk">ark:29072/x0nk322d24t2</idno><idno type="crArk">ark:29072/x0ng451h41h6</idno>
                </msIdentifier>
                <msContents>
                   <summary>Nerses of Lambron, 17th-18th cent.</summary>
@@ -102,9 +102,7 @@
                      <title xml:lang="en" key="work_154">Commentary on Psalms XXXIV and XXXV</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n101/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n101/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 81, pp. 180-181.</ref></bibl>
                      </listBibl>
                   </msItem>

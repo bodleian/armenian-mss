@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 35</idno>
+                  <idno>MS. Arm. e. 35</idno><idno type="ieArk">ark:29072/x0rj4304244b</idno><idno type="crArk">ark:29072/x0rf55z740tx</idno>
                </msIdentifier>
                <msContents>
                   <summary>Cyril of Alexandria, Ephrem, Vardan, A.D. 1382.</summary>
@@ -67,9 +67,7 @@
                      <note>This commentary was published in Constantinople, 1825, as Appendix to the Commentary of XII Prophets, by Nerses of Lambron, pp.242-248.</note>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n93/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n93/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 71, pp. 164-166.</ref></bibl>
                      </listBibl>
                   </msItem>

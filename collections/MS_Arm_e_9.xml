@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 9</idno>
+                  <idno>MS. Arm. e. 9</idno><idno type="ieArk">ark:29072/x0tq57nq56z7</idno><idno type="crArk">ark:29072/x0tm70mt73ng</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gospels, A.D. 1564.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n19/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n19/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 16, p. 16.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

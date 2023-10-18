@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 11</idno>
+                  <idno>MS. Arm. d. 11</idno><idno type="ieArk">ark:29072/x0f1881m26b4</idno><idno type="crArk">ark:29072/x0dz010q431p</idno>
                </msIdentifier>
                <msContents>
                   <summary>John Chrysostom's Commentary on Epistle to Ephesians, which is believed
@@ -75,9 +75,7 @@
                         արար, ցուցա </explicit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n87/mode/2up?view=theater"
-                              >Baronian, Sukias and Conybeare, Frederick C. Catalogue of the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n87/mode/2up?view=theater">Baronian, Sukias and Conybeare, Frederick C. Catalogue of the
                               Armenian manuscripts in the Bodleian Library. Oxford: Clarendon Press,
                               1918, no. 68, pp. 154-157.</ref></bibl>
                         <bibl>Bonfiglio, Emilio. “The Armenian Translations of John Chrysostom: The
@@ -116,8 +114,7 @@
                      </supportDesc>
                      <layoutDesc>
                         <layout columns="2" ruledLines="26">Double columns, with large margins, of
-                           26 lines each, having on an average 16 letters to the line. <dimensions
-                              type="line-height" unit="mm">
+                           26 lines each, having on an average 16 letters to the line. <dimensions type="line-height" unit="mm">
                               <height>200</height>
                               <width>145</width>
                            </dimensions>
@@ -138,8 +135,7 @@
                            end of lines, though he seems in general to try to close the line with a
                            vowel, and these vowels are charged generally with a dash on the top, as,
                            for instance, on f. 30, տարա | կուսութիւն, ապաշաւի | ցէ, փորձ ի | բաց.
-                              <label>Scribe: </label><persName role="scr" key="person_103"
-                              >Step‘annos</persName>.</desc></handNote>
+                              <label>Scribe: </label><persName role="scr" key="person_103">Step‘annos</persName>.</desc></handNote>
                   </handDesc>
                   <decoDesc>
                      <decoNote>The MS. is embellished with several marginal ornaments (ff. 1r, 4v,
@@ -227,8 +223,7 @@
                            you have already consulted. Your application will then be considered by
                            our curatorial staff. Entry to read in the Library is permitted only on
                            presentation of a valid reader's card (for admissions procedures contact
-                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                              >Bodleian Admissions</ref>).</p>
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -310,8 +305,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n80001460"
-                        key="subject_n80001460">John Chrysostom, Saint, d. 407</term>
+                     <term target="http://id.loc.gov/authorities/names/n80001460" key="subject_n80001460">John Chrysostom, Saint, d. 407</term>
                   </item>
                </list>
             </keywords>
@@ -319,9 +313,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-05-28">
             <persName>Robin Meyer</persName>

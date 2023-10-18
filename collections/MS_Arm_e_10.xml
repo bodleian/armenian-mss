@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 10</idno>
+                  <idno>MS. Arm. e. 10</idno><idno type="ieArk">ark:29072/x0k643b125c1</idno><idno type="crArk">ark:29072/x0k356944225</idno>
                </msIdentifier>
                <msContents>
                   <summary>Theological, 18th cent.</summary>
@@ -182,8 +182,7 @@
                   </msItem>
                   <msItem xml:id="MS_Arm_e_10-item13" n="13">
                      <locus>f. 67</locus>
-                     <author key="person_38">Nerses, of Lambron, Saint, <date calendar="#Gregorian"
-                           from="1153" to="1198">1153-1198</date></author>
+                     <author key="person_38">Nerses, of Lambron, Saint, <date calendar="#Gregorian" from="1153" to="1198">1153-1198</date></author>
                      <title xml:lang="en" key="work_32">On the five patriarchates and their
                         archbishops and bishops, written by Nilus the monk, surnamed Doxapatrius, at
                         the request of Roger II, king of Sicily, and translated (from Greek) into
@@ -202,9 +201,7 @@
                      <note>A note by a later hand.</note>
                      <msItem>
                         <listBibl>
-                           <bibl><ref
-                                 target="https://archive.org/details/catalogueofarmen00bodl/page/n55/mode/2up?view=theater"
-                                 >Baronian and Conybeare, Catalogue of the Armenian manuscripts in
+                           <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n55/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in
                                  the Bodleian Library, no. 41, pp. 88-91.</ref></bibl>
                         </listBibl>
                      </msItem>
@@ -227,8 +224,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="notrgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
+                     <handNote scope="major" script="notrgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
                         script</handNote>
                   </handDesc>
                </physDesc>
@@ -253,14 +249,11 @@
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
-                  <surrogates><bibl type="digital-facsimile" subtype="partial"><ref
-                           target="https://digital.bodleian.ox.ac.uk/objects/96f5df6c-4be6-477c-9127-8edd82743ec4/"
-                              ><title>Digital Bodleian</title></ref>
+                  <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/objects/96f5df6c-4be6-477c-9127-8edd82743ec4/"><title>Digital Bodleian</title></ref>
                         <note>(single sample image)</note></bibl></surrogates>
                </additional>
             </msDesc>
@@ -331,16 +324,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85021051#concept"
-                        key="subject_sh85021051">Catholic Church -- Armenian rite</term>
+                     <term target="http://id.loc.gov/authorities/sh85021051#concept" key="subject_sh85021051">Catholic Church -- Armenian rite</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh93009683#concept"
-                        key="subject_sh93009683">Theology -- Early works to 1800</term>
+                     <term target="http://id.loc.gov/authorities/sh93009683#concept" key="subject_sh93009683">Theology -- Early works to 1800</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n85105625"
-                        key="subject_n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
+                     <term target="http://id.loc.gov/authorities/names/n85105625" key="subject_n85105625">Nerses, of Lambron, Saint, 1153-1198</term>
                   </item>
                </list>
             </keywords>
@@ -348,9 +338,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-03-09">
             <persName>Robin Meyer</persName>

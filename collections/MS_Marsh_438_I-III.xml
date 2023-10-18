@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Marsh 438 (I-III)</idno>
+                  <idno>MS. Marsh 438 (I-III)</idno><idno type="ieArk">ark:29072/x05d86p111gs</idno><idno type="crArk">ark:29072/x05999n42852</idno>
                </msIdentifier>
                <msContents>
                   <summary>Menologium, A.D. 1482.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n27/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n27/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 30, pp. 32-69.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

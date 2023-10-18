@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 19</idno>
+                  <idno>MS. Arm. e. 19</idno><idno type="ieArk">ark:29072/x0n009w224z6</idno><idno type="crArk">ark:29072/x0mw22v541nb</idno>
                </msIdentifier>
                <msContents>
                   <summary>St. John Chrysostom's Homilies, 18th cent.</summary>
@@ -64,9 +64,7 @@
                      <incipit>Ի զանազան երանգս գունոց ծաղկանց ...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n87/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n87/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 67, p. 153.</ref></bibl>
                      </listBibl>
                   </msItem>

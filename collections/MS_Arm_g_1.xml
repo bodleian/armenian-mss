@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. g. 1</idno>
+                  <idno>MS. Arm. g. 1</idno><idno type="ieArk">ark:29072/x01831cm12fd</idno><idno type="crArk">ark:29072/x01544bq294p</idno>
                </msIdentifier>
                <msContents>
                   <summary>Antiphonary, 14th cent.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n21/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n21/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 21, pp. 19-20.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

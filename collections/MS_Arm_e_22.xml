@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 22</idno>
+                  <idno>MS. Arm. e. 22</idno><idno type="ieArk">ark:29072/x0ns064591fq</idno><idno type="crArk">ark:29072/x0np19390845</idno>
                </msIdentifier>
                <msContents>
                   <summary>A Romanizing Polemic, 18th cent.</summary>
@@ -64,9 +64,7 @@
                      <incipit>Առ ի կատարելապէս ճանաչել զուղղափառութեան հաւատս բաւական էր …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 103, pp. 223-224.</ref></bibl>
                      </listBibl>
                   </msItem>
