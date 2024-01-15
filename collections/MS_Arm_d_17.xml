@@ -40,15 +40,13 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 17</idno>
+                  <idno>MS. Arm. d. 17</idno><idno type="ieArk">ark:29072/x0g732d92623</idno><idno type="crArk">ark:29072/x0g445cd42rw</idno>
                </msIdentifier>
                <msContents>
                   <summary>Lives of Fathers, 17th cent.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
                   <msItem><listBibl>
-                     <bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n107/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n107/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 88, pp. 194-197.</ref></bibl>
                   </listBibl></msItem>
                </msContents>

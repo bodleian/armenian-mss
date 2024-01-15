@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 24</idno>
+                  <idno>MS. Arm. f. 24</idno><idno type="ieArk">ark:29072/x0z890rs5648</idno><idno type="crArk">ark:29072/x0z603qw72tg</idno>
                </msIdentifier>
                <msContents>
                   <summary>Poems of Nerses IV, etc., 18th cent.</summary>
@@ -120,9 +120,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Deficient after the letter Ն.</note>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n99/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n99/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 79, pp. 177-178.</ref></bibl>
                      </listBibl>
                   </msItem>

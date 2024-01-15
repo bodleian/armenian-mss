@@ -40,15 +40,13 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Bodl. Or. 13</idno>
+                  <idno>MS. Bodl. Or. 13</idno><idno type="ieArk">ark:29072/x0sq87bt04qd</idno><idno type="crArk">ark:29072/x03484zh95b6</idno>
                </msIdentifier>
                <msContents>
                   <summary>Armenian Alphabets,16th cent.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
                   <msItem><listBibl>
-                     <bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n137/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n137/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 124, p. 254.</ref></bibl>
                   </listBibl></msItem>
                </msContents>

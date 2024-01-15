@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 17</idno>
+                  <idno>MS. Arm. f. 17</idno><idno type="ieArk">ark:29072/x0wp988j235g</idno><idno type="crArk">ark:29072/x0wm117n39vx</idno>
                </msIdentifier>
                <msContents>
                   <summary>Miscellany of Legends, 18th cent.</summary>
@@ -93,9 +93,7 @@
                      <incipit>Երանելին Յոբ ի զարմէ Աբրահամու և ի թոռանցն Եսաւայ …</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                     <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n109/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n109/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 90, pp. 198-199.</ref></bibl>
                      </listBibl>
                   </msItem>

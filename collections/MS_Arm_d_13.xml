@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 13</idno>
+                  <idno>MS. Arm. d. 13</idno><idno type="ieArk">ark:29072/x0ff365559kh</idno><idno type="crArk">ark:29072/x0fb4948768n</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gospels, A.D. 1609.</summary>
@@ -166,9 +166,7 @@
                         տէր Խաչատուրն, զտէր Մկրտիչն, զտէր Սիմէոնն:</colophon>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n65/mode/2up?view=theater"
-                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n65/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                               Bodleian Library, no. 53, pp. 107-112.</ref></bibl>
                         <bibl>Arakelyan, Mikayel. Mesrop of Xizan: An Armenian Master of the
                            Seventeenth Century. London: Sam Fogg, 2012.</bibl>
@@ -206,16 +204,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="bolorgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bold
-                           Bolorgir</ref> script. <label>Scribe: </label><persName key="" role="scr"
-                           >Step‘anos</persName></handNote>
+                     <handNote scope="major" script="bolorgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bold
+                           Bolorgir</ref> script. <label>Scribe: </label><persName key="" role="scr">Step‘anos</persName></handNote>
                   </handDesc>
                   <decoDesc>
                      <decoNote>There are 24 full-page illuminations at the beginning of the
                         manuscript (ff. 1v-24r), with a brief note below each of them describing
-                        their contents; size about 169 x 105 mm. The illuminator is <persName
-                           key="person_10145243767474440533">Mesrop</persName>, who identifies
+                        their contents; size about 169 x 105 mm. The illuminator is <persName key="person_10145243767474440533">Mesrop</persName>, who identifies
                         himself in the description of the image on f. 23v and on f. 33r. There
                         follow ten richly illuminated pages of the Eusebian canons (ff. 24av-33r).
                         Moreover, before the beginning of each Gospel, on the opposite page, there
@@ -330,8 +325,7 @@
                            you have already consulted. Your application will then be considered by
                            our curatorial staff. Entry to read in the Library is permitted only on
                            presentation of a valid reader's card (for admissions procedures contact
-                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                              >Bodleian Admissions</ref>).</p>
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -413,8 +407,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n2006040103"
-                        key="subject_n2006040103">Bible. N.T. Gospels. Armenian</term>
+                     <term target="http://id.loc.gov/authorities/names/n2006040103" key="subject_n2006040103">Bible. N.T. Gospels. Armenian</term>
                   </item>
                </list>
             </keywords>
@@ -422,9 +415,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-04-23">
             <persName>Robin Meyer</persName>

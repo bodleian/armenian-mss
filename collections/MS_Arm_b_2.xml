@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. b. 2</idno>
+                  <idno>MS. Arm. b. 2</idno><idno type="ieArk">ark:29072/x0cn69m4600w</idno><idno type="crArk">ark:29072/x0cj82k776px</idno>
                </msIdentifier>
                <msContents>
                   <summary>Old Fly-leaves</summary>
@@ -99,9 +99,7 @@
                      
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Vellum. A single folio cut in half horizontally, but rejoinedL lateral margins curtailed. Size, upper half 9.75" by 6.75", lower 9.75" by 6.125". Verso left blank. Text on recto of 30 lines of varying lenght as defined by surrounding ornamental design. The latter consists of the following: A horizontal stripe of conventional fruit and foliage work, in green and blue on gold background, extends across the bottom of the page, from which rise vertical stripes of loose rope-work in blue on gold background, met at the top and joined by a stripe of fruit and foliage work similar to that below, but not carried to the edges of the page. The rectilinear frame so formed is bordered within by a purple diaper pattern edged internally by a red stripe of elliptical form with ogival projections. Within the space defined by this stripe is written the text. The rectilinear frame carries above two peacocks in profile, thei beaks toward a central one which faces the reader with outspread tail: their colours blue, red, and gold. At each upper corner an arabesque of blue rope-work on gold; the side margins occupied by branchwork of blue, supporting green global fruits veined with gold. On the left a red snake raises himself erect to taste the fruit. Text in small Erkat'agir such as is used in rubrics and marginal notes of 10th and 11th cent. gospels. Printed by N. Karamiantz in his cataligue of the Armenian MSS. of Berlin. Given by Dr. Baronian.</note>
-                     <msItem><listBibl><bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n63/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n63/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 49, pp. 103-105.</ref></bibl></listBibl></msItem>
                   </msItem>
                </msContents>

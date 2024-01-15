@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 1</idno>
+                  <idno>MS. Arm. e. 1</idno><idno type="ieArk">ark:29072/x0k0698758r3</idno><idno type="crArk">ark:29072/x0jw827b75f7</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gospels, A.D. 1497</summary>
@@ -55,9 +55,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <msItem>
                         <listBibl>
-                           <bibl><ref
-                                 target="https://archive.org/details/catalogueofarmen00bodl/page/n15/mode/2up?view=theater"
-                                 >Baronian and Conybeare, Catalogue of the Armenian manuscripts in
+                           <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n15/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in
                                  the Bodleian Library, no. 9, pp. 10-11.</ref></bibl>
                         </listBibl>
                      </msItem>
@@ -80,8 +78,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="bolorgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref>
+                     <handNote scope="major" script="bolorgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref>
                         script</handNote>
                   </handDesc>
                </physDesc>
@@ -101,15 +98,13 @@
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl type="digital-facsimile" subtype="partial">
-                        <ref
-                           target="https://digital.bodleian.ox.ac.uk/objects/e13a514c-27fa-4320-938b-101658220272/">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/e13a514c-27fa-4320-938b-101658220272/">
                            <title>Digital Bodleian</title>
                         </ref>
                         <note>(41 selected images only)</note>
@@ -184,12 +179,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85098523#concept"
-                        key="subject_sh85098523">Passion narratives (Gospels)</term>
+                     <term target="http://id.loc.gov/authorities/sh85098523#concept" key="subject_sh85098523">Passion narratives (Gospels)</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh2011002491#concept"
-                        key="subject_sh2011002491">Akdamar Island (Turkey)</term>
+                     <term target="http://id.loc.gov/authorities/sh2011002491#concept" key="subject_sh2011002491">Akdamar Island (Turkey)</term>
                   </item>
                </list>
             </keywords>
@@ -197,9 +190,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-01-16">
             <persName>Robin Meyer</persName>

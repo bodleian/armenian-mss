@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 11</idno>
+                  <idno>MS. Arm. e. 11</idno><idno type="ieArk">ark:29072/x0kd17cs920f</idno><idno type="crArk">ark:29072/x0k930bx08pn</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gregory of Tathev, 15th cent.</summary>
@@ -58,9 +58,7 @@
                      <title xml:lang="xcl-Latn-x-hmb" key="work_6">P'ok'r Harc'munk'</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n105/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n105/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 86, pp. 190-193.</ref></bibl>
                      </listBibl>
                   </msItem>

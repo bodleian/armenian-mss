@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 10</idno>
+                  <idno>MS. Arm. f. 10</idno><idno type="ieArk">ark:29072/x0v979v256t4</idno><idno type="crArk">ark:29072/x0v692t573hc</idno>
                </msIdentifier>
                <msContents>
                   <summary>Ethical and Miscellaneous, 18th cent.</summary>
@@ -134,9 +134,7 @@
                      <title xml:lang="en" key="work_446">Extracts from Menologium (Յայսմաւուրք)</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n119/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n119/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 97, pp. 218-220.</ref></bibl>
                      </listBibl>
                   </msItem>

@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Marsh 8</idno>
+                  <idno>MS. Marsh 8</idno><idno type="ieArk">ark:29072/x06108vc11bv</idno><idno type="crArk">ark:29072/x05x21tg2814</idno>
                </msIdentifier>
                <msContents>
                   <summary>Breviary, 17th cent.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n19/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n19/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 19, p. 18.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

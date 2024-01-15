@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Pococke 399</idno>
+                  <idno>MS. Pococke 399</idno><idno type="ieArk">ark:29072/x06d56zx44kk</idno><idno type="crArk">ark:29072/x06969z1618z</idno>
                </msIdentifier>
                <msContents>
                   <summary>Lectionary, 14th cent.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n25/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n25/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 27, pp. 27-28.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

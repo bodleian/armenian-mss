@@ -40,15 +40,13 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 21</idno>
+                  <idno>MS. Arm. f. 21</idno><idno type="ieArk">ark:29072/x0xp68kf568h</idno><idno type="crArk">ark:29072/x0xk81jj72zd</idno>
                </msIdentifier>
                <msContents>
                   <summary>Poetry of Frik, A.D. 1613.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
                   <msItem><listBibl>
-                     <bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n131/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n131/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 115, pp. 240-243.</ref></bibl>
                   </listBibl></msItem>
                </msContents>

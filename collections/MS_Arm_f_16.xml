@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 16</idno>
+                  <idno>MS. Arm. f. 16</idno><idno type="ieArk">ark:29072/x0wh246r56j2</idno><idno type="crArk">ark:29072/x0wd375v7376</idno>
                </msIdentifier>
                <msContents>
                   <summary>Poetry of Araqel and Frik, etc., 17th cent.</summary>
@@ -65,9 +65,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Containing: On the capture of Constantinople by the Turks; Praise of Edchmiadzin.</note>
                     <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n129/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n129/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 114, pp. 237-240.</ref></bibl>
                      </listBibl>
                   </msItem>

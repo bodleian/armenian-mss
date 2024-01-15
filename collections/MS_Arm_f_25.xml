@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 25</idno>
+                  <idno>MS. Arm. f. 25</idno><idno type="ieArk">ark:29072/x0zg64tk22rr</idno><idno type="crArk">ark:29072/x0zc77sp39f1</idno>
                </msIdentifier>
                <msContents>
                   <summary>A Romanizing Polemic, 18th cent.</summary>
@@ -65,9 +65,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>A piece composed by Martiros Vardapet of Crimea.</note>
                      <msItem><listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n123/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 107, pp. 226-227.</ref></bibl>
                      </listBibl></msItem>
                   </msItem>

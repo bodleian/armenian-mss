@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 39</idno>
+                  <idno>MS. Arm. e. 39</idno><idno type="ieArk">ark:29072/x0sb397790m9</idno><idno type="crArk">ark:29072/x0s7526c079v</idno>
                </msIdentifier>
                <msContents>
                   <summary>Book about Virtues, 17th cent.</summary>
@@ -53,9 +53,7 @@
                      <incipit>զորութիւն ելանէր ինմանէ եւ բշկէր զամենեսեան. բանզի ջանք իմաստնոցն պարտ է լինել...</incipit>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n111/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n111/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 91, pp. 199-200.</ref></bibl>
                      </listBibl>
                   </msItem>

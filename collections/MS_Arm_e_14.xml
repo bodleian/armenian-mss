@@ -40,15 +40,13 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 14</idno>
+                  <idno>MS. Arm. e. 14</idno><idno type="ieArk">ark:29072/x0m039k491v0</idno><idno type="crArk">ark:29072/x0kw52j808jf</idno>
                </msIdentifier>
                <msContents>
                   <summary>Ethical and other Miscellany, A.D. 1641.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
                   <msItem><listBibl>
-                     <bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n115/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n115/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 95, pp. 209-212.</ref></bibl>
                   </listBibl></msItem>
                </msContents>

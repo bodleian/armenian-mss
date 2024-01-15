@@ -40,15 +40,13 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. c. 2</idno>
+                  <idno>MS. Arm. c. 2</idno><idno type="ieArk">ark:29072/x0d217qp9374</idno><idno type="crArk">ark:29072/x0cz30pt09x7</idno>
                </msIdentifier>
                <msContents>
                   <summary>Vardan's Commentary on Psalms, A.D. 1610.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
                   <msItem><listBibl>
-                     <bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n105/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n105/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 85, pp. 188-190.</ref></bibl>
                   </listBibl></msItem>
                </msContents>
@@ -89,7 +87,7 @@
                   </adminInfo>
                <surrogates>
                   <bibl type="digital-facsimile" subtype="full">
-                     <ref target="https://digital.bodleian.ox.ac.uk/objects/2291733d-850a-480d-abad-a9262c7e718c/" >
+                     <ref target="https://digital.bodleian.ox.ac.uk/objects/2291733d-850a-480d-abad-a9262c7e718c/">
                         <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
                   </bibl>
                   <bibl type="digital-facsimile" subtype="partial">

@@ -40,15 +40,13 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 29</idno>
+                  <idno>MS. Arm. e. 29</idno><idno type="ieArk">ark:29072/x0q524jn57sr</idno><idno type="crArk">ark:29072/x0q237hr74gw</idno>
                </msIdentifier>
                <msContents>
                   <summary>Lives of St. Bartholomew and St. Gregory, A.D. 1753.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
                   <msItem><listBibl>
-                     <bibl><ref
-                        target="https://archive.org/details/catalogueofarmen00bodl/page/n109/mode/2up?view=theater"
-                        >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                     <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n109/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                         Bodleian Library, no. 89, pp. 197-198.</ref></bibl>
                   </listBibl></msItem>
                </msContents>

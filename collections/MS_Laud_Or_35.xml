@@ -40,14 +40,12 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Laud Or. 35</idno>
+                  <idno>MS. Laud Or. 35</idno><idno type="ieArk">ark:29072/x0nk322d0300</idno><idno type="crArk">ark:29072/x03t945r78ht</idno>
                </msIdentifier>
                <msContents>
                   <summary>Psalter, A.D. 1551.</summary>
                   <textLang mainLang="hy">Armenian</textLang>
-                  <msItem><listBibl><bibl><ref
-                     target="https://archive.org/details/catalogueofarmen00bodl/page/n19/mode/2up?view=theater"
-                     >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                  <msItem><listBibl><bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n19/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                      Bodleian Library, no. 17, pp. 16-17.</ref></bibl></listBibl></msItem>
                </msContents>
                <physDesc>

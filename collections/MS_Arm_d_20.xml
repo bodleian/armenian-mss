@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 20</idno>
+                  <idno>MS. Arm. d. 20</idno><idno type="ieArk">ark:29072/x0h128nd92j2</idno><idno type="crArk">ark:29072/x0gx41mj097h</idno>
                </msIdentifier>
                <msContents>
                   <summary>Correspondence of Nerses Shnorhali, etc., 18th cent.</summary>
@@ -110,9 +110,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Appended to this a colophon of the copyist.</note>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n97/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n97/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 78, pp. 173-177.</ref></bibl>
                      </listBibl>
                   </msItem>

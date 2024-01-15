@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 25</idno>
+                  <idno>MS. Arm. d. 25</idno><idno type="ieArk">ark:29072/x0hd76s025s6</idno><idno type="crArk">ark:29072/x0h989r342gb</idno>
                </msIdentifier>
                <msContents>
                   <summary>The Four Gospels, dated to 1597 CE. Illustrated with 9 full-page
@@ -187,8 +187,7 @@
                   </objectDesc>
                   <handDesc>
                      <handNote scope="major" script="bolorgir"><desc><label>Script: </label>Medium
-                           regular bolorgir in black ink. <label>Scribe: </label><persName
-                              role="scr" key="person_102">Anania vardapet
+                           regular bolorgir in black ink. <label>Scribe: </label><persName role="scr" key="person_102">Anania vardapet
                            Šambec‘i</persName>.</desc></handNote>
                   </handDesc>
                   <decoDesc>
@@ -237,8 +236,7 @@
                            you have already consulted. Your application will then be considered by
                            our curatorial staff. Entry to read in the Library is permitted only on
                            presentation of a valid reader's card (for admissions procedures contact
-                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                              >Bodleian Admissions</ref>).</p>
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>

@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. d. 3</idno>
+                  <idno>MS. Arm. d. 3</idno><idno type="ieArk">ark:29072/x0hm50tr92dq</idno><idno type="crArk">ark:29072/x0hh63sw0935</idno>
                </msIdentifier>
                <msContents>
                   <summary>Gospels, A.D. 1304</summary>
@@ -149,9 +149,7 @@
                         them.</colophon>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n11/mode/2up?view=theater"
-                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n11/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                               Bodleian Library, no. 2, pp. 2-4.</ref></bibl>
                         <bibl>van Lint, Theo Maarten and Robin Meyer (eds.). Armenia: Masterpieces
                            from an Enduring Culture. Oxford: Bodleian Library, 2015, no 5, pp.
@@ -172,8 +170,7 @@
                      </supportDesc>
                      <layoutDesc>
                         <layout columns="2" ruledLines="23 20">Double columns, of 23 lines each to
-                           f. 111 and of 20 lines each from f. 112 <dimensions type="written"
-                              unit="mm">
+                           f. 111 and of 20 lines each from f. 112 <dimensions type="written" unit="mm">
                               <height>187</height>
                               <width>115</width>
                            </dimensions>
@@ -181,10 +178,8 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="bolorgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">bold
-                           Bolorgir</ref> script. <label>Scribe: </label><persName role="scr"
-                           key="person_104">Karapet</persName>.</handNote>
+                     <handNote scope="major" script="bolorgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">bold
+                           Bolorgir</ref> script. <label>Scribe: </label><persName role="scr" key="person_104">Karapet</persName>.</handNote>
                   </handDesc>
                   <decoDesc>
                      <decoNote>There are several full-page pictures, most of which are placed at the
@@ -308,8 +303,7 @@
                            you have already consulted. Your application will then be considered by
                            our curatorial staff. Entry to read in the Library is permitted only on
                            presentation of a valid reader's card (for admissions procedures contact
-                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                              >Bodleian Admissions</ref>).</p>
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -391,8 +385,7 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85098523#concept"
-                        key="subject_sh85098523">Passion narratives (Gospels)</term>
+                     <term target="http://id.loc.gov/authorities/sh85098523#concept" key="subject_sh85098523">Passion narratives (Gospels)</term>
                   </item>
                </list>
             </keywords>
@@ -400,9 +393,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-01-16">
             <persName>Robin Meyer</persName>

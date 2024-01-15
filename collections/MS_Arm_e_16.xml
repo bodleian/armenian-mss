@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 16</idno>
+                  <idno>MS. Arm. e. 16</idno><idno type="ieArk">ark:29072/x0mc87pq2537</idno><idno type="crArk">ark:29072/x0m900nt41sj</idno>
                </msIdentifier>
                <msContents>
                   <summary>Nana the Syrian, 17th or 18th cent.</summary>
@@ -51,9 +51,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>The anonymous translator in a preface states that Nana, a Syrian archdeacon, made his commentary at the request of Bagarat Bagratouni, governor of Armenia (A.D. 835-847) under the Arabs, in Aranic. When Bagarat was forced to abjure his faith, Sembat Bagratouni, chief of the Armenian militia, having once come to know of the work, gave order to the tranlsator (who is left unnamed), tot run it from the Arabic into Armenianl this work was interrupted when Sembat was in his turn captured ny the Arabs and put to death for his faith (A.D. 856), but later on a new and complete translation 'with some abridgements' was ordered by Mariam Bagratouni 'the Lady of Siuniq', daughter-in-law of Sembat. The work does not exist in Syriac, but there is extant a Greek version under the name of Nonnus of Panopolis.</note>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n95/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n95/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 74, pp. 170-171.</ref></bibl>
                      </listBibl>
                   </msItem>

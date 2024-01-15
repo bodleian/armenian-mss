@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 12</idno>
+                  <idno>MS. Arm. e. 12</idno><idno type="ieArk">ark:29072/x0kk91fk58mr</idno><idno type="crArk">ark:29072/x0kh04dp7599</idno>
                </msIdentifier>
                <msContents>
                   <summary>Geomancy, etc., 17th cent.</summary>
@@ -54,9 +54,7 @@
                         The way to find the position of planets in the Zodiac; The way to ascertain
                         the eastern and western star; etc.</note>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n127/mode/2up?view=theater"
-                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n127/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                               Bodleian Library, no. 113, pp. 234-237.</ref></bibl>
                      </listBibl>
                   </msItem>
@@ -78,8 +76,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="notrgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
+                     <handNote scope="major" script="notrgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#notrgir">Nōtrgir</ref>
                         script</handNote>
                   </handDesc>
                </physDesc>
@@ -98,8 +95,7 @@
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
@@ -169,9 +165,7 @@
       </encodingDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-09-21">
             <persName>Robin Meyer</persName>

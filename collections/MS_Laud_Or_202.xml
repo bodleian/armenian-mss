@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Laud Or. 202</idno>
+                  <idno>MS. Laud Or. 202</idno><idno type="ieArk">ark:29072/x0hx11xf20jc</idno><idno type="crArk">ark:29072/x03j333328kz</idno>
                </msIdentifier>
                <msContents>
                   <summary>Polyglot Vocabulary, 16th cent.</summary>
@@ -71,9 +71,7 @@
                      <title xml:lang="en" key="work_188">Letter of Sultan Ahmed I, padisbah of Turkey, to Henry IV, king of France, in Turksih, written in Arabic characters.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n133/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n133/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 117, pp. 243-244.</ref></bibl>
                      </listBibl>
                   </msItem>

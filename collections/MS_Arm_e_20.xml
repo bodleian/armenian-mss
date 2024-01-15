@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 20</idno>
+                  <idno>MS. Arm. e. 20</idno><idno type="ieArk">ark:29072/x0nc580m586g</idno><idno type="crArk">ark:29072/x0n870zq74w5</idno>
                </msIdentifier>
                <msContents>
                   <summary>Cyril of Alexandria, etc., A.D. 1394.</summary>
@@ -56,9 +56,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Contains various letters, scholia, a colophon by Steaphanos of Siuniq, the translator, etc.</note>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n89/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n89/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 69, pp. 157-161.</ref></bibl>
                      </listBibl>
                   </msItem>

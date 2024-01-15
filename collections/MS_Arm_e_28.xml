@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 28</idno>
+                  <idno>MS. Arm. e. 28</idno><idno type="ieArk">ark:29072/x0pz50gv9151</idno><idno type="crArk">ark:29072/x0pv63g007vc</idno>
                </msIdentifier>
                <msContents>
                   <summary>Ethical Miscellany, 17th cent.</summary>
@@ -61,9 +61,7 @@
                      <title xml:lang="en" key="work_429">Collection of Canons, precepts and commentaries</title>
                      <textLang mainLang="hy">Armenian</textLang>
                     <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n117/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n117/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 96, pp. 212-218.</ref></bibl>
                      </listBibl>
                   </msItem>

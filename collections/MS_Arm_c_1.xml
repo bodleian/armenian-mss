@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. c. 1</idno>
+                  <idno>MS. Arm. c. 1</idno><idno type="ieArk">ark:29072/x0cv43nx26mc</idno><idno type="crArk">ark:29072/x0cr56n1439r</idno>
                </msIdentifier>
                <msContents>
                   <summary>The manuscript contains a Lectionary (Ճաշոցգիրք), which the scribe calls
@@ -147,9 +147,7 @@
                         children.</colophon>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n79/mode/2up?view=theater"
-                              >Baronian, Sukias and Conybeare, Frederick C. Catalogue of the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n79/mode/2up?view=theater">Baronian, Sukias and Conybeare, Frederick C. Catalogue of the
                               Armenian manuscripts in the Bodleian Library. Oxford: Clarendon Press,
                               1918, no. 63, pp. 137-141.</ref></bibl>
                         <bibl>Renoux, Charles. « Traduction liturgique et rite arménien ». In
@@ -179,8 +177,7 @@
                      </supportDesc>
                      <layoutDesc>
                         <layout columns="2">In two columns, most of 35 lines, some of 33 or less,
-                           towards the end of the volume, and ruled on both sides. <dimensions
-                              type="line-height" unit="mm">
+                           towards the end of the volume, and ruled on both sides. <dimensions type="line-height" unit="mm">
                               <height>248</height>
                               <width>163</width>
                            </dimensions>
@@ -198,8 +195,7 @@
                            see the Colophons section) and, occasionally, how a rite should be
                            performed (e. g. see ff. 246v, 317v, and 339r); these notes are often
                            accompanied by pleas for commemoration of different individuals and
-                           occasional references to recent events. <label>Scribe: </label><persName
-                              role="scr" key="person_103">Step‘annos.</persName></desc></handNote>
+                           occasional references to recent events. <label>Scribe: </label><persName role="scr" key="person_103">Step‘annos.</persName></desc></handNote>
                   </handDesc>
                   <decoDesc>
                      <decoNote>Baronian and Conybeare (p. 138) provide the following description:
@@ -236,9 +232,7 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>The text of this description is by David Zakarian. See also <ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n79/mode/2up?view=theater"
-                              >Baronian, Sukias and Conybeare, Frederick C. Catalogue of the
+                        <source>The text of this description is by David Zakarian. See also <ref target="https://archive.org/details/catalogueofarmen00bodl/page/n79/mode/2up?view=theater">Baronian, Sukias and Conybeare, Frederick C. Catalogue of the
                               Armenian manuscripts in the Bodleian Library. Oxford: Clarendon Press,
                               1918, N63, pp. 137-141.</ref></source>
                      </recordHist>
@@ -253,8 +247,7 @@
                            already consulted. Your application will then be considered by our
                            curatorial staff. Entry to read in the Library is permitted only on
                            presentation of a valid reader's card (for admissions procedures contact
-                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                              >Bodleian Admissions</ref>).</p>
+                              <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>).</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -340,12 +333,10 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh92000686#concept "
-                        key="subject_sh92000686">Lectionary Preaching</term>
+                     <term target="http://id.loc.gov/authorities/sh92000686#concept " key="subject_sh92000686">Lectionary Preaching</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh2002011417#concept "
-                        key="subject_sh2002011417">Liturgy</term>
+                     <term target="http://id.loc.gov/authorities/sh2002011417#concept " key="subject_sh2002011417">Liturgy</term>
                   </item>
                </list>
             </keywords>
@@ -353,9 +344,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-05-21">
             <persName>Robin Meyer</persName>

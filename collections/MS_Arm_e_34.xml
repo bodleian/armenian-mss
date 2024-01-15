@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 34</idno>
+                  <idno>MS. Arm. e. 34</idno><idno type="ieArk">ark:29072/x0rb68xb57h6</idno><idno type="crArk">ark:29072/x0r781wf746f</idno>
                </msIdentifier>
                <msContents>
                   <summary>Grammatical and Philosophical Tracts, 18th cent.</summary>
@@ -66,9 +66,7 @@
                      <note>Containing: The Definition of Philosophy, by David the Invincible;
                         various smaller pieces.</note>
                      <listBibl>
-                        <bibl><ref
-                              target="https://archive.org/details/catalogueofarmen00bodl/page/n127/mode/2up?view=theater"
-                              >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n127/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                               Bodleian Library, no. 112, pp. 232-234.</ref></bibl>
                      </listBibl>
                   </msItem>
@@ -91,8 +89,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="bolorgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref>
+                     <handNote scope="major" script="bolorgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref>
                         script</handNote>
                   </handDesc>
                </physDesc>
@@ -108,8 +105,7 @@
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
@@ -189,9 +185,7 @@
       </encodingDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-09-21">
             <persName>Robin Meyer</persName>

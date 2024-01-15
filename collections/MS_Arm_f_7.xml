@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 7</idno>
+                  <idno>MS. Arm. f. 7</idno><idno type="ieArk">ark:29072/x00p096812kn</idno><idno type="crArk">ark:29072/x00k225c2981</idno>
                </msIdentifier>
                <msContents>
                   <summary>Miscellany, 18th cent.</summary>
@@ -48,9 +48,7 @@
                      <title xml:lang="en" key="work_2">Various smaller items: commentaries, philosophical treatieses, etc.</title>
                      <textLang mainLang="hy">Armenian</textLang>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n133/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n133/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 121, pp. 246-250.</ref></bibl>
                      </listBibl>
                   </msItem>

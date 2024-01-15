@@ -41,7 +41,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. e. 5</idno>
+                  <idno>MS. Arm. e. 5</idno><idno type="ieArk">ark:29072/x0sx61dk90gz</idno><idno type="crArk">ark:29072/x0st74cq075d</idno>
                </msIdentifier>
                <msContents>
                   <summary>Collects and Canticles, 15th cent.</summary>
@@ -491,9 +491,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <msItem>
                         <listBibl>
-                           <bibl><ref
-                                 target="https://archive.org/details/catalogueofarmen00bodl/page/n21/mode/2up?view=theater"
-                                 >Baronian and Conybeare, Catalogue of the Armenian manuscripts in
+                           <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n21/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in
                                  the Bodleian Library, no. 25, pp. 22-26.</ref></bibl>
                         </listBibl>
                      </msItem>
@@ -516,8 +514,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="major" script="bolorgir">Written in <ref
-                           target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref>
+                     <handNote scope="major" script="bolorgir">Written in <ref target="https://armenian.bodleian.ox.ac.uk/about#bolorgir">Bolorgir</ref>
                         script</handNote>
                   </handDesc>
                </physDesc>
@@ -538,14 +535,11 @@
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). </p>
                      </availability>
                   </adminInfo>
-                  <surrogates><bibl type="digital-facsimile" subtype="partial"><ref
-                           target="https://digital.bodleian.ox.ac.uk/objects/d15de673-3232-407e-ae30-10528a1488f4/"
-                              ><title>Digital Bodleian</title></ref>
+                  <surrogates><bibl type="digital-facsimile" subtype="partial"><ref target="https://digital.bodleian.ox.ac.uk/objects/d15de673-3232-407e-ae30-10528a1488f4/"><title>Digital Bodleian</title></ref>
                         <note>(single sample image)</note></bibl></surrogates>
                </additional>
             </msDesc>
@@ -616,16 +610,13 @@
             <keywords scheme="#LCSH">
                <list>
                   <item>
-                     <term target="http://id.loc.gov/authorities/names/n80120153"
-                        key="subject_n80120153">Catholic Church. Psalter Collects</term>
+                     <term target="http://id.loc.gov/authorities/names/n80120153" key="subject_n80120153">Catholic Church. Psalter Collects</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh85021126#concept"
-                        key="subject_sh85021126">Catholic Church--Hymns</term>
+                     <term target="http://id.loc.gov/authorities/sh85021126#concept" key="subject_sh85021126">Catholic Church--Hymns</term>
                   </item>
                   <item>
-                     <term target="http://id.loc.gov/authorities/sh2002011417#concept"
-                        key="subject_sh2002011417">Liturgy</term>
+                     <term target="http://id.loc.gov/authorities/sh2002011417#concept" key="subject_sh2002011417">Liturgy</term>
                   </item>
                </list>
             </keywords>
@@ -633,9 +624,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-07-26">
-            <persName>James Cummings</persName> Up-converted the markup using <ref
-               target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl"
-               >https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
+            <persName>James Cummings</persName> Up-converted the markup using <ref target="https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl">https://github.com/bodleian/armenian-mss/tree/master/processing/convertArmenian2Bodley.xsl</ref>
          </change>
          <change when="2012-01-23">
             <persName>Robin Meyer</persName>

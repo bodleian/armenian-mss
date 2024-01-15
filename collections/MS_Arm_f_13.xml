@@ -40,7 +40,7 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection type="main">Oriental Manuscripts </collection>
-                  <idno>MS. Arm. f. 13</idno>
+                  <idno>MS. Arm. f. 13</idno><idno type="ieArk">ark:29072/x0vx021d56pd</idno><idno type="crArk">ark:29072/x0vt150h73cj</idno>
                </msIdentifier>
                <msContents>
                   <summary>Philosophical Tracts, etc., 17th cent.</summary>
@@ -58,9 +58,7 @@
                      <textLang mainLang="hy">Armenian</textLang>
                      <note>Composed in an artificial dialect.</note>
                      <listBibl>
-                        <bibl><ref
-                           target="https://archive.org/details/catalogueofarmen00bodl/page/n125/mode/2up?view=theater"
-                           >Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
+                        <bibl><ref target="https://archive.org/details/catalogueofarmen00bodl/page/n125/mode/2up?view=theater">Baronian and Conybeare, Catalogue of the Armenian manuscripts in the
                            Bodleian Library, no. 111, pp. 230-231.</ref></bibl>
                      </listBibl>
                   </msItem>
